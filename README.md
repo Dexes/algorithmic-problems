@@ -1,4 +1,6 @@
 ## Volume 1 (1000–1099)
+- [1005. Stone Pile](https://acm.timus.ru/problem.aspx?num=1005)
+| [go](1005/go/main.go)
 - [1038. Spell Checker](https://acm.timus.ru/problem.aspx?num=1038)
 | [go](1038/go/main.go)
 
