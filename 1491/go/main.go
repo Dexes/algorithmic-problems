@@ -58,7 +58,7 @@ func GetResult(size int, data [][]int) []int {
 	return fenwick
 }
 
-func GetAllInput() []byte {
+func GetInput() []byte {
 	in := bufio.NewReader(os.Stdin)
 	bytes, _ := in.ReadBytes(0)
 
@@ -66,7 +66,7 @@ func GetAllInput() []byte {
 }
 
 func main() {
-	input := GetAllInput()
+	input := GetInput()
 	size, length := ParseInteger(input)
 	data := make([][]int, size+1)
 

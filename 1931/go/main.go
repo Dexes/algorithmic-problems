@@ -62,7 +62,7 @@ func GetResult(size int, data []int) int {
 	return maxCandidateIndex + 1
 }
 
-func GetAllInput() []byte {
+func GetInput() []byte {
 	in := bufio.NewReader(os.Stdin)
 	bytes, _ := in.ReadBytes(0)
 
@@ -70,7 +70,7 @@ func GetAllInput() []byte {
 }
 
 func main() {
-	input := GetAllInput()
+	input := GetInput()
 	size, l := ParseInteger(input)
 	data, _ := ParseIntegers(input[l+2:], size)
 

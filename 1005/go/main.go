@@ -86,7 +86,7 @@ func GetResult(length int, data []int) int {
 	return min
 }
 
-func GetAllInput() []byte {
+func GetInput() []byte {
 	in := bufio.NewReader(os.Stdin)
 	bytes, _ := in.ReadBytes(0)
 
@@ -94,7 +94,7 @@ func GetAllInput() []byte {
 }
 
 func main() {
-	input := GetAllInput()
+	input := GetInput()
 	size, length := ParseInteger(input)
 	data, _ := ParseIntegers(input[length+2:], size)
 

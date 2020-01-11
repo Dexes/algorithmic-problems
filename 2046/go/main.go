@@ -103,7 +103,7 @@ func ParseInput(input []byte) [3][4]string {
 	return result
 }
 
-func GetAllInput() []byte {
+func GetInput() []byte {
 	in := bufio.NewReader(os.Stdin)
 	bytes, _ := in.ReadBytes(0)
 
@@ -111,5 +111,5 @@ func GetAllInput() []byte {
 }
 
 func main() {
-	println(GetResult(ParseInput(GetAllInput())))
+	println(GetResult(ParseInput(GetInput())))
 }

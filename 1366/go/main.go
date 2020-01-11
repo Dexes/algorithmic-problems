@@ -39,7 +39,7 @@ func GetResult(amount int64) string {
 	return current.String()
 }
 
-func GetAllInput() []byte {
+func GetInput() []byte {
 	in := bufio.NewReader(os.Stdin)
 	bytes, _ := in.ReadBytes(0)
 
@@ -47,5 +47,5 @@ func GetAllInput() []byte {
 }
 
 func main() {
-	println(GetResult(ToInt(GetAllInput())))
+	println(GetResult(ToInt(GetInput())))
 }

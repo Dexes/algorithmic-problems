@@ -64,7 +64,7 @@ func GetResult(text []byte) (count int) {
 	return
 }
 
-func GetAllInput() []byte {
+func GetInput() []byte {
 	in := bufio.NewReader(os.Stdin)
 	bytes, _ := in.ReadBytes(0)
 
@@ -72,5 +72,5 @@ func GetAllInput() []byte {
 }
 
 func main() {
-	println(GetResult(GetAllInput()))
+	println(GetResult(GetInput()))
 }
