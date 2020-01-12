@@ -5,6 +5,8 @@
 | [go](Volume%2001/1038/go/main.go)
 
 ## Volume 2 (1100–1199)
+- [1146. Maximum Sum](https://acm.timus.ru/problem.aspx?num=1146)
+| [C++](Volume%2002/1146/cpp/main.cpp)
 - [1180. Stone Game](https://acm.timus.ru/problem.aspx?num=1180)
 | [C++](Volume%2002/1180/cpp/main.cpp) | [go](Volume%2002/1180/go/main.go)
 - [1192. Ball in a Dream](https://acm.timus.ru/problem.aspx?num=1192)
