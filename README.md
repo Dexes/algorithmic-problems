@@ -11,6 +11,8 @@
 | [C#](Volume%2001/1068/csharp/main.cs)
 - [1083. Factorials!!!](https://acm.timus.ru/problem.aspx?num=1083)
 | [python](Volume%2001/1083/python/main.py)
+- [1086. Cryptography](https://acm.timus.ru/problem.aspx?num=1086)
+| [C#](Volume%2001/1086/csharp/main.cs)
 
 ## Volume 2 (1100–1199)
 - [1146. Maximum Sum](https://acm.timus.ru/problem.aspx?num=1146)
