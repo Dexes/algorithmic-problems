@@ -37,12 +37,16 @@
 | [C#](Volume%2003/1297/csharp/main.cs)
 
 ## Volume 4 (1300-1399)
+- [1349. Farm](https://acm.timus.ru/problem.aspx?num=1349)
+| [C#](Volume%2004/1349/csharp/main.cs)
 - [1366. Presents](https://acm.timus.ru/problem.aspx?num=1366)
 | [go](Volume%2004/1366/go/main.go)
 
 ## Volume 5 (1400-1499)
 - [1491. Unreal Story](https://acm.timus.ru/problem.aspx?num=1491)
 | [go](Volume%2005/1491/go/main.go) | [python](Volume%2005/1491/python/main.py)
+- [1496. Spammer](https://acm.timus.ru/problem.aspx?num=1496)
+| [C#](Volume%2005/1496/csharp/main.cs)
 
 ## Volume 6 (1500-1599)
 - [1502. Domino Dots](https://acm.timus.ru/problem.aspx?num=1502)
@@ -69,6 +73,8 @@
 | [C#](Volume%2008/1789/csharp/main.cs)
 
 ## Volume 9 (1800-1899)
+- [1837. Isenbaev's Number](https://acm.timus.ru/problem.aspx?num=1837)
+| [C#](Volume%2009/1837/csharp/main.cs)
 - [1893. A380](https://acm.timus.ru/problem.aspx?num=1893)
 | [python](Volume%2009/1893/python/main.py)
 
@@ -87,3 +93,5 @@
 ## Volume 12 (2100-2149)
 - [2100. Wedding Dinner](https://acm.timus.ru/problem.aspx?num=2100)
 | [go](Volume%2012/2100/go/main.go) | [python](Volume%2012/2100/python/main.py)
+- [2138. The Good, the Bad and the Ugly](https://acm.timus.ru/problem.aspx?num=2138)
+| [C#](Volume%2012/2138/csharp/main.cs)
