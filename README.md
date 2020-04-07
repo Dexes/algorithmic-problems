@@ -25,6 +25,8 @@
 | [C++](Volume%2002/1146/cpp/main.cpp)
 - [1149. Sinus Dances](https://acm.timus.ru/problem.aspx?num=1149)
 | [C#](Volume%2002/1149/csharp/main.cs)
+- [1161. Stripies](https://acm.timus.ru/problem.aspx?num=1161)
+| [C#](Volume%2002/1161/csharp/main.cs)
 - [1180. Stone Game](https://acm.timus.ru/problem.aspx?num=1180)
 | [C++](Volume%2002/1180/cpp/main.cpp) | [go](Volume%2002/1180/go/main.go)
 - [1192. Ball in a Dream](https://acm.timus.ru/problem.aspx?num=1192)
