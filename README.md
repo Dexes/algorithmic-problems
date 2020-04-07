@@ -35,6 +35,8 @@
 | [python](Volume%2002/1192/python/main.py)
 
 ## Volume 3 (1200-1299)
+- [1290. Sabotage](https://acm.timus.ru/problem.aspx?num=1290)
+| [C#](Volume%2003/1290/csharp/main.cs)
 - [1293. Eniya](https://acm.timus.ru/problem.aspx?num=1293)
 | [python](Volume%2003/1293/python/main.py)
 - [1297. Palindrome](https://acm.timus.ru/problem.aspx?num=1297)
