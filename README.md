@@ -5,6 +5,8 @@
 | [C#](Volume%2001/1001/csharp/main.cs)
 - [1005. Stone Pile](https://acm.timus.ru/problem.aspx?num=1005)
 | [go](Volume%2001/1005/go/main.go)
+- [1014. Product of Digits](https://acm.timus.ru/problem.aspx?num=1014)
+| [C#](Volume%2001/1014/csharp/main.cs)
 - [1020. Rope](https://acm.timus.ru/problem.aspx?num=1020)
 | [C#](Volume%2001/1020/csharp/main.cs)
 - [1025. Democracy in Danger](https://acm.timus.ru/problem.aspx?num=1025)
@@ -69,6 +71,8 @@
 | [go](Volume%2007/1654/go/main.go)
 
 ## Volume 8 (1700-1799)
+- [1712. Cipher Grille](https://acm.timus.ru/problem.aspx?num=1712)
+| [C#](Volume%2008/1712/csharp/main.cs)
 - [1723. Sandro's Book](https://acm.timus.ru/problem.aspx?num=1723)
 | [python](Volume%2008/1723/python/main.py)
 - [1789. Searching for the Dodecahedron](https://acm.timus.ru/problem.aspx?num=1789)
@@ -97,3 +101,5 @@
 | [go](Volume%2012/2100/go/main.go) | [python](Volume%2012/2100/python/main.py)
 - [2138. The Good, the Bad and the Ugly](https://acm.timus.ru/problem.aspx?num=2138)
 | [C#](Volume%2012/2138/csharp/main.cs)
+- [2144. Cleaning the Room](https://acm.timus.ru/problem.aspx?num=2144)
+| [C#](Volume%2012/2144/csharp/main.cs)
