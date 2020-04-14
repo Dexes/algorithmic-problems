@@ -33,16 +33,6 @@ func ParseIntegers(buf []byte, length int) ([]int, int) {
 	return result, size
 }
 
-func GetIterationsCount(length int) int {
-	result := 0
-	for i := 0; i < length; i++ {
-		result <<= 1
-		result |= 1
-	}
-
-	return result
-}
-
 func Abs(num int) int {
 	if num < 0 {
 		return -num
@@ -73,7 +63,7 @@ func GetResult(length int, data []int) int {
 		return data[0]
 	}
 
-	iterationsCount := GetIterationsCount(length)
+	iterationsCount := 1 << length
 	min := 2147483647
 
 	for bitMask := 1; bitMask < iterationsCount; bitMask++ {
