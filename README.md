@@ -25,6 +25,8 @@
 | [C#](Volume%2001/1086/csharp/main.cs)
 
 ## Volume 2 (1100-1199)
+- [1119. Metro](https://acm.timus.ru/problem.aspx?num=1119)
+| [C#](Volume%2002/1119/csharp/main.cs)
 - [1131. Copying](https://acm.timus.ru/problem.aspx?num=1131)
 | [C#](Volume%2002/1131/csharp/main.cs)
 - [1146. Maximum Sum](https://acm.timus.ru/problem.aspx?num=1146)
