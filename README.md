@@ -41,6 +41,8 @@
 | [python](Volume%2002/1192/python/main.py)
 
 ## Volume 3 (1200-1299)
+- [1203. Scientific Conference](https://acm.timus.ru/problem.aspx?num=1203)
+| [C++](Volume%2003/1203/cpp/main.cpp)
 - [1290. Sabotage](https://acm.timus.ru/problem.aspx?num=1290)
 | [C#](Volume%2003/1290/csharp/main.cs)
 - [1293. Eniya](https://acm.timus.ru/problem.aspx?num=1293)
