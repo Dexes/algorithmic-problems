@@ -63,6 +63,8 @@
 | [go](Volume%2004/1366/go/main.go)
 
 ## Volume 5 (1400-1499)
+- [1409. Two Gangsters](https://acm.timus.ru/problem.aspx?num=1409)
+| [C++](Volume%2005/1409/cpp/main.cpp)
 - [1491. Unreal Story](https://acm.timus.ru/problem.aspx?num=1491)
 | [go](Volume%2005/1491/go/main.go) | [python](Volume%2005/1491/python/main.py)
 - [1496. Spammer](https://acm.timus.ru/problem.aspx?num=1496)
