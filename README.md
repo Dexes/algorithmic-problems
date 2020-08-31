@@ -97,6 +97,8 @@
 | [C#](Volume%2008/1789/csharp/main.cs)
 
 ## Volume 9 (1800-1899)
+- [1826. Minefield](https://acm.timus.ru/problem.aspx?num=1826)
+| [C++](Volume%2009/1826/cpp/main.cpp)
 - [1837. Isenbaev's Number](https://acm.timus.ru/problem.aspx?num=1837)
 | [C#](Volume%2009/1837/csharp/main.cs)
 - [1893. A380](https://acm.timus.ru/problem.aspx?num=1893)
