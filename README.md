@@ -15,6 +15,8 @@
 | [C#](Volume%2001/1020/csharp/main.cs)
 - [1025. Democracy in Danger](https://acm.timus.ru/problem.aspx?num=1025)
 | [C#](Volume%2001/1025/csharp/main.cs)
+- [1027. D++ Again](https://acm.timus.ru/problem.aspx?num=1027)
+| [C++](Volume%2001/1027/cpp/main.cpp)
 - [1038. Spell Checker](https://acm.timus.ru/problem.aspx?num=1038)
 | [go](Volume%2001/1038/go/main.go)
 - [1068. Sum](https://acm.timus.ru/problem.aspx?num=1068)
