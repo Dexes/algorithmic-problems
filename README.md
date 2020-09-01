@@ -63,6 +63,8 @@
 | [C#](Volume%2004/1349/csharp/main.cs)
 - [1366. Presents](https://acm.timus.ru/problem.aspx?num=1366)
 | [go](Volume%2004/1366/go/main.go)
+- [1370. Magician](https://acm.timus.ru/problem.aspx?num=1370)
+| [C++](Volume%2004/1370/cpp/main.cpp)
 
 ## Volume 5 (1400-1499)
 - [1409. Two Gangsters](https://acm.timus.ru/problem.aspx?num=1409)
