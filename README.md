@@ -95,6 +95,8 @@
 | [C#](Volume%2008/1712/csharp/main.cs)
 - [1723. Sandro's Book](https://acm.timus.ru/problem.aspx?num=1723)
 | [python](Volume%2008/1723/python/main.py)
+- [1785. Lost in Localization](https://acm.timus.ru/problem.aspx?num=1785)
+| [C++](Volume%2008/1785/cpp/main.cpp)
 - [1789. Searching for the Dodecahedron](https://acm.timus.ru/problem.aspx?num=1789)
 | [C#](Volume%2008/1789/csharp/main.cs)
 
@@ -103,6 +105,8 @@
 | [C++](Volume%2009/1826/cpp/main.cpp)
 - [1837. Isenbaev's Number](https://acm.timus.ru/problem.aspx?num=1837)
 | [C#](Volume%2009/1837/csharp/main.cs)
+- [1877. Bicycle Codes](https://acm.timus.ru/problem.aspx?num=1877)
+| [C++](Volume%2009/1877/cpp/main.cpp)
 - [1893. A380](https://acm.timus.ru/problem.aspx?num=1893)
 | [python](Volume%2009/1893/python/main.py)
 
@@ -113,8 +117,12 @@
 | [go](Volume%2010/1931/go/main.go) | [python](Volume%2010/1931/python/main.py)
 
 ## Volume 11 (2000-2099)
+- [2001. Mathematicians and Berries](https://acm.timus.ru/problem.aspx?num=2001)
+| [C++](Volume%2011/2001/cpp/main.cpp)
 - [2005. Taxi for Programmers](https://acm.timus.ru/problem.aspx?num=2005)
 | [C#](Volume%2011/2005/csharp/main.cs)
+- [2012. About Grisha N.](https://acm.timus.ru/problem.aspx?num=2012)
+| [C++](Volume%2011/2012/cpp/main.cpp)
 - [2046. The First Day at School](https://acm.timus.ru/problem.aspx?num=2046)
 | [go](Volume%2011/2046/go/main.go)
 
