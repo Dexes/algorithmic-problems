@@ -24,6 +24,8 @@
   | [go](0000/0028.%20Implement%20strStr()/go/main.go)
 - [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
   | [go](0000/0035.%20Search%20Insert%20Position/go/main.go)
+- [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+  | [go](0000/0054.%20Spiral%20Matrix/go/main.go)
 - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
   | [go](0000/0088.%20Merge%20Sorted%20Array/go/main.go)
 - [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)
