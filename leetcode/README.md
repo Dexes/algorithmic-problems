@@ -20,6 +20,8 @@
   | [go](0000/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/go/main.go)
 - [27. Remove Element](https://leetcode.com/problems/remove-element/)
   | [go](0000/0027.%20Remove%20Element/go/main.go)
+- [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+  | [go](0000/0028.%20Implement%20strStr()/go/main.go)
 - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
   | [go](0000/0088.%20Merge%20Sorted%20Array/go/main.go)
 - [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)
