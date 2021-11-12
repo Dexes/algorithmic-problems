@@ -20,6 +20,8 @@
   | [go](0000/0019.%20Remove%20Nth%20Node%20From%20End%20of%20List/go/main.go)
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
   | [go](0000/0020.%20Valid%20Parentheses/go/main.go)
+- [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+  | [go](0000/0023.%20Merge%20k%20Sorted%20Lists/go/main.go)
 - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
   | [go](0000/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/go/main.go)
 - [27. Remove Element](https://leetcode.com/problems/remove-element/)
