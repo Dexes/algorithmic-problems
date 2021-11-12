@@ -6,6 +6,8 @@ func getLanguageTitle(lang string) string {
 		return "C++"
 	case "csharp":
 		return "C#"
+	case "sql":
+		return "SQL"
 	default:
 		return lang
 	}
