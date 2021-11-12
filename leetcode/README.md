@@ -28,6 +28,8 @@
   | [go](0000/0054.%20Spiral%20Matrix/go/main.go)
 - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
   | [go](0000/0088.%20Merge%20Sorted%20Array/go/main.go)
+- [100. Same Tree](https://leetcode.com/problems/same-tree/)
+  | [go](0100/0100.%20Same%20Tree/go/main.go)
 - [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
   | [go](0100/0189.%20Rotate%20Array/go/main.go)
 - [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)
