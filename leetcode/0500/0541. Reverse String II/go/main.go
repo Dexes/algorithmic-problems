@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 func reverseStr(s string, k int) string {
 	data := []byte(s)
 	doubleK := 2 * k
@@ -23,11 +21,4 @@ func reverseSubarray(data []byte, left, right int) {
 		left++
 		right--
 	}
-}
-
-func main() {
-	data := []byte("1234")
-	reverseSubarray(data, 0, 1)
-
-	fmt.Println(string(data))
 }
