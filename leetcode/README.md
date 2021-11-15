@@ -70,6 +70,8 @@
   | [go](0900/0977.%20Squares%20of%20a%20Sorted%20Array/go/main.go)
 - [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
   | [go](0900/0989.%20Add%20to%20Array-Form%20of%20Integer/go/main.go)
+- [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)
+  | [go](1500/1598.%20Crawler%20Log%20Folder/go/main.go)
 - [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
   | [go](1700/1773.%20Count%20Items%20Matching%20a%20Rule/go/main.go)
 - [2042. Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/)
