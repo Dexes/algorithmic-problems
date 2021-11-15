@@ -34,7 +34,3 @@ func addStrings(a string, b string) string {
 
 	return string(append([]byte{'1'}, result...))
 }
-
-func main() {
-	addStrings("9", "1")
-}
