@@ -35,7 +35,7 @@ func sum(first []int, second []int) []int {
 		return first
 	}
 
-	return append([]int{buffer}, first...)
+	return append([]int{1}, first...)
 }
 
 func toArray(num int) []int {

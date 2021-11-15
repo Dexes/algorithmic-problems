@@ -1,6 +1,6 @@
 package main
 
-func addBinary(a string, b string) string {
+func addStrings(a string, b string) string {
 	if len(b) > len(a) {
 		a, b = b, a
 	}
@@ -17,8 +17,8 @@ func addBinary(a string, b string) string {
 		}
 
 		result[firstIndex] += digit + buffer
-		if result[firstIndex] > '1' {
-			result[firstIndex] -= 2
+		if result[firstIndex] > '9' {
+			result[firstIndex] -= 10
 			buffer = 1
 		} else {
 			buffer = 0
@@ -33,4 +33,8 @@ func addBinary(a string, b string) string {
 	}
 
 	return string(append([]byte{'1'}, result...))
+}
+
+func main() {
+	addStrings("9", "1")
 }
