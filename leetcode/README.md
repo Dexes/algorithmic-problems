@@ -66,6 +66,8 @@
   | [go](0500/557.%20Reverse%20Words%20in%20a%20String%20III/go/main.go)
 - [704. Binary Search](https://leetcode.com/problems/binary-search/)
   | [go](0700/0704.%20Binary%20Search/go/main.go)
+- [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+  | [go](0800/0876.%20Middle%20of%20the%20Linked%20List/go/main.go)
 - [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
   | [go](0900/0977.%20Squares%20of%20a%20Sorted%20Array/go/main.go)
 - [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
