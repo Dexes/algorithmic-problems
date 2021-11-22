@@ -68,6 +68,8 @@
   | [go](0400/0412.%20Fizz%20Buzz/go/main.go)
 - [415. Add Strings](https://leetcode.com/problems/add-strings/)
   | [go](0400/0415.%20Add%20Strings/go/main.go)
+- [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
+  | [go](0400/0450.%20Delete%20Node%20in%20a%20BST/go/main.go)
 - [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)
   | [go](0400/0482.%20License%20Key%20Formatting/go/main.go)
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
