@@ -86,6 +86,8 @@
   | [go](0700/0771.%20Jewels%20and%20Stones/go/main.go)
 - [796. Rotate String](https://leetcode.com/problems/rotate-string/)
   | [go](0700/0796.%20Rotate%20String/go/main.go)
+- [824. Goat Latin](https://leetcode.com/problems/goat-latin/)
+  | [go](0800/0824.%20Goat%20Latin/go/main.go)
 - [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
   | [go](0800/0867.%20Transpose%20Matrix/go/main.go)
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
