@@ -24,6 +24,8 @@
   | [go](0000/0022.%20Generate%20Parentheses/go/main.go)
 - [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
   | [go](0000/0023.%20Merge%20k%20Sorted%20Lists/go/main.go)
+- [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+  | [go](0000/0024.%20Swap%20Nodes%20in%20Pairs/go/main.go)
 - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
   | [go](0000/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/go/main.go)
 - [27. Remove Element](https://leetcode.com/problems/remove-element/)
