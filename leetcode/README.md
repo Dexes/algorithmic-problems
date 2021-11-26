@@ -166,5 +166,7 @@
   | [go](2000/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/go/main.go)
 - [2042. Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/)
   | [go](2000/2042.%20Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence/go/main.go)
+- [2047. Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/)
+  | [go](2000/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence/go/main.go)
 - [2068. Check Whether Two Strings are Almost Equivalent]()
   | [go](2000/2068.%20Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/go/main.go)
