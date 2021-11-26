@@ -152,6 +152,8 @@
   | [go](1700/1720.%20Decode%20XORed%20Array/go/main.go)
 - [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
   | [go](1700/1773.%20Count%20Items%20Matching%20a%20Rule/go/main.go)
+- [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)
+  | [go](1700/1791.%20Find%20Center%20of%20Star%20Graph/go/main.go)
 - [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
   | [go](1900/1920.%20Build%20Array%20from%20Permutation/go/main.go)
 - [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
