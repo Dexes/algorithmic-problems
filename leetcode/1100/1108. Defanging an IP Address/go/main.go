@@ -1,20 +1,13 @@
 package main
 
 func defangIPaddr(address string) string {
-	result := make([]byte, len(address)+6)
-	current := 0
-
+	result := make([]byte, 0, len(address)+6)
 	for i := 0; i < len(address); i++ {
 		if address[i] != '.' {
-			result[current] = address[i]
-			current++
-			continue
+			result = append(result, address[i])
+		} else {
+			result = append(result, '[', '.', ']')
 		}
-
-		result[current] = '['
-		result[current+1] = '.'
-		result[current+2] = ']'
-		current += 3
 	}
 
 	return string(result)
