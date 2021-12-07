@@ -186,5 +186,7 @@
   | [go](2000/2042.%20Check%20if%20Numbers%20Are%20Ascending%20in%20a%20Sentence/go/main.go)
 - [2047. Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/)
   | [go](2000/2047.%20Number%20of%20Valid%20Words%20in%20a%20Sentence/go/main.go)
-- [2068. Check Whether Two Strings are Almost Equivalent]()
+- [2068. Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)
   | [go](2000/2068.%20Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/go/main.go)
+- [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)
+  | [go](2000/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array/go/main.go)
