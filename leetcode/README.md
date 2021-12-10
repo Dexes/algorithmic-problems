@@ -46,6 +46,8 @@
   | [go](0000/0070.%20Climbing%20Stairs/go/main.go)
 - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
   | [go](0000/0088.%20Merge%20Sorted%20Array/go/main.go)
+- [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+  | [go](0000/0094.%20Binary%20Tree%20Inorder%20Traversal/go/main.go)
 - [100. Same Tree](https://leetcode.com/problems/same-tree/)
   | [go](0100/0100.%20Same%20Tree/go/main.go)
 - [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
