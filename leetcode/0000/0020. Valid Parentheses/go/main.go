@@ -1,40 +1,34 @@
 package main
 
-type ListNode struct {
-	Val  int
-	Next *ListNode
+type parenthese byte
+
+func (p parenthese) IsOpen() bool {
+	return p == '(' || p == '[' || p == '{'
 }
 
-func mergeTwoLists(left *ListNode, right *ListNode) *ListNode {
-	var result, current *ListNode
-
-	result, left, right = getNode(left, right)
-	current = result
-
-	for left != nil || right != nil {
-		current.Next, left, right = getNode(left, right)
-		current = current.Next
-	}
-
-	return result
+func (p parenthese) IsClose(close parenthese) bool {
+	return close == '(' && p == ')' ||
+		close == '[' && p == ']' ||
+		close == '{' && p == '}'
 }
 
-func getNode(left *ListNode, right *ListNode) (*ListNode, *ListNode, *ListNode) {
-	if left == nil {
-		if right == nil {
-			return nil, nil, nil
+func isValid(s string) bool {
+	stack := make([]parenthese, 0)
+
+	for _, char := range s {
+		p := parenthese(char)
+		if p.IsOpen() {
+			stack = append(stack, p)
+			continue
 		}
 
-		return right, left, right.Next
+		lastIndex := len(stack) - 1
+		if lastIndex == -1 || !p.IsClose(stack[lastIndex]) {
+			return false
+		}
+
+		stack = stack[:lastIndex]
 	}
 
-	if right == nil {
-		return left, left.Next, right
-	}
-
-	if right.Val < left.Val {
-		return right, left, right.Next
-	}
-
-	return left, left.Next, right
+	return len(stack) == 0
 }
