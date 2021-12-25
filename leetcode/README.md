@@ -54,6 +54,8 @@
   | [go](0100/0136.%20Single%20Number/go/main.go)
 - [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
   | [go](0100/0141.%20Linked%20List%20Cycle/go/main.go)
+- [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+  | [go](0100/0150.%20Evaluate%20Reverse%20Polish%20Notation/go/main.go)
 - [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
   | [go](0100/0160.%20Intersection%20of%20Two%20Linked%20Lists/go/main.go)
 - [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
