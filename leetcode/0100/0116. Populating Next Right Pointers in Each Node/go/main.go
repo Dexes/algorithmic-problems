@@ -27,8 +27,8 @@ func (q Queue) IsEmpty() bool {
 	return len(q) == 0
 }
 
-func makeQueue(root *Node, maxDepth int) Queue {
-	result := make(Queue, 0, 1<<(maxDepth-1))
+func makeQueue(root *Node, capacity int) Queue {
+	result := make(Queue, 0, capacity)
 	return result.Push(root)
 }
 
@@ -36,7 +36,7 @@ func connect(root *Node) *Node {
 	var (
 		level, levelLength = 1, 1
 		node, right        *Node
-		queue              = makeQueue(root, 12)
+		queue              = makeQueue(root, 1<<12-1)
 	)
 
 	for !queue.IsEmpty() {
