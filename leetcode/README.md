@@ -36,6 +36,8 @@
   | [go](0000/0028.%20Implement%20strStr()/go/main.go)
 - [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
   | [go](0000/0035.%20Search%20Insert%20Position/go/main.go)
+- [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)
+  | [go](0000/0050.%20Pow(x,%20n)/go/main.go)
 - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
   | [go](0000/0053.%20Maximum%20Subarray/go/main.go)
 - [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
