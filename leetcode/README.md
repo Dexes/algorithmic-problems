@@ -70,6 +70,8 @@
   | [go](0100/0150.%20Evaluate%20Reverse%20Polish%20Notation/go/main.go)
 - [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
   | [go](0100/0160.%20Intersection%20of%20Two%20Linked%20Lists/go/main.go)
+- [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+  | [go](0100/0167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/go/main.go)
 - [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
   | [SQL](0100/0175.%20Combine%20Two%20Tables/sql/main.sql)
 - [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
