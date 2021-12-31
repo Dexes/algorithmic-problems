@@ -166,6 +166,8 @@
   | [go](1000/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations/go/main.go)
 - [1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)
   | [go](1000/1015.%20Smallest%20Integer%20Divisible%20by%20K/go/main.go)
+- [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
+  | [go](1000/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor/go/main.go)
 - [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
   | [go](1100/1108.%20Defanging%20an%20IP%20Address/go/main.go)
 - [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
