@@ -180,6 +180,8 @@
   | [go](1000/1002.%20Find%20Common%20Characters/go/main.go)
 - [1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)
   | [go](1000/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations/go/main.go)
+- [1010. Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
+  | [go](1000/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060/go/main.go)
 - [1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)
   | [go](1000/1015.%20Smallest%20Integer%20Divisible%20by%20K/go/main.go)
 - [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
