@@ -1,7 +1,7 @@
 package main
 
 func mostWordsFound(sentences []string) int {
-	result := 1
+	result := 0
 	for i := 0; i < len(sentences); i++ {
 		spacesCount := 0
 		for j := 0; j < len(sentences[i]); j++ {
@@ -10,10 +10,10 @@ func mostWordsFound(sentences []string) int {
 			}
 		}
 
-		if spacesCount+1 > result {
-			result = spacesCount + 1
+		if spacesCount > result {
+			result = spacesCount
 		}
 	}
 
-	return result
+	return result + 1
 }
