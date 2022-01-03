@@ -176,6 +176,8 @@
   | [go](0900/0977.%20Squares%20of%20a%20Sorted%20Array/go/main.go)
 - [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
   | [go](0900/0989.%20Add%20to%20Array-Form%20of%20Integer/go/main.go)
+- [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
+  | [go](0900/0997.%20Find%20the%20Town%20Judge/go/main.go)
 - [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/)
   | [go](1000/1002.%20Find%20Common%20Characters/go/main.go)
 - [1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)
