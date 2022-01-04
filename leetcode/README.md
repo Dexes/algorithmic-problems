@@ -130,6 +130,8 @@
   | [go](0300/0389.%20Find%20the%20Difference/go/main.go)
 - [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
   | [go](0300/0392.%20Is%20Subsequence/go/main.go)
+- [401. Binary Watch](https://leetcode.com/problems/binary-watch/)
+  | [go](0400/0401.%20Binary%20Watch/go/main.go)
 - [405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)
   | [go](0400/0405.%20Convert%20a%20Number%20to%20Hexadecimal/go/main.go)
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
