@@ -8,6 +8,8 @@
   | [go](0000/0004.%20Median%20of%20Two%20Sorted%20Arrays/go/main.go)
 - [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
   | [go](0000/0005.%20Longest%20Palindromic%20Substring/go/main.go)
+- [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+  | [go](0000/0006.%20Zigzag%20Conversion/go/main.go)
 - [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
   | [go](0000/0007.%20Reverse%20Integer/go/main.go)
 - [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
