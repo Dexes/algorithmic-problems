@@ -414,6 +414,8 @@
   | [go](2000/2053.%20Kth%20Distinct%20String%20in%20an%20Array/go/main.go)
 - [2068. Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)
   | [go](2000/2068.%20Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/go/main.go)
+- [2078. Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/)
+  | [go](2000/2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors/go/main.go)
 - [2085. Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)
   | [go](2000/2085.%20Count%20Common%20Words%20With%20One%20Occurrence/go/main.go)
 - [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)
