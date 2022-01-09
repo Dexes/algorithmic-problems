@@ -2,7 +2,6 @@ package main
 
 import (
 	"math/rand"
-	"time"
 )
 
 type ListNode struct {
@@ -21,7 +20,6 @@ func Constructor(head *ListNode) Solution {
 		head = head.Next
 	}
 
-	rand.Seed(time.Now().UnixNano())
 	return Solution{data: data}
 }
 

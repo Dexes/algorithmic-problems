@@ -2,7 +2,6 @@ package main
 
 import (
 	"math/rand"
-	"time"
 )
 
 type Solution struct {
@@ -12,15 +11,9 @@ type Solution struct {
 func Constructor(nums []int) Solution {
 	data := make(map[int][]int)
 	for i := 0; i < len(nums); i++ {
-		list, ok := data[nums[i]]
-		if !ok {
-			list = make([]int, 0, 5)
-		}
-
-		data[nums[i]] = append(list, i)
+		data[nums[i]] = append(data[nums[i]], i)
 	}
 
-	rand.Seed(time.Now().UnixNano())
 	return Solution{data: data}
 }
 
