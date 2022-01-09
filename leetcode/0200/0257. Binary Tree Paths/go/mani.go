@@ -1,7 +1,5 @@
 package main
 
-import "strconv"
-
 type TreeNode struct {
 	Val   int
 	Left  *TreeNode
@@ -49,10 +47,6 @@ func toString(path []int) string {
 		}
 
 		result = append(result, '>', '-')
-	}
-
-	if len(result) > 100 {
-		return strconv.Itoa(len(result))
 	}
 
 	return string(reverse(result[:len(result)-2]))
