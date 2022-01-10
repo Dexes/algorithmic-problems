@@ -474,6 +474,8 @@
   | [go](1900/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/go/main.go)
 - [1979. Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)
   | [go](1900/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array/go/main.go)
+- [1995. Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/)
+  | [go](1900/1995.%20Count%20Special%20Quadruplets/go/main.go)
 - [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)
   | [go](2000/2000.%20Reverse%20Prefix%20of%20Word/go/main.go)
 - [2006. Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)
