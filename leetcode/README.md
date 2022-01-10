@@ -480,6 +480,8 @@
   | [go](2000/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/go/main.go)
 - [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
   | [go](2000/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/go/main.go)
+- [2016. Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/)
+  | [go](2000/2016.%20Maximum%20Difference%20Between%20Increasing%20Elements/go/main.go)
 - [2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)
   | [go](2000/2022.%20Convert%201D%20Array%20Into%202D%20Array/go/main.go)
 - [2027. Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/)
