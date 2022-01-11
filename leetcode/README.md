@@ -324,6 +324,8 @@
   | [go](1000/1015.%20Smallest%20Integer%20Divisible%20by%20K/go/main.go)
 - [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
   | [go](1000/1021.%20Remove%20Outermost%20Parentheses/go/main.go)
+- [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
+  | [go](1000/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/go/main.go)
 - [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
   | [go](1000/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor/go/main.go)
 - [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)
