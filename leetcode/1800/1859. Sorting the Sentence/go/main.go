@@ -1,37 +1,32 @@
 package main
 
 func sortSentence(s string) string {
-	words := make([][]byte, 62)
-	wordsCount := 0
+	words := getWords(s)
+	result := append(make([]byte, 0, len(s)), words[0]...)
 
-	for i := 0; i < len(s); i++ {
-		word := make([]byte, 0, len(s)-i)
-		for ; i < len(s) && isLetter(s[i]); i++ {
-			word = append(word, s[i])
-		}
-
-		index := byte(0)
-		for ; i < len(s) && isDigit(s[i]); i++ {
-			index = index*10 + (s[i] - '0')
-		}
-
-		words[index] = word
-		wordsCount++
-	}
-
-	result := make([]byte, 0, 200)
-	for i := 1; i <= wordsCount; i++ {
-		result = append(result, words[i]...)
+	for i := 1; i < len(words); i++ {
 		result = append(result, ' ')
+		result = append(result, words[i]...)
 	}
 
-	return string(result[:len(result)-1])
+	return string(result)
 }
 
-func isLetter(b byte) bool {
-	return b >= 'A' && b <= 'z'
+func getWords(s string) []string {
+	words, wordsNumber := make([]string, 9), byte(0)
+	for start, end := 0, findDigit(s, 0); start < len(s); start, end = end+2, findDigit(s, end+3) {
+		words[s[end]-'1'] = s[start:end]
+		if s[end] > wordsNumber {
+			wordsNumber = s[end]
+		}
+	}
+
+	return words[:wordsNumber-'0']
 }
 
-func isDigit(b byte) bool {
-	return b >= '0' && b <= '9'
+func findDigit(s string, i int) int {
+	for ; i < len(s) && s[i] > '9'; i++ {
+	}
+
+	return i
 }
