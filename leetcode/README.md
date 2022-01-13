@@ -210,6 +210,8 @@
   | [go](0400/0429.%20N-ary%20Tree%20Level%20Order%20Traversal/go/main.go)
 - [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
   | [go](0400/0450.%20Delete%20Node%20in%20a%20BST/go/main.go)
+- [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+  | [go](0400/0452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/go/main.go)
 - [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)
   | [go](0400/0463.%20Island%20Perimeter/go/main.go)
 - [476. Number Complement](https://leetcode.com/problems/number-complement/)
