@@ -1,6 +1,6 @@
 package main
 
-import "./platform"
+import "readme/platform"
 
 func main() {
 	platform.NewTimus().GenerateReadme()
