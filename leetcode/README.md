@@ -56,6 +56,8 @@
   | [go](0000/0058.%20Length%20of%20Last%20Word/go/main.go)
 - [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
   | [go](0000/0059.%20Spiral%20Matrix%20II/go/main.go)
+- [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
+  | [go](0000/0060.%20Permutation%20Sequence/go/main.go)
 - [66. Plus One](https://leetcode.com/problems/plus-one/)
   | [go](0000/0066.%20Plus%20One/go/main.go)
 - [67. Add Binary](https://leetcode.com/problems/add-binary/)
