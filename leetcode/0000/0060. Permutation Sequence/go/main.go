@@ -1,6 +1,6 @@
 package main
 
-var factorials = []int{1, 1, 2, 6, 24, 120, 720, 5040, 40320, 362880}
+var factorials = []int{1, 1, 2, 6, 24, 120, 720, 5040, 40320}
 
 func getPermutation(n int, k int) string {
 	result, usedNumbers := make([]byte, 0, n), make([]bool, n)
