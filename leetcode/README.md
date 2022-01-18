@@ -516,6 +516,8 @@
   | [go](1800/1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/go/main.go)
 - [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)
   | [go](1900/1903.%20Largest%20Odd%20Number%20in%20String/go/main.go)
+- [1909. Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/)
+  | [go](1900/1909.%20Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing/go/main.go)
 - [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)
   | [go](1900/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs/go/main.go)
 - [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
