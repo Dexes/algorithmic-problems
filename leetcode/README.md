@@ -204,6 +204,8 @@
   | [go](0300/0344.%20Reverse%20String/go/main.go)
 - [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
   | [go](0300/0345.%20Reverse%20Vowels%20of%20a%20String/go/main.go)
+- [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+  | [go](0300/0347.%20Top%20K%20Frequent%20Elements/go/main.go)
 - [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
   | [go](0300/0349.%20Intersection%20of%20Two%20Arrays/go/main.go)
 - [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
