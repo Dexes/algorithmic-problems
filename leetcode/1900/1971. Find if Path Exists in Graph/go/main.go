@@ -1,7 +1,7 @@
 package main
 
 func validPath(n int, edges [][]int, start int, end int) bool {
-	graph, visited, queue := toGraph(edges, n), makeBitset(n), makeQueue()
+	graph, visited, queue := toGraph(edges, n), makeBitset(n), makeQueue(2000)
 	queue.Push(start)
 
 	for !queue.IsEmpty() {
@@ -56,8 +56,8 @@ type Queue struct {
 	popIndex  int
 }
 
-func makeQueue() *Queue {
-	return &Queue{data: make([]int, 2000), pushIndex: 0, popIndex: 0}
+func makeQueue(capacity int) *Queue {
+	return &Queue{data: make([]int, capacity), pushIndex: 0, popIndex: 0}
 }
 
 func (q *Queue) Push(n int) {

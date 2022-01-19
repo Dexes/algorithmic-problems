@@ -10,7 +10,7 @@ func levelOrder(root *Node) [][]int {
 		return [][]int{}
 	}
 
-	result, queue := make([][]int, 0, 500), makeQueue()
+	result, queue := make([][]int, 0, 500), makeQueue(3500)
 	queue.Push(root)
 
 	for !queue.IsEmpty() {
@@ -36,8 +36,8 @@ type Queue struct {
 	popIndex  int
 }
 
-func makeQueue() *Queue {
-	return &Queue{nodes: make([]*Node, 3500), pushIndex: 0, popIndex: 0}
+func makeQueue(capacity int) *Queue {
+	return &Queue{nodes: make([]*Node, capacity), pushIndex: 0, popIndex: 0}
 }
 
 func (q *Queue) Push(node *Node) {

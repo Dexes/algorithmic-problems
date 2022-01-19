@@ -7,7 +7,7 @@ type TreeNode struct {
 }
 
 func averageOfLevels(root *TreeNode) []float64 {
-	result, queue := make([]float64, 0, 1000), makeQueue()
+	result, queue := make([]float64, 0, 1000), makeQueue(1000)
 	queue.Push(root)
 
 	for !queue.IsEmpty() {
@@ -32,8 +32,8 @@ type Queue struct {
 	popIndex  int
 }
 
-func makeQueue() *Queue {
-	return &Queue{nodes: make([]*TreeNode, 1000), pushIndex: 0, popIndex: 0}
+func makeQueue(capacity int) *Queue {
+	return &Queue{nodes: make([]*TreeNode, capacity), pushIndex: 0, popIndex: 0}
 }
 
 func (q *Queue) Push(node *TreeNode) {

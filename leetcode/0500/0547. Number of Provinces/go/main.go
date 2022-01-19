@@ -6,8 +6,8 @@ type Queue struct {
 	popIndex  int
 }
 
-func makeQueue() *Queue {
-	return &Queue{data: make([]int, 1000), pushIndex: 0, popIndex: 0}
+func makeQueue(capacity int) *Queue {
+	return &Queue{data: make([]int, capacity), pushIndex: 0, popIndex: 0}
 }
 
 func (q *Queue) Push(n int) {
@@ -36,7 +36,7 @@ func (q *Queue) IsEmpty() bool {
 
 func findCircleNum(isConnected [][]int) int {
 	result := 0
-	queue, visited := makeQueue(), make([]bool, len(isConnected))
+	queue, visited := makeQueue(1000), make([]bool, len(isConnected))
 
 	for i := 0; i < len(isConnected); i++ {
 		if visited[i] {

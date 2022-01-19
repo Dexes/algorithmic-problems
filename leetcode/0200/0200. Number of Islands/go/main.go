@@ -2,7 +2,7 @@ package main
 
 func numIslands(grid [][]byte) int {
 	result := 0
-	queue := makeQueue()
+	queue := makeQueue(1000)
 	for i := 0; i < len(grid); i++ {
 		for j := 0; j < len(grid[i]); j++ {
 			if grid[i][j] == '0' {
@@ -40,8 +40,8 @@ type Queue struct {
 	popIndex  int
 }
 
-func makeQueue() *Queue {
-	return &Queue{x: make([]int, 1000), y: make([]int, 1000), pushIndex: 0, popIndex: 0}
+func makeQueue(capacity int) *Queue {
+	return &Queue{x: make([]int, capacity), y: make([]int, capacity), pushIndex: 0, popIndex: 0}
 }
 
 func (q *Queue) Push(x, y int) {

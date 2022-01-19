@@ -1,7 +1,7 @@
 package main
 
 func islandPerimeter(grid [][]int) int {
-	queue := makeQueue()
+	queue := makeQueue(1000)
 	queue.Push(findStartPoint(grid))
 	n, m := len(grid), len(grid[0])
 	result := 0
@@ -61,8 +61,8 @@ type Queue struct {
 	popIndex  int
 }
 
-func makeQueue() *Queue {
-	return &Queue{x: make([]int, 1000), y: make([]int, 1000), pushIndex: 0, popIndex: 0}
+func makeQueue(capacity int) *Queue {
+	return &Queue{x: make([]int, capacity), y: make([]int, capacity), pushIndex: 0, popIndex: 0}
 }
 
 func (q *Queue) Push(x, y int) {

@@ -5,7 +5,7 @@ func floodFill(image [][]int, sr int, sc int, newColor int) [][]int {
 		return image
 	}
 
-	queue, color := makeQueue(), image[sr][sc]
+	queue, color := makeQueue(1000), image[sr][sc]
 	n, m := len(image), len(image[0])
 	queue.Push(sr, sc)
 	for !queue.IsEmpty() {
@@ -31,8 +31,8 @@ type Queue struct {
 	popIndex  int
 }
 
-func makeQueue() *Queue {
-	return &Queue{x: make([]int, 1000), y: make([]int, 1000), pushIndex: 0, popIndex: 0}
+func makeQueue(capacity int) *Queue {
+	return &Queue{x: make([]int, capacity), y: make([]int, capacity), pushIndex: 0, popIndex: 0}
 }
 
 func (q *Queue) Push(x, y int) {
