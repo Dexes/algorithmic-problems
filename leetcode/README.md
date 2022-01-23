@@ -418,6 +418,8 @@
   | [go](1200/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/go/main.go)
 - [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
   | [go](1200/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/go/main.go)
+- [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/)
+  | [go](1200/1291.%20Sequential%20Digits/go/main.go)
 - [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
   | [go](1200/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits/go/main.go)
 - [1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
