@@ -418,6 +418,8 @@
   | [go](1200/1266.%20Minimum%20Time%20Visiting%20All%20Points/go/main.go)
 - [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
   | [go](1200/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/go/main.go)
+- [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)
+  | [go](1200/1287.%20Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array/go/main.go)
 - [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
   | [go](1200/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/go/main.go)
 - [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/)

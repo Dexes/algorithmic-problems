@@ -58,7 +58,7 @@ func (t *timus) generateTaskInfo(task *timusTask) string {
 	for _, solution := range task.solutions {
 		language := strings.Split(solution, "/")[2]
 		path := solution + "/main." + getLanguageExtension(language)
-		result += "| [" + getLanguageTitle(language) + "](" + strings.ReplaceAll(path, " ", "%20") + ") "
+		result += "| [" + getLanguageTitle(language) + "](" + pathEscape(path) + ") "
 	}
 
 	return result[:len(result)-1]

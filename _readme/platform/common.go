@@ -1,5 +1,7 @@
 package platform
 
+import "strings"
+
 func getLanguageTitle(lang string) string {
 	switch lang {
 	case "cpp":
@@ -22,4 +24,10 @@ func getLanguageExtension(lang string) string {
 	default:
 		return lang
 	}
+}
+
+func pathEscape(s string) string {
+	s = strings.ReplaceAll(s, "%", "%25")
+	s = strings.ReplaceAll(s, " ", "%20")
+	return s
 }
