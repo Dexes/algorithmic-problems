@@ -244,6 +244,8 @@
   | [go](0400/0482.%20License%20Key%20Formatting/go/main.go)
 - [495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
   | [go](0400/0495.%20Teemo%20Attacking/go/main.go)
+- [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/)
+  | [go](0500/0500.%20Keyboard%20Row/go/main.go)
 - [507. Perfect Number](https://leetcode.com/problems/perfect-number/)
   | [go](0500/0507.%20Perfect%20Number/go/main.go)
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
