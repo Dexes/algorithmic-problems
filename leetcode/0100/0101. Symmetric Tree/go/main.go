@@ -7,7 +7,7 @@ type TreeNode struct {
 }
 
 func isSymmetric(root *TreeNode) bool {
-	queue := makeQueue()
+	queue := makeQueue(1000)
 	queue.PushChildren(root)
 
 	for {
@@ -34,8 +34,8 @@ type Queue struct {
 	popIndex  int
 }
 
-func makeQueue() *Queue {
-	return &Queue{data: make([]*TreeNode, 1000), pushIndex: 0, popIndex: 0}
+func makeQueue(capacity int) *Queue {
+	return &Queue{data: make([]*TreeNode, capacity), pushIndex: 0, popIndex: 0}
 }
 
 func (q *Queue) PushChildren(nodes ...*TreeNode) bool {

@@ -7,7 +7,7 @@ type TreeNode struct {
 }
 
 func levelOrder(root *TreeNode) [][]int {
-	result, queue := make([][]int, 0, 800), makeQueue()
+	result, queue := make([][]int, 0, 800), makeQueue(200)
 	queue.Push(root)
 
 	for !queue.IsEmpty() {
@@ -32,8 +32,8 @@ type Queue struct {
 	popIndex  int
 }
 
-func makeQueue() *Queue {
-	return &Queue{nodes: make([]*TreeNode, 200), pushIndex: 0, popIndex: 0}
+func makeQueue(capacity int) *Queue {
+	return &Queue{nodes: make([]*TreeNode, capacity), pushIndex: 0, popIndex: 0}
 }
 
 func (q *Queue) Push(node *TreeNode) {
