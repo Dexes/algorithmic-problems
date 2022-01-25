@@ -266,6 +266,8 @@
   | [go](0500/0500.%20Keyboard%20Row/go/main.go)
 - [504. Base 7](https://leetcode.com/problems/base-7/)
   | [go](0500/0504.%20Base%207/go/main.go)
+- [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/)
+  | [go](0500/0506.%20Relative%20Ranks/go/main.go)
 - [507. Perfect Number](https://leetcode.com/problems/perfect-number/)
   | [go](0500/0507.%20Perfect%20Number/go/main.go)
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
