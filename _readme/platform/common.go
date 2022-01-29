@@ -11,7 +11,7 @@ func getLanguageTitle(lang string) string {
 	case "sql":
 		return "SQL"
 	default:
-		return lang
+		return upperFirst(lang)
 	}
 }
 
@@ -21,6 +21,8 @@ func getLanguageExtension(lang string) string {
 		return "py"
 	case "csharp":
 		return "cs"
+	case "bash":
+		return "sh"
 	default:
 		return lang
 	}
@@ -30,4 +32,15 @@ func pathEscape(s string) string {
 	s = strings.ReplaceAll(s, "%", "%25")
 	s = strings.ReplaceAll(s, " ", "%20")
 	return s
+}
+
+func upperFirst(s string) string {
+	if 'A' <= s[0] && s[0] <= 'Z' {
+		return s
+	}
+
+	data := []byte(s)
+	data[0] -= 32
+
+	return string(data)
 }
