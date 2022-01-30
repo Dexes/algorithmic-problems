@@ -38,8 +38,8 @@ type Bitset struct {
 	length int
 }
 
-func makeBitset(length int) *Bitset {
-	return &Bitset{bits: make([]uint64, (length+63)/64), length: length}
+func makeBitset(capacity int) *Bitset {
+	return &Bitset{bits: make([]uint64, (capacity+63)/64), length: capacity}
 }
 
 func (b *Bitset) Set(n int) {

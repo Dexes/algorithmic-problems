@@ -1,19 +1,21 @@
 package main
 
-func findDisappearedNumbers(nums []int) []int {
-	set, i, number := makeBitset(len(nums)+1), 0, 0
-	for ; i < len(nums); i++ {
-		set.Set(nums[i])
+func findFinalValue(nums []int, original int) int {
+	set := toSet(nums)
+	for original <= 1000 && set.Test(original) {
+		original <<= 1
 	}
 
-	for i, number = 0, 1; number <= len(nums); number++ {
-		if !set.Test(number) {
-			nums[i] = number
-			i++
-		}
+	return original
+}
+
+func toSet(nums []int) *Bitset {
+	result := makeBitset(1001)
+	for i := 0; i < len(nums); i++ {
+		result.Set(nums[i])
 	}
 
-	return nums[:i]
+	return result
 }
 
 type Bitset struct {
