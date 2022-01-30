@@ -296,6 +296,8 @@
   | [Go](0500/0530.%20Minimum%20Absolute%20Difference%20in%20BST/go/main.go)
 - [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
   | [Go](0500/0541.%20Reverse%20String%20II/go/main.go)
+- [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+  | [Go](0500/0543.%20Diameter%20of%20Binary%20Tree/go/main.go)
 - [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
   | [Go](0500/0547.%20Number%20of%20Provinces/go/main.go)
 - [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
