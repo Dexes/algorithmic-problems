@@ -434,6 +434,8 @@
   | [SQL](1100/1179.%20Reformat%20Department%20Table/sql/main.sql)
 - [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)
   | [Go](1100/1189.%20Maximum%20Number%20of%20Balloons/go/main.go)
+- [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
+  | [Go](1200/1200.%20Minimum%20Absolute%20Difference/go/main.go)
 - [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
   | [Go](1200/1221.%20Split%20a%20String%20in%20Balanced%20Strings/go/main.go)
 - [1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
