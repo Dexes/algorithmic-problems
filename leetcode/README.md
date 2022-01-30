@@ -664,3 +664,7 @@
   | [Go](2100/2138.%20Divide%20a%20String%20Into%20Groups%20of%20Size%20k/go/main.go)
 - [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower)
   | [Go](2100/2140.%20Solving%20Questions%20With%20Brainpower/go/main.go)
+- [2144. Minimum Cost of Buying Candies With Discount]()
+  | [Go](2100/2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/go/main.go)
+- [2148. Count Elements With Strictly Smaller and Greater Elements]()
+  | [Go](2100/2148.%20Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements/go/main.go)
