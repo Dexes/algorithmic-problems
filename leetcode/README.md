@@ -646,6 +646,8 @@
   | [Go](2000/2062.%20Count%20Vowel%20Substrings%20of%20a%20String/go/main.go)
 - [2068. Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)
   | [Go](2000/2068.%20Check%20Whether%20Two%20Strings%20are%20Almost%20Equivalent/go/main.go)
+- [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)
+  | [Go](2000/2073.%20Time%20Needed%20to%20Buy%20Tickets/go/main.go)
 - [2078. Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/)
   | [Go](2000/2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors/go/main.go)
 - [2085. Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)
