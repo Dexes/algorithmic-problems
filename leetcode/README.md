@@ -364,6 +364,8 @@
   | [Go](0700/0706.%20Design%20HashMap/go/main.go)
 - [709. To Lower Case](https://leetcode.com/problems/to-lower-case/)
   | [Go](0700/0709.%20To%20Lower%20Case/go/main.go)
+- [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)
+  | [Go](0700/0717.%201-bit%20and%202-bit%20Characters/go/main.go)
 - [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
   | [Go](0700/0728.%20Self%20Dividing%20Numbers/go/main.go)
 - [733. Flood Fill](https://leetcode.com/problems/flood-fill/)
