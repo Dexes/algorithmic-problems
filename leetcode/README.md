@@ -260,6 +260,8 @@
   | [Go](0400/0429.%20N-ary%20Tree%20Level%20Order%20Traversal/go/main.go)
 - [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)
   | [Go](0400/0434.%20Number%20of%20Segments%20in%20a%20String/go/main.go)
+- [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+  | [Go](0400/0438.%20Find%20All%20Anagrams%20in%20a%20String/go/main.go)
 - [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)
   | [Go](0400/0441.%20Arranging%20Coins/go/main.go)
 - [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
