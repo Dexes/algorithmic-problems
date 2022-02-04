@@ -1,13 +1,8 @@
 package main
 
 import (
-	"fmt"
 	"sort"
 )
-
-func main() {
-	fmt.Println(frequencySort([]int{1, 1, 2, 2, 2, 3}))
-}
 
 type Element struct {
 	Number    int
