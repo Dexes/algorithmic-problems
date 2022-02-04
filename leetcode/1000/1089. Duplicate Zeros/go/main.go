@@ -12,9 +12,9 @@ func duplicateZeros(arr []int) {
 		}
 
 		if arr[i] == 0 && i < len(arr)-1 {
-			queue.Push(arr[i+1])
-			arr[i+1] = 0
 			i++
+			queue.Push(arr[i])
+			arr[i] = 0
 		}
 	}
 }
