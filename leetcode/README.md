@@ -628,6 +628,8 @@
   | [Go](1700/1732.%20Find%20the%20Highest%20Altitude/go/main.go)
 - [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)
   | [Go](1700/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated/go/main.go)
+- [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)
+  | [Go](1700/1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/go/main.go)
 - [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
   | [Go](1700/1773.%20Count%20Items%20Matching%20a%20Rule/go/main.go)
 - [1779. Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)
