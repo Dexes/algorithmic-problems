@@ -368,6 +368,8 @@
   | [Go](0600/0637.%20Average%20of%20Levels%20in%20Binary%20Tree/go/main.go)
 - [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/)
   | [Go](0600/0645.%20Set%20Mismatch/go/main.go)
+- [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
+  | [Go](0600/0653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/go/main.go)
 - [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
   | [Go](0600/0657.%20Robot%20Return%20to%20Origin/go/main.go)
 - [661. Image Smoother](https://leetcode.com/problems/image-smoother/)
