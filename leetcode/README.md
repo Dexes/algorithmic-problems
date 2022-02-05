@@ -374,6 +374,8 @@
   | [Go](0600/0657.%20Robot%20Return%20to%20Origin/go/main.go)
 - [661. Image Smoother](https://leetcode.com/problems/image-smoother/)
   | [Go](0600/0661.%20Image%20Smoother/go/main.go)
+- [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
+  | [Go](0600/0671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree/go/main.go)
 - [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
   | [Go](0600/0680.%20Valid%20Palindrome%20II/go/main.go)
 - [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
