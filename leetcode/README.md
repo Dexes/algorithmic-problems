@@ -76,6 +76,8 @@
   | [Go](0000/0073.%20Set%20Matrix%20Zeroes/go/main.go)
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
   | [Go](0000/0074.%20Search%20a%202D%20Matrix/go/main.go)
+- [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
+  | [Go](0000/0075.%20Sort%20Colors/go/main.go)
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
   | [Go](0000/0083.%20Remove%20Duplicates%20from%20Sorted%20List/go/main.go)
 - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
