@@ -2155,5 +2155,11 @@
   "2154. Keep Multiplying Found Values by Two": "https://leetcode.com/problems/keep-multiplying-found-values-by-two/",
   "2155. All Divisions With the Highest Score of a Binary Array": "https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/",
   "2156. Find Substring With Given Hash Value": "https://leetcode.com/problems/find-substring-with-given-hash-value/",
-  "2157. Groups of Strings": "https://leetcode.com/problems/groups-of-strings/"
+  "2157. Groups of Strings": "https://leetcode.com/problems/groups-of-strings/",
+  "2158. Amount of New Area Painted Each Day": "https://leetcode.com/problems/amount-of-new-area-painted-each-day/",
+  "2159. Order Two Columns Independently": "https://leetcode.com/problems/order-two-columns-independently/",
+  "2160. Minimum Sum of Four Digit Number After Splitting Digits": "https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/",
+  "2161. Partition Array According to Given Pivot": "https://leetcode.com/problems/partition-array-according-to-given-pivot/",
+  "2162. Minimum Cost to Set Cooking Time": "https://leetcode.com/problems/minimum-cost-to-set-cooking-time/",
+  "2163. Minimum Difference in Sums After Removal of Elements": "https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/"
 }

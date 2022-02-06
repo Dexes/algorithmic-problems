@@ -772,3 +772,5 @@
   | [Go](2100/2148.%20Count%20Elements%20With%20Strictly%20Smaller%20and%20Greater%20Elements/go/main.go)
 - [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/)
   | [Go](2100/2154.%20Keep%20Multiplying%20Found%20Values%20by%20Two/go/main.go)
+- [2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)
+  | [Go](2100/2160.%20Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits/go/main.go)
