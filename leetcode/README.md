@@ -512,6 +512,8 @@
   | [Go](1100/1137.%20N-th%20Tribonacci%20Number/go/main.go)
 - [1154. Day of the Year](https://leetcode.com/problems/day-of-the-year/)
   | [Go](1100/1154.%20Day%20of%20the%20Year/go/main.go)
+- [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
+  | [Go](1100/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/go/main.go)
 - [1179. Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)
   | [SQL](1100/1179.%20Reformat%20Department%20Table/sql/main.sql)
 - [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)
