@@ -470,6 +470,8 @@
   | [Go](0800/0876.%20Middle%20of%20the%20Linked%20List/go/main.go)
 - [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)
   | [Go](0800/0884.%20Uncommon%20Words%20from%20Two%20Sentences/go/main.go)
+- [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/)
+  | [Go](0800/0896.%20Monotonic%20Array/go/main.go)
 - [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)
   | [Go](0800/0897.%20Increasing%20Order%20Search%20Tree/go/main.go)
 - [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
