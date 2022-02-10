@@ -344,6 +344,8 @@
   | [Go](0500/0557.%20Reverse%20Words%20in%20a%20String%20III/go/main.go)
 - [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
   | [Go](0500/0559.%20Maximum%20Depth%20of%20N-ary%20Tree/go/main.go)
+- [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+  | [Go](0500/0560.%20Subarray%20Sum%20Equals%20K/go/main.go)
 - [561. Array Partition I](https://leetcode.com/problems/array-partition-i/)
   | [Go](0500/0561.%20Array%20Partition%20I/go/main.go)
 - [563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)
