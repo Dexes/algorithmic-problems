@@ -726,6 +726,8 @@
   | [Go](1900/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs/go/main.go)
 - [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
   | [Go](1900/1920.%20Build%20Array%20from%20Permutation/go/main.go)
+- [1925. Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/)
+  | [Go](1900/1925.%20Count%20Square%20Sum%20Triples/go/main.go)
 - [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
   | [Go](1900/1929.%20Concatenation%20of%20Array/go/main.go)
 - [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/)
