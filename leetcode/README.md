@@ -546,6 +546,8 @@
   | [Go](1000/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/go/main.go)
 - [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
   | [Go](1000/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor/go/main.go)
+- [1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)
+  | [Go](1000/1037.%20Valid%20Boomerang/go/main.go)
 - [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)
   | [Go](1000/1041.%20Robot%20Bounded%20In%20Circle/go/main.go)
 - [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
