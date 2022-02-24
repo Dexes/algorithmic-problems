@@ -518,6 +518,8 @@
   | [Go](0900/0941.%20Valid%20Mountain%20Array/go/main.go)
 - [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
   | [Go](0900/0961.%20N-Repeated%20Element%20in%20Size%202N%20Array/go/main.go)
+- [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)
+  | [Go](0900/0965.%20Univalued%20Binary%20Tree/go/main.go)
 - [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
   | [Go](0900/0973.%20K%20Closest%20Points%20to%20Origin/go/main.go)
 - [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
