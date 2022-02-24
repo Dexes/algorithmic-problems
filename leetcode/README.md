@@ -132,6 +132,8 @@
   | [Go](0100/0144.%20Binary%20Tree%20Preorder%20Traversal/go/main.go)
 - [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
   | [Go](0100/0145.%20Binary%20Tree%20Postorder%20Traversal/go/main.go)
+- [148. Sort List](https://leetcode.com/problems/sort-list/)
+  | [Go](0100/0148.%20Sort%20List/go/main.go)
 - [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
   | [Go](0100/0150.%20Evaluate%20Reverse%20Polish%20Notation/go/main.go)
 - [155. Min Stack](https://leetcode.com/problems/min-stack/)
