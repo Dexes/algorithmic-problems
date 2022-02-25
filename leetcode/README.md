@@ -140,6 +140,8 @@
   | [Go](0100/0155.%20Min%20Stack/go/main.go)
 - [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
   | [Go](0100/0160.%20Intersection%20of%20Two%20Linked%20Lists/go/main.go)
+- [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
+  | [Go](0100/0165.%20Compare%20Version%20Numbers/go/main.go)
 - [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
   | [Go](0100/0167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/go/main.go)
 - [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
