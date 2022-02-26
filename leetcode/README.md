@@ -746,6 +746,8 @@
   | [Go](1800/1837.%20Sum%20of%20Digits%20in%20Base%20K/go/main.go)
 - [1844. Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)
   | [Go](1800/1844.%20Replace%20All%20Digits%20with%20Characters/go/main.go)
+- [1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
+  | [Go](1800/1854.%20Maximum%20Population%20Year/go/main.go)
 - [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
   | [Go](1800/1859.%20Sorting%20the%20Sentence/go/main.go)
 - [1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)
