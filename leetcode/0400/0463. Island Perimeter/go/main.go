@@ -55,8 +55,7 @@ func findStartPoint(grid [][]int) (int, int) {
 }
 
 type Queue struct {
-	x         []int
-	y         []int
+	x, y      []int
 	pushIndex int
 	popIndex  int
 }
@@ -66,8 +65,7 @@ func makeQueue(capacity int) *Queue {
 }
 
 func (q *Queue) Push(x, y int) {
-	q.x[q.pushIndex] = x
-	q.y[q.pushIndex] = y
+	q.x[q.pushIndex], q.y[q.pushIndex] = x, y
 	q.pushIndex++
 
 	if q.pushIndex >= len(q.x) {
