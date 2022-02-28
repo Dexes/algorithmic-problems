@@ -1,7 +1,7 @@
 package main
 
 func dayOfYear(date string) int {
-	days := []int{31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31}
+	days := []int{31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31}
 	year, month, day := parseDate(date)
 
 	for i := 1; i < month; i++ {
@@ -9,7 +9,7 @@ func dayOfYear(date string) int {
 	}
 
 	if isLeapYear(year) && month > 2 {
-		day--
+		day++
 	}
 
 	return day
