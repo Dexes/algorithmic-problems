@@ -588,6 +588,8 @@
   | [Go](1000/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/go/main.go)
 - [1051. Height Checker](https://leetcode.com/problems/height-checker/)
   | [Go](1000/1051.%20Height%20Checker/go/main.go)
+- [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
+  | [Go](1000/1071.%20Greatest%20Common%20Divisor%20of%20Strings/go/main.go)
 - [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)
   | [Go](1000/1089.%20Duplicate%20Zeros/go/main.go)
 - [1094. Car Pooling](https://leetcode.com/problems/car-pooling/)
