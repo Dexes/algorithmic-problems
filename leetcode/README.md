@@ -634,6 +634,8 @@
   | [Go](1200/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/go/main.go)
 - [1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
   | [Go](1200/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix/go/main.go)
+- [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)
+  | [Go](1200/1260.%20Shift%202D%20Grid/go/main.go)
 - [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)
   | [Go](1200/1266.%20Minimum%20Time%20Visiting%20All%20Points/go/main.go)
 - [1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)
