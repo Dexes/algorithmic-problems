@@ -666,6 +666,8 @@
   | [Go](1300/1317.%20Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers/go/main.go)
 - [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
   | [Go](1300/1323.%20Maximum%2069%20Number/go/main.go)
+- [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)
+  | [Go](1300/1331.%20Rank%20Transform%20of%20an%20Array/go/main.go)
 - [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
   | [Go](1300/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/go/main.go)
 - [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
