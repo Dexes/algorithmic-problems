@@ -276,6 +276,8 @@
   | [Go](0400/0409.%20Longest%20Palindrome/go/main.go)
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
   | [Go](0400/0412.%20Fizz%20Buzz/go/main.go)
+- [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
+  | [Go](0400/0413.%20Arithmetic%20Slices/go/main.go)
 - [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
   | [Go](0400/0414.%20Third%20Maximum%20Number/go/main.go)
 - [415. Add Strings](https://leetcode.com/problems/add-strings/)
