@@ -2186,5 +2186,10 @@
   "2185. Counting Words With a Given Prefix": "https://leetcode.com/problems/counting-words-with-a-given-prefix/",
   "2186. Minimum Number of Steps to Make Two Strings Anagram II": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/",
   "2187. Minimum Time to Complete Trips": "https://leetcode.com/problems/minimum-time-to-complete-trips/",
-  "2188. Minimum Time to Finish the Race": "https://leetcode.com/problems/minimum-time-to-finish-the-race/"
+  "2188. Minimum Time to Finish the Race": "https://leetcode.com/problems/minimum-time-to-finish-the-race/",
+  "2189. Number of Ways to Build House of Cards": "https://leetcode.com/problems/number-of-ways-to-build-house-of-cards/",
+  "2190. Most Frequent Number Following Key In an Array": "https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/",
+  "2191. Sort the Jumbled Numbers": "https://leetcode.com/problems/sort-the-jumbled-numbers/",
+  "2192. All Ancestors of a Node in a Directed Acyclic Graph": "https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/",
+  "2193. Minimum Number of Moves to Make Palindrome": "https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/"
 }

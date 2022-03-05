@@ -978,3 +978,5 @@
   | [Go](2100/2180.%20Count%20Integers%20With%20Even%20Digit%20Sum/go/main.go)
 - [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)
   | [Go](2100/2185.%20Counting%20Words%20With%20a%20Given%20Prefix/go/main.go)
+- [2190. Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/)
+  | [Go](2100/2190.%20Most%20Frequent%20Number%20Following%20Key%20In%20an%20Array/go/main.go)
