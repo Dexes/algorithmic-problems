@@ -790,6 +790,8 @@
   | [Go](1600/1656.%20Design%20an%20Ordered%20Stream/go/main.go)
 - [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
   | [Go](1600/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent/go/main.go)
+- [1668. Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)
+  | [Go](1600/1668.%20Maximum%20Repeating%20Substring/go/main.go)
 - [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
   | [Go](1600/1672.%20Richest%20Customer%20Wealth/go/main.go)
 - [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
