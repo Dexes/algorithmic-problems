@@ -758,6 +758,8 @@
   | [Go](1500/1539.%20Kth%20Missing%20Positive%20Number/go/main.go)
 - [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/)
   | [Go](1500/1544.%20Make%20The%20String%20Great/go/main.go)
+- [1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)
+  | [Go](1500/1550.%20Three%20Consecutive%20Odds/go/main.go)
 - [1556. Thousand Separator](https://leetcode.com/problems/thousand-separator/)
   | [Go](1500/1556.%20Thousand%20Separator/go/main.go)
 - [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
