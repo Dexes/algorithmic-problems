@@ -762,6 +762,8 @@
   | [Go](1500/1550.%20Three%20Consecutive%20Odds/go/main.go)
 - [1556. Thousand Separator](https://leetcode.com/problems/thousand-separator/)
   | [Go](1500/1556.%20Thousand%20Separator/go/main.go)
+- [1560. Most Visited Sector in a Circular Track]()
+  | [Go](1500/1560.%20Most%20Visited%20Sector%20in%20a%20Circular%20Track/go/main.go)
 - [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
   | [Go](1500/1572.%20Matrix%20Diagonal%20Sum/go/main.go)
 - [1576. Replace All ❔'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/)
