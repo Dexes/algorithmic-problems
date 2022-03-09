@@ -1,5 +1,31 @@
 package main
 
+func findCircleNum(isConnected [][]int) int {
+	result := 0
+	queue, visited := makeQueue(1000), make([]bool, len(isConnected))
+
+	for i := 0; i < len(isConnected); i++ {
+		if visited[i] {
+			continue
+		}
+
+		queue.Push(i)
+		for !queue.IsEmpty() {
+			current := queue.Pop()
+			visited[current] = true
+			for j := i + 1; j < len(isConnected); j++ {
+				if !visited[j] && isConnected[j][current] == 1 {
+					queue.Push(j)
+				}
+			}
+		}
+
+		result++
+	}
+
+	return result
+}
+
 type Queue struct {
 	data      []int
 	pushIndex int
@@ -32,30 +58,4 @@ func (q *Queue) Pop() int {
 
 func (q *Queue) IsEmpty() bool {
 	return q.pushIndex == q.popIndex
-}
-
-func findCircleNum(isConnected [][]int) int {
-	result := 0
-	queue, visited := makeQueue(1000), make([]bool, len(isConnected))
-
-	for i := 0; i < len(isConnected); i++ {
-		if visited[i] {
-			continue
-		}
-
-		queue.Push(i)
-		for !queue.IsEmpty() {
-			current := queue.Pop()
-			visited[current] = true
-			for j := i + 1; j < len(isConnected); j++ {
-				if !visited[j] && isConnected[j][current] == 1 {
-					queue.Push(j)
-				}
-			}
-		}
-
-		result++
-	}
-
-	return result
 }
