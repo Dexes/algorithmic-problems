@@ -1010,6 +1010,8 @@
   | [Go](2100/2160.%20Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits/go/main.go)
 - [2164. Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently/)
   | [Go](2100/2164.%20Sort%20Even%20and%20Odd%20Indices%20Independently/go/main.go)
+- [2166. Design Bitset](https://leetcode.com/problems/design-bitset/)
+  | [Go](2100/2166.%20Design%20Bitset/go/main.go)
 - [2169. Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/)
   | [Go](2100/2169.%20Count%20Operations%20to%20Obtain%20Zero/go/main.go)
 - [2176. Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/)
