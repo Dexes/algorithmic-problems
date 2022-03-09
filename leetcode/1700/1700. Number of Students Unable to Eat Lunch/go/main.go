@@ -1,43 +1,24 @@
 package main
 
 func countStudents(students []int, sandwiches []int) int {
-	var student, x, i int
-	sandwichIndex, popIndex, pushIndex, queueLength := 0, 0, len(students), len(students)
-	students = append(students, students...)
+	var studentIndex, sandwichIndex, i int
 
-	for x != queueLength {
-		for i, x = 0, queueLength; i < x; i++ {
-			student, popIndex = queuePop(students, popIndex)
-			if student == sandwiches[sandwichIndex] {
+	for {
+		for i, studentIndex = 0, 0; i < len(students); i++ {
+			if students[i] == sandwiches[sandwichIndex] {
 				sandwichIndex++
-				queueLength--
 			} else {
-				pushIndex = queuePush(students, student, pushIndex)
+				students[studentIndex] = students[i]
+				studentIndex++
 			}
 		}
+
+		if studentIndex == len(students) {
+			break
+		}
+
+		students = students[:studentIndex]
 	}
 
-	return queueLength
-}
-
-func queuePop(queue []int, popIndex int) (int, int) {
-	result := queue[popIndex]
-	popIndex++
-
-	if popIndex == len(queue) {
-		return result, 0
-	}
-
-	return result, popIndex
-}
-
-func queuePush(queue []int, element, pushIndex int) int {
-	queue[pushIndex] = element
-	pushIndex++
-
-	if pushIndex == len(queue) {
-		return 0
-	}
-
-	return pushIndex
+	return len(students)
 }
