@@ -1022,3 +1022,7 @@
   | [Go](2100/2190.%20Most%20Frequent%20Number%20Following%20Key%20In%20an%20Array/go/main.go)
 - [2194. Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)
   | [Go](2100/2194.%20Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet/go/main.go)
+- [2195. Append K Integers With Minimal Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum/)
+  | [Go](2100/2195.%20Append%20K%20Integers%20With%20Minimal%20Sum/go/main.go)
+- [2196. Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/)
+  | [Go](2100/2196.%20Create%20Binary%20Tree%20From%20Descriptions/go/main.go)
