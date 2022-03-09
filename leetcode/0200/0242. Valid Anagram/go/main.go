@@ -5,14 +5,14 @@ func isAnagram(s string, t string) bool {
 		return false
 	}
 
-	letters := make(map[byte]int)
+	letters := make([]int, 133)
 	for i := 0; i < len(s); i++ {
 		letters[s[i]]++
 		letters[t[i]]--
 	}
 
-	for _, count := range letters {
-		if count != 0 {
+	for i := 'a'; i <= 'z'; i++ {
+		if letters[i] != 0 {
 			return false
 		}
 	}
