@@ -44,6 +44,8 @@
   | [Go](0000/0027.%20Remove%20Element/go/main.go)
 - [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
   | [Go](0000/0028.%20Implement%20strStr()/go/main.go)
+- [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+  | [Go](0000/0033.%20Search%20in%20Rotated%20Sorted%20Array/go/main.go)
 - [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
   | [Go](0000/0035.%20Search%20Insert%20Position/go/main.go)
 - [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/)
