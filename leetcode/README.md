@@ -84,6 +84,8 @@
   | [Go](0000/0075.%20Sort%20Colors/go/main.go)
 - [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
   | [Go](0000/0080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/go/main.go)
+- [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+  | [Go](0000/0081.%20Search%20in%20Rotated%20Sorted%20Array%20II/go/main.go)
 - [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
   | [Go](0000/0082.%20Remove%20Duplicates%20from%20Sorted%20List%20II/go/main.go)
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
