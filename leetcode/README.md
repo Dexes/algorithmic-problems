@@ -62,6 +62,8 @@
   | [Go](0000/0059.%20Spiral%20Matrix%20II/go/main.go)
 - [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
   | [Go](0000/0060.%20Permutation%20Sequence/go/main.go)
+- [61. Rotate List](https://leetcode.com/problems/rotate-list/)
+  | [Go](0000/0061.%20Rotate%20List/go/main.go)
 - [66. Plus One](https://leetcode.com/problems/plus-one/)
   | [Go](0000/0066.%20Plus%20One/go/main.go)
 - [67. Add Binary](https://leetcode.com/problems/add-binary/)
