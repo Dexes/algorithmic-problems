@@ -1,34 +1,21 @@
 package main
 
-type parenthese byte
-
-func (p parenthese) IsOpen() bool {
-	return p == '(' || p == '[' || p == '{'
-}
-
-func (p parenthese) IsClose(close parenthese) bool {
-	return close == '(' && p == ')' ||
-		close == '[' && p == ']' ||
-		close == '{' && p == '}'
-}
-
 func isValid(s string) bool {
-	stack := make([]parenthese, 0)
+	stack, stackIndex := make([]byte, len(s)/2), 0
+	for i := 0; i < len(s); i++ {
+		if s[i] == '(' || s[i] == '[' || s[i] == '{' {
+			if stackIndex == len(stack) {
+				return false
+			}
 
-	for _, char := range s {
-		p := parenthese(char)
-		if p.IsOpen() {
-			stack = append(stack, p)
+			stack[stackIndex], stackIndex = s[i], stackIndex+1
 			continue
 		}
 
-		lastIndex := len(stack) - 1
-		if lastIndex == -1 || !p.IsClose(stack[lastIndex]) {
+		if stackIndex--; stackIndex < 0 || s[i]-1 != stack[stackIndex] && s[i]-2 != stack[stackIndex] {
 			return false
 		}
-
-		stack = stack[:lastIndex]
 	}
 
-	return len(stack) == 0
+	return stackIndex == 0
 }
