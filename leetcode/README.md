@@ -1038,3 +1038,5 @@
   | [Go](2100/2195.%20Append%20K%20Integers%20With%20Minimal%20Sum/go/main.go)
 - [2196. Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/)
   | [Go](2100/2196.%20Create%20Binary%20Tree%20From%20Descriptions/go/main.go)
+- [2200. Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)
+  | [Go](2200/2200.%20Find%20All%20K-Distant%20Indices%20in%20an%20Array/go/main.go)
