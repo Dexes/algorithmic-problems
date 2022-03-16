@@ -548,6 +548,8 @@
   | [Go](0900/0942.%20DI%20String%20Match/go/main.go)
 - [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
   | [Go](0900/0944.%20Delete%20Columns%20to%20Make%20Sorted/go/main.go)
+- [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
+  | [Go](0900/0946.%20Validate%20Stack%20Sequences/go/main.go)
 - [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
   | [Go](0900/0953.%20Verifying%20an%20Alien%20Dictionary/go/main.go)
 - [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
