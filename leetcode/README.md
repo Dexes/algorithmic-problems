@@ -96,6 +96,8 @@
   | [Go](0000/0088.%20Merge%20Sorted%20Array/go/main.go)
 - [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
   | [Go](0000/0094.%20Binary%20Tree%20Inorder%20Traversal/go/main.go)
+- [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+  | [Go](0000/0098.%20Validate%20Binary%20Search%20Tree/go/main.go)
 - [100. Same Tree](https://leetcode.com/problems/same-tree/)
   | [Go](0100/0100.%20Same%20Tree/go/main.go)
 - [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
