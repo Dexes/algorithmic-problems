@@ -20,32 +20,32 @@ func NewStack() *Stack {
 	return &Stack{nil, 0}
 }
 
-func (this *Stack) Len() int {
-	return this.length
+func (s *Stack) Len() int {
+	return s.length
 }
 
-func (this *Stack) Peek() interface{} {
-	if this.length == 0 {
+func (s *Stack) Peek() interface{} {
+	if s.length == 0 {
 		return nil
 	}
-	return this.top.value
+	return s.top.value
 }
 
-func (this *Stack) Pop() interface{} {
-	if this.length == 0 {
+func (s *Stack) Pop() interface{} {
+	if s.length == 0 {
 		return nil
 	}
 
-	n := this.top
-	this.top = n.prev
-	this.length--
+	n := s.top
+	s.top = n.prev
+	s.length--
 	return n.value
 }
 
-func (this *Stack) Push(value interface{}) {
-	n := &node{value, this.top}
-	this.top = n
-	this.length++
+func (s *Stack) Push(value interface{}) {
+	n := &node{value, s.top}
+	s.top = n
+	s.length++
 }
 
 func StackToString(stack *Stack) string {

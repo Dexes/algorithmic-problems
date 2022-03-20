@@ -25,9 +25,9 @@ func (h *Heap) Push(x interface{}) {
 }
 
 func (h *Heap) Pop() interface{} {
-	length := len(*h)
-	x := (*h)[length-1]
-	*h = (*h)[:length-1]
+	length := len(*h) - 1
+	x := (*h)[length]
+	*h = (*h)[:length]
 	return x
 }
 
