@@ -512,6 +512,8 @@
   | [Go](0800/0872.%20Leaf-Similar%20Trees/go/main.go)
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
   | [Go](0800/0876.%20Middle%20of%20the%20Linked%20List/go/main.go)
+- [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
+  | [Go](0800/0881.%20Boats%20to%20Save%20People/go/main.go)
 - [883. Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/)
   | [Go](0800/0883.%20Projection%20Area%20of%203D%20Shapes/go/main.go)
 - [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)
