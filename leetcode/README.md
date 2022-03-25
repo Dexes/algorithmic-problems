@@ -602,6 +602,8 @@
   | [Go](1000/1025.%20Divisor%20Game/go/main.go)
 - [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
   | [Go](1000/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor/go/main.go)
+- [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
+  | [Go](1000/1029.%20Two%20City%20Scheduling/go/main.go)
 - [1030. Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)
   | [Go](1000/1030.%20Matrix%20Cells%20in%20Distance%20Order/go/main.go)
 - [1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)
