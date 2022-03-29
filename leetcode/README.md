@@ -242,6 +242,8 @@
   | [Go](0200/0278.%20First%20Bad%20Version/go/main.go)
 - [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
   | [Go](0200/0283.%20Move%20Zeroes/go/main.go)
+- [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+  | [Go](0200/0287.%20Find%20the%20Duplicate%20Number/go/main.go)
 - [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
   | [Go](0200/0290.%20Word%20Pattern/go/main.go)
 - [292. Nim Game](https://leetcode.com/problems/nim-game/)
