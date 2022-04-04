@@ -854,6 +854,8 @@
   | [Go](1700/1716.%20Calculate%20Money%20in%20Leetcode%20Bank/go/main.go)
 - [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
   | [Go](1700/1720.%20Decode%20XORed%20Array/go/main.go)
+- [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
+  | [Go](1700/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List/go/main.go)
 - [1725. Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)
   | [Go](1700/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square/go/main.go)
 - [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
