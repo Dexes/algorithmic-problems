@@ -2226,5 +2226,11 @@
   "2225. Find Players With Zero or One Losses": "https://leetcode.com/problems/find-players-with-zero-or-one-losses/",
   "2226. Maximum Candies Allocated to K Children": "https://leetcode.com/problems/maximum-candies-allocated-to-k-children/",
   "2227. Encrypt and Decrypt Strings": "https://leetcode.com/problems/encrypt-and-decrypt-strings/",
-  "2228. Users With Two Purchases Within Seven Days": "https://leetcode.com/problems/users-with-two-purchases-within-seven-days/"
+  "2228. Users With Two Purchases Within Seven Days": "https://leetcode.com/problems/users-with-two-purchases-within-seven-days/",
+  "2229. Check if an Array Is Consecutive": "https://leetcode.com/problems/check-if-an-array-is-consecutive/",
+  "2230. The Users That Are Eligible for Discount": "https://leetcode.com/problems/the-users-that-are-eligible-for-discount/",
+  "2231. Largest Number After Digit Swaps by Parity": "https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/",
+  "2232. Minimize Result by Adding Parentheses to Expression": "https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/",
+  "2233. Maximum Product After K Increments": "https://leetcode.com/problems/maximum-product-after-k-increments/",
+  "2234. Maximum Total Beauty of the Gardens": "https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/"
 }
