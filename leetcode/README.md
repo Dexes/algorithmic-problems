@@ -1074,3 +1074,7 @@
   | [Go](2200/2224.%20Minimum%20Number%20of%20Operations%20to%20Convert%20Time/go/main.go)
 - [2231. Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/)
   | [Go](2200/2231.%20Largest%20Number%20After%20Digit%20Swaps%20by%20Parity/go/main.go)
+- [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/)
+  | [Go](2200/2235.%20Add%20Two%20Integers/go/main.go)
+- [2236. Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)
+  | [Go](2200/2236.%20Root%20Equals%20Sum%20of%20Children/go/main.go)
