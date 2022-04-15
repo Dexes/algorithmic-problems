@@ -47,6 +47,8 @@
   | [C++](Volume%2002/1180/cpp/main.cpp) | [Go](Volume%2002/1180/go/main.go)
 - [1192. Ball in a Dream](https://acm.timus.ru/problem.aspx?num=1192)
   | [Python](Volume%2002/1192/python/main.py)
+- [1197. Lonesome Knight](https://acm.timus.ru/problem.aspx?num=1197)
+  | [Go](Volume%2002/1197/go/main.go)
 
 ## Volume 3 (1200-1299)
 
