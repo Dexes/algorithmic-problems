@@ -422,6 +422,8 @@
   | [Go](0600/0657.%20Robot%20Return%20to%20Origin/go/main.go)
 - [661. Image Smoother](https://leetcode.com/problems/image-smoother/)
   | [Go](0600/0661.%20Image%20Smoother/go/main.go)
+- [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)
+  | [Go](0600/0669.%20Trim%20a%20Binary%20Search%20Tree/go/main.go)
 - [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
   | [Go](0600/0671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree/go/main.go)
 - [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
