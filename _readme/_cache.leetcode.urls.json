@@ -2234,5 +2234,15 @@
   "2233. Maximum Product After K Increments": "https://leetcode.com/problems/maximum-product-after-k-increments/",
   "2234. Maximum Total Beauty of the Gardens": "https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/",
   "2235. Add Two Integers": "https://leetcode.com/problems/add-two-integers/",
-  "2236. Root Equals Sum of Children": "https://leetcode.com/problems/root-equals-sum-of-children/"
+  "2236. Root Equals Sum of Children": "https://leetcode.com/problems/root-equals-sum-of-children/",
+  "2237. Count Positions on Street With Required Brightness": "https://leetcode.com/problems/count-positions-on-street-with-required-brightness/",
+  "2238. Number of Times a Driver Was a Passenger": "https://leetcode.com/problems/number-of-times-a-driver-was-a-passenger/",
+  "2239. Find Closest Number to Zero": "https://leetcode.com/problems/find-closest-number-to-zero/",
+  "2240. Number of Ways to Buy Pens and Pencils": "https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/",
+  "2241. Design an ATM Machine": "https://leetcode.com/problems/design-an-atm-machine/",
+  "2242. Maximum Score of a Node Sequence": "https://leetcode.com/problems/maximum-score-of-a-node-sequence/",
+  "2243. Calculate Digit Sum of a String": "https://leetcode.com/problems/calculate-digit-sum-of-a-string/",
+  "2244. Minimum Rounds to Complete All Tasks": "https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/",
+  "2245. Maximum Trailing Zeros in a Cornered Path": "https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path/",
+  "2246. Longest Path With Different Adjacent Characters": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters/"
 }
