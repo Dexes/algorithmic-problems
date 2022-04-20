@@ -902,6 +902,8 @@
   | [Go](1700/1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal/go/main.go)
 - [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)
   | [Go](1700/1791.%20Find%20Center%20of%20Star%20Graph/go/main.go)
+- [1795. Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)
+  | [SQL](1700/1795.%20Rearrange%20Products%20Table/sql/main.sql)
 - [1796. Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)
   | [Go](1700/1796.%20Second%20Largest%20Digit%20in%20a%20String/go/main.go)
 - [1800. Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/)
