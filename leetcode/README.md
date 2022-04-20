@@ -166,6 +166,8 @@
   | [Go](0100/0169.%20Majority%20Element/go/main.go)
 - [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
   | [Go](0100/0171.%20Excel%20Sheet%20Column%20Number/go/main.go)
+- [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
+  | [Go](0100/0173.%20Binary%20Search%20Tree%20Iterator/go/main.go)
 - [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
   | [SQL](0100/0175.%20Combine%20Two%20Tables/sql/main.sql)
 - [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
