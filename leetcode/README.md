@@ -836,6 +836,8 @@
   | [Go](1600/1624.%20Largest%20Substring%20Between%20Two%20Equal%20Characters/go/main.go)
 - [1629. Slowest Key](https://leetcode.com/problems/slowest-key/)
   | [Go](1600/1629.%20Slowest%20Key/go/main.go)
+- [1630. Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)
+  | [Go](1600/1630.%20Arithmetic%20Subarrays/go/main.go)
 - [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
   | [Go](1600/1636.%20Sort%20Array%20by%20Increasing%20Frequency/go/main.go)
 - [1640. Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/)
