@@ -364,6 +364,8 @@
   | [Go](0500/0530.%20Minimum%20Absolute%20Difference%20in%20BST/go/main.go)
 - [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
   | [Go](0500/0532.%20K-diff%20Pairs%20in%20an%20Array/go/main.go)
+- [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
+  | [Go](0500/0535.%20Encode%20and%20Decode%20TinyURL/go/main.go)
 - [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)
   | [Go](0500/0538.%20Convert%20BST%20to%20Greater%20Tree/go/main.go)
 - [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
