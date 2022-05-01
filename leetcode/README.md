@@ -462,6 +462,8 @@
   | [Go](0700/0705.%20Design%20HashSet/go/main.go)
 - [706. Design HashMap](https://leetcode.com/problems/design-hashmap/)
   | [Go](0700/0706.%20Design%20HashMap/go/main.go)
+- [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)
+  | [Go](0700/0707.%20Design%20Linked%20List/go/main.go)
 - [709. To Lower Case](https://leetcode.com/problems/to-lower-case/)
   | [Go](0700/0709.%20To%20Lower%20Case/go/main.go)
 - [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)
