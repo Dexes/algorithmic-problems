@@ -860,6 +860,8 @@
   | [Go](1600/1672.%20Richest%20Customer%20Wealth/go/main.go)
 - [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
   | [Go](1600/1678.%20Goal%20Parser%20Interpretation/go/main.go)
+- [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
+  | [Go](1600/1679.%20Max%20Number%20of%20K-Sum%20Pairs/go/main.go)
 - [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
   | [Go](1600/1684.%20Count%20the%20Number%20of%20Consistent%20Strings/go/main.go)
 - [1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)
