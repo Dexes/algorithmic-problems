@@ -674,6 +674,8 @@
   | [Go](1200/1200.%20Minimum%20Absolute%20Difference/go/main.go)
 - [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
   | [Go](1200/1207.%20Unique%20Number%20of%20Occurrences/go/main.go)
+- [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
+  | [Go](1200/1209.%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/go/main.go)
 - [1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
   | [Go](1200/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position/go/main.go)
 - [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
