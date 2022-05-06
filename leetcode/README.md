@@ -416,6 +416,8 @@
   | [Go](0600/0617.%20Merge%20Two%20Binary%20Trees/go/main.go)
 - [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)
   | [SQL](0600/0620.%20Not%20Boring%20Movies/sql/main.sql)
+- [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
+  | [Go](0600/0622.%20Design%20Circular%20Queue/go/main.go)
 - [627. Swap Salary](https://leetcode.com/problems/swap-salary/)
   | [SQL](0600/0627.%20Swap%20Salary/sql/main.sql)
 - [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
