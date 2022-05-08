@@ -2260,5 +2260,10 @@
   "2259. Remove Digit From Number to Maximize Result": "https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/",
   "2260. Minimum Consecutive Cards to Pick Up": "https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/",
   "2261. K Divisible Elements Subarrays": "https://leetcode.com/problems/k-divisible-elements-subarrays/",
-  "2262. Total Appeal of A String": "https://leetcode.com/problems/total-appeal-of-a-string/"
+  "2262. Total Appeal of A String": "https://leetcode.com/problems/total-appeal-of-a-string/",
+  "2263. Make Array Non-decreasing or Non-increasing": "https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing/",
+  "2264. Largest 3-Same-Digit Number in String": "https://leetcode.com/problems/largest-3-same-digit-number-in-string/",
+  "2265. Count Nodes Equal to Average of Subtree": "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/",
+  "2266. Count Number of Texts": "https://leetcode.com/problems/count-number-of-texts/",
+  "2267.  Check if There Is a Valid Parentheses String Path": "https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/"
 }

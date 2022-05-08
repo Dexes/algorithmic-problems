@@ -1,19 +1,5 @@
 package main
 
-func main() {
-	x := Constructor(3)
-	q := &x
-	println(q.EnQueue(1))
-	println(q.EnQueue(2))
-	println(q.EnQueue(3))
-	println(q.EnQueue(4))
-	println(q.Rear())
-	println(q.IsFull())
-	println(q.DeQueue())
-	println(q.EnQueue(4))
-	println(q.Rear())
-}
-
 type MyCircularQueue struct {
 	data      []int
 	headIndex int
