@@ -730,6 +730,8 @@
   | [Go](1200/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits/go/main.go)
 - [1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)
   | [Go](1200/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/go/main.go)
+- [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
+  | [Go](1300/1302.%20Deepest%20Leaves%20Sum/go/main.go)
 - [1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
   | [Go](1300/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero/go/main.go)
 - [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
