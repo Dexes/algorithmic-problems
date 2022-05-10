@@ -208,6 +208,8 @@
   | [Go](0200/0213.%20House%20Robber%20II/go/main.go)
 - [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
   | [Go](0200/0215.%20Kth%20Largest%20Element%20in%20an%20Array/go/main.go)
+- [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
+  | [Go](0200/0216.%20Combination%20Sum%20III/go/main.go)
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
   | [Go](0200/0217.%20Contains%20Duplicate/go/main.go)
 - [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
