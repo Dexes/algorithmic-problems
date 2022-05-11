@@ -896,6 +896,8 @@
   | [Go](1600/1636.%20Sort%20Array%20by%20Increasing%20Frequency/go/main.go)
 - [1640. Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/)
   | [Go](1600/1640.%20Check%20Array%20Formation%20Through%20Concatenation/go/main.go)
+- [1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
+  | [Go](1600/1641.%20Count%20Sorted%20Vowel%20Strings/go/main.go)
 - [1646. Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)
   | [Go](1600/1646.%20Get%20Maximum%20in%20Generated%20Array/go/main.go)
 - [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)
