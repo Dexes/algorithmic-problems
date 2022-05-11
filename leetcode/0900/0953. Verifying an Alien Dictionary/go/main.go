@@ -26,7 +26,7 @@ func check(first, second string, letterWeights []int) bool {
 }
 
 func getLetterWeights(order string) []int {
-	result := make([]int, 133)
+	result := make([]int, 123)
 	for i := 0; i < len(order); i++ {
 		result[order[i]] = i
 	}

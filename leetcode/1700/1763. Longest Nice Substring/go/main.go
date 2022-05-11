@@ -37,7 +37,7 @@ func longest(a, b string) string {
 }
 
 func hinderingLetters(s string) ([]bool, bool) {
-	letters := make([]bool, 133)
+	letters := make([]bool, 123)
 	for i := 0; i < len(s); i++ {
 		letters[s[i]] = true
 	}

@@ -5,7 +5,7 @@ func isAnagram(s string, t string) bool {
 		return false
 	}
 
-	letters := make([]int, 133)
+	letters := make([]int, 123)
 	for i := 0; i < len(s); i++ {
 		letters[s[i]]++
 		letters[t[i]]--

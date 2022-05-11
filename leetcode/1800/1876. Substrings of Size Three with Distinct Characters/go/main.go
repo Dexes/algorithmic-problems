@@ -6,7 +6,7 @@ func countGoodSubstrings(s string) int {
 		return 0
 	}
 
-	result, letters := 0, make([]byte, 133)
+	result, letters := 0, make([]byte, 123)
 	for i := 0; i < subLength; i++ {
 		letters[s[i]]++
 	}

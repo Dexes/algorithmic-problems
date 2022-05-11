@@ -33,7 +33,7 @@ func buddyStrings(s string, goal string) bool {
 }
 
 func checkRepeated(s string) bool {
-	letters := make([]bool, 133)
+	letters := make([]bool, 123)
 	for i := 0; i < len(s); i++ {
 		if letters[s[i]] {
 			return true

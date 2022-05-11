@@ -556,6 +556,8 @@
   | [Go](0800/0884.%20Uncommon%20Words%20from%20Two%20Sentences/go/main.go)
 - [888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
   | [Go](0800/0888.%20Fair%20Candy%20Swap/go/main.go)
+- [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
+  | [Go](0800/0890.%20Find%20and%20Replace%20Pattern/go/main.go)
 - [892. Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)
   | [Go](0800/0892.%20Surface%20Area%20of%203D%20Shapes/go/main.go)
 - [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
