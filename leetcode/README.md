@@ -724,6 +724,8 @@
   | [Go](1200/1275.%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game/go/main.go)
 - [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
   | [Go](1200/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/go/main.go)
+- [1286. Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)
+  | [Go](1200/1286.%20Iterator%20for%20Combination/go/main.go)
 - [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)
   | [Go](1200/1287.%20Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array/go/main.go)
 - [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)
