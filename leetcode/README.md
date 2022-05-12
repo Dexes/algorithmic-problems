@@ -50,6 +50,8 @@
   | [Go](0000/0035.%20Search%20Insert%20Position/go/main.go)
 - [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/)
   | [Go](0000/0043.%20Multiply%20Strings/go/main.go)
+- [47. Permutations II](https://leetcode.com/problems/permutations-ii/)
+  | [Go](0000/0047.%20Permutations%20II/go/main.go)
 - [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
   | [Go](0000/0048.%20Rotate%20Image/go/main.go)
 - [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)
