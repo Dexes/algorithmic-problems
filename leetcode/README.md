@@ -578,6 +578,8 @@
   | [Go](0900/0914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards/go/main.go)
 - [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)
   | [Go](0900/0917.%20Reverse%20Only%20Letters/go/main.go)
+- [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+  | [Go](0900/0921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid/go/main.go)
 - [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
   | [Go](0900/0922.%20Sort%20Array%20By%20Parity%20II/go/main.go)
 - [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
