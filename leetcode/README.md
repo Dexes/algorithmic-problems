@@ -496,6 +496,8 @@
   | [Go](0700/0733.%20Flood%20Fill/go/main.go)
 - [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
   | [Go](0700/0739.%20Daily%20Temperatures/go/main.go)
+- [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/)
+  | [Go](0700/0743.%20Network%20Delay%20Time/go/main.go)
 - [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
   | [Go](0700/0744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/go/main.go)
 - [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
