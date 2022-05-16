@@ -674,6 +674,8 @@
   | [SQL](1000/1084.%20Sales%20Analysis%20III/sql/main.sql)
 - [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)
   | [Go](1000/1089.%20Duplicate%20Zeros/go/main.go)
+- [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
+  | [Go](1000/1091.%20Shortest%20Path%20in%20Binary%20Matrix/go/main.go)
 - [1094. Car Pooling](https://leetcode.com/problems/car-pooling/)
   | [Go](1000/1094.%20Car%20Pooling/go/main.go)
 - [1103. Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)
