@@ -1196,3 +1196,7 @@
   | [Go](2200/2259.%20Remove%20Digit%20From%20Number%20to%20Maximize%20Result/go/main.go)
 - [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)
   | [Go](2200/2264.%20Largest%203-Same-Digit%20Number%20in%20String/go/main.go)
+- [2269. Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/)
+  | [Go](2200/2269.%20Find%20the%20K-Beauty%20of%20a%20Number/go/main.go)
+- [2273. Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/)
+  | [Go](2200/2273.%20Find%20Resultant%20Array%20After%20Removing%20Anagrams/go/main.go)
