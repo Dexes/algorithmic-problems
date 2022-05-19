@@ -1,9 +1,5 @@
 package main
 
-func main() {
-	println(uniquePathsWithObstacles([][]int{{0, 0, 0}, {0, 1, 0}, {0, 0, 0}}))
-}
-
 func uniquePathsWithObstacles(grid [][]int) int {
 	m, n := len(grid)-1, len(grid[0])-1
 	if grid[m][n] == 1 {
