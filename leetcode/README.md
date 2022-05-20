@@ -344,6 +344,8 @@
   | [Go](0400/0461.%20Hamming%20Distance/go/main.go)
 - [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)
   | [Go](0400/0463.%20Island%20Perimeter/go/main.go)
+- [468. Validate IP Address](https://leetcode.com/problems/validate-ip-address/)
+  | [Go](0400/0468.%20Validate%20IP%20Address/go/main.go)
 - [476. Number Complement](https://leetcode.com/problems/number-complement/)
   | [Go](0400/0476.%20Number%20Complement/go/main.go)
 - [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)
