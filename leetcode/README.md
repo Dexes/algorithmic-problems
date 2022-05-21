@@ -268,6 +268,8 @@
   | [Go](0200/0292.%20Nim%20Game/go/main.go)
 - [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
   | [Go](0300/0303.%20Range%20Sum%20Query%20-%20Immutable/go/main.go)
+- [322. Coin Change](https://leetcode.com/problems/coin-change/)
+  | [Go](0300/0322.%20Coin%20Change/go/main.go)
 - [326. Power of Three](https://leetcode.com/problems/power-of-three/)
   | [Go](0300/0326.%20Power%20of%20Three/go/main.go)
 - [338. Counting Bits](https://leetcode.com/problems/counting-bits/)
