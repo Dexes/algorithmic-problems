@@ -1208,3 +1208,5 @@
   | [Go](2200/2269.%20Find%20the%20K-Beauty%20of%20a%20Number/go/main.go)
 - [2273. Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/)
   | [Go](2200/2273.%20Find%20Resultant%20Array%20After%20Removing%20Anagrams/go/main.go)
+- [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)
+  | [Go](2200/2278.%20Percentage%20of%20Letter%20in%20String/go/main.go)

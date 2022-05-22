@@ -2274,5 +2274,10 @@
   "2273. Find Resultant Array After Removing Anagrams": "https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/",
   "2274. Maximum Consecutive Floors Without Special Floors": "https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/",
   "2275. Largest Combination With Bitwise AND Greater Than Zero": "https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/",
-  "2276. Count Integers in Intervals": "https://leetcode.com/problems/count-integers-in-intervals/"
+  "2276. Count Integers in Intervals": "https://leetcode.com/problems/count-integers-in-intervals/",
+  "2277. Closest Node to Path in Tree": "https://leetcode.com/problems/closest-node-to-path-in-tree/",
+  "2278. Percentage of Letter in String": "https://leetcode.com/problems/percentage-of-letter-in-string/",
+  "2279. Maximum Bags With Full Capacity of Rocks": "https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/",
+  "2280. Minimum Lines to Represent a Line Chart": "https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/",
+  "2281. Sum of Total Strength of Wizards": "https://leetcode.com/problems/sum-of-total-strength-of-wizards/"
 }
