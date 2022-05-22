@@ -1210,3 +1210,7 @@
   | [Go](2200/2273.%20Find%20Resultant%20Array%20After%20Removing%20Anagrams/go/main.go)
 - [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)
   | [Go](2200/2278.%20Percentage%20of%20Letter%20in%20String/go/main.go)
+- [2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
+  | [Go](2200/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks/go/main.go)
+- [2280. Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/)
+  | [Go](2200/2280.%20Minimum%20Lines%20to%20Represent%20a%20Line%20Chart/go/main.go)
