@@ -1214,3 +1214,7 @@
   | [Go](2200/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks/go/main.go)
 - [2280. Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/)
   | [Go](2200/2280.%20Minimum%20Lines%20to%20Represent%20a%20Line%20Chart/go/main.go)
+- [2283. Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)
+  | [Go](2200/2283.%20Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/go/main.go)
+- [2284. Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/)
+  | [Go](2200/2284.%20Sender%20With%20Largest%20Word%20Count/go/main.go)
