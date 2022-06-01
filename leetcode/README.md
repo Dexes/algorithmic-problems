@@ -1218,3 +1218,5 @@
   | [Go](2200/2283.%20Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/go/main.go)
 - [2284. Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/)
   | [Go](2200/2284.%20Sender%20With%20Largest%20Word%20Count/go/main.go)
+- [2287. Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/)
+  | [Go](2200/2287.%20Rearrange%20Characters%20to%20Make%20Target%20String/go/main.go)
