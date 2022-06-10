@@ -1,36 +1,29 @@
 package main
 
 func lengthOfLongestSubstring(str string) int {
-	result := 0
-	length := len(str)
-	left, right := 0, 0
-	set := make(map[uint8]bool)
+	result, left, right := 0, 0, 0
+	symbols := make([]bool, 127)
 
-	for ; right < length; right++ {
-		if set[str[right]] {
-			result = max(result, right-left)
-			left = truncate(str, set, left, str[right])
+	for ; right < len(str); right++ {
+		if !symbols[str[right]] {
+			symbols[str[right]] = true
+			continue
 		}
 
-		set[str[right]] = true
-	}
-
-	return max(result, right-left)
-}
-
-func truncate(str string, set map[uint8]bool, left int, char uint8) int {
-	for ; ; left++ {
-		set[str[left]] = false
-		if str[left] == char {
-			return left + 1
+		if width := right - left; width > result {
+			result = width
 		}
-	}
-}
 
-func max(x, y int) int {
-	if x > y {
-		return x
+		for ; str[left] != str[right]; left++ {
+			symbols[str[left]] = false
+		}
+
+		left++
 	}
 
-	return y
+	if width := right - left; width > result {
+		result = width
+	}
+
+	return result
 }
