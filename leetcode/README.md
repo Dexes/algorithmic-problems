@@ -1222,3 +1222,7 @@
   | [Go](2200/2287.%20Rearrange%20Characters%20to%20Make%20Target%20String/go/main.go)
 - [2293. Min Max Game](https://leetcode.com/problems/min-max-game/)
   | [Go](2200/2293.%20Min%20Max%20Game/go/main.go)
+- [2299. Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/)
+  | [Go](2200/2299.%20Strong%20Password%20Checker%20II/go/main.go)
+- [2303. Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/)
+  | [Go](2300/2303.%20Calculate%20Amount%20Paid%20in%20Taxes/go/main.go)
