@@ -136,6 +136,8 @@
   | [Go](0100/0118.%20Pascal's%20Triangle/go/main.go)
 - [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
   | [Go](0100/0119.%20Pascal's%20Triangle%20II/go/main.go)
+- [120. Triangle](https://leetcode.com/problems/triangle/)
+  | [Go](0100/0120.%20Triangle/go/main.go)
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   | [Go](0100/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/go/main.go)
 - [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
