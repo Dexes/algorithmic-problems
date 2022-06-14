@@ -1,4 +1,4 @@
-### easy 479 / 578 &nbsp;|&nbsp; medium 135 / 1225 &nbsp;|&nbsp; hard 10 / 503
+### easy 479 / 578 &nbsp;|&nbsp; medium 137 / 1225 &nbsp;|&nbsp; hard 10 / 503
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -432,6 +432,8 @@
 &nbsp;|&nbsp; [Go](0500/0572.%20Subtree%20of%20Another%20Tree/go/main.go)
 - [575. Distribute Candies (easy)](https://leetcode.com/problems/distribute-candies/)
 &nbsp;|&nbsp; [Go](0500/0575.%20Distribute%20Candies/go/main.go)
+- [583. Delete Operation for Two Strings (medium)](https://leetcode.com/problems/delete-operation-for-two-strings/)
+&nbsp;|&nbsp; [Go](0500/0583.%20Delete%20Operation%20for%20Two%20Strings/go/main.go)
 - [584. Find Customer Referee (easy)](https://leetcode.com/problems/find-customer-referee/)
 &nbsp;|&nbsp; [SQL](0500/0584.%20Find%20Customer%20Referee/sql/main.sql)
 - [586. Customer Placing the Largest Number of Orders (easy)](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)
@@ -718,6 +720,8 @@
 &nbsp;|&nbsp; [Go](1100/1137.%20N-th%20Tribonacci%20Number/go/main.go)
 - [1141. User Activity for the Past 30 Days I (easy)](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/)
 &nbsp;|&nbsp; [SQL](1100/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I/sql/main.sql)
+- [1143. Longest Common Subsequence (medium)](https://leetcode.com/problems/longest-common-subsequence/)
+&nbsp;|&nbsp; [Go](1100/1143.%20Longest%20Common%20Subsequence/go/main.go)
 - [1148. Article Views I (easy)](https://leetcode.com/problems/article-views-i/)
 &nbsp;|&nbsp; [SQL](1100/1148.%20Article%20Views%20I/sql/main.sql)
 - [1154. Day of the Year (easy)](https://leetcode.com/problems/day-of-the-year/)
