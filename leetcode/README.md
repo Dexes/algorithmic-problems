@@ -1,4 +1,4 @@
-### easy 479 / 578 &nbsp;|&nbsp; medium 139 / 1225 &nbsp;|&nbsp; hard 11 / 503
+### easy 479 / 578 &nbsp;|&nbsp; medium 139 / 1225 &nbsp;|&nbsp; hard 12 / 503
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1258,3 +1258,5 @@
 &nbsp;|&nbsp; [Go](2200/2299.%20Strong%20Password%20Checker%20II/go/main.go)
 - [2303. Calculate Amount Paid in Taxes (easy)](https://leetcode.com/problems/calculate-amount-paid-in-taxes/)
 &nbsp;|&nbsp; [Go](2300/2303.%20Calculate%20Amount%20Paid%20in%20Taxes/go/main.go)
+- [2306. Naming a Company (hard)](https://leetcode.com/problems/naming-a-company/)
+&nbsp;|&nbsp; [Go](2300/2306.%20Naming%20a%20Company/go/main.go)
