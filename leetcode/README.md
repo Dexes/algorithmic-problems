@@ -1,4 +1,4 @@
-### easy 479 / 578 &nbsp;|&nbsp; medium 137 / 1225 &nbsp;|&nbsp; hard 10 / 503
+### easy 479 / 578 &nbsp;|&nbsp; medium 138 / 1225 &nbsp;|&nbsp; hard 10 / 503
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -136,6 +136,8 @@
 &nbsp;|&nbsp; [Go](0100/0111.%20Minimum%20Depth%20of%20Binary%20Tree/go/main.go)
 - [112. Path Sum (easy)](https://leetcode.com/problems/path-sum/)
 &nbsp;|&nbsp; [Go](0100/0112.%20Path%20Sum/go/main.go)
+- [113. Path Sum II (medium)](https://leetcode.com/problems/path-sum-ii/)
+&nbsp;|&nbsp; [Go](0100/0113.%20Path%20Sum%20II/go/main.go)
 - [116. Populating Next Right Pointers in Each Node (medium)](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 &nbsp;|&nbsp; [Go](0100/0116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node/go/main.go)
 - [117. Populating Next Right Pointers in Each Node II (medium)](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
