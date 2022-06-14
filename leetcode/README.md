@@ -1,4 +1,4 @@
-### easy 479 / 578 &nbsp;|&nbsp; medium 138 / 1225 &nbsp;|&nbsp; hard 10 / 503
+### easy 479 / 578 &nbsp;|&nbsp; medium 139 / 1225 &nbsp;|&nbsp; hard 11 / 503
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -52,6 +52,10 @@
 &nbsp;|&nbsp; [Go](0000/0033.%20Search%20in%20Rotated%20Sorted%20Array/go/main.go)
 - [35. Search Insert Position (easy)](https://leetcode.com/problems/search-insert-position/)
 &nbsp;|&nbsp; [Go](0000/0035.%20Search%20Insert%20Position/go/main.go)
+- [36. Valid Sudoku (medium)](https://leetcode.com/problems/valid-sudoku/)
+&nbsp;|&nbsp; [Go](0000/0036.%20Valid%20Sudoku/go/main.go)
+- [37. Sudoku Solver (hard)](https://leetcode.com/problems/sudoku-solver/)
+&nbsp;|&nbsp; [Go](0000/0037.%20Sudoku%20Solver/go/main.go)
 - [43. Multiply Strings (medium)](https://leetcode.com/problems/multiply-strings/)
 &nbsp;|&nbsp; [Go](0000/0043.%20Multiply%20Strings/go/main.go)
 - [47. Permutations II (medium)](https://leetcode.com/problems/permutations-ii/)
