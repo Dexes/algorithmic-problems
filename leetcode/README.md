@@ -1,4 +1,4 @@
-### easy 479 / 578 &nbsp;|&nbsp; medium 140 / 1225 &nbsp;|&nbsp; hard 12 / 503
+### easy 479 / 578 &nbsp;|&nbsp; medium 143 / 1225 &nbsp;|&nbsp; hard 13 / 503
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -58,6 +58,8 @@
 &nbsp;|&nbsp; [Go](0000/0037.%20Sudoku%20Solver/go/main.go)
 - [43. Multiply Strings (medium)](https://leetcode.com/problems/multiply-strings/)
 &nbsp;|&nbsp; [Go](0000/0043.%20Multiply%20Strings/go/main.go)
+- [46. Permutations (medium)](https://leetcode.com/problems/permutations/)
+&nbsp;|&nbsp; [Go](0000/0046.%20Permutations/go/main.go)
 - [47. Permutations II (medium)](https://leetcode.com/problems/permutations-ii/)
 &nbsp;|&nbsp; [Go](0000/0047.%20Permutations%20II/go/main.go)
 - [48. Rotate Image (medium)](https://leetcode.com/problems/rotate-image/)
@@ -550,6 +552,8 @@
 &nbsp;|&nbsp; [Go](0700/0771.%20Jewels%20and%20Stones/go/main.go)
 - [783. Minimum Distance Between BST Nodes (easy)](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
 &nbsp;|&nbsp; [Go](0700/0783.%20Minimum%20Distance%20Between%20BST%20Nodes/go/main.go)
+- [784. Letter Case Permutation (medium)](https://leetcode.com/problems/letter-case-permutation/)
+&nbsp;|&nbsp; [Go](0700/0784.%20Letter%20Case%20Permutation/go/main.go)
 - [796. Rotate String (easy)](https://leetcode.com/problems/rotate-string/)
 &nbsp;|&nbsp; [Go](0700/0796.%20Rotate%20String/go/main.go)
 - [804. Unique Morse Code Words (easy)](https://leetcode.com/problems/unique-morse-code-words/)
@@ -566,6 +570,8 @@
 &nbsp;|&nbsp; [Go](0800/0824.%20Goat%20Latin/go/main.go)
 - [830. Positions of Large Groups (easy)](https://leetcode.com/problems/positions-of-large-groups/)
 &nbsp;|&nbsp; [Go](0800/0830.%20Positions%20of%20Large%20Groups/go/main.go)
+- [831. Masking Personal Information (medium)](https://leetcode.com/problems/masking-personal-information/)
+&nbsp;|&nbsp; [Go](0800/0831.%20Masking%20Personal%20Information/go/main.go)
 - [832. Flipping an Image (easy)](https://leetcode.com/problems/flipping-an-image/)
 &nbsp;|&nbsp; [Go](0800/0832.%20Flipping%20an%20Image/go/main.go)
 - [836. Rectangle Overlap (easy)](https://leetcode.com/problems/rectangle-overlap/)
@@ -756,6 +762,8 @@
 &nbsp;|&nbsp; [Go](1200/1209.%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/go/main.go)
 - [1217. Minimum Cost to Move Chips to The Same Position (easy)](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
 &nbsp;|&nbsp; [Go](1200/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position/go/main.go)
+- [1220. Count Vowels Permutation (hard)](https://leetcode.com/problems/count-vowels-permutation/)
+&nbsp;|&nbsp; [Go](1200/1220.%20Count%20Vowels%20Permutation/go/main.go)
 - [1221. Split a String in Balanced Strings (easy)](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 &nbsp;|&nbsp; [Go](1200/1221.%20Split%20a%20String%20in%20Balanced%20Strings/go/main.go)
 - [1232. Check If It Is a Straight Line (easy)](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
