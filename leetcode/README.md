@@ -1,4 +1,4 @@
-### easy 479 / 578 &nbsp;|&nbsp; medium 139 / 1225 &nbsp;|&nbsp; hard 12 / 503
+### easy 479 / 578 &nbsp;|&nbsp; medium 140 / 1225 &nbsp;|&nbsp; hard 12 / 503
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -736,6 +736,8 @@
 &nbsp;|&nbsp; [SQL](1100/1158.%20Market%20Analysis%20I/sql/main.sql)
 - [1160. Find Words That Can Be Formed by Characters (easy)](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
 &nbsp;|&nbsp; [Go](1100/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/go/main.go)
+- [1169. Invalid Transactions (medium)](https://leetcode.com/problems/invalid-transactions/)
+&nbsp;|&nbsp; [Go](1100/1169.%20Invalid%20Transactions/go/main.go)
 - [1175. Prime Arrangements (easy)](https://leetcode.com/problems/prime-arrangements/)
 &nbsp;|&nbsp; [Go](1100/1175.%20Prime%20Arrangements/go/main.go)
 - [1179. Reformat Department Table (easy)](https://leetcode.com/problems/reformat-department-table/)
