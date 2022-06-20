@@ -2304,5 +2304,11 @@
   "2303. Calculate Amount Paid in Taxes": {"url": "https://leetcode.com/problems/calculate-amount-paid-in-taxes/", "difficulty": 0, "premium": false},
   "2304. Minimum Path Cost in a Grid": {"url": "https://leetcode.com/problems/minimum-path-cost-in-a-grid/", "difficulty": 1, "premium": false},
   "2305. Fair Distribution of Cookies": {"url": "https://leetcode.com/problems/fair-distribution-of-cookies/", "difficulty": 1, "premium": false},
-  "2306. Naming a Company": {"url": "https://leetcode.com/problems/naming-a-company/", "difficulty": 2, "premium": false}
+  "2306. Naming a Company": {"url": "https://leetcode.com/problems/naming-a-company/", "difficulty": 2, "premium": false},
+  "2307. Check for Contradictions in Equations": {"url": "https://leetcode.com/problems/check-for-contradictions-in-equations/", "difficulty": 2, "premium": true},
+  "2308. Arrange Table by Gender": {"url": "https://leetcode.com/problems/arrange-table-by-gender/", "difficulty": 1, "premium": true},
+  "2309. Greatest English Letter in Upper and Lower Case": {"url": "https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/", "difficulty": 0, "premium": false},
+  "2310. Sum of Numbers With Units Digit K": {"url": "https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/", "difficulty": 1, "premium": false},
+  "2311. Longest Binary Subsequence Less Than or Equal to K": {"url": "https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/", "difficulty": 1, "premium": false},
+  "2312. Selling Pieces of Wood": {"url": "https://leetcode.com/problems/selling-pieces-of-wood/", "difficulty": 2, "premium": false}
 }

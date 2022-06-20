@@ -89,9 +89,9 @@ func (l *leetCode) generateReadme(data map[string][]*leetCodeTask) {
 		//readmeContent.WriteString("</details>\n")
 	}
 
-	header := "### easy " + strconv.Itoa(easySolved) + " / " + strconv.Itoa(easyTotal) +
-		" &nbsp;|&nbsp; medium " + strconv.Itoa(mediumSolved) + " / " + strconv.Itoa(mediumTotal) +
-		" &nbsp;|&nbsp; hard " + strconv.Itoa(hardSolved) + " / " + strconv.Itoa(hardTotal) + "\n\n"
+	header := "### easy " + fmt.Sprintf("%d / %d (%.2f%%)", easySolved, easyTotal, float64(easySolved)/float64(easyTotal)*100) +
+		" &nbsp;|&nbsp; medium " + fmt.Sprintf("%d / %d (%.2f%%)", mediumSolved, mediumTotal, float64(mediumSolved)/float64(mediumTotal)*100) +
+		" &nbsp;|&nbsp; hard " + fmt.Sprintf("%d / %d (%.2f%%)", hardSolved, hardTotal, float64(hardSolved)/float64(hardTotal)*100) + "\n\n"
 
 	file, _ := os.OpenFile("../leetcode/README.md", os.O_WRONLY|os.O_TRUNC|os.O_CREATE, 0777)
 	_, _ = file.Write([]byte(header + readmeContent.String()))

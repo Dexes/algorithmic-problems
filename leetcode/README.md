@@ -1,4 +1,4 @@
-### easy 479 / 578 &nbsp;|&nbsp; medium 143 / 1225 &nbsp;|&nbsp; hard 13 / 503
+### easy 480 / 579 (82.90%) &nbsp;|&nbsp; medium 143 / 1228 (11.64%) &nbsp;|&nbsp; hard 13 / 505 (2.57%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1270,3 +1270,5 @@
 &nbsp;|&nbsp; [Go](2300/2303.%20Calculate%20Amount%20Paid%20in%20Taxes/go/main.go)
 - [2306. Naming a Company (hard)](https://leetcode.com/problems/naming-a-company/)
 &nbsp;|&nbsp; [Go](2300/2306.%20Naming%20a%20Company/go/main.go)
+- [2309. Greatest English Letter in Upper and Lower Case (easy)](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/)
+&nbsp;|&nbsp; [Go](2300/2309.%20Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/go/main.go)
