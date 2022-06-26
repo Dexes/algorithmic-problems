@@ -1,4 +1,4 @@
-### easy 482 / 581 (82.96%) &nbsp;|&nbsp; medium 144 / 1232 (11.69%) &nbsp;|&nbsp; hard 13 / 509 (2.55%)
+### easy 482 / 581 (82.96%) &nbsp;|&nbsp; medium 146 / 1232 (11.85%) &nbsp;|&nbsp; hard 13 / 509 (2.55%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -560,6 +560,8 @@
 &nbsp;|&nbsp; [Go](0800/0804.%20Unique%20Morse%20Code%20Words/go/main.go)
 - [806. Number of Lines To Write String (easy)](https://leetcode.com/problems/number-of-lines-to-write-string/)
 &nbsp;|&nbsp; [Go](0800/0806.%20Number%20of%20Lines%20To%20Write%20String/go/main.go)
+- [807. Max Increase to Keep City Skyline (medium)](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)
+&nbsp;|&nbsp; [Go](0800/0807.%20Max%20Increase%20to%20Keep%20City%20Skyline/go/main.go)
 - [812. Largest Triangle Area (easy)](https://leetcode.com/problems/largest-triangle-area/)
 &nbsp;|&nbsp; [Go](0800/0812.%20Largest%20Triangle%20Area/go/main.go)
 - [819. Most Common Word (easy)](https://leetcode.com/problems/most-common-word/)
@@ -1052,6 +1054,8 @@
 &nbsp;|&nbsp; [Go](1800/1822.%20Sign%20of%20the%20Product%20of%20an%20Array/go/main.go)
 - [1827. Minimum Operations to Make the Array Increasing (easy)](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)
 &nbsp;|&nbsp; [Go](1800/1827.%20Minimum%20Operations%20to%20Make%20the%20Array%20Increasing/go/main.go)
+- [1828. Queries on Number of Points Inside a Circle (medium)](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)
+&nbsp;|&nbsp; [Go](1800/1828.%20Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle/go/main.go)
 - [1829. Maximum XOR for Each Query (medium)](https://leetcode.com/problems/maximum-xor-for-each-query/)
 &nbsp;|&nbsp; [Go](1800/1829.%20Maximum%20XOR%20for%20Each%20Query/go/main.go)
 - [1832. Check if the Sentence Is Pangram (easy)](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
