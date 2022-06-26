@@ -2310,5 +2310,15 @@
   "2309. Greatest English Letter in Upper and Lower Case": {"url": "https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/", "difficulty": 0, "premium": false},
   "2310. Sum of Numbers With Units Digit K": {"url": "https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/", "difficulty": 1, "premium": false},
   "2311. Longest Binary Subsequence Less Than or Equal to K": {"url": "https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/", "difficulty": 1, "premium": false},
-  "2312. Selling Pieces of Wood": {"url": "https://leetcode.com/problems/selling-pieces-of-wood/", "difficulty": 2, "premium": false}
+  "2312. Selling Pieces of Wood": {"url": "https://leetcode.com/problems/selling-pieces-of-wood/", "difficulty": 2, "premium": false},
+  "2313. Minimum Flips in Binary Tree to Get Result": {"url": "https://leetcode.com/problems/minimum-flips-in-binary-tree-to-get-result/", "difficulty": 2, "premium": true},
+  "2314. The First Day of the Maximum Recorded Degree in Each City": {"url": "https://leetcode.com/problems/the-first-day-of-the-maximum-recorded-degree-in-each-city/", "difficulty": 1, "premium": true},
+  "2315. Count Asterisks": {"url": "https://leetcode.com/problems/count-asterisks/", "difficulty": 0, "premium": false},
+  "2316. Count Unreachable Pairs of Nodes in an Undirected Graph": {"url": "https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/", "difficulty": 1, "premium": false},
+  "2317. Maximum XOR After Operations": {"url": "https://leetcode.com/problems/maximum-xor-after-operations/", "difficulty": 1, "premium": false},
+  "2318. Number of Distinct Roll Sequences": {"url": "https://leetcode.com/problems/number-of-distinct-roll-sequences/", "difficulty": 2, "premium": false},
+  "2319. Check if Matrix Is X-Matrix": {"url": "https://leetcode.com/problems/check-if-matrix-is-x-matrix/", "difficulty": 0, "premium": false},
+  "2320. Count Number of Ways to Place Houses": {"url": "https://leetcode.com/problems/count-number-of-ways-to-place-houses/", "difficulty": 1, "premium": false},
+  "2321. Maximum Score Of Spliced Array": {"url": "https://leetcode.com/problems/maximum-score-of-spliced-array/", "difficulty": 2, "premium": false},
+  "2322. Minimum Score After Removals on a Tree": {"url": "https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/", "difficulty": 2, "premium": false}
 }

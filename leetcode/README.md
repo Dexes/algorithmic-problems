@@ -1,4 +1,4 @@
-### easy 480 / 579 (82.90%) &nbsp;|&nbsp; medium 143 / 1228 (11.64%) &nbsp;|&nbsp; hard 13 / 505 (2.57%)
+### easy 482 / 581 (82.96%) &nbsp;|&nbsp; medium 144 / 1232 (11.69%) &nbsp;|&nbsp; hard 13 / 509 (2.55%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -860,6 +860,8 @@
 &nbsp;|&nbsp; [Go](1400/1417.%20Reformat%20The%20String/go/main.go)
 - [1422. Maximum Score After Splitting a String (easy)](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)
 &nbsp;|&nbsp; [Go](1400/1422.%20Maximum%20Score%20After%20Splitting%20a%20String/go/main.go)
+- [1423. Maximum Points You Can Obtain from Cards (medium)](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
+&nbsp;|&nbsp; [Go](1400/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/go/main.go)
 - [1431. Kids With the Greatest Number of Candies (easy)](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 &nbsp;|&nbsp; [Go](1400/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies/go/main.go)
 - [1436. Destination City (easy)](https://leetcode.com/problems/destination-city/)
@@ -1272,3 +1274,7 @@
 &nbsp;|&nbsp; [Go](2300/2306.%20Naming%20a%20Company/go/main.go)
 - [2309. Greatest English Letter in Upper and Lower Case (easy)](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/)
 &nbsp;|&nbsp; [Go](2300/2309.%20Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case/go/main.go)
+- [2315. Count Asterisks (easy)](https://leetcode.com/problems/count-asterisks/)
+&nbsp;|&nbsp; [Go](2300/2315.%20Count%20Asterisks/go/main.go)
+- [2319. Check if Matrix Is X-Matrix (easy)](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)
+&nbsp;|&nbsp; [Go](2300/2319.%20Check%20if%20Matrix%20Is%20X-Matrix/go/main.go)
