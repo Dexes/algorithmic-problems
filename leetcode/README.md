@@ -1,4 +1,4 @@
-### easy 482 / 581 (82.96%) &nbsp;|&nbsp; medium 146 / 1232 (11.85%) &nbsp;|&nbsp; hard 13 / 509 (2.55%)
+### easy 484 / 583 (83.02%) &nbsp;|&nbsp; medium 146 / 1240 (11.77%) &nbsp;|&nbsp; hard 13 / 511 (2.54%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1282,3 +1282,7 @@
 &nbsp;|&nbsp; [Go](2300/2315.%20Count%20Asterisks/go/main.go)
 - [2319. Check if Matrix Is X-Matrix (easy)](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)
 &nbsp;|&nbsp; [Go](2300/2319.%20Check%20if%20Matrix%20Is%20X-Matrix/go/main.go)
+- [2325. Decode the Message (easy)](https://leetcode.com/problems/decode-the-message/)
+&nbsp;|&nbsp; [Go](2300/2325.%20Decode%20the%20Message/go/main.go)
+- [2331. Evaluate Boolean Binary Tree (easy)](https://leetcode.com/problems/evaluate-boolean-binary-tree/)
+&nbsp;|&nbsp; [Go](2300/2331.%20Evaluate%20Boolean%20Binary%20Tree/go/main.go)
