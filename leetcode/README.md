@@ -1,4 +1,4 @@
-### easy 484 / 583 (83.02%) &nbsp;|&nbsp; medium 146 / 1240 (11.77%) &nbsp;|&nbsp; hard 13 / 511 (2.54%)
+### easy 485 / 584 (83.05%) &nbsp;|&nbsp; medium 147 / 1242 (11.84%) &nbsp;|&nbsp; hard 13 / 512 (2.54%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -218,6 +218,8 @@
 &nbsp;|&nbsp; [SQL](0100/0197.%20Rising%20Temperature/sql/main.sql)
 - [198. House Robber (medium)](https://leetcode.com/problems/house-robber/)
 &nbsp;|&nbsp; [Go](0100/0198.%20House%20Robber/go/main.go)
+- [199. Binary Tree Right Side View (medium)](https://leetcode.com/problems/binary-tree-right-side-view/)
+&nbsp;|&nbsp; [Go](0100/0199.%20Binary%20Tree%20Right%20Side%20View/go/main.go)
 - [176. Second Highest Salary (medium)](https://leetcode.com/problems/second-highest-salary/)
 &nbsp;|&nbsp; [SQL](0100/176.%20Second%20Highest%20Salary/sql/main.sql)
 - [200. Number of Islands (medium)](https://leetcode.com/problems/number-of-islands/)
@@ -1286,3 +1288,5 @@
 &nbsp;|&nbsp; [Go](2300/2325.%20Decode%20the%20Message/go/main.go)
 - [2331. Evaluate Boolean Binary Tree (easy)](https://leetcode.com/problems/evaluate-boolean-binary-tree/)
 &nbsp;|&nbsp; [Go](2300/2331.%20Evaluate%20Boolean%20Binary%20Tree/go/main.go)
+- [2335. Minimum Amount of Time to Fill Cups (easy)](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/)
+&nbsp;|&nbsp; [Go](2300/2335.%20Minimum%20Amount%20of%20Time%20to%20Fill%20Cups/go/main.go)

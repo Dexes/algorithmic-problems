@@ -2332,5 +2332,9 @@
   "2331. Evaluate Boolean Binary Tree": {"url": "https://leetcode.com/problems/evaluate-boolean-binary-tree/", "difficulty": 0, "premium": false},
   "2332. The Latest Time to Catch a Bus": {"url": "https://leetcode.com/problems/the-latest-time-to-catch-a-bus/", "difficulty": 1, "premium": false},
   "2333. Minimum Sum of Squared Difference": {"url": "https://leetcode.com/problems/minimum-sum-of-squared-difference/", "difficulty": 1, "premium": false},
-  "2334. Subarray With Elements Greater Than Varying Threshold": {"url": "https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/", "difficulty": 2, "premium": false}
+  "2334. Subarray With Elements Greater Than Varying Threshold": {"url": "https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/", "difficulty": 2, "premium": false},
+  "2335. Minimum Amount of Time to Fill Cups": {"url": "https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/", "difficulty": 0, "premium": false},
+  "2336. Smallest Number in Infinite Set": {"url": "https://leetcode.com/problems/smallest-number-in-infinite-set/", "difficulty": 1, "premium": false},
+  "2337. Move Pieces to Obtain a String": {"url": "https://leetcode.com/problems/move-pieces-to-obtain-a-string/", "difficulty": 1, "premium": false},
+  "2338. Count the Number of Ideal Arrays": {"url": "https://leetcode.com/problems/count-the-number-of-ideal-arrays/", "difficulty": 2, "premium": false}
 }
