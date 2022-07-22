@@ -1,4 +1,4 @@
-### easy 486 / 586 (82.94%) &nbsp;|&nbsp; medium 152 / 1246 (12.20%) &nbsp;|&nbsp; hard 13 / 513 (2.53%)
+### easy 486 / 586 (82.94%) &nbsp;|&nbsp; medium 154 / 1246 (12.36%) &nbsp;|&nbsp; hard 13 / 513 (2.53%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -32,6 +32,8 @@
 &nbsp;|&nbsp; [Go](0000/0016.%203Sum%20Closest/go/main.go)
 - [17. Letter Combinations of a Phone Number (medium)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 &nbsp;|&nbsp; [Go](0000/0017.%20Letter%20Combinations%20of%20a%20Phone%20Number/go/main.go)
+- [18. 4Sum (medium)](https://leetcode.com/problems/4sum/)
+&nbsp;|&nbsp; [Go](0000/0018.%204Sum/go/main.go)
 - [19. Remove Nth Node From End of List (medium)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 &nbsp;|&nbsp; [Go](0000/0019.%20Remove%20Nth%20Node%20From%20End%20of%20List/go/main.go)
 - [20. Valid Parentheses (easy)](https://leetcode.com/problems/valid-parentheses/)
@@ -120,6 +122,8 @@
 &nbsp;|&nbsp; [Go](0000/0082.%20Remove%20Duplicates%20from%20Sorted%20List%20II/go/main.go)
 - [83. Remove Duplicates from Sorted List (easy)](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 &nbsp;|&nbsp; [Go](0000/0083.%20Remove%20Duplicates%20from%20Sorted%20List/go/main.go)
+- [86. Partition List (medium)](https://leetcode.com/problems/partition-list/)
+&nbsp;|&nbsp; [Go](0000/0086.%20Partition%20List/go/main.go)
 - [88. Merge Sorted Array (easy)](https://leetcode.com/problems/merge-sorted-array/)
 &nbsp;|&nbsp; [Go](0000/0088.%20Merge%20Sorted%20Array/go/main.go)
 - [94. Binary Tree Inorder Traversal (easy)](https://leetcode.com/problems/binary-tree-inorder-traversal/)
