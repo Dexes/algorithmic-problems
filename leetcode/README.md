@@ -1,4 +1,4 @@
-### easy 486 / 586 (82.94%) &nbsp;|&nbsp; medium 154 / 1246 (12.36%) &nbsp;|&nbsp; hard 13 / 513 (2.53%)
+### easy 488 / 588 (82.99%) &nbsp;|&nbsp; medium 155 / 1251 (12.39%) &nbsp;|&nbsp; hard 13 / 515 (2.52%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -282,6 +282,8 @@
 &nbsp;|&nbsp; [Go](0200/0235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/go/main.go)
 - [237. Delete Node in a Linked List (easy)](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 &nbsp;|&nbsp; [Go](0200/0237.%20Delete%20Node%20in%20a%20Linked%20List/go/main.go)
+- [240. Search a 2D Matrix II (medium)](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+&nbsp;|&nbsp; [Go](0200/0240.%20Search%20a%202D%20Matrix%20II/go/main.go)
 - [242. Valid Anagram (easy)](https://leetcode.com/problems/valid-anagram/)
 &nbsp;|&nbsp; [Go](0200/0242.%20Valid%20Anagram/go/main.go)
 - [257. Binary Tree Paths (easy)](https://leetcode.com/problems/binary-tree-paths/)
@@ -1306,3 +1308,7 @@
 &nbsp;|&nbsp; [Go](2300/2335.%20Minimum%20Amount%20of%20Time%20to%20Fill%20Cups/go/main.go)
 - [2341. Maximum Number of Pairs in Array (easy)](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)
 &nbsp;|&nbsp; [Go](2300/2341.%20Maximum%20Number%20of%20Pairs%20in%20Array/go/main.go)
+- [2347. Best Poker Hand (easy)](https://leetcode.com/problems/best-poker-hand/)
+&nbsp;|&nbsp; [Go](2300/2347.%20Best%20Poker%20Hand/go/main.go)
+- [2351. First Letter to Appear Twice (easy)](https://leetcode.com/problems/first-letter-to-appear-twice/)
+&nbsp;|&nbsp; [Go](2300/2351.%20First%20Letter%20to%20Appear%20Twice/go/main.go)

@@ -2343,5 +2343,14 @@
   "2342. Max Sum of a Pair With Equal Sum of Digits": {"url": "https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/", "difficulty": 1, "premium": false},
   "2343. Query Kth Smallest Trimmed Number": {"url": "https://leetcode.com/problems/query-kth-smallest-trimmed-number/", "difficulty": 1, "premium": false},
   "2344. Minimum Deletions to Make Array Divisible": {"url": "https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/", "difficulty": 2, "premium": false},
-  "2345. Finding the Number of Visible Mountains": {"url": "https://leetcode.com/problems/finding-the-number-of-visible-mountains/", "difficulty": 1, "premium": true}
+  "2345. Finding the Number of Visible Mountains": {"url": "https://leetcode.com/problems/finding-the-number-of-visible-mountains/", "difficulty": 1, "premium": true},
+  "2346. Compute the Rank as a Percentage": {"url": "https://leetcode.com/problems/compute-the-rank-as-a-percentage/", "difficulty": 1, "premium": true},
+  "2347. Best Poker Hand": {"url": "https://leetcode.com/problems/best-poker-hand/", "difficulty": 0, "premium": false},
+  "2348. Number of Zero-Filled Subarrays": {"url": "https://leetcode.com/problems/number-of-zero-filled-subarrays/", "difficulty": 1, "premium": false},
+  "2349. Design a Number Container System": {"url": "https://leetcode.com/problems/design-a-number-container-system/", "difficulty": 1, "premium": false},
+  "2350. Shortest Impossible Sequence of Rolls": {"url": "https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/", "difficulty": 2, "premium": false},
+  "2351. First Letter to Appear Twice": {"url": "https://leetcode.com/problems/first-letter-to-appear-twice/", "difficulty": 0, "premium": false},
+  "2352. Equal Row and Column Pairs": {"url": "https://leetcode.com/problems/equal-row-and-column-pairs/", "difficulty": 1, "premium": false},
+  "2353. Design a Food Rating System": {"url": "https://leetcode.com/problems/design-a-food-rating-system/", "difficulty": 1, "premium": false},
+  "2354. Number of Excellent Pairs": {"url": "https://leetcode.com/problems/number-of-excellent-pairs/", "difficulty": 2, "premium": false}
 }
