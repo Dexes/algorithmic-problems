@@ -1,4 +1,4 @@
-### easy 488 / 588 (82.99%) &nbsp;|&nbsp; medium 155 / 1251 (12.39%) &nbsp;|&nbsp; hard 13 / 515 (2.52%)
+### easy 488 / 588 (82.99%) &nbsp;|&nbsp; medium 156 / 1251 (12.47%) &nbsp;|&nbsp; hard 13 / 515 (2.52%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -156,6 +156,8 @@
 &nbsp;|&nbsp; [Go](0100/0112.%20Path%20Sum/go/main.go)
 - [113. Path Sum II (medium)](https://leetcode.com/problems/path-sum-ii/)
 &nbsp;|&nbsp; [Go](0100/0113.%20Path%20Sum%20II/go/main.go)
+- [114. Flatten Binary Tree to Linked List (medium)](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+&nbsp;|&nbsp; [Go](0100/0114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/go/main.go)
 - [116. Populating Next Right Pointers in Each Node (medium)](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 &nbsp;|&nbsp; [Go](0100/0116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node/go/main.go)
 - [117. Populating Next Right Pointers in Each Node II (medium)](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
