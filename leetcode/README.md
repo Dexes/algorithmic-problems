@@ -1,4 +1,4 @@
-### easy 488 / 588 (82.99%) &nbsp;|&nbsp; medium 159 / 1251 (12.71%) &nbsp;|&nbsp; hard 13 / 515 (2.52%)
+### easy 488 / 588 (82.99%) &nbsp;|&nbsp; medium 161 / 1251 (12.87%) &nbsp;|&nbsp; hard 13 / 515 (2.52%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -148,6 +148,10 @@
 &nbsp;|&nbsp; [Go](0100/0103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/go/main.go)
 - [104. Maximum Depth of Binary Tree (easy)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 &nbsp;|&nbsp; [Go](0100/0104.%20Maximum%20Depth%20of%20Binary%20Tree/go/main.go)
+- [105. Construct Binary Tree from Preorder and Inorder Traversal (medium)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+&nbsp;|&nbsp; [Go](0100/0105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/go/main.go)
+- [106. Construct Binary Tree from Inorder and Postorder Traversal (medium)](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+&nbsp;|&nbsp; [Go](0100/0106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal/go/main.go)
 - [107. Binary Tree Level Order Traversal II (medium)](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 &nbsp;|&nbsp; [Go](0100/0107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/go/main.go)
 - [108. Convert Sorted Array to Binary Search Tree (easy)](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
