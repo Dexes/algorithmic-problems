@@ -1,4 +1,4 @@
-### easy 488 / 588 (82.99%) &nbsp;|&nbsp; medium 157 / 1251 (12.55%) &nbsp;|&nbsp; hard 13 / 515 (2.52%)
+### easy 488 / 588 (82.99%) &nbsp;|&nbsp; medium 159 / 1251 (12.71%) &nbsp;|&nbsp; hard 13 / 515 (2.52%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -114,6 +114,8 @@
 &nbsp;|&nbsp; [Go](0000/0075.%20Sort%20Colors/go/main.go)
 - [78. Subsets (medium)](https://leetcode.com/problems/subsets/)
 &nbsp;|&nbsp; [Go](0000/0078.%20Subsets/go/main.go)
+- [79. Word Search (medium)](https://leetcode.com/problems/word-search/)
+&nbsp;|&nbsp; [Go](0000/0079.%20Word%20Search/go/main.go)
 - [80. Remove Duplicates from Sorted Array II (medium)](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
 &nbsp;|&nbsp; [Go](0000/0080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/go/main.go)
 - [81. Search in Rotated Sorted Array II (medium)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
@@ -284,6 +286,8 @@
 &nbsp;|&nbsp; [Go](0200/0234.%20Palindrome%20Linked%20List/go/main.go)
 - [235. Lowest Common Ancestor of a Binary Search Tree (easy)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 &nbsp;|&nbsp; [Go](0200/0235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/go/main.go)
+- [236. Lowest Common Ancestor of a Binary Tree (medium)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+&nbsp;|&nbsp; [Go](0200/0236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/go/main.go)
 - [237. Delete Node in a Linked List (easy)](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 &nbsp;|&nbsp; [Go](0200/0237.%20Delete%20Node%20in%20a%20Linked%20List/go/main.go)
 - [240. Search a 2D Matrix II (medium)](https://leetcode.com/problems/search-a-2d-matrix-ii/)
