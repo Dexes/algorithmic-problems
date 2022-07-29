@@ -1,4 +1,4 @@
-### easy 488 / 588 (82.99%) &nbsp;|&nbsp; medium 161 / 1251 (12.87%) &nbsp;|&nbsp; hard 13 / 515 (2.52%)
+### easy 488 / 588 (82.99%) &nbsp;|&nbsp; medium 162 / 1251 (12.95%) &nbsp;|&nbsp; hard 13 / 515 (2.52%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -846,6 +846,8 @@
 &nbsp;|&nbsp; [Go](1300/1332.%20Remove%20Palindromic%20Subsequences/go/main.go)
 - [1337. The K Weakest Rows in a Matrix (easy)](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
 &nbsp;|&nbsp; [Go](1300/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/go/main.go)
+- [1338. Reduce Array Size to The Half (medium)](https://leetcode.com/problems/reduce-array-size-to-the-half/)
+&nbsp;|&nbsp; [Go](1300/1338.%20Reduce%20Array%20Size%20to%20The%20Half/go/main.go)
 - [1342. Number of Steps to Reduce a Number to Zero (easy)](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 &nbsp;|&nbsp; [Go](1300/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/go/main.go)
 - [1346. Check If N and Its Double Exist (easy)](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
