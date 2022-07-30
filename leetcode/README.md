@@ -1,4 +1,4 @@
-### easy 488 / 588 (82.99%) &nbsp;|&nbsp; medium 163 / 1251 (13.03%) &nbsp;|&nbsp; hard 13 / 515 (2.52%)
+### easy 488 / 588 (82.99%) &nbsp;|&nbsp; medium 164 / 1251 (13.11%) &nbsp;|&nbsp; hard 13 / 515 (2.52%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1328,3 +1328,5 @@
 &nbsp;|&nbsp; [Go](2300/2347.%20Best%20Poker%20Hand/go/main.go)
 - [2351. First Letter to Appear Twice (easy)](https://leetcode.com/problems/first-letter-to-appear-twice/)
 &nbsp;|&nbsp; [Go](2300/2351.%20First%20Letter%20to%20Appear%20Twice/go/main.go)
+- [2353. Design a Food Rating System (medium)](https://leetcode.com/problems/design-a-food-rating-system/)
+&nbsp;|&nbsp; [Go](2300/2353.%20Design%20a%20Food%20Rating%20System/go/main.go)
