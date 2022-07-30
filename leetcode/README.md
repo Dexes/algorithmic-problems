@@ -1,4 +1,4 @@
-### easy 488 / 588 (82.99%) &nbsp;|&nbsp; medium 167 / 1251 (13.35%) &nbsp;|&nbsp; hard 13 / 515 (2.52%)
+### easy 488 / 588 (82.99%) &nbsp;|&nbsp; medium 168 / 1251 (13.43%) &nbsp;|&nbsp; hard 13 / 515 (2.52%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1292,6 +1292,8 @@
 &nbsp;|&nbsp; [Go](2200/2259.%20Remove%20Digit%20From%20Number%20to%20Maximize%20Result/go/main.go)
 - [2264. Largest 3-Same-Digit Number in String (easy)](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)
 &nbsp;|&nbsp; [Go](2200/2264.%20Largest%203-Same-Digit%20Number%20in%20String/go/main.go)
+- [2265. Count Nodes Equal to Average of Subtree (medium)](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)
+&nbsp;|&nbsp; [Go](2200/2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/go/main.go)
 - [2269. Find the K-Beauty of a Number (easy)](https://leetcode.com/problems/find-the-k-beauty-of-a-number/)
 &nbsp;|&nbsp; [Go](2200/2269.%20Find%20the%20K-Beauty%20of%20a%20Number/go/main.go)
 - [2273. Find Resultant Array After Removing Anagrams (easy)](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/)
