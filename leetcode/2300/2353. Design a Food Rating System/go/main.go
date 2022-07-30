@@ -6,14 +6,16 @@ type FoodRatings struct {
 }
 
 func Constructor(foods []string, cuisines []string, ratings []int) FoodRatings {
+	counter := countWords(cuisines)
+
 	result := FoodRatings{}
-	result.cuisinesHeaps = make(map[string]*Heap)
+	result.cuisinesHeaps = make(map[string]*Heap, len(counter))
 	result.foodsHeaps = make(map[string]*Heap, len(foods))
 
 	var heap *Heap
 	for i := 0; i < len(foods); i++ {
 		if heap = result.cuisinesHeaps[cuisines[i]]; heap == nil {
-			heap = NewHeap(len(foods))
+			heap = NewHeap(counter[cuisines[i]])
 			result.cuisinesHeaps[cuisines[i]] = heap
 		}
 
@@ -30,6 +32,15 @@ func (x *FoodRatings) ChangeRating(food string, newRating int) {
 
 func (x *FoodRatings) HighestRated(cuisine string) string {
 	return x.cuisinesHeaps[cuisine].Top()
+}
+
+func countWords(words []string) map[string]int {
+	result := make(map[string]int, len(words))
+	for i := 0; i < len(words); i++ {
+		result[words[i]]++
+	}
+
+	return result
 }
 
 type HeapNode struct {
