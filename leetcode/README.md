@@ -1,4 +1,4 @@
-### easy 488 / 588 (82.99%) &nbsp;|&nbsp; medium 162 / 1251 (12.95%) &nbsp;|&nbsp; hard 13 / 515 (2.52%)
+### easy 488 / 588 (82.99%) &nbsp;|&nbsp; medium 163 / 1251 (13.03%) &nbsp;|&nbsp; hard 13 / 515 (2.52%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -650,6 +650,8 @@
 &nbsp;|&nbsp; [Go](0900/0908.%20Smallest%20Range%20I/go/main.go)
 - [914. X of a Kind in a Deck of Cards (easy)](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)
 &nbsp;|&nbsp; [Go](0900/0914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards/go/main.go)
+- [916. Word Subsets (medium)](https://leetcode.com/problems/word-subsets/)
+&nbsp;|&nbsp; [Go](0900/0916.%20Word%20Subsets/go/main.go)
 - [917. Reverse Only Letters (easy)](https://leetcode.com/problems/reverse-only-letters/)
 &nbsp;|&nbsp; [Go](0900/0917.%20Reverse%20Only%20Letters/go/main.go)
 - [921. Minimum Add to Make Parentheses Valid (medium)](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
