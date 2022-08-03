@@ -2352,5 +2352,12 @@
   "2351. First Letter to Appear Twice": {"url": "https://leetcode.com/problems/first-letter-to-appear-twice/", "difficulty": 0, "premium": false},
   "2352. Equal Row and Column Pairs": {"url": "https://leetcode.com/problems/equal-row-and-column-pairs/", "difficulty": 1, "premium": false},
   "2353. Design a Food Rating System": {"url": "https://leetcode.com/problems/design-a-food-rating-system/", "difficulty": 1, "premium": false},
-  "2354. Number of Excellent Pairs": {"url": "https://leetcode.com/problems/number-of-excellent-pairs/", "difficulty": 2, "premium": false}
+  "2354. Number of Excellent Pairs": {"url": "https://leetcode.com/problems/number-of-excellent-pairs/", "difficulty": 2, "premium": false},
+  "2355. Maximum Number of Books You Can Take": {"url": "https://leetcode.com/problems/maximum-number-of-books-you-can-take/", "difficulty": 2, "premium": true},
+  "2356. Number of Unique Subjects Taught by Each Teacher": {"url": "https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/", "difficulty": 0, "premium": true},
+  "2357. Make Array Zero by Subtracting Equal Amounts": {"url": "https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/", "difficulty": 0, "premium": false},
+  "2358. Maximum Number of Groups Entering a Competition": {"url": "https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/", "difficulty": 1, "premium": false},
+  "2359. Find Closest Node to Given Two Nodes": {"url": "https://leetcode.com/problems/find-closest-node-to-given-two-nodes/", "difficulty": 1, "premium": false},
+  "2360. Longest Cycle in a Graph": {"url": "https://leetcode.com/problems/longest-cycle-in-a-graph/", "difficulty": 2, "premium": false},
+  "2361. Minimum Costs Using the Train Line": {"url": "https://leetcode.com/problems/minimum-costs-using-the-train-line/", "difficulty": 2, "premium": true}
 }

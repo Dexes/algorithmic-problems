@@ -1,4 +1,4 @@
-### easy 488 / 588 (82.99%) &nbsp;|&nbsp; medium 168 / 1251 (13.43%) &nbsp;|&nbsp; hard 13 / 515 (2.52%)
+### easy 489 / 590 (82.88%) &nbsp;|&nbsp; medium 169 / 1253 (13.49%) &nbsp;|&nbsp; hard 13 / 518 (2.51%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -566,6 +566,8 @@
 &nbsp;|&nbsp; [Go](0700/0724.%20Find%20Pivot%20Index/go/main.go)
 - [728. Self Dividing Numbers (easy)](https://leetcode.com/problems/self-dividing-numbers/)
 &nbsp;|&nbsp; [Go](0700/0728.%20Self%20Dividing%20Numbers/go/main.go)
+- [729. My Calendar I (medium)](https://leetcode.com/problems/my-calendar-i/)
+&nbsp;|&nbsp; [Go](0700/0729.%20My%20Calendar%20I/go/main.go)
 - [733. Flood Fill (easy)](https://leetcode.com/problems/flood-fill/)
 &nbsp;|&nbsp; [Go](0700/0733.%20Flood%20Fill/go/main.go)
 - [739. Daily Temperatures (medium)](https://leetcode.com/problems/daily-temperatures/)
@@ -1338,3 +1340,5 @@
 &nbsp;|&nbsp; [Go](2300/2351.%20First%20Letter%20to%20Appear%20Twice/go/main.go)
 - [2353. Design a Food Rating System (medium)](https://leetcode.com/problems/design-a-food-rating-system/)
 &nbsp;|&nbsp; [Go](2300/2353.%20Design%20a%20Food%20Rating%20System/go/main.go)
+- [2357. Make Array Zero by Subtracting Equal Amounts (easy)](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)
+&nbsp;|&nbsp; [Go](2300/2357.%20Make%20Array%20Zero%20by%20Subtracting%20Equal%20Amounts/go/main.go)
