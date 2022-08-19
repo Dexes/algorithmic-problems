@@ -11,7 +11,7 @@ func countVowelPermutation(n int) int {
 		buffer[3] = (sums[2] + sums[4]) % modulo
 		buffer[4] = sums[0]
 
-		sums[0], sums[1], sums[2], sums[3], sums[4] = buffer[0], buffer[1], buffer[2], buffer[3], buffer[4]
+		sums = buffer
 	}
 
 	return (sums[0] + sums[1] + sums[2] + sums[3] + sums[4]) % modulo
