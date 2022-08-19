@@ -1,4 +1,4 @@
-### easy 488 / 588 (82.99%) &nbsp;|&nbsp; medium 164 / 1251 (13.11%) &nbsp;|&nbsp; hard 13 / 515 (2.52%)
+### easy 488 / 588 (82.99%) &nbsp;|&nbsp; medium 165 / 1251 (13.19%) &nbsp;|&nbsp; hard 13 / 515 (2.52%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -516,6 +516,8 @@
 &nbsp;|&nbsp; [Go](0600/0653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/go/main.go)
 - [657. Robot Return to Origin (easy)](https://leetcode.com/problems/robot-return-to-origin/)
 &nbsp;|&nbsp; [Go](0600/0657.%20Robot%20Return%20to%20Origin/go/main.go)
+- [659. Split Array into Consecutive Subsequences (medium)](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
+&nbsp;|&nbsp; [Go](0600/0659.%20Split%20Array%20into%20Consecutive%20Subsequences/go/main.go)
 - [661. Image Smoother (easy)](https://leetcode.com/problems/image-smoother/)
 &nbsp;|&nbsp; [Go](0600/0661.%20Image%20Smoother/go/main.go)
 - [669. Trim a Binary Search Tree (medium)](https://leetcode.com/problems/trim-a-binary-search-tree/)
