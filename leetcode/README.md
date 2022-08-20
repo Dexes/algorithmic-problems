@@ -1,4 +1,4 @@
-### easy 492 / 594 (82.83%) &nbsp;|&nbsp; medium 173 / 1262 (13.71%) &nbsp;|&nbsp; hard 13 / 522 (2.49%)
+### easy 492 / 594 (82.83%) &nbsp;|&nbsp; medium 174 / 1262 (13.79%) &nbsp;|&nbsp; hard 13 / 522 (2.49%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -650,6 +650,8 @@
 &nbsp;|&nbsp; [Go](0800/0884.%20Uncommon%20Words%20from%20Two%20Sentences/go/main.go)
 - [888. Fair Candy Swap (easy)](https://leetcode.com/problems/fair-candy-swap/)
 &nbsp;|&nbsp; [Go](0800/0888.%20Fair%20Candy%20Swap/go/main.go)
+- [889. Construct Binary Tree from Preorder and Postorder Traversal (medium)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
+&nbsp;|&nbsp; [Go](0800/0889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal/go/main.go)
 - [890. Find and Replace Pattern (medium)](https://leetcode.com/problems/find-and-replace-pattern/)
 &nbsp;|&nbsp; [Go](0800/0890.%20Find%20and%20Replace%20Pattern/go/main.go)
 - [892. Surface Area of 3D Shapes (easy)](https://leetcode.com/problems/surface-area-of-3d-shapes/)

@@ -6,16 +6,16 @@ type TreeNode struct {
 	Right *TreeNode
 }
 
-func buildTree(preorder []int, inorder []int) *TreeNode {
+func constructFromPrePost(preorder []int, postorder []int) *TreeNode {
 	if len(preorder) == 0 {
 		return nil
 	}
 
 	root := &TreeNode{Val: preorder[0]}
-	if len(inorder) > 1 {
-		i := search(inorder, preorder[0])
-		root.Left = buildTree(preorder[1:i+1], inorder[:i])
-		root.Right = buildTree(preorder[i+1:], inorder[i+1:])
+	if len(preorder) > 1 {
+		i := search(postorder, preorder[1])
+		root.Left = constructFromPrePost(preorder[1:i+2], postorder[:i+1])
+		root.Right = constructFromPrePost(preorder[i+2:], postorder[i+1:])
 	}
 
 	return root
