@@ -1,4 +1,4 @@
-### easy 492 / 594 (82.83%) &nbsp;|&nbsp; medium 174 / 1262 (13.79%) &nbsp;|&nbsp; hard 13 / 522 (2.49%)
+### easy 492 / 594 (82.83%) &nbsp;|&nbsp; medium 175 / 1262 (13.87%) &nbsp;|&nbsp; hard 13 / 522 (2.49%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1034,6 +1034,8 @@
 &nbsp;|&nbsp; [Go](1600/1678.%20Goal%20Parser%20Interpretation/go/main.go)
 - [1679. Max Number of K-Sum Pairs (medium)](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
 &nbsp;|&nbsp; [Go](1600/1679.%20Max%20Number%20of%20K-Sum%20Pairs/go/main.go)
+- [1680. Concatenation of Consecutive Binary Numbers (medium)](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)
+&nbsp;|&nbsp; [Go](1600/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/go/main.go)
 - [1684. Count the Number of Consistent Strings (easy)](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
 &nbsp;|&nbsp; [Go](1600/1684.%20Count%20the%20Number%20of%20Consistent%20Strings/go/main.go)
 - [1688. Count of Matches in Tournament (easy)](https://leetcode.com/problems/count-of-matches-in-tournament/)
