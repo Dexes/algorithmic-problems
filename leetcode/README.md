@@ -1,4 +1,4 @@
-### easy 492 / 594 (82.83%) &nbsp;|&nbsp; medium 175 / 1262 (13.87%) &nbsp;|&nbsp; hard 13 / 522 (2.49%)
+### easy 493 / 595 (82.86%) &nbsp;|&nbsp; medium 175 / 1264 (13.84%) &nbsp;|&nbsp; hard 13 / 523 (2.49%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1360,3 +1360,5 @@
 &nbsp;|&nbsp; [Go](2300/2367.%20Number%20of%20Arithmetic%20Triplets/go/main.go)
 - [2373. Largest Local Values in a Matrix (easy)](https://leetcode.com/problems/largest-local-values-in-a-matrix/)
 &nbsp;|&nbsp; [Go](2300/2373.%20Largest%20Local%20Values%20in%20a%20Matrix/go/main.go)
+- [2379. Minimum Recolors to Get K Consecutive Black Blocks (easy)](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)
+&nbsp;|&nbsp; [Go](2300/2379.%20Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks/go/main.go)

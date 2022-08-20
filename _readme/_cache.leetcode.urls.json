@@ -2376,5 +2376,9 @@
   "2375. Construct Smallest Number From DI String": {"url": "https://leetcode.com/problems/construct-smallest-number-from-di-string/", "difficulty": 1, "premium": false},
   "2376. Count Special Integers": {"url": "https://leetcode.com/problems/count-special-integers/", "difficulty": 2, "premium": false},
   "2377. Sort the Olympic Table": {"url": "https://leetcode.com/problems/sort-the-olympic-table/", "difficulty": 0, "premium": true},
-  "2378. Choose Edges to Maximize Score in a Tree": {"url": "https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree/", "difficulty": 1, "premium": true}
+  "2378. Choose Edges to Maximize Score in a Tree": {"url": "https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree/", "difficulty": 1, "premium": true},
+  "2379. Minimum Recolors to Get K Consecutive Black Blocks": {"url": "https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/", "difficulty": 0, "premium": false},
+  "2380. Time Needed to Rearrange a Binary String": {"url": "https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/", "difficulty": 1, "premium": false},
+  "2381. Shifting Letters II": {"url": "https://leetcode.com/problems/shifting-letters-ii/", "difficulty": 1, "premium": false},
+  "2382. Maximum Segment Sum After Removals": {"url": "https://leetcode.com/problems/maximum-segment-sum-after-removals/", "difficulty": 2, "premium": false}
 }
