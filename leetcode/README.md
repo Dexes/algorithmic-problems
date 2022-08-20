@@ -1,4 +1,4 @@
-### easy 492 / 594 (82.83%) &nbsp;|&nbsp; medium 172 / 1262 (13.63%) &nbsp;|&nbsp; hard 13 / 522 (2.49%)
+### easy 492 / 594 (82.83%) &nbsp;|&nbsp; medium 173 / 1262 (13.71%) &nbsp;|&nbsp; hard 13 / 522 (2.49%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -356,6 +356,8 @@
 &nbsp;|&nbsp; [Go](0300/0382.%20Linked%20List%20Random%20Node/go/main.go)
 - [383. Ransom Note (easy)](https://leetcode.com/problems/ransom-note/)
 &nbsp;|&nbsp; [Go](0300/0383.%20Ransom%20Note/go/main.go)
+- [385. Mini Parser (medium)](https://leetcode.com/problems/mini-parser/)
+&nbsp;|&nbsp; [Go](0300/0385.%20Mini%20Parser/go/main.go)
 - [387. First Unique Character in a String (easy)](https://leetcode.com/problems/first-unique-character-in-a-string/)
 &nbsp;|&nbsp; [Go](0300/0387.%20First%20Unique%20Character%20in%20a%20String/go/main.go)
 - [389. Find the Difference (easy)](https://leetcode.com/problems/find-the-difference/)
