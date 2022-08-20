@@ -2359,5 +2359,22 @@
   "2358. Maximum Number of Groups Entering a Competition": {"url": "https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/", "difficulty": 1, "premium": false},
   "2359. Find Closest Node to Given Two Nodes": {"url": "https://leetcode.com/problems/find-closest-node-to-given-two-nodes/", "difficulty": 1, "premium": false},
   "2360. Longest Cycle in a Graph": {"url": "https://leetcode.com/problems/longest-cycle-in-a-graph/", "difficulty": 2, "premium": false},
-  "2361. Minimum Costs Using the Train Line": {"url": "https://leetcode.com/problems/minimum-costs-using-the-train-line/", "difficulty": 2, "premium": true}
+  "2361. Minimum Costs Using the Train Line": {"url": "https://leetcode.com/problems/minimum-costs-using-the-train-line/", "difficulty": 2, "premium": true},
+  "2362. Generate the Invoice": {"url": "https://leetcode.com/problems/generate-the-invoice/", "difficulty": 2, "premium": true},
+  "2363. Merge Similar Items": {"url": "https://leetcode.com/problems/merge-similar-items/", "difficulty": 0, "premium": false},
+  "2364. Count Number of Bad Pairs": {"url": "https://leetcode.com/problems/count-number-of-bad-pairs/", "difficulty": 1, "premium": false},
+  "2365. Task Scheduler II": {"url": "https://leetcode.com/problems/task-scheduler-ii/", "difficulty": 1, "premium": false},
+  "2366. Minimum Replacements to Sort the Array": {"url": "https://leetcode.com/problems/minimum-replacements-to-sort-the-array/", "difficulty": 2, "premium": false},
+  "2367. Number of Arithmetic Triplets": {"url": "https://leetcode.com/problems/number-of-arithmetic-triplets/", "difficulty": 0, "premium": false},
+  "2368. Reachable Nodes With Restrictions": {"url": "https://leetcode.com/problems/reachable-nodes-with-restrictions/", "difficulty": 1, "premium": false},
+  "2369. Check if There is a Valid Partition For The Array": {"url": "https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/", "difficulty": 1, "premium": false},
+  "2370. Longest Ideal Subsequence": {"url": "https://leetcode.com/problems/longest-ideal-subsequence/", "difficulty": 1, "premium": false},
+  "2371. Minimize Maximum Value in a Grid": {"url": "https://leetcode.com/problems/minimize-maximum-value-in-a-grid/", "difficulty": 2, "premium": true},
+  "2372. Calculate the Influence of Each Salesperson": {"url": "https://leetcode.com/problems/calculate-the-influence-of-each-salesperson/", "difficulty": 1, "premium": true},
+  "2373. Largest Local Values in a Matrix": {"url": "https://leetcode.com/problems/largest-local-values-in-a-matrix/", "difficulty": 0, "premium": false},
+  "2374. Node With Highest Edge Score": {"url": "https://leetcode.com/problems/node-with-highest-edge-score/", "difficulty": 1, "premium": false},
+  "2375. Construct Smallest Number From DI String": {"url": "https://leetcode.com/problems/construct-smallest-number-from-di-string/", "difficulty": 1, "premium": false},
+  "2376. Count Special Integers": {"url": "https://leetcode.com/problems/count-special-integers/", "difficulty": 2, "premium": false},
+  "2377. Sort the Olympic Table": {"url": "https://leetcode.com/problems/sort-the-olympic-table/", "difficulty": 0, "premium": true},
+  "2378. Choose Edges to Maximize Score in a Tree": {"url": "https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree/", "difficulty": 1, "premium": true}
 }
