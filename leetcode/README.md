@@ -1,4 +1,4 @@
-### easy 493 / 595 (82.86%) &nbsp;|&nbsp; medium 177 / 1264 (14.00%) &nbsp;|&nbsp; hard 13 / 523 (2.49%)
+### easy 493 / 595 (82.86%) &nbsp;|&nbsp; medium 178 / 1264 (14.08%) &nbsp;|&nbsp; hard 13 / 523 (2.49%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -526,6 +526,8 @@
 &nbsp;|&nbsp; [Go](0600/0645.%20Set%20Mismatch/go/main.go)
 - [653. Two Sum IV - Input is a BST (easy)](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 &nbsp;|&nbsp; [Go](0600/0653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/go/main.go)
+- [655. Print Binary Tree (medium)](https://leetcode.com/problems/print-binary-tree/)
+&nbsp;|&nbsp; [Go](0600/0655.%20Print%20Binary%20Tree/go/main.go)
 - [657. Robot Return to Origin (easy)](https://leetcode.com/problems/robot-return-to-origin/)
 &nbsp;|&nbsp; [Go](0600/0657.%20Robot%20Return%20to%20Origin/go/main.go)
 - [659. Split Array into Consecutive Subsequences (medium)](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
