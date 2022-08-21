@@ -2380,5 +2380,9 @@
   "2379. Minimum Recolors to Get K Consecutive Black Blocks": {"url": "https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/", "difficulty": 0, "premium": false},
   "2380. Time Needed to Rearrange a Binary String": {"url": "https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/", "difficulty": 1, "premium": false},
   "2381. Shifting Letters II": {"url": "https://leetcode.com/problems/shifting-letters-ii/", "difficulty": 1, "premium": false},
-  "2382. Maximum Segment Sum After Removals": {"url": "https://leetcode.com/problems/maximum-segment-sum-after-removals/", "difficulty": 2, "premium": false}
+  "2382. Maximum Segment Sum After Removals": {"url": "https://leetcode.com/problems/maximum-segment-sum-after-removals/", "difficulty": 2, "premium": false},
+  "2383. Minimum Hours of Training to Win a Competition": {"url": "https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/", "difficulty": 0, "premium": false},
+  "2384. Largest Palindromic Number": {"url": "https://leetcode.com/problems/largest-palindromic-number/", "difficulty": 1, "premium": false},
+  "2385. Amount of Time for Binary Tree to Be Infected": {"url": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/", "difficulty": 1, "premium": false},
+  "2386. Find the K-Sum of an Array": {"url": "https://leetcode.com/problems/find-the-k-sum-of-an-array/", "difficulty": 2, "premium": false}
 }

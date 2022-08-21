@@ -1,4 +1,4 @@
-### easy 493 / 595 (82.86%) &nbsp;|&nbsp; medium 178 / 1264 (14.08%) &nbsp;|&nbsp; hard 13 / 523 (2.49%)
+### easy 494 / 596 (82.89%) &nbsp;|&nbsp; medium 178 / 1266 (14.06%) &nbsp;|&nbsp; hard 13 / 524 (2.48%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1368,3 +1368,5 @@
 &nbsp;|&nbsp; [Go](2300/2373.%20Largest%20Local%20Values%20in%20a%20Matrix/go/main.go)
 - [2379. Minimum Recolors to Get K Consecutive Black Blocks (easy)](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)
 &nbsp;|&nbsp; [Go](2300/2379.%20Minimum%20Recolors%20to%20Get%20K%20Consecutive%20Black%20Blocks/go/main.go)
+- [2383. Minimum Hours of Training to Win a Competition (easy)](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/)
+&nbsp;|&nbsp; [Go](2300/2383.%20Minimum%20Hours%20of%20Training%20to%20Win%20a%20Competition/go/main.go)
