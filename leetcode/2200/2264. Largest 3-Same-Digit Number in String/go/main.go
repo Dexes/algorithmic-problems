@@ -1,4 +1,4 @@
-package amin
+package main
 
 func largestGoodInteger(num string) string {
 	result := byte(0)

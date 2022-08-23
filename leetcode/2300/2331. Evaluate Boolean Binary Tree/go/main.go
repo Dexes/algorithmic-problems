@@ -1,4 +1,4 @@
-package _go
+package main
 
 type TreeNode struct {
 	Val   int

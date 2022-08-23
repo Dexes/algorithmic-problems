@@ -1,4 +1,4 @@
-### easy 494 / 596 (82.89%) &nbsp;|&nbsp; medium 181 / 1266 (14.30%) &nbsp;|&nbsp; hard 13 / 524 (2.48%)
+### easy 494 / 596 (82.89%) &nbsp;|&nbsp; medium 182 / 1266 (14.38%) &nbsp;|&nbsp; hard 13 / 524 (2.48%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -526,6 +526,8 @@
 &nbsp;|&nbsp; [Go](0600/0645.%20Set%20Mismatch/go/main.go)
 - [653. Two Sum IV - Input is a BST (easy)](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 &nbsp;|&nbsp; [Go](0600/0653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/go/main.go)
+- [654. Maximum Binary Tree (medium)](https://leetcode.com/problems/maximum-binary-tree/)
+&nbsp;|&nbsp; [Go](0600/0654.%20Maximum%20Binary%20Tree/go/main.go)
 - [655. Print Binary Tree (medium)](https://leetcode.com/problems/print-binary-tree/)
 &nbsp;|&nbsp; [Go](0600/0655.%20Print%20Binary%20Tree/go/main.go)
 - [657. Robot Return to Origin (easy)](https://leetcode.com/problems/robot-return-to-origin/)
