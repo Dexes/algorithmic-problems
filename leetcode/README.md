@@ -1,4 +1,4 @@
-### easy 494 / 596 (82.89%) &nbsp;|&nbsp; medium 178 / 1266 (14.06%) &nbsp;|&nbsp; hard 13 / 524 (2.48%)
+### easy 494 / 596 (82.89%) &nbsp;|&nbsp; medium 179 / 1266 (14.14%) &nbsp;|&nbsp; hard 13 / 524 (2.48%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -836,6 +836,8 @@
 &nbsp;|&nbsp; [Go](1200/1275.%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game/go/main.go)
 - [1281. Subtract the Product and Sum of Digits of an Integer (easy)](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 &nbsp;|&nbsp; [Go](1200/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/go/main.go)
+- [1282. Group the People Given the Group Size They Belong To (medium)](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)
+&nbsp;|&nbsp; [Go](1200/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To/go/main.go)
 - [1286. Iterator for Combination (medium)](https://leetcode.com/problems/iterator-for-combination/)
 &nbsp;|&nbsp; [Go](1200/1286.%20Iterator%20for%20Combination/go/main.go)
 - [1287. Element Appearing More Than 25% In Sorted Array (easy)](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)
