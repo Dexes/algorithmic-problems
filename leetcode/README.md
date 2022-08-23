@@ -1,4 +1,4 @@
-### easy 494 / 596 (82.89%) &nbsp;|&nbsp; medium 180 / 1266 (14.22%) &nbsp;|&nbsp; hard 13 / 524 (2.48%)
+### easy 494 / 596 (82.89%) &nbsp;|&nbsp; medium 181 / 1266 (14.30%) &nbsp;|&nbsp; hard 13 / 524 (2.48%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -862,6 +862,8 @@
 &nbsp;|&nbsp; [Go](1300/1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping/go/main.go)
 - [1313. Decompress Run-Length Encoded List (easy)](https://leetcode.com/problems/decompress-run-length-encoded-list/)
 &nbsp;|&nbsp; [Go](1300/1313.%20Decompress%20Run-Length%20Encoded%20List/go/main.go)
+- [1315. Sum of Nodes with Even-Valued Grandparent (medium)](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)
+&nbsp;|&nbsp; [Go](1300/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent/go/main.go)
 - [1317. Convert Integer to the Sum of Two No-Zero Integers (easy)](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/)
 &nbsp;|&nbsp; [Go](1300/1317.%20Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers/go/main.go)
 - [1318. Minimum Flips to Make a OR b Equal to c (medium)](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)
