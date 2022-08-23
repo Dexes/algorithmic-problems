@@ -1,4 +1,4 @@
-### easy 494 / 596 (82.89%) &nbsp;|&nbsp; medium 179 / 1266 (14.14%) &nbsp;|&nbsp; hard 13 / 524 (2.48%)
+### easy 494 / 596 (82.89%) &nbsp;|&nbsp; medium 180 / 1266 (14.22%) &nbsp;|&nbsp; hard 13 / 524 (2.48%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1090,6 +1090,8 @@
 &nbsp;|&nbsp; [Go](1700/1763.%20Longest%20Nice%20Substring/go/main.go)
 - [1768. Merge Strings Alternately (easy)](https://leetcode.com/problems/merge-strings-alternately/)
 &nbsp;|&nbsp; [Go](1700/1768.%20Merge%20Strings%20Alternately/go/main.go)
+- [1769. Minimum Number of Operations to Move All Balls to Each Box (medium)](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)
+&nbsp;|&nbsp; [Go](1700/1769.%20Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box/go/main.go)
 - [1773. Count Items Matching a Rule (easy)](https://leetcode.com/problems/count-items-matching-a-rule/)
 &nbsp;|&nbsp; [Go](1700/1773.%20Count%20Items%20Matching%20a%20Rule/go/main.go)
 - [1779. Find Nearest Point That Has the Same X or Y Coordinate (easy)](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)
