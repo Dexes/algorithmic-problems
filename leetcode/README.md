@@ -1,4 +1,4 @@
-### easy 494 / 596 (82.89%) &nbsp;|&nbsp; medium 182 / 1266 (14.38%) &nbsp;|&nbsp; hard 13 / 524 (2.48%)
+### easy 494 / 596 (82.89%) &nbsp;|&nbsp; medium 184 / 1266 (14.53%) &nbsp;|&nbsp; hard 13 / 524 (2.48%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1024,6 +1024,8 @@
 &nbsp;|&nbsp; [Go](1600/1630.%20Arithmetic%20Subarrays/go/main.go)
 - [1636. Sort Array by Increasing Frequency (easy)](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
 &nbsp;|&nbsp; [Go](1600/1636.%20Sort%20Array%20by%20Increasing%20Frequency/go/main.go)
+- [1637. Widest Vertical Area Between Two Points Containing No Points (medium)](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)
+&nbsp;|&nbsp; [Go](1600/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points/go/main.go)
 - [1640. Check Array Formation Through Concatenation (easy)](https://leetcode.com/problems/check-array-formation-through-concatenation/)
 &nbsp;|&nbsp; [Go](1600/1640.%20Check%20Array%20Formation%20Through%20Concatenation/go/main.go)
 - [1641. Count Sorted Vowel Strings (medium)](https://leetcode.com/problems/count-sorted-vowel-strings/)
@@ -1268,6 +1270,8 @@
 &nbsp;|&nbsp; [Go](2100/2154.%20Keep%20Multiplying%20Found%20Values%20by%20Two/go/main.go)
 - [2160. Minimum Sum of Four Digit Number After Splitting Digits (easy)](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)
 &nbsp;|&nbsp; [Go](2100/2160.%20Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits/go/main.go)
+- [2161. Partition Array According to Given Pivot (medium)](https://leetcode.com/problems/partition-array-according-to-given-pivot/)
+&nbsp;|&nbsp; [Go](2100/2161.%20Partition%20Array%20According%20to%20Given%20Pivot/go/main.go)
 - [2164. Sort Even and Odd Indices Independently (easy)](https://leetcode.com/problems/sort-even-and-odd-indices-independently/)
 &nbsp;|&nbsp; [Go](2100/2164.%20Sort%20Even%20and%20Odd%20Indices%20Independently/go/main.go)
 - [2166. Design Bitset (medium)](https://leetcode.com/problems/design-bitset/)
