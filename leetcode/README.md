@@ -1,4 +1,4 @@
-### easy 494 / 596 (82.89%) &nbsp;|&nbsp; medium 184 / 1266 (14.53%) &nbsp;|&nbsp; hard 13 / 524 (2.48%)
+### easy 494 / 596 (82.89%) &nbsp;|&nbsp; medium 185 / 1266 (14.61%) &nbsp;|&nbsp; hard 13 / 524 (2.48%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -200,6 +200,8 @@
 &nbsp;|&nbsp; [Go](0100/0144.%20Binary%20Tree%20Preorder%20Traversal/go/main.go)
 - [145. Binary Tree Postorder Traversal (easy)](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 &nbsp;|&nbsp; [Go](0100/0145.%20Binary%20Tree%20Postorder%20Traversal/go/main.go)
+- [146. LRU Cache (medium)](https://leetcode.com/problems/lru-cache/)
+&nbsp;|&nbsp; [Go](0100/0146.%20LRU%20Cache/go/main.go)
 - [147. Insertion Sort List (medium)](https://leetcode.com/problems/insertion-sort-list/)
 &nbsp;|&nbsp; [Go](0100/0147.%20Insertion%20Sort%20List/go/main.go)
 - [148. Sort List (medium)](https://leetcode.com/problems/sort-list/)
