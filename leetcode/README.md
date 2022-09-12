@@ -1,4 +1,4 @@
-### easy 494 / 596 (82.89%) &nbsp;|&nbsp; medium 185 / 1266 (14.61%) &nbsp;|&nbsp; hard 13 / 524 (2.48%)
+### easy 494 / 600 (82.33%) &nbsp;|&nbsp; medium 186 / 1278 (14.55%) &nbsp;|&nbsp; hard 13 / 529 (2.46%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -94,6 +94,8 @@
 &nbsp;|&nbsp; [Go](0000/0062.%20Unique%20Paths/go/main.go)
 - [63. Unique Paths II (medium)](https://leetcode.com/problems/unique-paths-ii/)
 &nbsp;|&nbsp; [Go](0000/0063.%20Unique%20Paths%20II/go/main.go)
+- [64. Minimum Path Sum (medium)](https://leetcode.com/problems/minimum-path-sum/)
+&nbsp;|&nbsp; [Go](0000/0064.%20Minimum%20Path%20Sum/go/main.go)
 - [66. Plus One (easy)](https://leetcode.com/problems/plus-one/)
 &nbsp;|&nbsp; [Go](0000/0066.%20Plus%20One/go/main.go)
 - [67. Add Binary (easy)](https://leetcode.com/problems/add-binary/)
