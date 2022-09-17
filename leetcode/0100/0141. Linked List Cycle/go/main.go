@@ -6,13 +6,13 @@ type ListNode struct {
 }
 
 func hasCycle(head *ListNode) bool {
-	nodes := make(map[*ListNode]bool)
+	nodes := make(map[*ListNode]struct{})
 	for head != nil {
-		if nodes[head] {
+		if _, ok := nodes[head]; ok {
 			return true
 		}
 
-		nodes[head] = true
+		nodes[head] = struct{}{}
 		head = head.Next
 	}
 
