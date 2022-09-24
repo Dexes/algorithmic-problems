@@ -1,4 +1,4 @@
-### easy 496 / 600 (82.67%) &nbsp;|&nbsp; medium 187 / 1278 (14.63%) &nbsp;|&nbsp; hard 13 / 529 (2.46%)
+### easy 497 / 602 (82.56%) &nbsp;|&nbsp; medium 187 / 1284 (14.56%) &nbsp;|&nbsp; hard 13 / 531 (2.45%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1390,5 +1390,7 @@
 &nbsp;|&nbsp; [Go](2300/2383.%20Minimum%20Hours%20of%20Training%20to%20Win%20a%20Competition/go/main.go)
 - [2389. Longest Subsequence With Limited Sum (easy)](https://leetcode.com/problems/longest-subsequence-with-limited-sum//)
 &nbsp;|&nbsp; [Go](2300/2389.%20Longest%20Subsequence%20With%20Limited%20Sum/go/main.go)
+- [2395. Find Subarrays With Equal Sum (easy)](https://leetcode.com/problems/find-subarrays-with-equal-sum//)
+&nbsp;|&nbsp; [Go](2300/2395.%20Find%20Subarrays%20With%20Equal%20Sum/go/main.go)
 - [2399. Check Distances Between Same Letters (easy)](https://leetcode.com/problems/check-distances-between-same-letters//)
 &nbsp;|&nbsp; [Go](2300/2399.%20Check%20Distances%20Between%20Same%20Letters/go/main.go)

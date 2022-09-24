@@ -2405,5 +2405,15 @@
   "2404. Most Frequent Even Element": {"url": "https://leetcode.com/problems/most-frequent-even-element//", "difficulty": 0, "premium": false},
   "2405. Optimal Partition of String": {"url": "https://leetcode.com/problems/optimal-partition-of-string//", "difficulty": 1, "premium": false},
   "2406. Divide Intervals Into Minimum Number of Groups": {"url": "https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups//", "difficulty": 1, "premium": false},
-  "2407. Longest Increasing Subsequence II": {"url": "https://leetcode.com/problems/longest-increasing-subsequence-ii//", "difficulty": 2, "premium": false}
+  "2407. Longest Increasing Subsequence II": {"url": "https://leetcode.com/problems/longest-increasing-subsequence-ii//", "difficulty": 2, "premium": false},
+  "2408. Design SQL": {"url": "https://leetcode.com/problems/design-sql//", "difficulty": 1, "premium": true},
+  "2409. Count Days Spent Together": {"url": "https://leetcode.com/problems/count-days-spent-together//", "difficulty": 0, "premium": false},
+  "2410. Maximum Matching of Players With Trainers": {"url": "https://leetcode.com/problems/maximum-matching-of-players-with-trainers//", "difficulty": 1, "premium": false},
+  "2411. Smallest Subarrays With Maximum Bitwise OR": {"url": "https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or//", "difficulty": 1, "premium": false},
+  "2412. Minimum Money Required Before Transactions": {"url": "https://leetcode.com/problems/minimum-money-required-before-transactions//", "difficulty": 2, "premium": false},
+  "2413. Smallest Even Multiple": {"url": "https://leetcode.com/problems/smallest-even-multiple//", "difficulty": 0, "premium": false},
+  "2414. Length of the Longest Alphabetical Continuous Substring": {"url": "https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring//", "difficulty": 1, "premium": false},
+  "2415. Reverse Odd Levels of Binary Tree": {"url": "https://leetcode.com/problems/reverse-odd-levels-of-binary-tree//", "difficulty": 1, "premium": false},
+  "2416. Sum of Prefix Scores of Strings": {"url": "https://leetcode.com/problems/sum-of-prefix-scores-of-strings//", "difficulty": 2, "premium": false},
+  "2417. Closest Fair Integer": {"url": "https://leetcode.com/problems/closest-fair-integer//", "difficulty": 1, "premium": true}
 }
