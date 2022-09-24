@@ -1,4 +1,4 @@
-### easy 497 / 602 (82.56%) &nbsp;|&nbsp; medium 187 / 1284 (14.56%) &nbsp;|&nbsp; hard 13 / 531 (2.45%)
+### easy 500 / 602 (83.06%) &nbsp;|&nbsp; medium 187 / 1284 (14.56%) &nbsp;|&nbsp; hard 13 / 531 (2.45%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1394,3 +1394,9 @@
 &nbsp;|&nbsp; [Go](2300/2395.%20Find%20Subarrays%20With%20Equal%20Sum/go/main.go)
 - [2399. Check Distances Between Same Letters (easy)](https://leetcode.com/problems/check-distances-between-same-letters//)
 &nbsp;|&nbsp; [Go](2300/2399.%20Check%20Distances%20Between%20Same%20Letters/go/main.go)
+- [2404. Most Frequent Even Element (easy)](https://leetcode.com/problems/most-frequent-even-element//)
+&nbsp;|&nbsp; [Go](2400/2404.%20Most%20Frequent%20Even%20Element/go/main.go)
+- [2409. Count Days Spent Together (easy)](https://leetcode.com/problems/count-days-spent-together//)
+&nbsp;|&nbsp; [Go](2400/2409.%20Count%20Days%20Spent%20Together/go/main.go)
+- [2413. Smallest Even Multiple (easy)](https://leetcode.com/problems/smallest-even-multiple//)
+&nbsp;|&nbsp; [Go](2400/2413.%20Smallest%20Even%20Multiple/go/main.go)
