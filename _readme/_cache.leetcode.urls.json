@@ -2415,5 +2415,9 @@
   "2414. Length of the Longest Alphabetical Continuous Substring": {"url": "https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring//", "difficulty": 1, "premium": false},
   "2415. Reverse Odd Levels of Binary Tree": {"url": "https://leetcode.com/problems/reverse-odd-levels-of-binary-tree//", "difficulty": 1, "premium": false},
   "2416. Sum of Prefix Scores of Strings": {"url": "https://leetcode.com/problems/sum-of-prefix-scores-of-strings//", "difficulty": 2, "premium": false},
-  "2417. Closest Fair Integer": {"url": "https://leetcode.com/problems/closest-fair-integer//", "difficulty": 1, "premium": true}
+  "2417. Closest Fair Integer": {"url": "https://leetcode.com/problems/closest-fair-integer//", "difficulty": 1, "premium": true},
+  "2418. Sort the People": {"url": "https://leetcode.com/problems/sort-the-people//", "difficulty": 0, "premium": false},
+  "2419. Longest Subarray With Maximum Bitwise AND": {"url": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and//", "difficulty": 1, "premium": false},
+  "2420. Find All Good Indices": {"url": "https://leetcode.com/problems/find-all-good-indices//", "difficulty": 1, "premium": false},
+  "2421. Number of Good Paths": {"url": "https://leetcode.com/problems/number-of-good-paths//", "difficulty": 2, "premium": false}
 }

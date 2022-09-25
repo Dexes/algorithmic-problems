@@ -1,4 +1,4 @@
-### easy 500 / 602 (83.06%) &nbsp;|&nbsp; medium 187 / 1284 (14.56%) &nbsp;|&nbsp; hard 13 / 531 (2.45%)
+### easy 501 / 603 (83.08%) &nbsp;|&nbsp; medium 187 / 1286 (14.54%) &nbsp;|&nbsp; hard 13 / 532 (2.44%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1400,3 +1400,5 @@
 &nbsp;|&nbsp; [Go](2400/2409.%20Count%20Days%20Spent%20Together/go/main.go)
 - [2413. Smallest Even Multiple (easy)](https://leetcode.com/problems/smallest-even-multiple//)
 &nbsp;|&nbsp; [Go](2400/2413.%20Smallest%20Even%20Multiple/go/main.go)
+- [2418. Sort the People (easy)](https://leetcode.com/problems/sort-the-people//)
+&nbsp;|&nbsp; [Go](2400/2418.%20Sort%20the%20People/go/main.go)
