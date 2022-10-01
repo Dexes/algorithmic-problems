@@ -2419,5 +2419,10 @@
   "2418. Sort the People": {"url": "https://leetcode.com/problems/sort-the-people//", "difficulty": 0, "premium": false},
   "2419. Longest Subarray With Maximum Bitwise AND": {"url": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and//", "difficulty": 1, "premium": false},
   "2420. Find All Good Indices": {"url": "https://leetcode.com/problems/find-all-good-indices//", "difficulty": 1, "premium": false},
-  "2421. Number of Good Paths": {"url": "https://leetcode.com/problems/number-of-good-paths//", "difficulty": 2, "premium": false}
+  "2421. Number of Good Paths": {"url": "https://leetcode.com/problems/number-of-good-paths//", "difficulty": 2, "premium": false},
+  "2422. Merge Operations to Turn Array Into a Palindrome": {"url": "https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome//", "difficulty": 1, "premium": true},
+  "2423. Remove Letter To Equalize Frequency": {"url": "https://leetcode.com/problems/remove-letter-to-equalize-frequency//", "difficulty": 0, "premium": false},
+  "2424. Longest Uploaded Prefix": {"url": "https://leetcode.com/problems/longest-uploaded-prefix//", "difficulty": 1, "premium": false},
+  "2425. Bitwise XOR of All Pairings": {"url": "https://leetcode.com/problems/bitwise-xor-of-all-pairings//", "difficulty": 1, "premium": false},
+  "2426. Number of Pairs Satisfying Inequality": {"url": "https://leetcode.com/problems/number-of-pairs-satisfying-inequality//", "difficulty": 2, "premium": false}
 }
