@@ -1,4 +1,4 @@
-### easy 502 / 604 (83.11%) &nbsp;|&nbsp; medium 187 / 1289 (14.51%) &nbsp;|&nbsp; hard 13 / 533 (2.44%)
+### easy 502 / 604 (83.11%) &nbsp;|&nbsp; medium 187 / 1289 (14.51%) &nbsp;|&nbsp; hard 14 / 533 (2.63%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -46,6 +46,8 @@
 &nbsp;|&nbsp; [Go](0000/0023.%20Merge%20k%20Sorted%20Lists/go/main.go)
 - [24. Swap Nodes in Pairs (medium)](https://leetcode.com/problems/swap-nodes-in-pairs/)
 &nbsp;|&nbsp; [Go](0000/0024.%20Swap%20Nodes%20in%20Pairs/go/main.go)
+- [25. Reverse Nodes in k-Group (hard)](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+&nbsp;|&nbsp; [Go](0000/0025.%20Reverse%20Nodes%20in%20k-Group/go/main.go)
 - [26. Remove Duplicates from Sorted Array (easy)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 &nbsp;|&nbsp; [Go](0000/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/go/main.go)
 - [27. Remove Element (easy)](https://leetcode.com/problems/remove-element/)
