@@ -1,4 +1,4 @@
-### easy 502 / 604 (83.11%) &nbsp;|&nbsp; medium 187 / 1289 (14.51%) &nbsp;|&nbsp; hard 14 / 533 (2.63%)
+### easy 503 / 605 (83.14%) &nbsp;|&nbsp; medium 187 / 1291 (14.48%) &nbsp;|&nbsp; hard 14 / 534 (2.62%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1406,3 +1406,5 @@
 &nbsp;|&nbsp; [Go](2400/2418.%20Sort%20the%20People/go/main.go)
 - [2423. Remove Letter To Equalize Frequency (easy)](https://leetcode.com/problems/remove-letter-to-equalize-frequency//)
 &nbsp;|&nbsp; [Go](2400/2423.%20Remove%20Letter%20To%20Equalize%20Frequency/go/main.go)
+- [2427. Number of Common Factors (easy)](https://leetcode.com/problems/number-of-common-factors//)
+&nbsp;|&nbsp; [Go](2400/2427.%20Number%20of%20Common%20Factors/go/main.go)

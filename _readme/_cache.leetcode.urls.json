@@ -2424,5 +2424,9 @@
   "2423. Remove Letter To Equalize Frequency": {"url": "https://leetcode.com/problems/remove-letter-to-equalize-frequency//", "difficulty": 0, "premium": false},
   "2424. Longest Uploaded Prefix": {"url": "https://leetcode.com/problems/longest-uploaded-prefix//", "difficulty": 1, "premium": false},
   "2425. Bitwise XOR of All Pairings": {"url": "https://leetcode.com/problems/bitwise-xor-of-all-pairings//", "difficulty": 1, "premium": false},
-  "2426. Number of Pairs Satisfying Inequality": {"url": "https://leetcode.com/problems/number-of-pairs-satisfying-inequality//", "difficulty": 2, "premium": false}
+  "2426. Number of Pairs Satisfying Inequality": {"url": "https://leetcode.com/problems/number-of-pairs-satisfying-inequality//", "difficulty": 2, "premium": false},
+  "2427. Number of Common Factors": {"url": "https://leetcode.com/problems/number-of-common-factors//", "difficulty": 0, "premium": false},
+  "2428. Maximum Sum of an Hourglass": {"url": "https://leetcode.com/problems/maximum-sum-of-an-hourglass//", "difficulty": 1, "premium": false},
+  "2429. Minimize XOR": {"url": "https://leetcode.com/problems/minimize-xor//", "difficulty": 1, "premium": false},
+  "2430. Maximum Deletions on a String": {"url": "https://leetcode.com/problems/maximum-deletions-on-a-string//", "difficulty": 2, "premium": false}
 }
