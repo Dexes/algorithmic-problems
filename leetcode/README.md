@@ -1,4 +1,4 @@
-### easy 503 / 605 (83.14%) &nbsp;|&nbsp; medium 187 / 1291 (14.48%) &nbsp;|&nbsp; hard 14 / 534 (2.62%)
+### easy 503 / 605 (83.14%) &nbsp;|&nbsp; medium 188 / 1291 (14.56%) &nbsp;|&nbsp; hard 14 / 534 (2.62%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -264,6 +264,8 @@
 &nbsp;|&nbsp; [Go](0200/0202.%20Happy%20Number/go/main.go)
 - [203. Remove Linked List Elements (easy)](https://leetcode.com/problems/remove-linked-list-elements/)
 &nbsp;|&nbsp; [Go](0200/0203.%20Remove%20Linked%20List%20Elements/go/main.go)
+- [204. Count Primes (medium)](https://leetcode.com/problems/count-primes/)
+&nbsp;|&nbsp; [Go](0200/0204.%20Count%20Primes/go/main.go)
 - [205. Isomorphic Strings (easy)](https://leetcode.com/problems/isomorphic-strings/)
 &nbsp;|&nbsp; [Go](0200/0205.%20Isomorphic%20Strings/go/main.go)
 - [206. Reverse Linked List (easy)](https://leetcode.com/problems/reverse-linked-list/)
