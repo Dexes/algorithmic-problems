@@ -1,4 +1,4 @@
-### easy 503 / 605 (83.14%) &nbsp;|&nbsp; medium 189 / 1291 (14.64%) &nbsp;|&nbsp; hard 14 / 534 (2.62%)
+### easy 503 / 605 (83.14%) &nbsp;|&nbsp; medium 190 / 1291 (14.72%) &nbsp;|&nbsp; hard 14 / 534 (2.62%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -524,6 +524,8 @@
 &nbsp;|&nbsp; [SQL](0600/0620.%20Not%20Boring%20Movies/sql/main.sql)
 - [622. Design Circular Queue (medium)](https://leetcode.com/problems/design-circular-queue/)
 &nbsp;|&nbsp; [Go](0600/0622.%20Design%20Circular%20Queue/go/main.go)
+- [623. Add One Row to Tree (medium)](https://leetcode.com/problems/add-one-row-to-tree/)
+&nbsp;|&nbsp; [Go](0600/0623.%20Add%20One%20Row%20to%20Tree/go/main.go)
 - [627. Swap Salary (easy)](https://leetcode.com/problems/swap-salary/)
 &nbsp;|&nbsp; [SQL](0600/0627.%20Swap%20Salary/sql/main.sql)
 - [628. Maximum Product of Three Numbers (easy)](https://leetcode.com/problems/maximum-product-of-three-numbers/)
