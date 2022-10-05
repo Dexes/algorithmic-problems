@@ -1,4 +1,4 @@
-### easy 503 / 605 (83.14%) &nbsp;|&nbsp; medium 190 / 1291 (14.72%) &nbsp;|&nbsp; hard 14 / 534 (2.62%)
+### easy 503 / 605 (83.14%) &nbsp;|&nbsp; medium 191 / 1291 (14.79%) &nbsp;|&nbsp; hard 14 / 534 (2.62%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -54,6 +54,8 @@
 &nbsp;|&nbsp; [Go](0000/0027.%20Remove%20Element/go/main.go)
 - [28. Implement strStr() (easy)](https://leetcode.com/problems/implement-strstr/)
 &nbsp;|&nbsp; [Go](0000/0028.%20Implement%20strStr()/go/main.go)
+- [29. Divide Two Integers (medium)](https://leetcode.com/problems/divide-two-integers/)
+&nbsp;|&nbsp; [Go](0000/0029.%20Divide%20Two%20Integers/go/main.go)
 - [33. Search in Rotated Sorted Array (medium)](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 &nbsp;|&nbsp; [Go](0000/0033.%20Search%20in%20Rotated%20Sorted%20Array/go/main.go)
 - [34. Find First and Last Position of Element in Sorted Array (medium)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
