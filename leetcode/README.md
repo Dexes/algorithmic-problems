@@ -1,4 +1,4 @@
-### easy 503 / 605 (83.14%) &nbsp;|&nbsp; medium 191 / 1291 (14.79%) &nbsp;|&nbsp; hard 14 / 534 (2.62%)
+### easy 503 / 605 (83.14%) &nbsp;|&nbsp; medium 192 / 1291 (14.87%) &nbsp;|&nbsp; hard 14 / 534 (2.62%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -726,6 +726,8 @@
 &nbsp;|&nbsp; [Go](0900/0976.%20Largest%20Perimeter%20Triangle/go/main.go)
 - [977. Squares of a Sorted Array (easy)](https://leetcode.com/problems/squares-of-a-sorted-array/)
 &nbsp;|&nbsp; [Go](0900/0977.%20Squares%20of%20a%20Sorted%20Array/go/main.go)
+- [981. Time Based Key-Value Store (medium)](https://leetcode.com/problems/time-based-key-value-store/)
+&nbsp;|&nbsp; [Go](0900/0981.%20Time%20Based%20Key-Value%20Store/go/main.go)
 - [989. Add to Array-Form of Integer (easy)](https://leetcode.com/problems/add-to-array-form-of-integer/)
 &nbsp;|&nbsp; [Go](0900/0989.%20Add%20to%20Array-Form%20of%20Integer/go/main.go)
 - [991. Broken Calculator (medium)](https://leetcode.com/problems/broken-calculator/)
