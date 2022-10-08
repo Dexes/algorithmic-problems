@@ -1,4 +1,4 @@
-### easy 503 / 605 (83.14%) &nbsp;|&nbsp; medium 192 / 1291 (14.87%) &nbsp;|&nbsp; hard 14 / 534 (2.62%)
+### easy 503 / 605 (83.14%) &nbsp;|&nbsp; medium 194 / 1291 (15.03%) &nbsp;|&nbsp; hard 14 / 534 (2.62%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -848,6 +848,8 @@
 &nbsp;|&nbsp; [Go](1200/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix/go/main.go)
 - [1260. Shift 2D Grid (easy)](https://leetcode.com/problems/shift-2d-grid/)
 &nbsp;|&nbsp; [Go](1200/1260.%20Shift%202D%20Grid/go/main.go)
+- [1261. Find Elements in a Contaminated Binary Tree (medium)](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)
+&nbsp;|&nbsp; [Go](1200/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree/go/main.go)
 - [1266. Minimum Time Visiting All Points (easy)](https://leetcode.com/problems/minimum-time-visiting-all-points/)
 &nbsp;|&nbsp; [Go](1200/1266.%20Minimum%20Time%20Visiting%20All%20Points/go/main.go)
 - [1275. Find Winner on a Tic Tac Toe Game (easy)](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)
@@ -1384,6 +1386,8 @@
 &nbsp;|&nbsp; [Go](2300/2341.%20Maximum%20Number%20of%20Pairs%20in%20Array/go/main.go)
 - [2347. Best Poker Hand (easy)](https://leetcode.com/problems/best-poker-hand/)
 &nbsp;|&nbsp; [Go](2300/2347.%20Best%20Poker%20Hand/go/main.go)
+- [2349. Design a Number Container System (medium)](https://leetcode.com/problems/design-a-number-container-system/)
+&nbsp;|&nbsp; [Go](2300/2349.%20Design%20a%20Number%20Container%20System/go/main.go)
 - [2351. First Letter to Appear Twice (easy)](https://leetcode.com/problems/first-letter-to-appear-twice/)
 &nbsp;|&nbsp; [Go](2300/2351.%20First%20Letter%20to%20Appear%20Twice/go/main.go)
 - [2353. Design a Food Rating System (medium)](https://leetcode.com/problems/design-a-food-rating-system/)
