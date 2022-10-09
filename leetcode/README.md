@@ -1,4 +1,4 @@
-### easy 504 / 606 (83.17%) &nbsp;|&nbsp; medium 195 / 1294 (15.07%) &nbsp;|&nbsp; hard 14 / 535 (2.62%)
+### easy 504 / 606 (83.17%) &nbsp;|&nbsp; medium 196 / 1294 (15.15%) &nbsp;|&nbsp; hard 14 / 535 (2.62%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -658,6 +658,8 @@
 &nbsp;|&nbsp; [Go](0800/0867.%20Transpose%20Matrix/go/main.go)
 - [868. Binary Gap (easy)](https://leetcode.com/problems/binary-gap/)
 &nbsp;|&nbsp; [Go](0800/0868.%20Binary%20Gap/go/main.go)
+- [869. Reordered Power of 2 (medium)](https://leetcode.com/problems/reordered-power-of-2/)
+&nbsp;|&nbsp; [Go](0800/0869.%20Reordered%20Power%20of%202/go/main.go)
 - [872. Leaf-Similar Trees (easy)](https://leetcode.com/problems/leaf-similar-trees/)
 &nbsp;|&nbsp; [Go](0800/0872.%20Leaf-Similar%20Trees/go/main.go)
 - [876. Middle of the Linked List (easy)](https://leetcode.com/problems/middle-of-the-linked-list/)
