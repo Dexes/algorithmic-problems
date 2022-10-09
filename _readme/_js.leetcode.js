@@ -14,8 +14,11 @@ for (let i in elements) {
 
     let premium = titleParent.parentNode.children[1];
 
+    title = title.getAttribute('href')
+    if (title[title.length - 1] !== '/') title += '/'
+
     result += JSON.stringify(titleParent.textContent.trim()) + ': {'
-        + '"url": ' + JSON.stringify('https://leetcode.com' + title.getAttribute('href') + '/') + ", "
+        + '"url": ' + JSON.stringify('https://leetcode.com' + title) + ", "
         + '"difficulty": ' + difficulties[difficulty.textContent] + ", "
         + '"premium": ' + (premium ? "true" : "false")
         + '},\n';
