@@ -1,4 +1,4 @@
-### easy 504 / 606 (83.17%) &nbsp;|&nbsp; medium 198 / 1294 (15.30%) &nbsp;|&nbsp; hard 15 / 535 (2.80%)
+### easy 504 / 606 (83.17%) &nbsp;|&nbsp; medium 199 / 1294 (15.38%) &nbsp;|&nbsp; hard 15 / 535 (2.80%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -382,6 +382,8 @@
 &nbsp;|&nbsp; [Go](0300/0389.%20Find%20the%20Difference/go/main.go)
 - [392. Is Subsequence (easy)](https://leetcode.com/problems/is-subsequence/)
 &nbsp;|&nbsp; [Go](0300/0392.%20Is%20Subsequence/go/main.go)
+- [393. UTF-8 Validation (medium)](https://leetcode.com/problems/utf-8-validation/)
+&nbsp;|&nbsp; [Go](0300/0393.%20UTF-8%20Validation/go/main.go)
 - [398. Random Pick Index (medium)](https://leetcode.com/problems/random-pick-index/)
 &nbsp;|&nbsp; [Go](0300/0398.%20Random%20Pick%20Index/go/main.go)
 - [401. Binary Watch (easy)](https://leetcode.com/problems/binary-watch/)
