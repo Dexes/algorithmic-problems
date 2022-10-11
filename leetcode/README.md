@@ -1,4 +1,4 @@
-### easy 504 / 606 (83.17%) &nbsp;|&nbsp; medium 197 / 1294 (15.22%) &nbsp;|&nbsp; hard 15 / 535 (2.80%)
+### easy 504 / 606 (83.17%) &nbsp;|&nbsp; medium 198 / 1294 (15.30%) &nbsp;|&nbsp; hard 15 / 535 (2.80%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -346,6 +346,8 @@
 &nbsp;|&nbsp; [Go](0300/0322.%20Coin%20Change/go/main.go)
 - [326. Power of Three (easy)](https://leetcode.com/problems/power-of-three/)
 &nbsp;|&nbsp; [Go](0300/0326.%20Power%20of%20Three/go/main.go)
+- [334. Increasing Triplet Subsequence (medium)](https://leetcode.com/problems/increasing-triplet-subsequence/)
+&nbsp;|&nbsp; [Go](0300/0334.%20Increasing%20Triplet%20Subsequence/go/main.go)
 - [338. Counting Bits (easy)](https://leetcode.com/problems/counting-bits/)
 &nbsp;|&nbsp; [Go](0300/0338.%20Counting%20Bits/go/main.go)
 - [341. Flatten Nested List Iterator (medium)](https://leetcode.com/problems/flatten-nested-list-iterator/)
