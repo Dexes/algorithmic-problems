@@ -1,4 +1,4 @@
-### easy 504 / 606 (83.17%) &nbsp;|&nbsp; medium 200 / 1294 (15.46%) &nbsp;|&nbsp; hard 15 / 535 (2.80%)
+### easy 504 / 606 (83.17%) &nbsp;|&nbsp; medium 201 / 1294 (15.53%) &nbsp;|&nbsp; hard 15 / 535 (2.80%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -606,6 +606,8 @@
 &nbsp;|&nbsp; [Go](0700/0729.%20My%20Calendar%20I/go/main.go)
 - [733. Flood Fill (easy)](https://leetcode.com/problems/flood-fill/)
 &nbsp;|&nbsp; [Go](0700/0733.%20Flood%20Fill/go/main.go)
+- [738. Monotone Increasing Digits (medium)](https://leetcode.com/problems/monotone-increasing-digits/)
+&nbsp;|&nbsp; [Go](0700/0738.%20Monotone%20Increasing%20Digits/go/main.go)
 - [739. Daily Temperatures (medium)](https://leetcode.com/problems/daily-temperatures/)
 &nbsp;|&nbsp; [Go](0700/0739.%20Daily%20Temperatures/go/main.go)
 - [743. Network Delay Time (medium)](https://leetcode.com/problems/network-delay-time/)
