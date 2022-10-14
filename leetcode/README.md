@@ -1,4 +1,4 @@
-### easy 504 / 606 (83.17%) &nbsp;|&nbsp; medium 201 / 1294 (15.53%) &nbsp;|&nbsp; hard 15 / 535 (2.80%)
+### easy 504 / 606 (83.17%) &nbsp;|&nbsp; medium 202 / 1294 (15.61%) &nbsp;|&nbsp; hard 15 / 535 (2.80%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1270,6 +1270,8 @@
 &nbsp;|&nbsp; [Go](2000/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array/go/main.go)
 - [2094. Finding 3-Digit Even Numbers (easy)](https://leetcode.com/problems/finding-3-digit-even-numbers/)
 &nbsp;|&nbsp; [Go](2000/2094.%20Finding%203-Digit%20Even%20Numbers/go/main.go)
+- [2095. Delete the Middle Node of a Linked List (medium)](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
+&nbsp;|&nbsp; [Go](2000/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/go/main.go)
 - [2099. Find Subsequence of Length K With the Largest Sum (easy)](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/)
 &nbsp;|&nbsp; [Go](2000/2099.%20Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum/go/main.go)
 - [2103. Rings and Rods (easy)](https://leetcode.com/problems/rings-and-rods/)
