@@ -1,4 +1,4 @@
-### easy 504 / 606 (83.17%) &nbsp;|&nbsp; medium 202 / 1294 (15.61%) &nbsp;|&nbsp; hard 15 / 535 (2.80%)
+### easy 506 / 608 (83.22%) &nbsp;|&nbsp; medium 203 / 1299 (15.63%) &nbsp;|&nbsp; hard 15 / 537 (2.79%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -412,6 +412,8 @@
 &nbsp;|&nbsp; [Go](0400/0438.%20Find%20All%20Anagrams%20in%20a%20String/go/main.go)
 - [441. Arranging Coins (easy)](https://leetcode.com/problems/arranging-coins/)
 &nbsp;|&nbsp; [Go](0400/0441.%20Arranging%20Coins/go/main.go)
+- [443. String Compression (medium)](https://leetcode.com/problems/string-compression/)
+&nbsp;|&nbsp; [Go](0400/0443.%20String%20Compression/go/main.go)
 - [448. Find All Numbers Disappeared in an Array (easy)](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 &nbsp;|&nbsp; [Go](0400/0448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/go/main.go)
 - [449. Serialize and Deserialize BST (medium)](https://leetcode.com/problems/serialize-and-deserialize-bst/)
@@ -1442,3 +1444,7 @@
 &nbsp;|&nbsp; [Go](2400/2432.%20The%20Employee%20That%20Worked%20on%20the%20Longest%20Task/go/main.go)
 - [2433. Find The Original Array of Prefix Xor (medium)](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)
 &nbsp;|&nbsp; [Go](2400/2433.%20Find%20The%20Original%20Array%20of%20Prefix%20Xor/go/main.go)
+- [2437. Number of Valid Clock Times (easy)](https://leetcode.com/problems/number-of-valid-clock-times/)
+&nbsp;|&nbsp; [Go](2400/2437.%20Number%20of%20Valid%20Clock%20Times/go/main.go)
+- [2441. Largest Positive Integer That Exists With Its Negative (easy)](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)
+&nbsp;|&nbsp; [Go](2400/2441.%20Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/go/main.go)
