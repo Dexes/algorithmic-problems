@@ -1,4 +1,4 @@
-### easy 506 / 608 (83.22%) &nbsp;|&nbsp; medium 203 / 1299 (15.63%) &nbsp;|&nbsp; hard 15 / 537 (2.79%)
+### easy 506 / 608 (83.22%) &nbsp;|&nbsp; medium 204 / 1299 (15.70%) &nbsp;|&nbsp; hard 15 / 537 (2.79%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1448,3 +1448,5 @@
 &nbsp;|&nbsp; [Go](2400/2437.%20Number%20of%20Valid%20Clock%20Times/go/main.go)
 - [2441. Largest Positive Integer That Exists With Its Negative (easy)](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)
 &nbsp;|&nbsp; [Go](2400/2441.%20Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/go/main.go)
+- [2443. Sum of Number and Its Reverse (medium)](https://leetcode.com/problems/sum-of-number-and-its-reverse/)
+&nbsp;|&nbsp; [Go](2400/2443.%20Sum%20of%20Number%20and%20Its%20Reverse/go/main.go)
