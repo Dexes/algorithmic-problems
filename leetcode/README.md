@@ -1,4 +1,4 @@
-### easy 498 / 600 (83.00%) &nbsp;|&nbsp; medium 214 / 1305 (16.40%) &nbsp;|&nbsp; hard 15 / 539 (2.78%)
+### easy 499 / 601 (83.03%) &nbsp;|&nbsp; medium 214 / 1307 (16.37%) &nbsp;|&nbsp; hard 15 / 541 (2.77%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1454,3 +1454,5 @@
 &nbsp;|&nbsp; [Go](2400/2441.%20Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/go/main.go)
 - [2443. Sum of Number and Its Reverse (medium)](https://leetcode.com/problems/sum-of-number-and-its-reverse/)
 &nbsp;|&nbsp; [Go](2400/2443.%20Sum%20of%20Number%20and%20Its%20Reverse/go/main.go)
+- [2446. Determine if Two Events Have Conflict (easy)](https://leetcode.com/problems/determine-if-two-events-have-conflict/)
+&nbsp;|&nbsp; [Go](2400/2446.%20Determine%20if%20Two%20Events%20Have%20Conflict/go/main.go)

@@ -2442,5 +2442,10 @@
   "2441. Largest Positive Integer That Exists With Its Negative": {"url": "https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/", "difficulty": 0, "premium": false},
   "2442. Count Number of Distinct Integers After Reverse Operations": {"url": "https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/", "difficulty": 1, "premium": false},
   "2443. Sum of Number and Its Reverse": {"url": "https://leetcode.com/problems/sum-of-number-and-its-reverse/", "difficulty": 1, "premium": false},
-  "2444. Count Subarrays With Fixed Bounds": {"url": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds/", "difficulty": 2, "premium": false}
+  "2444. Count Subarrays With Fixed Bounds": {"url": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds/", "difficulty": 2, "premium": false},
+  "2445. Number of Nodes With Value One": {"url": "https://leetcode.com/problems/number-of-nodes-with-value-one/", "difficulty": 1, "premium": true},
+  "2446. Determine if Two Events Have Conflict": {"url": "https://leetcode.com/problems/determine-if-two-events-have-conflict/", "difficulty": 0, "premium": false},
+  "2447. Number of Subarrays With GCD Equal to K": {"url": "https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/", "difficulty": 1, "premium": false},
+  "2448. Minimum Cost to Make Array Equal": {"url": "https://leetcode.com/problems/minimum-cost-to-make-array-equal/", "difficulty": 2, "premium": false},
+  "2449. Minimum Number of Operations to Make Arrays Similar": {"url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/", "difficulty": 2, "premium": false}
 }
