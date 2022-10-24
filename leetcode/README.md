@@ -1,4 +1,4 @@
-### easy 499 / 601 (83.03%) &nbsp;|&nbsp; medium 214 / 1307 (16.37%) &nbsp;|&nbsp; hard 15 / 541 (2.77%)
+### easy 499 / 601 (83.03%) &nbsp;|&nbsp; medium 215 / 1307 (16.45%) &nbsp;|&nbsp; hard 15 / 541 (2.77%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -862,6 +862,8 @@
 &nbsp;|&nbsp; [Go](1200/1221.%20Split%20a%20String%20in%20Balanced%20Strings/go/main.go)
 - [1232. Check If It Is a Straight Line (easy)](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
 &nbsp;|&nbsp; [Go](1200/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/go/main.go)
+- [1239. Maximum Length of a Concatenated String with Unique Characters (medium)](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
+&nbsp;|&nbsp; [Go](1200/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters/go/main.go)
 - [1252. Cells with Odd Values in a Matrix (easy)](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
 &nbsp;|&nbsp; [Go](1200/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix/go/main.go)
 - [1260. Shift 2D Grid (easy)](https://leetcode.com/problems/shift-2d-grid/)
