@@ -1,4 +1,4 @@
-### easy 499 / 601 (83.03%) &nbsp;|&nbsp; medium 215 / 1307 (16.45%) &nbsp;|&nbsp; hard 15 / 541 (2.77%)
+### easy 499 / 601 (83.03%) &nbsp;|&nbsp; medium 216 / 1307 (16.53%) &nbsp;|&nbsp; hard 15 / 541 (2.77%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -90,6 +90,8 @@
 &nbsp;|&nbsp; [Go](0000/0054.%20Spiral%20Matrix/go/main.go)
 - [56. Merge Intervals (medium)](https://leetcode.com/problems/merge-intervals/)
 &nbsp;|&nbsp; [Go](0000/0056.%20Merge%20Intervals/go/main.go)
+- [57. Insert Interval (medium)](https://leetcode.com/problems/insert-interval/)
+&nbsp;|&nbsp; [Go](0000/0057.%20Insert%20Interval/go/main.go)
 - [58. Length of Last Word (easy)](https://leetcode.com/problems/length-of-last-word/)
 &nbsp;|&nbsp; [Go](0000/0058.%20Length%20of%20Last%20Word/go/main.go)
 - [59. Spiral Matrix II (medium)](https://leetcode.com/problems/spiral-matrix-ii/)
