@@ -1,4 +1,4 @@
-### easy 499 / 601 (83.03%) &nbsp;|&nbsp; medium 216 / 1307 (16.53%) &nbsp;|&nbsp; hard 15 / 541 (2.77%)
+### easy 501 / 603 (83.08%) &nbsp;|&nbsp; medium 216 / 1312 (16.46%) &nbsp;|&nbsp; hard 15 / 543 (2.76%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1460,3 +1460,7 @@
 &nbsp;|&nbsp; [Go](2400/2443.%20Sum%20of%20Number%20and%20Its%20Reverse/go/main.go)
 - [2446. Determine if Two Events Have Conflict (easy)](https://leetcode.com/problems/determine-if-two-events-have-conflict/)
 &nbsp;|&nbsp; [Go](2400/2446.%20Determine%20if%20Two%20Events%20Have%20Conflict/go/main.go)
+- [2451. Odd String Difference (easy)](https://leetcode.com/problems/odd-string-difference/)
+&nbsp;|&nbsp; [Go](2400/2451.%20Odd%20String%20Difference/go/main.go)
+- [2455. Average Value of Even Numbers That Are Divisible by Three (easy)](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/)
+&nbsp;|&nbsp; [Go](2400/2455.%20Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three/go/main.go)
