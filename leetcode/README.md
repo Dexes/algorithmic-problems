@@ -1,4 +1,4 @@
-### easy 501 / 603 (83.08%) &nbsp;|&nbsp; medium 216 / 1312 (16.46%) &nbsp;|&nbsp; hard 15 / 543 (2.76%)
+### easy 501 / 603 (83.08%) &nbsp;|&nbsp; medium 217 / 1312 (16.54%) &nbsp;|&nbsp; hard 15 / 543 (2.76%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1302,6 +1302,8 @@
 &nbsp;|&nbsp; [Go](2100/2126.%20Destroying%20Asteroids/go/main.go)
 - [2129. Capitalize the Title (easy)](https://leetcode.com/problems/capitalize-the-title/)
 &nbsp;|&nbsp; [Go](2100/2129.%20Capitalize%20the%20Title/go/main.go)
+- [2131. Longest Palindrome by Concatenating Two Letter Words (medium)](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)
+&nbsp;|&nbsp; [Go](2100/2131.%20Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words/go/main.go)
 - [2133. Check if Every Row and Column Contains All Numbers (easy)](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/)
 &nbsp;|&nbsp; [Go](2100/2133.%20Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers/go/main.go)
 - [2138. Divide a String Into Groups of Size k (easy)](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/)
