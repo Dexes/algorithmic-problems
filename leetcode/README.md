@@ -1,4 +1,4 @@
-### easy 502 / 604 (83.11%) &nbsp;|&nbsp; medium 220 / 1314 (16.74%) &nbsp;|&nbsp; hard 15 / 545 (2.75%)
+### easy 502 / 604 (83.11%) &nbsp;|&nbsp; medium 221 / 1314 (16.82%) &nbsp;|&nbsp; hard 15 / 545 (2.75%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -66,6 +66,8 @@
 &nbsp;|&nbsp; [Go](0000/0036.%20Valid%20Sudoku/go/main.go)
 - [37. Sudoku Solver (hard)](https://leetcode.com/problems/sudoku-solver/)
 &nbsp;|&nbsp; [Go](0000/0037.%20Sudoku%20Solver/go/main.go)
+- [38. Count and Say (medium)](https://leetcode.com/problems/count-and-say/)
+&nbsp;|&nbsp; [Go](0000/0038.%20Count%20and%20Say/go/main.go)
 - [39. Combination Sum (medium)](https://leetcode.com/problems/combination-sum/)
 &nbsp;|&nbsp; [Go](0000/0039.%20Combination%20Sum/go/main.go)
 - [41. First Missing Positive (hard)](https://leetcode.com/problems/first-missing-positive/)
