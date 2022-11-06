@@ -1,4 +1,4 @@
-### easy 502 / 604 (83.11%) &nbsp;|&nbsp; medium 221 / 1314 (16.82%) &nbsp;|&nbsp; hard 15 / 545 (2.75%)
+### easy 502 / 604 (83.11%) &nbsp;|&nbsp; medium 222 / 1314 (16.89%) &nbsp;|&nbsp; hard 15 / 545 (2.75%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -70,6 +70,8 @@
 &nbsp;|&nbsp; [Go](0000/0038.%20Count%20and%20Say/go/main.go)
 - [39. Combination Sum (medium)](https://leetcode.com/problems/combination-sum/)
 &nbsp;|&nbsp; [Go](0000/0039.%20Combination%20Sum/go/main.go)
+- [40. Combination Sum II (medium)](https://leetcode.com/problems/combination-sum-ii/)
+&nbsp;|&nbsp; [Go](0000/0040.%20Combination%20Sum%20II/go/main.go)
 - [41. First Missing Positive (hard)](https://leetcode.com/problems/first-missing-positive/)
 &nbsp;|&nbsp; [Go](0000/0041.%20First%20Missing%20Positive/go/main.go)
 - [43. Multiply Strings (medium)](https://leetcode.com/problems/multiply-strings/)
