@@ -1,4 +1,4 @@
-### easy 502 / 604 (83.11%) &nbsp;|&nbsp; medium 222 / 1314 (16.89%) &nbsp;|&nbsp; hard 15 / 545 (2.75%)
+### easy 502 / 604 (83.11%) &nbsp;|&nbsp; medium 224 / 1314 (17.05%) &nbsp;|&nbsp; hard 15 / 545 (2.75%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -252,6 +252,8 @@
 &nbsp;|&nbsp; [Go](0100/0173.%20Binary%20Search%20Tree%20Iterator/go/main.go)
 - [175. Combine Two Tables (easy)](https://leetcode.com/problems/combine-two-tables/)
 &nbsp;|&nbsp; [SQL](0100/0175.%20Combine%20Two%20Tables/sql/main.sql)
+- [179. Largest Number (medium)](https://leetcode.com/problems/largest-number/)
+&nbsp;|&nbsp; [Go](0100/0179.%20Largest%20Number/go/main.go)
 - [181. Employees Earning More Than Their Managers (easy)](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
 &nbsp;|&nbsp; [SQL](0100/0181.%20Employees%20Earning%20More%20Than%20Their%20Managers/sql/main.sql)
 - [182. Duplicate Emails (easy)](https://leetcode.com/problems/duplicate-emails/)
@@ -400,6 +402,8 @@
 &nbsp;|&nbsp; [Go](0300/0392.%20Is%20Subsequence/go/main.go)
 - [393. UTF-8 Validation (medium)](https://leetcode.com/problems/utf-8-validation/)
 &nbsp;|&nbsp; [Go](0300/0393.%20UTF-8%20Validation/go/main.go)
+- [394. Decode String (medium)](https://leetcode.com/problems/decode-string/)
+&nbsp;|&nbsp; [Go](0300/0394.%20Decode%20String/go/main.go)
 - [398. Random Pick Index (medium)](https://leetcode.com/problems/random-pick-index/)
 &nbsp;|&nbsp; [Go](0300/0398.%20Random%20Pick%20Index/go/main.go)
 - [401. Binary Watch (easy)](https://leetcode.com/problems/binary-watch/)
