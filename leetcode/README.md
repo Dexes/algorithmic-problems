@@ -1,4 +1,4 @@
-### easy 502 / 604 (83.11%) &nbsp;|&nbsp; medium 224 / 1314 (17.05%) &nbsp;|&nbsp; hard 15 / 545 (2.75%)
+### easy 502 / 604 (83.11%) &nbsp;|&nbsp; medium 225 / 1314 (17.12%) &nbsp;|&nbsp; hard 15 / 545 (2.75%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1480,5 +1480,7 @@
 &nbsp;|&nbsp; [Go](2400/2451.%20Odd%20String%20Difference/go/main.go)
 - [2455. Average Value of Even Numbers That Are Divisible by Three (easy)](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/)
 &nbsp;|&nbsp; [Go](2400/2455.%20Average%20Value%20of%20Even%20Numbers%20That%20Are%20Divisible%20by%20Three/go/main.go)
+- [2456. Most Popular Video Creator (medium)](https://leetcode.com/problems/most-popular-video-creator/)
+&nbsp;|&nbsp; [Go](2400/2456.%20Most%20Popular%20Video%20Creator/go/main.go)
 - [2460. Apply Operations to an Array (easy)](https://leetcode.com/problems/apply-operations-to-an-array/)
 &nbsp;|&nbsp; [Go](2400/2460.%20Apply%20Operations%20to%20an%20Array/go/main.go)
