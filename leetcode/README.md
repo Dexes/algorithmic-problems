@@ -1,4 +1,4 @@
-### easy 502 / 604 (83.11%) &nbsp;|&nbsp; medium 225 / 1314 (17.12%) &nbsp;|&nbsp; hard 15 / 545 (2.75%)
+### easy 503 / 605 (83.14%) &nbsp;|&nbsp; medium 225 / 1317 (17.08%) &nbsp;|&nbsp; hard 15 / 546 (2.75%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
 &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1484,3 +1484,5 @@
 &nbsp;|&nbsp; [Go](2400/2456.%20Most%20Popular%20Video%20Creator/go/main.go)
 - [2460. Apply Operations to an Array (easy)](https://leetcode.com/problems/apply-operations-to-an-array/)
 &nbsp;|&nbsp; [Go](2400/2460.%20Apply%20Operations%20to%20an%20Array/go/main.go)
+- [2465. Number of Distinct Averages (easy)](https://leetcode.com/problems/number-of-distinct-averages//)
+&nbsp;|&nbsp; [Go](2400/2465.%20Number%20of%20Distinct%20Averages/go/main.go)
