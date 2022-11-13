@@ -104,7 +104,7 @@ func (l *leetCode) generateTaskInfo(task *leetCodeTask) string {
 	for _, solution := range task.solutions {
 		language := strings.Split(solution, "/")[2]
 		path := solution + "/main." + getLanguageExtension(language)
-		result += "&nbsp;|&nbsp; [" + getLanguageTitle(language) + "](" + pathEscape(path) + ") "
+		result += "  &nbsp;|&nbsp; [" + getLanguageTitle(language) + "](" + pathEscape(path) + ") "
 	}
 
 	return result[:len(result)-1]

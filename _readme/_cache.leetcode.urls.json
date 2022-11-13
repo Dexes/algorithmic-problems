@@ -2462,9 +2462,13 @@
   "2461. Maximum Sum of Distinct Subarrays With Length K": {"url": "https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/", "difficulty": 1, "premium": false},
   "2462. Total Cost to Hire K Workers": {"url": "https://leetcode.com/problems/total-cost-to-hire-k-workers/", "difficulty": 1, "premium": false},
   "2463. Minimum Total Distance Traveled": {"url": "https://leetcode.com/problems/minimum-total-distance-traveled/", "difficulty": 2, "premium": false},
-  "2464. Minimum Subarrays in a Valid Split": {"url": "https://leetcode.com/problems/minimum-subarrays-in-a-valid-split//", "difficulty": 1, "premium": true},
-  "2465. Number of Distinct Averages": {"url": "https://leetcode.com/problems/number-of-distinct-averages//", "difficulty": 0, "premium": false},
-  "2466. Count Ways To Build Good Strings": {"url": "https://leetcode.com/problems/count-ways-to-build-good-strings//", "difficulty": 1, "premium": false},
-  "2467. Most Profitable Path in a Tree": {"url": "https://leetcode.com/problems/most-profitable-path-in-a-tree//", "difficulty": 1, "premium": false},
-  "2468. Split Message Based on Limit": {"url": "https://leetcode.com/problems/split-message-based-on-limit//", "difficulty": 2, "premium": false}
+  "2464. Minimum Subarrays in a Valid Split": {"url": "https://leetcode.com/problems/minimum-subarrays-in-a-valid-split/", "difficulty": 1, "premium": true},
+  "2465. Number of Distinct Averages": {"url": "https://leetcode.com/problems/number-of-distinct-averages/", "difficulty": 0, "premium": false},
+  "2466. Count Ways To Build Good Strings": {"url": "https://leetcode.com/problems/count-ways-to-build-good-strings/", "difficulty": 1, "premium": false},
+  "2467. Most Profitable Path in a Tree": {"url": "https://leetcode.com/problems/most-profitable-path-in-a-tree/", "difficulty": 1, "premium": false},
+  "2468. Split Message Based on Limit": {"url": "https://leetcode.com/problems/split-message-based-on-limit/", "difficulty": 2, "premium": false},
+  "2469. Convert the Temperature": {"url": "https://leetcode.com/problems/convert-the-temperature/", "difficulty": 0, "premium": false},
+  "2470. Number of Subarrays With LCM Equal to K": {"url": "https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/", "difficulty": 1, "premium": false},
+  "2471. Minimum Number of Operations to Sort a Binary Tree by Level": {"url": "https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/", "difficulty": 1, "premium": false},
+  "2472. Maximum Number of Non-overlapping Palindrome Substrings": {"url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/", "difficulty": 2, "premium": false}
 }
