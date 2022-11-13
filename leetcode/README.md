@@ -1,4 +1,4 @@
-### easy 504 / 606 (83.17%) &nbsp;|&nbsp; medium 225 / 1319 (17.06%) &nbsp;|&nbsp; hard 15 / 547 (2.74%)
+### easy 504 / 606 (83.17%) &nbsp;|&nbsp; medium 225 / 1319 (17.06%) &nbsp;|&nbsp; hard 16 / 547 (2.93%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1230,6 +1230,8 @@
   &nbsp;|&nbsp; [Go](1900/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type/go/main.go)
 - [1941. Check if All Characters Have Equal Number of Occurrences (easy)](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/)
   &nbsp;|&nbsp; [Go](1900/1941.%20Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences/go/main.go)
+- [1944. Number of Visible People in a Queue (hard)](https://leetcode.com/problems/number-of-visible-people-in-a-queue/)
+  &nbsp;|&nbsp; [Go](1900/1944.%20Number%20of%20Visible%20People%20in%20a%20Queue/go/main.go)
 - [1945. Sum of Digits of String After Convert (easy)](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/)
   &nbsp;|&nbsp; [Go](1900/1945.%20Sum%20of%20Digits%20of%20String%20After%20Convert/go/main.go)
 - [1952. Three Divisors (easy)](https://leetcode.com/problems/three-divisors/)
