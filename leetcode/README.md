@@ -1,4 +1,4 @@
-### easy 504 / 606 (83.17%) &nbsp;|&nbsp; medium 226 / 1319 (17.13%) &nbsp;|&nbsp; hard 17 / 547 (3.11%)
+### easy 504 / 606 (83.17%) &nbsp;|&nbsp; medium 227 / 1319 (17.21%) &nbsp;|&nbsp; hard 17 / 547 (3.11%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -988,6 +988,8 @@
   &nbsp;|&nbsp; [Go](1400/1422.%20Maximum%20Score%20After%20Splitting%20a%20String/go/main.go)
 - [1423. Maximum Points You Can Obtain from Cards (medium)](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
   &nbsp;|&nbsp; [Go](1400/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/go/main.go)
+- [1424. Diagonal Traverse II (medium)](https://leetcode.com/problems/diagonal-traverse-ii/)
+  &nbsp;|&nbsp; [Go](1400/1424.%20Diagonal%20Traverse%20II/go/main.go)
 - [1431. Kids With the Greatest Number of Candies (easy)](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
   &nbsp;|&nbsp; [Go](1400/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies/go/main.go)
 - [1436. Destination City (easy)](https://leetcode.com/problems/destination-city/)
