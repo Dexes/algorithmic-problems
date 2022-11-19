@@ -1,4 +1,4 @@
-### easy 504 / 606 (83.17%) &nbsp;|&nbsp; medium 225 / 1319 (17.06%) &nbsp;|&nbsp; hard 17 / 547 (3.11%)
+### easy 504 / 606 (83.17%) &nbsp;|&nbsp; medium 226 / 1319 (17.13%) &nbsp;|&nbsp; hard 17 / 547 (3.11%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -470,6 +470,8 @@
   &nbsp;|&nbsp; [Go](0400/0495.%20Teemo%20Attacking/go/main.go)
 - [496. Next Greater Element I (easy)](https://leetcode.com/problems/next-greater-element-i/)
   &nbsp;|&nbsp; [Go](0400/0496.%20Next%20Greater%20Element%20I/go/main.go)
+- [498. Diagonal Traverse (medium)](https://leetcode.com/problems/diagonal-traverse/)
+  &nbsp;|&nbsp; [Go](0400/0498.%20Diagonal%20Traverse/go/main.go)
 - [500. Keyboard Row (easy)](https://leetcode.com/problems/keyboard-row/)
   &nbsp;|&nbsp; [Go](0500/0500.%20Keyboard%20Row/go/main.go)
 - [501. Find Mode in Binary Search Tree (easy)](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
