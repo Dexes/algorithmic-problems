@@ -2470,5 +2470,11 @@
   "2469. Convert the Temperature": {"url": "https://leetcode.com/problems/convert-the-temperature/", "difficulty": 0, "premium": false},
   "2470. Number of Subarrays With LCM Equal to K": {"url": "https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/", "difficulty": 1, "premium": false},
   "2471. Minimum Number of Operations to Sort a Binary Tree by Level": {"url": "https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/", "difficulty": 1, "premium": false},
-  "2472. Maximum Number of Non-overlapping Palindrome Substrings": {"url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/", "difficulty": 2, "premium": false}
+  "2472. Maximum Number of Non-overlapping Palindrome Substrings": {"url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/", "difficulty": 2, "premium": false},
+  "2473. Minimum Cost to Buy Apples": {"url": "https://leetcode.com/problems/minimum-cost-to-buy-apples/", "difficulty": 1, "premium": true},
+  "2474. Customers With Strictly Increasing Purchases": {"url": "https://leetcode.com/problems/customers-with-strictly-increasing-purchases/", "difficulty": 2, "premium": true},
+  "2475. Number of Unequal Triplets in Array": {"url": "https://leetcode.com/problems/number-of-unequal-triplets-in-array/", "difficulty": 0, "premium": false},
+  "2476. Closest Nodes Queries in a Binary Search Tree": {"url": "https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/", "difficulty": 1, "premium": false},
+  "2477. Minimum Fuel Cost to Report to the Capital": {"url": "https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/", "difficulty": 1, "premium": false},
+  "2478. Number of Beautiful Partitions": {"url": "https://leetcode.com/problems/number-of-beautiful-partitions/", "difficulty": 2, "premium": false}
 }

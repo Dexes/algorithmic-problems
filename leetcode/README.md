@@ -1,4 +1,4 @@
-### easy 504 / 606 (83.17%) &nbsp;|&nbsp; medium 227 / 1319 (17.21%) &nbsp;|&nbsp; hard 17 / 547 (3.11%)
+### easy 505 / 607 (83.20%) &nbsp;|&nbsp; medium 227 / 1322 (17.17%) &nbsp;|&nbsp; hard 17 / 549 (3.10%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1496,3 +1496,5 @@
   &nbsp;|&nbsp; [Go](2400/2465.%20Number%20of%20Distinct%20Averages/go/main.go)
 - [2469. Convert the Temperature (easy)](https://leetcode.com/problems/convert-the-temperature/)
   &nbsp;|&nbsp; [Go](2400/2469.%20Convert%20the%20Temperature/go/main.go)
+- [2475. Number of Unequal Triplets in Array (easy)](https://leetcode.com/problems/number-of-unequal-triplets-in-array/)
+  &nbsp;|&nbsp; [Go](2400/2475.%20Number%20of%20Unequal%20Triplets%20in%20Array/go/main.go)
