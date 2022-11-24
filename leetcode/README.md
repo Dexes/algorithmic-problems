@@ -1,4 +1,4 @@
-### easy 516 / 607 (85.01%) &nbsp;|&nbsp; medium 234 / 1322 (17.70%) &nbsp;|&nbsp; hard 17 / 549 (3.10%)
+### easy 518 / 607 (85.34%) &nbsp;|&nbsp; medium 234 / 1322 (17.70%) &nbsp;|&nbsp; hard 17 / 549 (3.10%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -362,6 +362,8 @@
   &nbsp;|&nbsp; [Go](0200/0266.%20Palindrome%20Permutation/go/main.go)
 - [268. Missing Number (easy)](https://leetcode.com/problems/missing-number/)
   &nbsp;|&nbsp; [Go](0200/0268.%20Missing%20Number/go/main.go)
+- [270. Closest Binary Search Tree Value (easy)](https://leetcode.com/problems/closest-binary-search-tree-value/)
+  &nbsp;|&nbsp; [Go](0200/0270.%20Closest%20Binary%20Search%20Tree%20Value/go/main.go)
 - [278. First Bad Version (easy)](https://leetcode.com/problems/first-bad-version/)
   &nbsp;|&nbsp; [Go](0200/0278.%20First%20Bad%20Version/go/main.go)
 - [283. Move Zeroes (easy)](https://leetcode.com/problems/move-zeroes/)
@@ -372,6 +374,8 @@
   &nbsp;|&nbsp; [Go](0200/0290.%20Word%20Pattern/go/main.go)
 - [292. Nim Game (easy)](https://leetcode.com/problems/nim-game/)
   &nbsp;|&nbsp; [Go](0200/0292.%20Nim%20Game/go/main.go)
+- [293. Flip Game (easy)](https://leetcode.com/problems/flip-game/)
+  &nbsp;|&nbsp; [Go](0200/0293.%20Flip%20Game/go/main.go)
 - [297. Serialize and Deserialize Binary Tree (hard)](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
   &nbsp;|&nbsp; [Go](0200/0297.%20Serialize%20and%20Deserialize%20Binary%20Tree/go/main.go)
 - [303. Range Sum Query - Immutable (easy)](https://leetcode.com/problems/range-sum-query-immutable/)
