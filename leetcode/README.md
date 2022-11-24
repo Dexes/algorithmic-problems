@@ -1,4 +1,4 @@
-### easy 515 / 607 (84.84%) &nbsp;|&nbsp; medium 234 / 1322 (17.70%) &nbsp;|&nbsp; hard 17 / 549 (3.10%)
+### easy 516 / 607 (85.01%) &nbsp;|&nbsp; medium 234 / 1322 (17.70%) &nbsp;|&nbsp; hard 17 / 549 (3.10%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -392,6 +392,8 @@
   &nbsp;|&nbsp; [Go](0300/0344.%20Reverse%20String/go/main.go)
 - [345. Reverse Vowels of a String (easy)](https://leetcode.com/problems/reverse-vowels-of-a-string/)
   &nbsp;|&nbsp; [Go](0300/0345.%20Reverse%20Vowels%20of%20a%20String/go/main.go)
+- [346. Moving Average from Data Stream (easy)](https://leetcode.com/problems/moving-average-from-data-stream/)
+  &nbsp;|&nbsp; [Go](0300/0346.%20Moving%20Average%20from%20Data%20Stream/go/main.go)
 - [347. Top K Frequent Elements (medium)](https://leetcode.com/problems/top-k-frequent-elements/)
   &nbsp;|&nbsp; [Go](0300/0347.%20Top%20K%20Frequent%20Elements/go/main.go)
 - [349. Intersection of Two Arrays (easy)](https://leetcode.com/problems/intersection-of-two-arrays/)
