@@ -2476,5 +2476,15 @@
   "2475. Number of Unequal Triplets in Array": {"url": "https://leetcode.com/problems/number-of-unequal-triplets-in-array/", "difficulty": 0, "premium": false},
   "2476. Closest Nodes Queries in a Binary Search Tree": {"url": "https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/", "difficulty": 1, "premium": false},
   "2477. Minimum Fuel Cost to Report to the Capital": {"url": "https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/", "difficulty": 1, "premium": false},
-  "2478. Number of Beautiful Partitions": {"url": "https://leetcode.com/problems/number-of-beautiful-partitions/", "difficulty": 2, "premium": false}
+  "2478. Number of Beautiful Partitions": {"url": "https://leetcode.com/problems/number-of-beautiful-partitions/", "difficulty": 2, "premium": false},
+  "2479. Maximum XOR of Two Non-Overlapping Subtrees": {"url": "https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/", "difficulty": 2, "premium": true},
+  "2480. Form a Chemical Bond": {"url": "https://leetcode.com/problems/form-a-chemical-bond/", "difficulty": 0, "premium": true},
+  "2481. Minimum Cuts to Divide a Circle": {"url": "https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/", "difficulty": 0, "premium": false},
+  "2482. Difference Between Ones and Zeros in Row and Column": {"url": "https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/", "difficulty": 1, "premium": false},
+  "2483. Minimum Penalty for a Shop": {"url": "https://leetcode.com/problems/minimum-penalty-for-a-shop/", "difficulty": 1, "premium": false},
+  "2484. Count Palindromic Subsequences": {"url": "https://leetcode.com/problems/count-palindromic-subsequences/", "difficulty": 2, "premium": false},
+  "2485. Find the Pivot Integer": {"url": "https://leetcode.com/problems/find-the-pivot-integer/", "difficulty": 0, "premium": false},
+  "2486. Append Characters to String to Make Subsequence": {"url": "https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/", "difficulty": 1, "premium": false},
+  "2487. Remove Nodes From Linked List": {"url": "https://leetcode.com/problems/remove-nodes-from-linked-list/", "difficulty": 1, "premium": false},
+  "2488. Count Subarrays With Median K": {"url": "https://leetcode.com/problems/count-subarrays-with-median-k/", "difficulty": 2, "premium": false}
 }
