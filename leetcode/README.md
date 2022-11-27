@@ -1,4 +1,4 @@
-### easy 551 / 610 (90.33%) &nbsp;|&nbsp; medium 234 / 1326 (17.65%) &nbsp;|&nbsp; hard 17 / 552 (3.08%)
+### easy 552 / 610 (90.49%) &nbsp;|&nbsp; medium 234 / 1326 (17.65%) &nbsp;|&nbsp; hard 17 / 552 (3.08%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -964,6 +964,8 @@
   &nbsp;|&nbsp; [Go](1200/1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem/go/main.go)
 - [1239. Maximum Length of a Concatenated String with Unique Characters (medium)](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
   &nbsp;|&nbsp; [Go](1200/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters/go/main.go)
+- [1243. Array Transformation (easy)](https://leetcode.com/problems/array-transformation/)
+  &nbsp;|&nbsp; [Go](1200/1243.%20Array%20Transformation/go/main.go)
 - [1252. Cells with Odd Values in a Matrix (easy)](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
   &nbsp;|&nbsp; [Go](1200/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix/go/main.go)
 - [1260. Shift 2D Grid (easy)](https://leetcode.com/problems/shift-2d-grid/)
