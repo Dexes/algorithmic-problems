@@ -1,4 +1,4 @@
-### easy 552 / 610 (90.49%) &nbsp;|&nbsp; medium 234 / 1326 (17.65%) &nbsp;|&nbsp; hard 17 / 552 (3.08%)
+### easy 552 / 610 (90.49%) &nbsp;|&nbsp; medium 235 / 1326 (17.72%) &nbsp;|&nbsp; hard 17 / 552 (3.08%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1476,6 +1476,8 @@
   &nbsp;|&nbsp; [Go](2200/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number/go/main.go)
 - [2224. Minimum Number of Operations to Convert Time (easy)](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/)
   &nbsp;|&nbsp; [Go](2200/2224.%20Minimum%20Number%20of%20Operations%20to%20Convert%20Time/go/main.go)
+- [2225. Find Players With Zero or One Losses (medium)](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)
+  &nbsp;|&nbsp; [Go](2200/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses/go/main.go)
 - [2229. Check if an Array Is Consecutive (easy)](https://leetcode.com/problems/check-if-an-array-is-consecutive/)
   &nbsp;|&nbsp; [Go](2200/2229.%20Check%20if%20an%20Array%20Is%20Consecutive/go/main.go)
 - [2231. Largest Number After Digit Swaps by Parity (easy)](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/)
