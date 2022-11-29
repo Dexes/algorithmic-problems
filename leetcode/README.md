@@ -1,4 +1,4 @@
-### easy 552 / 610 (90.49%) &nbsp;|&nbsp; medium 235 / 1326 (17.72%) &nbsp;|&nbsp; hard 17 / 552 (3.08%)
+### easy 552 / 610 (90.49%) &nbsp;|&nbsp; medium 236 / 1326 (17.80%) &nbsp;|&nbsp; hard 17 / 552 (3.08%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -412,6 +412,8 @@
   &nbsp;|&nbsp; [Go](0300/0374.%20Guess%20Number%20Higher%20or%20Lower/go/main.go)
 - [377. Combination Sum IV (medium)](https://leetcode.com/problems/combination-sum-iv/)
   &nbsp;|&nbsp; [Go](0300/0377.%20Combination%20Sum%20IV/go/main.go)
+- [380. Insert Delete GetRandom O(1) (medium)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+  &nbsp;|&nbsp; [Go](0300/0380.%20Insert%20Delete%20GetRandom%20O(1)/go/main.go)
 - [382. Linked List Random Node (medium)](https://leetcode.com/problems/linked-list-random-node/)
   &nbsp;|&nbsp; [Go](0300/0382.%20Linked%20List%20Random%20Node/go/main.go)
 - [383. Ransom Note (easy)](https://leetcode.com/problems/ransom-note/)
