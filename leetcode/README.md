@@ -1,4 +1,4 @@
-### easy 552 / 610 (90.49%) &nbsp;|&nbsp; medium 236 / 1326 (17.80%) &nbsp;|&nbsp; hard 17 / 552 (3.08%)
+### easy 553 / 610 (90.66%) &nbsp;|&nbsp; medium 236 / 1326 (17.80%) &nbsp;|&nbsp; hard 17 / 552 (3.08%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1284,6 +1284,8 @@
   &nbsp;|&nbsp; [Go](1800/1816.%20Truncate%20Sentence/go/main.go)
 - [1822. Sign of the Product of an Array (easy)](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
   &nbsp;|&nbsp; [Go](1800/1822.%20Sign%20of%20the%20Product%20of%20an%20Array/go/main.go)
+- [1826. Faulty Sensor (easy)](https://leetcode.com/problems/faulty-sensor/)
+  &nbsp;|&nbsp; [Go](1800/1826.%20Faulty%20Sensor/go/main.go)
 - [1827. Minimum Operations to Make the Array Increasing (easy)](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)
   &nbsp;|&nbsp; [Go](1800/1827.%20Minimum%20Operations%20to%20Make%20the%20Array%20Increasing/go/main.go)
 - [1828. Queries on Number of Points Inside a Circle (medium)](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)
