@@ -1,4 +1,4 @@
-### easy 553 / 610 (90.66%) &nbsp;|&nbsp; medium 236 / 1326 (17.80%) &nbsp;|&nbsp; hard 17 / 552 (3.08%)
+### easy 553 / 610 (90.66%) &nbsp;|&nbsp; medium 237 / 1326 (17.87%) &nbsp;|&nbsp; hard 17 / 552 (3.08%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1428,6 +1428,8 @@
   &nbsp;|&nbsp; [Go](2100/2126.%20Destroying%20Asteroids/go/main.go)
 - [2129. Capitalize the Title (easy)](https://leetcode.com/problems/capitalize-the-title/)
   &nbsp;|&nbsp; [Go](2100/2129.%20Capitalize%20the%20Title/go/main.go)
+- [2130. Maximum Twin Sum of a Linked List (medium)](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)
+  &nbsp;|&nbsp; [Go](2100/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/go/main.go)
 - [2131. Longest Palindrome by Concatenating Two Letter Words (medium)](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)
   &nbsp;|&nbsp; [Go](2100/2131.%20Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words/go/main.go)
 - [2133. Check if Every Row and Column Contains All Numbers (easy)](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/)
