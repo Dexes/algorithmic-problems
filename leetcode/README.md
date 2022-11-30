@@ -1,4 +1,4 @@
-### easy 553 / 610 (90.66%) &nbsp;|&nbsp; medium 237 / 1326 (17.87%) &nbsp;|&nbsp; hard 17 / 552 (3.08%)
+### easy 553 / 610 (90.66%) &nbsp;|&nbsp; medium 238 / 1326 (17.95%) &nbsp;|&nbsp; hard 17 / 552 (3.08%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1104,6 +1104,8 @@
   &nbsp;|&nbsp; [Go](1400/1469.%20Find%20All%20The%20Lonely%20Nodes/go/main.go)
 - [1470. Shuffle the Array (easy)](https://leetcode.com/problems/shuffle-the-array/)
   &nbsp;|&nbsp; [Go](1400/1470.%20Shuffle%20the%20Array/go/main.go)
+- [1472. Design Browser History (medium)](https://leetcode.com/problems/design-browser-history/)
+  &nbsp;|&nbsp; [Go](1400/1472.%20Design%20Browser%20History/go/main.go)
 - [1474. Delete N Nodes After M Nodes of a Linked List (easy)](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/)
   &nbsp;|&nbsp; [Go](1400/1474.%20Delete%20N%20Nodes%20After%20M%20Nodes%20of%20a%20Linked%20List/go/main.go)
 - [1475. Final Prices With a Special Discount in a Shop (easy)](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)
