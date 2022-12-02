@@ -1,4 +1,4 @@
-### easy 553 / 610 (90.66%) &nbsp;|&nbsp; medium 249 / 1326 (18.78%) &nbsp;|&nbsp; hard 17 / 552 (3.08%)
+### easy 553 / 610 (90.66%) &nbsp;|&nbsp; medium 250 / 1326 (18.85%) &nbsp;|&nbsp; hard 17 / 552 (3.08%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1208,6 +1208,8 @@
   &nbsp;|&nbsp; [Go](1600/1652.%20Defuse%20the%20Bomb/go/main.go)
 - [1656. Design an Ordered Stream (easy)](https://leetcode.com/problems/design-an-ordered-stream/)
   &nbsp;|&nbsp; [Go](1600/1656.%20Design%20an%20Ordered%20Stream/go/main.go)
+- [1657. Determine if Two Strings Are Close (medium)](https://leetcode.com/problems/determine-if-two-strings-are-close/)
+  &nbsp;|&nbsp; [Go](1600/1657.%20Determine%20if%20Two%20Strings%20Are%20Close/go/main.go)
 - [1662. Check If Two String Arrays are Equivalent (easy)](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
   &nbsp;|&nbsp; [Go](1600/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent/go/main.go)
 - [1667. Fix Names in a Table (easy)](https://leetcode.com/problems/fix-names-in-a-table/)
