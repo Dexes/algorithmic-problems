@@ -1,6 +1,7 @@
 let elements = Array.from(document.getElementsByClassName('truncate'));
 let result = "";
 let difficulties = {'Easy': 0, 'Medium': 1, 'Hard': 2};
+let idRE = new RegExp('^\\d+');
 
 for (let i in elements) {
     let titleParent = elements[i];
@@ -14,11 +15,14 @@ for (let i in elements) {
 
     let premium = titleParent.parentNode.children[1];
 
-    title = title.getAttribute('href')
-    if (title[title.length - 1] !== '/') title += '/'
+    let url = title.getAttribute('href')
+    if (url[url.length - 1] !== '/') url += '/'
 
-    result += JSON.stringify(titleParent.textContent.trim()) + ': {'
-        + '"url": ' + JSON.stringify('https://leetcode.com' + title) + ", "
+    let id = idRE.exec(titleParent.textContent.trim())[0].padStart(4, '0')
+
+    result += JSON.stringify(id) + ': {'
+        + '"name": ' + JSON.stringify(titleParent.textContent.trim()) + ", "
+        + '"url": ' + JSON.stringify('https://leetcode.com' + url) + ", "
         + '"difficulty": ' + difficulties[difficulty.textContent] + ", "
         + '"premium": ' + (premium ? "true" : "false")
         + '},\n';
