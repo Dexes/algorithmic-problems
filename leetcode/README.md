@@ -1,4 +1,4 @@
-### easy 555 / 610 (90.98%) &nbsp;|&nbsp; medium 253 / 1327 (19.07%) &nbsp;|&nbsp; hard 17 / 552 (3.08%)
+### easy 555 / 610 (90.98%) &nbsp;|&nbsp; medium 255 / 1327 (19.22%) &nbsp;|&nbsp; hard 17 / 552 (3.08%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -388,6 +388,8 @@
   &nbsp;|&nbsp; [Go](0300/0326/go/main.go)
 - [328. Odd Even Linked List (medium)](https://leetcode.com/problems/odd-even-linked-list/)
   &nbsp;|&nbsp; [Go](0300/0328/go/main.go)
+- [331. Verify Preorder Serialization of a Binary Tree (medium)](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)
+  &nbsp;|&nbsp; [Go](0300/0331/go/main.go)
 - [334. Increasing Triplet Subsequence (medium)](https://leetcode.com/problems/increasing-triplet-subsequence/)
   &nbsp;|&nbsp; [Go](0300/0334/go/main.go)
 - [338. Counting Bits (easy)](https://leetcode.com/problems/counting-bits/)
@@ -786,6 +788,8 @@
   &nbsp;|&nbsp; [Go](0900/0905/go/main.go)
 - [908. Smallest Range I (easy)](https://leetcode.com/problems/smallest-range-i/)
   &nbsp;|&nbsp; [Go](0900/0908/go/main.go)
+- [912. Sort an Array (medium)](https://leetcode.com/problems/sort-an-array/)
+  &nbsp;|&nbsp; [Go](0900/0912/go/main.go)
 - [914. X of a Kind in a Deck of Cards (easy)](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)
   &nbsp;|&nbsp; [Go](0900/0914/go/main.go)
 - [916. Word Subsets (medium)](https://leetcode.com/problems/word-subsets/)
