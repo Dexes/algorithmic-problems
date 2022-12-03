@@ -1,4 +1,4 @@
-### easy 553 / 610 (90.66%) &nbsp;|&nbsp; medium 251 / 1326 (18.93%) &nbsp;|&nbsp; hard 17 / 552 (3.08%)
+### easy 553 / 610 (90.66%) &nbsp;|&nbsp; medium 252 / 1326 (19.00%) &nbsp;|&nbsp; hard 17 / 552 (3.08%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001.%20Two%20Sum/go/main.go)
@@ -1638,6 +1638,8 @@
   &nbsp;|&nbsp; [Go](2400/2475.%20Number%20of%20Unequal%20Triplets%20in%20Array/go/main.go)
 - [2481. Minimum Cuts to Divide a Circle (easy)](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/)
   &nbsp;|&nbsp; [Go](2400/2481.%20Minimum%20Cuts%20to%20Divide%20a%20Circle/go/main.go)
+- [2483. Minimum Penalty for a Shop (medium)](https://leetcode.com/problems/minimum-penalty-for-a-shop/)
+  &nbsp;|&nbsp; [Go](2400/2483.%20Minimum%20Penalty%20for%20a%20Shop/go/main.go)
 - [2485. Find the Pivot Integer (easy)](https://leetcode.com/problems/find-the-pivot-integer/)
   &nbsp;|&nbsp; [Go](2400/2485.%20Find%20the%20Pivot%20Integer/go/main.go)
 - [2487. Remove Nodes From Linked List (medium)](https://leetcode.com/problems/remove-nodes-from-linked-list/)
