@@ -1,4 +1,4 @@
-### easy 555 / 610 (90.98%) &nbsp;|&nbsp; medium 255 / 1327 (19.22%) &nbsp;|&nbsp; hard 17 / 552 (3.08%)
+### easy 555 / 610 (90.98%) &nbsp;|&nbsp; medium 256 / 1327 (19.29%) &nbsp;|&nbsp; hard 17 / 552 (3.08%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1534,6 +1534,8 @@
   &nbsp;|&nbsp; [Go](2200/2248/go/main.go)
 - [2255. Count Prefixes of a Given String (easy)](https://leetcode.com/problems/count-prefixes-of-a-given-string/)
   &nbsp;|&nbsp; [Go](2200/2255/go/main.go)
+- [2256. Minimum Average Difference (medium)](https://leetcode.com/problems/minimum-average-difference/)
+  &nbsp;|&nbsp; [Go](2200/2256/go/main.go)
 - [2259. Remove Digit From Number to Maximize Result (easy)](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/)
   &nbsp;|&nbsp; [Go](2200/2259/go/main.go)
 - [2264. Largest 3-Same-Digit Number in String (easy)](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)
