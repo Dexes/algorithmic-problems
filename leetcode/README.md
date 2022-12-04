@@ -1,4 +1,4 @@
-### easy 555 / 610 (90.98%) &nbsp;|&nbsp; medium 256 / 1327 (19.29%) &nbsp;|&nbsp; hard 17 / 552 (3.08%)
+### easy 555 / 610 (90.98%) &nbsp;|&nbsp; medium 257 / 1327 (19.37%) &nbsp;|&nbsp; hard 17 / 552 (3.08%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1070,6 +1070,8 @@
   &nbsp;|&nbsp; [Go](1300/1367/go/main.go)
 - [1370. Increasing Decreasing String (easy)](https://leetcode.com/problems/increasing-decreasing-string/)
   &nbsp;|&nbsp; [Go](1300/1370/go/main.go)
+- [1372. Longest ZigZag Path in a Binary Tree (medium)](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)
+  &nbsp;|&nbsp; [Go](1300/1372/go/main.go)
 - [1374. Generate a String With Characters That Have Odd Counts (easy)](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)
   &nbsp;|&nbsp; [Go](1300/1374/go/main.go)
 - [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree (easy)](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)
