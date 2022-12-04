@@ -1,4 +1,4 @@
-### easy 555 / 610 (90.98%) &nbsp;|&nbsp; medium 257 / 1327 (19.37%) &nbsp;|&nbsp; hard 17 / 552 (3.08%)
+### easy 556 / 611 (91.00%) &nbsp;|&nbsp; medium 257 / 1329 (19.34%) &nbsp;|&nbsp; hard 17 / 553 (3.07%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1658,3 +1658,5 @@
   &nbsp;|&nbsp; [Go](2400/2485/go/main.go)
 - [2487. Remove Nodes From Linked List (medium)](https://leetcode.com/problems/remove-nodes-from-linked-list/)
   &nbsp;|&nbsp; [Go](2400/2487/go/main.go)
+- [2490. Circular Sentence (easy)](https://leetcode.com/problems/circular-sentence/)
+  &nbsp;|&nbsp; [Go](2400/2490/go/main.go)

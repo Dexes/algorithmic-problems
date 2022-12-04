@@ -2487,5 +2487,9 @@
   "2486": {"name": "2486. Append Characters to String to Make Subsequence", "url": "https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/", "difficulty": 1, "premium": false},
   "2487": {"name": "2487. Remove Nodes From Linked List", "url": "https://leetcode.com/problems/remove-nodes-from-linked-list/", "difficulty": 1, "premium": false},
   "2488": {"name": "2488. Count Subarrays With Median K", "url": "https://leetcode.com/problems/count-subarrays-with-median-k/", "difficulty": 2, "premium": false},
-  "2489": {"name": "2489. Number of Substrings With Fixed Ratio", "url": "https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/", "difficulty": 1, "premium": true}
+  "2489": {"name": "2489. Number of Substrings With Fixed Ratio", "url": "https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/", "difficulty": 1, "premium": true},
+  "2490": {"name": "2490. Circular Sentence", "url": "https://leetcode.com/problems/circular-sentence/", "difficulty": 0, "premium": false},
+  "2491": {"name": "2491. Divide Players Into Teams of Equal Skill", "url": "https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/", "difficulty": 1, "premium": false},
+  "2492": {"name": "2492. Minimum Score of a Path Between Two Cities", "url": "https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/", "difficulty": 1, "premium": false},
+  "2493": {"name": "2493. Divide Nodes Into the Maximum Number of Groups", "url": "https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/", "difficulty": 2, "premium": false}
 }
