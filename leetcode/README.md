@@ -1,4 +1,4 @@
-### easy 556 / 611 (91.00%) &nbsp;|&nbsp; medium 260 / 1329 (19.56%) &nbsp;|&nbsp; hard 17 / 553 (3.07%)
+### easy 556 / 611 (91.00%) &nbsp;|&nbsp; medium 261 / 1329 (19.64%) &nbsp;|&nbsp; hard 17 / 553 (3.07%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -718,6 +718,8 @@
   &nbsp;|&nbsp; [Go](0700/0784/go/main.go)
 - [796. Rotate String (easy)](https://leetcode.com/problems/rotate-string/)
   &nbsp;|&nbsp; [Go](0700/0796/go/main.go)
+- [797. All Paths From Source to Target (medium)](https://leetcode.com/problems/all-paths-from-source-to-target/)
+  &nbsp;|&nbsp; [Go](0700/0797/go/main.go)
 - [800. Similar RGB Color (easy)](https://leetcode.com/problems/similar-rgb-color/)
   &nbsp;|&nbsp; [Go](0800/0800/go/main.go)
 - [804. Unique Morse Code Words (easy)](https://leetcode.com/problems/unique-morse-code-words/)
