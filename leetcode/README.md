@@ -1,4 +1,4 @@
-### easy 556 / 611 (91.00%) &nbsp;|&nbsp; medium 261 / 1329 (19.64%) &nbsp;|&nbsp; hard 17 / 553 (3.07%)
+### easy 556 / 611 (91.00%) &nbsp;|&nbsp; medium 262 / 1329 (19.71%) &nbsp;|&nbsp; hard 17 / 553 (3.07%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -384,6 +384,8 @@
   &nbsp;|&nbsp; [Go](0300/0303/go/main.go)
 - [322. Coin Change (medium)](https://leetcode.com/problems/coin-change/)
   &nbsp;|&nbsp; [Go](0300/0322/go/main.go)
+- [323. Number of Connected Components in an Undirected Graph (medium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+  &nbsp;|&nbsp; [Go](0300/0323/go/main.go)
 - [326. Power of Three (easy)](https://leetcode.com/problems/power-of-three/)
   &nbsp;|&nbsp; [Go](0300/0326/go/main.go)
 - [328. Odd Even Linked List (medium)](https://leetcode.com/problems/odd-even-linked-list/)
