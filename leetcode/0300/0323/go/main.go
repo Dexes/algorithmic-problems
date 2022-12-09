@@ -19,8 +19,7 @@ func countComponents(n int, edges [][]int) int {
 }
 
 func merge(groups []int, i int) int {
-	for i != groups[i] {
-		i = groups[i]
+	for ; i != groups[i]; i = groups[i] {
 		groups[i] = groups[groups[i]]
 	}
 
