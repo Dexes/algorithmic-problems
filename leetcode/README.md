@@ -1,4 +1,4 @@
-### easy 556 / 611 (91.00%) &nbsp;|&nbsp; medium 263 / 1329 (19.79%) &nbsp;|&nbsp; hard 17 / 553 (3.07%)
+### easy 557 / 612 (91.01%) &nbsp;|&nbsp; medium 263 / 1332 (19.74%) &nbsp;|&nbsp; hard 17 / 555 (3.06%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1672,3 +1672,5 @@
   &nbsp;|&nbsp; [Go](2400/2487/go/main.go)
 - [2490. Circular Sentence (easy)](https://leetcode.com/problems/circular-sentence/)
   &nbsp;|&nbsp; [Go](2400/2490/go/main.go)
+- [2496. Maximum Value of a String in an Array (easy)](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/)
+  &nbsp;|&nbsp; [Go](2400/2496/go/main.go)

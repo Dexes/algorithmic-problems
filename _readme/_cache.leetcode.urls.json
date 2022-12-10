@@ -2491,5 +2491,11 @@
   "2490": {"name": "2490. Circular Sentence", "url": "https://leetcode.com/problems/circular-sentence/", "difficulty": 0, "premium": false},
   "2491": {"name": "2491. Divide Players Into Teams of Equal Skill", "url": "https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/", "difficulty": 1, "premium": false},
   "2492": {"name": "2492. Minimum Score of a Path Between Two Cities", "url": "https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/", "difficulty": 1, "premium": false},
-  "2493": {"name": "2493. Divide Nodes Into the Maximum Number of Groups", "url": "https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/", "difficulty": 2, "premium": false}
+  "2493": {"name": "2493. Divide Nodes Into the Maximum Number of Groups", "url": "https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/", "difficulty": 2, "premium": false},
+  "2494": {"name": "2494. Merge Overlapping Events in the Same Hall", "url": "https://leetcode.com/problems/merge-overlapping-events-in-the-same-hall/", "difficulty": 2, "premium": true},
+  "2495": {"name": "2495. Number of Subarrays Having Even Product", "url": "https://leetcode.com/problems/number-of-subarrays-having-even-product/", "difficulty": 1, "premium": true},
+  "2496": {"name": "2496. Maximum Value of a String in an Array", "url": "https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/", "difficulty": 0, "premium": false},
+  "2497": {"name": "2497. Maximum Star Sum of a Graph", "url": "https://leetcode.com/problems/maximum-star-sum-of-a-graph/", "difficulty": 1, "premium": false},
+  "2498": {"name": "2498. Frog Jump II", "url": "https://leetcode.com/problems/frog-jump-ii/", "difficulty": 1, "premium": false},
+  "2499": {"name": "2499. Minimum Total Cost to Make Arrays Unequal", "url": "https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal/", "difficulty": 2, "premium": false}
 }
