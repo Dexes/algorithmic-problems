@@ -2497,5 +2497,10 @@
   "2496": {"name": "2496. Maximum Value of a String in an Array", "url": "https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/", "difficulty": 0, "premium": false},
   "2497": {"name": "2497. Maximum Star Sum of a Graph", "url": "https://leetcode.com/problems/maximum-star-sum-of-a-graph/", "difficulty": 1, "premium": false},
   "2498": {"name": "2498. Frog Jump II", "url": "https://leetcode.com/problems/frog-jump-ii/", "difficulty": 1, "premium": false},
-  "2499": {"name": "2499. Minimum Total Cost to Make Arrays Unequal", "url": "https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal/", "difficulty": 2, "premium": false}
+  "2499": {"name": "2499. Minimum Total Cost to Make Arrays Unequal", "url": "https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal/", "difficulty": 2, "premium": false},
+  "2500": {"name": "2500. Delete Greatest Value in Each Row", "url": "https://leetcode.com/problems/delete-greatest-value-in-each-row/", "difficulty": 0, "premium": false},
+  "2501": {"name": "2501. Longest Square Streak in an Array", "url": "https://leetcode.com/problems/longest-square-streak-in-an-array/", "difficulty": 1, "premium": false},
+  "2502": {"name": "2502. Design Memory Allocator", "url": "https://leetcode.com/problems/design-memory-allocator/", "difficulty": 1, "premium": false},
+  "2503": {"name": "2503. Maximum Number of Points From Grid Queries", "url": "https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/", "difficulty": 2, "premium": false},
+  "2504": {"name": "2504. Concatenate the Name and the Profession", "url": "https://leetcode.com/problems/concatenate-the-name-and-the-profession/", "difficulty": 0, "premium": true}
 }
