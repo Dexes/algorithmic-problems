@@ -1,4 +1,4 @@
-### easy 559 / 614 (91.04%) &nbsp;|&nbsp; medium 266 / 1334 (19.94%) &nbsp;|&nbsp; hard 17 / 556 (3.06%)
+### easy 559 / 614 (91.04%) &nbsp;|&nbsp; medium 267 / 1334 (20.01%) &nbsp;|&nbsp; hard 17 / 556 (3.06%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -424,6 +424,8 @@
   &nbsp;|&nbsp; [Go](0300/0374/go/main.go)
 - [377. Combination Sum IV (medium)](https://leetcode.com/problems/combination-sum-iv/)
   &nbsp;|&nbsp; [Go](0300/0377/go/main.go)
+- [379. Design Phone Directory (medium)](https://leetcode.com/problems/design-phone-directory/)
+  &nbsp;|&nbsp; [Go](0300/0379/go/main.go)
 - [380. Insert Delete GetRandom O(1) (medium)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
   &nbsp;|&nbsp; [Go](0300/0380/go/main.go)
 - [382. Linked List Random Node (medium)](https://leetcode.com/problems/linked-list-random-node/)
