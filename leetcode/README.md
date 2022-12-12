@@ -1,4 +1,4 @@
-### easy 559 / 614 (91.04%) &nbsp;|&nbsp; medium 265 / 1334 (19.87%) &nbsp;|&nbsp; hard 17 / 556 (3.06%)
+### easy 559 / 614 (91.04%) &nbsp;|&nbsp; medium 266 / 1334 (19.94%) &nbsp;|&nbsp; hard 17 / 556 (3.06%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -382,6 +382,8 @@
   &nbsp;|&nbsp; [Go](0200/0298/go/main.go)
 - [303. Range Sum Query - Immutable (easy)](https://leetcode.com/problems/range-sum-query-immutable/)
   &nbsp;|&nbsp; [Go](0300/0303/go/main.go)
+- [314. Binary Tree Vertical Order Traversal (medium)](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
+  &nbsp;|&nbsp; [Go](0300/0314/go/main.go)
 - [322. Coin Change (medium)](https://leetcode.com/problems/coin-change/)
   &nbsp;|&nbsp; [Go](0300/0322/go/main.go)
 - [323. Number of Connected Components in an Undirected Graph (medium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
