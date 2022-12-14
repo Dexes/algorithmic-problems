@@ -1,4 +1,4 @@
-### easy 559 / 614 (91.04%) &nbsp;|&nbsp; medium 268 / 1334 (20.09%) &nbsp;|&nbsp; hard 17 / 556 (3.06%)
+### easy 559 / 614 (91.04%) &nbsp;|&nbsp; medium 270 / 1334 (20.24%) &nbsp;|&nbsp; hard 17 / 556 (3.06%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1678,6 +1678,10 @@
   &nbsp;|&nbsp; [Go](2400/2487/go/main.go)
 - [2490. Circular Sentence (easy)](https://leetcode.com/problems/circular-sentence/)
   &nbsp;|&nbsp; [Go](2400/2490/go/main.go)
+- [2491. Divide Players Into Teams of Equal Skill (medium)](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/)
+  &nbsp;|&nbsp; [Go](2400/2491/go/main.go)
+- [2492. Minimum Score of a Path Between Two Cities (medium)](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)
+  &nbsp;|&nbsp; [Go](2400/2492/go/main.go)
 - [2496. Maximum Value of a String in an Array (easy)](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/)
   &nbsp;|&nbsp; [Go](2400/2496/go/main.go)
 - [2500. Delete Greatest Value in Each Row (easy)](https://leetcode.com/problems/delete-greatest-value-in-each-row/)
