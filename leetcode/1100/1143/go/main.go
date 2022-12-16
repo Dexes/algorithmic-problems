@@ -6,14 +6,14 @@ func longestCommonSubsequence(text1 string, text2 string) int {
 		dp[i] = make([]int, len(text2)+1)
 	}
 
-	for i := 1; i <= len(text1); i++ {
-		for j := 1; j <= len(text2); j++ {
-			if text1[i-1] == text2[j-1] {
-				dp[i][j] = 1 + dp[i-1][j-1]
+	for i := 0; i < len(text1); i++ {
+		for j := 0; j < len(text2); j++ {
+			if text1[i] == text2[j] {
+				dp[i+1][j+1] = 1 + dp[i][j]
 				continue
 			}
 
-			dp[i][j] = max(dp[i-1][j], dp[i][j-1])
+			dp[i+1][j+1] = max(dp[i][j+1], dp[i+1][j])
 		}
 	}
 
