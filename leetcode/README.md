@@ -1,4 +1,4 @@
-### easy 559 / 614 (91.04%) &nbsp;|&nbsp; medium 272 / 1334 (20.39%) &nbsp;|&nbsp; hard 17 / 556 (3.06%)
+### easy 559 / 614 (91.04%) &nbsp;|&nbsp; medium 274 / 1334 (20.54%) &nbsp;|&nbsp; hard 17 / 556 (3.06%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1322,6 +1322,8 @@
   &nbsp;|&nbsp; [SQL](1700/1795/sql/main.sql)
 - [1796. Second Largest Digit in a String (easy)](https://leetcode.com/problems/second-largest-digit-in-a-string/)
   &nbsp;|&nbsp; [Go](1700/1796/go/main.go)
+- [1797. Design Authentication Manager (medium)](https://leetcode.com/problems/design-authentication-manager/)
+  &nbsp;|&nbsp; [Go](1700/1797/go/main.go)
 - [1800. Maximum Ascending Subarray Sum (easy)](https://leetcode.com/problems/maximum-ascending-subarray-sum/)
   &nbsp;|&nbsp; [Go](1800/1800/go/main.go)
 - [1805. Number of Different Integers in a String (easy)](https://leetcode.com/problems/number-of-different-integers-in-a-string/)
@@ -1348,6 +1350,8 @@
   &nbsp;|&nbsp; [Go](1800/1837/go/main.go)
 - [1844. Replace All Digits with Characters (easy)](https://leetcode.com/problems/replace-all-digits-with-characters/)
   &nbsp;|&nbsp; [Go](1800/1844/go/main.go)
+- [1845. Seat Reservation Manager (medium)](https://leetcode.com/problems/seat-reservation-manager/)
+  &nbsp;|&nbsp; [Go](1800/1845/go/main.go)
 - [1848. Minimum Distance to the Target Element (easy)](https://leetcode.com/problems/minimum-distance-to-the-target-element/)
   &nbsp;|&nbsp; [Go](1800/1848/go/main.go)
 - [1854. Maximum Population Year (easy)](https://leetcode.com/problems/maximum-population-year/)
