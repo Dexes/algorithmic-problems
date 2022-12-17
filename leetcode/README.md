@@ -1,4 +1,4 @@
-### easy 559 / 614 (91.04%) &nbsp;|&nbsp; medium 270 / 1334 (20.24%) &nbsp;|&nbsp; hard 17 / 556 (3.06%)
+### easy 559 / 614 (91.04%) &nbsp;|&nbsp; medium 272 / 1334 (20.39%) &nbsp;|&nbsp; hard 17 / 556 (3.06%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1618,6 +1618,8 @@
   &nbsp;|&nbsp; [Go](2300/2373/go/main.go)
 - [2379. Minimum Recolors to Get K Consecutive Black Blocks (easy)](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)
   &nbsp;|&nbsp; [Go](2300/2379/go/main.go)
+- [2381. Shifting Letters II (medium)](https://leetcode.com/problems/shifting-letters-ii/)
+  &nbsp;|&nbsp; [Go](2300/2381/go/main.go)
 - [2383. Minimum Hours of Training to Win a Competition (easy)](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/)
   &nbsp;|&nbsp; [Go](2300/2383/go/main.go)
 - [2389. Longest Subsequence With Limited Sum (easy)](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
@@ -1628,6 +1630,8 @@
   &nbsp;|&nbsp; [Go](2300/2399/go/main.go)
 - [2404. Most Frequent Even Element (easy)](https://leetcode.com/problems/most-frequent-even-element/)
   &nbsp;|&nbsp; [Go](2400/2404/go/main.go)
+- [2408. Design SQL (medium)](https://leetcode.com/problems/design-sql/)
+  &nbsp;|&nbsp; [Go](2400/2408/go/main.go)
 - [2409. Count Days Spent Together (easy)](https://leetcode.com/problems/count-days-spent-together/)
   &nbsp;|&nbsp; [Go](2400/2409/go/main.go)
 - [2413. Smallest Even Multiple (easy)](https://leetcode.com/problems/smallest-even-multiple/)
