@@ -19,12 +19,12 @@ func (x AuthenticationManager) Renew(tokenId string, currentTime int) {
 	}
 }
 
-func (x AuthenticationManager) CountUnexpiredTokens(currentTime int) (result int) {
-	for _, time := range x.tokens {
-		if time > currentTime {
-			result++
+func (x AuthenticationManager) CountUnexpiredTokens(currentTime int) int {
+	for token, time := range x.tokens {
+		if time <= currentTime {
+			delete(x.tokens, token)
 		}
 	}
 
-	return result
+	return len(x.tokens)
 }
