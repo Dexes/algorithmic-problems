@@ -1,4 +1,4 @@
-### easy 559 / 614 (91.04%) &nbsp;|&nbsp; medium 276 / 1334 (20.69%) &nbsp;|&nbsp; hard 17 / 556 (3.06%)
+### easy 560 / 615 (91.06%) &nbsp;|&nbsp; medium 276 / 1336 (20.66%) &nbsp;|&nbsp; hard 17 / 558 (3.05%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1704,3 +1704,5 @@
   &nbsp;|&nbsp; [Go](2500/2502/go/main.go)
 - [2504. Concatenate the Name and the Profession (easy)](https://leetcode.com/problems/concatenate-the-name-and-the-profession/)
   &nbsp;|&nbsp; [SQL](2500/2504/sql/main.sql)
+- [2506. Count Pairs Of Similar Strings (easy)](https://leetcode.com/problems/count-pairs-of-similar-strings/)
+  &nbsp;|&nbsp; [Go](2500/2506/go/main.go)
