@@ -1,4 +1,4 @@
-### easy 559 / 614 (91.04%) &nbsp;|&nbsp; medium 274 / 1334 (20.54%) &nbsp;|&nbsp; hard 17 / 556 (3.06%)
+### easy 559 / 614 (91.04%) &nbsp;|&nbsp; medium 276 / 1334 (20.69%) &nbsp;|&nbsp; hard 17 / 556 (3.06%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -414,6 +414,8 @@
   &nbsp;|&nbsp; [Go](0300/0349/go/main.go)
 - [350. Intersection of Two Arrays II (easy)](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
   &nbsp;|&nbsp; [Go](0300/0350/go/main.go)
+- [353. Design Snake Game (medium)](https://leetcode.com/problems/design-snake-game/)
+  &nbsp;|&nbsp; [Go](0300/0353/go/main.go)
 - [359. Logger Rate Limiter (easy)](https://leetcode.com/problems/logger-rate-limiter/)
   &nbsp;|&nbsp; [Go](0300/0359/go/main.go)
 - [367. Valid Perfect Square (easy)](https://leetcode.com/problems/valid-perfect-square/)
@@ -1550,6 +1552,8 @@
   &nbsp;|&nbsp; [Go](2200/2236/go/main.go)
 - [2239. Find Closest Number to Zero (easy)](https://leetcode.com/problems/find-closest-number-to-zero/)
   &nbsp;|&nbsp; [Go](2200/2239/go/main.go)
+- [2241. Design an ATM Machine (medium)](https://leetcode.com/problems/design-an-atm-machine/)
+  &nbsp;|&nbsp; [Go](2200/2241/go/main.go)
 - [2243. Calculate Digit Sum of a String (easy)](https://leetcode.com/problems/calculate-digit-sum-of-a-string/)
   &nbsp;|&nbsp; [Go](2200/2243/go/main.go)
 - [2248. Intersection of Multiple Arrays (easy)](https://leetcode.com/problems/intersection-of-multiple-arrays/)
