@@ -1,4 +1,4 @@
-### easy 560 / 615 (91.06%) &nbsp;|&nbsp; medium 285 / 1336 (21.33%) &nbsp;|&nbsp; hard 17 / 558 (3.05%)
+### easy 560 / 615 (91.06%) &nbsp;|&nbsp; medium 286 / 1336 (21.41%) &nbsp;|&nbsp; hard 17 / 558 (3.05%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -634,6 +634,8 @@
   &nbsp;|&nbsp; [SQL](0600/0627/sql/main.sql)
 - [628. Maximum Product of Three Numbers (easy)](https://leetcode.com/problems/maximum-product-of-three-numbers/)
   &nbsp;|&nbsp; [Go](0600/0628/go/main.go)
+- [635. Design Log Storage System (medium)](https://leetcode.com/problems/design-log-storage-system/)
+  &nbsp;|&nbsp; [Go](0600/0635/go/main.go)
 - [637. Average of Levels in Binary Tree (easy)](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
   &nbsp;|&nbsp; [Go](0600/0637/go/main.go)
 - [641. Design Circular Deque (medium)](https://leetcode.com/problems/design-circular-deque/)
