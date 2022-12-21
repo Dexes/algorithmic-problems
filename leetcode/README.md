@@ -1,4 +1,4 @@
-### easy 560 / 615 (91.06%) &nbsp;|&nbsp; medium 286 / 1336 (21.41%) &nbsp;|&nbsp; hard 17 / 558 (3.05%)
+### easy 560 / 615 (91.06%) &nbsp;|&nbsp; medium 287 / 1336 (21.48%) &nbsp;|&nbsp; hard 17 / 558 (3.05%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -796,6 +796,8 @@
   &nbsp;|&nbsp; [Go](0800/0883/go/main.go)
 - [884. Uncommon Words from Two Sentences (easy)](https://leetcode.com/problems/uncommon-words-from-two-sentences/)
   &nbsp;|&nbsp; [Go](0800/0884/go/main.go)
+- [886. Possible Bipartition (medium)](https://leetcode.com/problems/possible-bipartition/)
+  &nbsp;|&nbsp; [Go](0800/0886/go/main.go)
 - [888. Fair Candy Swap (easy)](https://leetcode.com/problems/fair-candy-swap/)
   &nbsp;|&nbsp; [Go](0800/0888/go/main.go)
 - [889. Construct Binary Tree from Preorder and Postorder Traversal (medium)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
