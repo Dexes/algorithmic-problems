@@ -1,4 +1,4 @@
-### easy 570 / 615 (92.68%) &nbsp;|&nbsp; medium 287 / 1336 (21.48%) &nbsp;|&nbsp; hard 17 / 558 (3.05%)
+### easy 571 / 615 (92.85%) &nbsp;|&nbsp; medium 287 / 1336 (21.48%) &nbsp;|&nbsp; hard 17 / 558 (3.05%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -966,6 +966,8 @@
   &nbsp;|&nbsp; [Go](1100/1103/go/main.go)
 - [1108. Defanging an IP Address (easy)](https://leetcode.com/problems/defanging-an-ip-address/)
   &nbsp;|&nbsp; [Go](1100/1108/go/main.go)
+- [1113. Reported Posts (easy)](https://leetcode.com/problems/reported-posts/)
+  &nbsp;|&nbsp; [SQL](1100/1113/sql/main.sql)
 - [1114. Print in Order (easy)](https://leetcode.com/problems/print-in-order/)
   &nbsp;|&nbsp; [Python](1100/1114/python/main.py)
 - [1118. Number of Days in a Month (easy)](https://leetcode.com/problems/number-of-days-in-a-month/)
