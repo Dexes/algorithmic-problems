@@ -1,4 +1,4 @@
-### easy 571 / 615 (92.85%) &nbsp;|&nbsp; medium 287 / 1336 (21.48%) &nbsp;|&nbsp; hard 17 / 558 (3.05%)
+### easy 571 / 615 (92.85%) &nbsp;|&nbsp; medium 289 / 1336 (21.63%) &nbsp;|&nbsp; hard 17 / 558 (3.05%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -422,6 +422,8 @@
   &nbsp;|&nbsp; [Go](0300/0355/go/main.go)
 - [359. Logger Rate Limiter (easy)](https://leetcode.com/problems/logger-rate-limiter/)
   &nbsp;|&nbsp; [Go](0300/0359/go/main.go)
+- [362. Design Hit Counter (medium)](https://leetcode.com/problems/design-hit-counter/)
+  &nbsp;|&nbsp; [Go](0300/0362/go/main.go)
 - [367. Valid Perfect Square (easy)](https://leetcode.com/problems/valid-perfect-square/)
   &nbsp;|&nbsp; [Go](0300/0367/go/main.go)
 - [369. Plus One Linked List (medium)](https://leetcode.com/problems/plus-one-linked-list/)
@@ -492,6 +494,8 @@
   &nbsp;|&nbsp; [Go](0400/0438/go/main.go)
 - [441. Arranging Coins (easy)](https://leetcode.com/problems/arranging-coins/)
   &nbsp;|&nbsp; [Go](0400/0441/go/main.go)
+- [442. Find All Duplicates in an Array (medium)](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+  &nbsp;|&nbsp; [Go](0400/0442/go/main.go)
 - [443. String Compression (medium)](https://leetcode.com/problems/string-compression/)
   &nbsp;|&nbsp; [Go](0400/0443/go/main.go)
 - [448. Find All Numbers Disappeared in an Array (easy)](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
