@@ -1,4 +1,4 @@
-### easy 574 / 615 (93.33%) &nbsp;|&nbsp; medium 289 / 1336 (21.63%) &nbsp;|&nbsp; hard 17 / 558 (3.05%)
+### easy 575 / 616 (93.34%) &nbsp;|&nbsp; medium 290 / 1339 (21.66%) &nbsp;|&nbsp; hard 17 / 559 (3.04%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1760,3 +1760,7 @@
   &nbsp;|&nbsp; [SQL](2500/2504/sql/main.sql)
 - [2506. Count Pairs Of Similar Strings (easy)](https://leetcode.com/problems/count-pairs-of-similar-strings/)
   &nbsp;|&nbsp; [Go](2500/2506/go/main.go)
+- [2511. Maximum Enemy Forts That Can Be Captured (easy)](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/)
+  &nbsp;|&nbsp; [Go](2500/2511/go/main.go)
+- [2512. Reward Top K Students (medium)](https://leetcode.com/problems/reward-top-k-students/)
+  &nbsp;|&nbsp; [Go](2500/2512/go/main.go)

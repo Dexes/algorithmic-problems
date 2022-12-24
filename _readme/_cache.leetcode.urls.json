@@ -2507,5 +2507,10 @@
   "2506": {"name": "2506. Count Pairs Of Similar Strings", "url": "https://leetcode.com/problems/count-pairs-of-similar-strings/", "difficulty": 0, "premium": false},
   "2507": {"name": "2507. Smallest Value After Replacing With Sum of Prime Factors", "url": "https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/", "difficulty": 1, "premium": false},
   "2508": {"name": "2508. Add Edges to Make Degrees of All Nodes Even", "url": "https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/", "difficulty": 2, "premium": false},
-  "2509": {"name": "2509. Cycle Length Queries in a Tree", "url": "https://leetcode.com/problems/cycle-length-queries-in-a-tree/", "difficulty": 2, "premium": false}
+  "2509": {"name": "2509. Cycle Length Queries in a Tree", "url": "https://leetcode.com/problems/cycle-length-queries-in-a-tree/", "difficulty": 2, "premium": false},
+  "2510": {"name": "2510. Check if There is a Path With Equal Number of 0's And 1's", "url": "https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s/", "difficulty": 1, "premium": true},
+  "2511": {"name": "2511. Maximum Enemy Forts That Can Be Captured", "url": "https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/", "difficulty": 0, "premium": false},
+  "2512": {"name": "2512. Reward Top K Students", "url": "https://leetcode.com/problems/reward-top-k-students/", "difficulty": 1, "premium": false},
+  "2513": {"name": "2513. Minimize the Maximum of Two Arrays", "url": "https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/", "difficulty": 1, "premium": false},
+  "2514": {"name": "2514. Count Anagrams", "url": "https://leetcode.com/problems/count-anagrams/", "difficulty": 2, "premium": false}
 }
