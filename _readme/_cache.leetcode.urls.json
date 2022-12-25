@@ -2512,5 +2512,9 @@
   "2511": {"name": "2511. Maximum Enemy Forts That Can Be Captured", "url": "https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/", "difficulty": 0, "premium": false},
   "2512": {"name": "2512. Reward Top K Students", "url": "https://leetcode.com/problems/reward-top-k-students/", "difficulty": 1, "premium": false},
   "2513": {"name": "2513. Minimize the Maximum of Two Arrays", "url": "https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/", "difficulty": 1, "premium": false},
-  "2514": {"name": "2514. Count Anagrams", "url": "https://leetcode.com/problems/count-anagrams/", "difficulty": 2, "premium": false}
+  "2514": {"name": "2514. Count Anagrams", "url": "https://leetcode.com/problems/count-anagrams/", "difficulty": 2, "premium": false},
+  "2515": {"name": "2515. Shortest Distance to Target String in a Circular Array", "url": "https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/", "difficulty": 0, "premium": false},
+  "2516": {"name": "2516. Take K of Each Character From Left and Right", "url": "https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/", "difficulty": 1, "premium": false},
+  "2517": {"name": "2517. Maximum Tastiness of Candy Basket", "url": "https://leetcode.com/problems/maximum-tastiness-of-candy-basket/", "difficulty": 1, "premium": false},
+  "2518": {"name": "2518. Number of Great Partitions", "url": "https://leetcode.com/problems/number-of-great-partitions/", "difficulty": 2, "premium": false}
 }

@@ -1,4 +1,4 @@
-### easy 575 / 616 (93.34%) &nbsp;|&nbsp; medium 291 / 1339 (21.73%) &nbsp;|&nbsp; hard 17 / 559 (3.04%)
+### easy 576 / 617 (93.35%) &nbsp;|&nbsp; medium 291 / 1341 (21.70%) &nbsp;|&nbsp; hard 17 / 560 (3.04%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1766,3 +1766,5 @@
   &nbsp;|&nbsp; [Go](2500/2511/go/main.go)
 - [2512. Reward Top K Students (medium)](https://leetcode.com/problems/reward-top-k-students/)
   &nbsp;|&nbsp; [Go](2500/2512/go/main.go)
+- [2515. Shortest Distance to Target String in a Circular Array (easy)](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/)
+  &nbsp;|&nbsp; [Go](2500/2515/go/main.go)
