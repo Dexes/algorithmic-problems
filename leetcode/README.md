@@ -1,4 +1,4 @@
-### easy 575 / 616 (93.34%) &nbsp;|&nbsp; medium 290 / 1339 (21.66%) &nbsp;|&nbsp; hard 17 / 559 (3.04%)
+### easy 575 / 616 (93.34%) &nbsp;|&nbsp; medium 291 / 1339 (21.73%) &nbsp;|&nbsp; hard 17 / 559 (3.04%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1006,6 +1006,8 @@
   &nbsp;|&nbsp; [Go](1100/1161/go/main.go)
 - [1165. Single-Row Keyboard (easy)](https://leetcode.com/problems/single-row-keyboard/)
   &nbsp;|&nbsp; [Go](1100/1165/go/main.go)
+- [1167. Minimum Cost to Connect Sticks (medium)](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)
+  &nbsp;|&nbsp; [Go](1100/1167/go/main.go)
 - [1169. Invalid Transactions (medium)](https://leetcode.com/problems/invalid-transactions/)
   &nbsp;|&nbsp; [Go](1100/1169/go/main.go)
 - [1173. Immediate Food Delivery I (easy)](https://leetcode.com/problems/immediate-food-delivery-i/)
