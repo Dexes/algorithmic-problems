@@ -1,4 +1,4 @@
-### easy 576 / 617 (93.35%) &nbsp;|&nbsp; medium 294 / 1341 (21.92%) &nbsp;|&nbsp; hard 17 / 560 (3.04%)
+### easy 576 / 617 (93.35%) &nbsp;|&nbsp; medium 295 / 1341 (22.00%) &nbsp;|&nbsp; hard 17 / 560 (3.04%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1392,6 +1392,8 @@
   &nbsp;|&nbsp; [Go](1800/1805/go/main.go)
 - [1812. Determine Color of a Chessboard Square (easy)](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)
   &nbsp;|&nbsp; [Go](1800/1812/go/main.go)
+- [1813. Sentence Similarity III (medium)](https://leetcode.com/problems/sentence-similarity-iii/)
+  &nbsp;|&nbsp; [Go](1800/1813/go/main.go)
 - [1816. Truncate Sentence (easy)](https://leetcode.com/problems/truncate-sentence/)
   &nbsp;|&nbsp; [Go](1800/1816/go/main.go)
 - [1822. Sign of the Product of an Array (easy)](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
