@@ -1,4 +1,4 @@
-### easy 576 / 617 (93.35%) &nbsp;|&nbsp; medium 291 / 1341 (21.70%) &nbsp;|&nbsp; hard 17 / 560 (3.04%)
+### easy 576 / 617 (93.35%) &nbsp;|&nbsp; medium 292 / 1341 (21.77%) &nbsp;|&nbsp; hard 17 / 560 (3.04%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1674,6 +1674,8 @@
   &nbsp;|&nbsp; [Go](2300/2353/go/main.go)
 - [2357. Make Array Zero by Subtracting Equal Amounts (easy)](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)
   &nbsp;|&nbsp; [Go](2300/2357/go/main.go)
+- [2359. Find Closest Node to Given Two Nodes (medium)](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)
+  &nbsp;|&nbsp; [Go](2300/2359/go/main.go)
 - [2363. Merge Similar Items (easy)](https://leetcode.com/problems/merge-similar-items/)
   &nbsp;|&nbsp; [Go](2300/2363/go/main.go)
 - [2367. Number of Arithmetic Triplets (easy)](https://leetcode.com/problems/number-of-arithmetic-triplets/)
