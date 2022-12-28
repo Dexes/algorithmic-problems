@@ -1,4 +1,4 @@
-### easy 576 / 617 (93.35%) &nbsp;|&nbsp; medium 299 / 1341 (22.30%) &nbsp;|&nbsp; hard 17 / 560 (3.04%)
+### easy 576 / 617 (93.35%) &nbsp;|&nbsp; medium 300 / 1341 (22.37%) &nbsp;|&nbsp; hard 17 / 560 (3.04%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1186,6 +1186,8 @@
   &nbsp;|&nbsp; [Go](1400/1427/go/main.go)
 - [1431. Kids With the Greatest Number of Candies (easy)](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
   &nbsp;|&nbsp; [Go](1400/1431/go/main.go)
+- [1433. Check If a String Can Break Another String (medium)](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)
+  &nbsp;|&nbsp; [Go](1400/1433/go/main.go)
 - [1436. Destination City (easy)](https://leetcode.com/problems/destination-city/)
   &nbsp;|&nbsp; [Go](1400/1436/go/main.go)
 - [1437. Check If All 1's Are at Least Length K Places Away (easy)](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)
