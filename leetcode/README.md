@@ -1,4 +1,4 @@
-### easy 577 / 617 (93.52%) &nbsp;|&nbsp; medium 301 / 1341 (22.45%) &nbsp;|&nbsp; hard 17 / 560 (3.04%)
+### easy 577 / 617 (93.52%) &nbsp;|&nbsp; medium 302 / 1341 (22.52%) &nbsp;|&nbsp; hard 17 / 560 (3.04%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1186,6 +1186,8 @@
   &nbsp;|&nbsp; [Go](1400/1426/go/main.go)
 - [1427. Perform String Shifts (easy)](https://leetcode.com/problems/perform-string-shifts/)
   &nbsp;|&nbsp; [Go](1400/1427/go/main.go)
+- [1428. Leftmost Column with at Least a One (medium)](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/)
+  &nbsp;|&nbsp; [Go](1400/1428/go/main.go)
 - [1431. Kids With the Greatest Number of Candies (easy)](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
   &nbsp;|&nbsp; [Go](1400/1431/go/main.go)
 - [1433. Check If a String Can Break Another String (medium)](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)
