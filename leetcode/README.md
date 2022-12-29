@@ -1,4 +1,4 @@
-### easy 576 / 617 (93.35%) &nbsp;|&nbsp; medium 300 / 1341 (22.37%) &nbsp;|&nbsp; hard 17 / 560 (3.04%)
+### easy 577 / 617 (93.52%) &nbsp;|&nbsp; medium 301 / 1341 (22.45%) &nbsp;|&nbsp; hard 17 / 560 (3.04%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -996,6 +996,8 @@
   &nbsp;|&nbsp; [Go](1100/1137/go/main.go)
 - [1141. User Activity for the Past 30 Days I (easy)](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/)
   &nbsp;|&nbsp; [SQL](1100/1141/sql/main.sql)
+- [1142. User Activity for the Past 30 Days II (easy)](https://leetcode.com/problems/user-activity-for-the-past-30-days-ii/)
+  &nbsp;|&nbsp; [SQL](1100/1142/sql/main.sql)
 - [1143. Longest Common Subsequence (medium)](https://leetcode.com/problems/longest-common-subsequence/)
   &nbsp;|&nbsp; [Go](1100/1143/go/main.go)
 - [1148. Article Views I (easy)](https://leetcode.com/problems/article-views-i/)
@@ -1414,6 +1416,8 @@
   &nbsp;|&nbsp; [Go](1800/1829/go/main.go)
 - [1832. Check if the Sentence Is Pangram (easy)](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
   &nbsp;|&nbsp; [Go](1800/1832/go/main.go)
+- [1834. Single-Threaded CPU (medium)](https://leetcode.com/problems/single-threaded-cpu/)
+  &nbsp;|&nbsp; [Go](1800/1834/go/main.go)
 - [1836. Remove Duplicates From an Unsorted Linked List (medium)](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/)
   &nbsp;|&nbsp; [Go](1800/1836/go/main.go)
 - [1837. Sum of Digits in Base K (easy)](https://leetcode.com/problems/sum-of-digits-in-base-k/)
