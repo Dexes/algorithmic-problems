@@ -1,4 +1,4 @@
-### easy 577 / 617 (93.52%) &nbsp;|&nbsp; medium 303 / 1341 (22.60%) &nbsp;|&nbsp; hard 17 / 560 (3.04%)
+### easy 577 / 617 (93.52%) &nbsp;|&nbsp; medium 304 / 1341 (22.67%) &nbsp;|&nbsp; hard 17 / 560 (3.04%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -504,6 +504,8 @@
   &nbsp;|&nbsp; [Go](0400/0442/go/main.go)
 - [443. String Compression (medium)](https://leetcode.com/problems/string-compression/)
   &nbsp;|&nbsp; [Go](0400/0443/go/main.go)
+- [445. Add Two Numbers II (medium)](https://leetcode.com/problems/add-two-numbers-ii/)
+  &nbsp;|&nbsp; [Go](0400/0445/go/main.go)
 - [448. Find All Numbers Disappeared in an Array (easy)](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
   &nbsp;|&nbsp; [Go](0400/0448/go/main.go)
 - [449. Serialize and Deserialize BST (medium)](https://leetcode.com/problems/serialize-and-deserialize-bst/)
