@@ -1,28 +1,28 @@
 package main
 
 func wordPattern(pattern string, s string) bool {
-	pMap, sMap := make([]string, 26), make(map[string]byte)
-	wordStart := 0
-	for i := 0; i < len(pattern); i++ {
-		wordEnd := findSpace(s, wordStart)
-		if wordStart == wordEnd {
+	var (
+		start, end     = 0, findSpace(s, 1)
+		words, letters = [123]string{}, make(map[string]byte)
+		pIndex         = 0
+	)
+
+	for start < len(s) && pIndex < len(pattern) {
+		word, letter := s[start:end], pattern[pIndex]
+		if x := words[letter]; x != "" && x != word {
 			return false
 		}
 
-		pIndex, sIndex := pattern[i]+1-'a', s[wordStart:wordEnd]
-		if pMap[pIndex] != "" && pMap[pIndex] != sIndex {
+		if x := letters[word]; x != 0 && x != letter {
 			return false
 		}
 
-		if sMap[sIndex] != 0 && sMap[sIndex] != pIndex {
-			return false
-		}
-
-		pMap[pIndex], sMap[sIndex] = sIndex, pIndex
-		wordStart = wordEnd + 1
+		words[letter], letters[word] = word, letter
+		start, end = end+1, findSpace(s, end+2)
+		pIndex++
 	}
 
-	return wordStart == len(s)+1
+	return pIndex == len(pattern) && start > len(s)
 }
 
 func findSpace(s string, index int) int {
