@@ -1,4 +1,4 @@
-### easy 577 / 617 (93.52%) &nbsp;|&nbsp; medium 304 / 1341 (22.67%) &nbsp;|&nbsp; hard 17 / 560 (3.04%)
+### easy 578 / 618 (93.53%) &nbsp;|&nbsp; medium 307 / 1344 (22.84%) &nbsp;|&nbsp; hard 17 / 561 (3.03%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1796,3 +1796,11 @@
   &nbsp;|&nbsp; [Go](2500/2512/go/main.go)
 - [2515. Shortest Distance to Target String in a Circular Array (easy)](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/)
   &nbsp;|&nbsp; [Go](2500/2515/go/main.go)
+- [2520. Count the Digits That Divide a Number (easy)](https://leetcode.com/problems/count-the-digits-that-divide-a-number/)
+  &nbsp;|&nbsp; [Go](2500/2520/go/main.go)
+- [2521. Distinct Prime Factors of Product of Array (medium)](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/)
+  &nbsp;|&nbsp; [Go](2500/2521/go/main.go)
+- [2522. Partition String Into Substrings With Values at Most K (medium)](https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/)
+  &nbsp;|&nbsp; [Go](2500/2522/go/main.go)
+- [2523. Closest Prime Numbers in Range (medium)](https://leetcode.com/problems/closest-prime-numbers-in-range/)
+  &nbsp;|&nbsp; [Go](2500/2523/go/main.go)

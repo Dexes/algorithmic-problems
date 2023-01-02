@@ -2516,5 +2516,10 @@
   "2515": {"name": "2515. Shortest Distance to Target String in a Circular Array", "url": "https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/", "difficulty": 0, "premium": false},
   "2516": {"name": "2516. Take K of Each Character From Left and Right", "url": "https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/", "difficulty": 1, "premium": false},
   "2517": {"name": "2517. Maximum Tastiness of Candy Basket", "url": "https://leetcode.com/problems/maximum-tastiness-of-candy-basket/", "difficulty": 1, "premium": false},
-  "2518": {"name": "2518. Number of Great Partitions", "url": "https://leetcode.com/problems/number-of-great-partitions/", "difficulty": 2, "premium": false}
+  "2518": {"name": "2518. Number of Great Partitions", "url": "https://leetcode.com/problems/number-of-great-partitions/", "difficulty": 2, "premium": false},
+  "2519": {"name": "2519. Count the Number of K-Big Indices", "url": "https://leetcode.com/problems/count-the-number-of-k-big-indices/", "difficulty": 2, "premium": true},
+  "2520": {"name": "2520. Count the Digits That Divide a Number", "url": "https://leetcode.com/problems/count-the-digits-that-divide-a-number/", "difficulty": 0, "premium": false},
+  "2521": {"name": "2521. Distinct Prime Factors of Product of Array", "url": "https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/", "difficulty": 1, "premium": false},
+  "2522": {"name": "2522. Partition String Into Substrings With Values at Most K", "url": "https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/", "difficulty": 1, "premium": false},
+  "2523": {"name": "2523. Closest Prime Numbers in Range", "url": "https://leetcode.com/problems/closest-prime-numbers-in-range/", "difficulty": 1, "premium": false}
 }
