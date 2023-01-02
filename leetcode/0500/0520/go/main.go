@@ -5,22 +5,16 @@ func detectCapitalUse(word string) bool {
 		return true
 	}
 
-	index := 0
-
-	if isUpperLetter(word[0]) {
-		index++
+	index, isUpper := 1, word[0] < 'a'
+	if isUpper {
+		index, isUpper = 2, word[1] < 'a'
 	}
 
-	isUpper := isUpperLetter(word[index])
-	for index++; index < len(word); index++ {
-		if isUpper != isUpperLetter(word[index]) {
+	for ; index < len(word); index++ {
+		if isUpper != (word[index] < 'a') {
 			return false
 		}
 	}
 
 	return true
-}
-
-func isUpperLetter(b byte) bool {
-	return 'A' <= b && b <= 'Z'
 }
