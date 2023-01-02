@@ -7,33 +7,28 @@ type TreeNode struct {
 }
 
 type BSTIterator struct {
+	lastNode   *TreeNode
 	stack      []*TreeNode
 	stackIndex int
 }
 
 func Constructor(node *TreeNode) BSTIterator {
-	x := &BSTIterator{stack: make([]*TreeNode, 100), stackIndex: -1}
-	for node != nil {
-		x.stackIndex++
-		x.stack[x.stackIndex] = node
-		node = node.Left
-	}
-
-	return *x
+	return BSTIterator{lastNode: node, stack: make([]*TreeNode, 100), stackIndex: -1}
 }
 
 func (x *BSTIterator) Next() int {
-	result := x.stack[x.stackIndex]
-	x.stackIndex--
-
-	for node := result.Right; node != nil; node = node.Left {
+	for node := x.lastNode; node != nil; node = node.Left {
 		x.stackIndex++
 		x.stack[x.stackIndex] = node
 	}
 
-	return result.Val
+	x.lastNode = x.stack[x.stackIndex].Right
+	result := x.stack[x.stackIndex].Val
+	x.stackIndex--
+
+	return result
 }
 
 func (x *BSTIterator) HasNext() bool {
-	return x.stackIndex >= 0
+	return x.lastNode != nil || x.stackIndex >= 0
 }
