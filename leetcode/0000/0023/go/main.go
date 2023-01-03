@@ -14,12 +14,8 @@ func mergeKLists(lists []*ListNode) *ListNode {
 		return lists[0]
 	}
 
-	if len(lists) == 2 {
-		return mergeTwoLists(lists[0], lists[1])
-	}
-
 	median := len(lists) / 2
-	return mergeKLists([]*ListNode{mergeKLists(lists[0:median]), mergeKLists(lists[median:])})
+	return mergeTwoLists(mergeKLists(lists[:median]), mergeKLists(lists[median:]))
 }
 
 func mergeTwoLists(left *ListNode, right *ListNode) *ListNode {
