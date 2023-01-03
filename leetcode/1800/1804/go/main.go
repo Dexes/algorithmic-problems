@@ -3,8 +3,9 @@ package main
 const abcSize = 26
 
 type TrieNode struct {
-	last bool
-	next [abcSize]*TrieNode
+	lastNumber int
+	number     int
+	next       [abcSize]*TrieNode
 }
 
 type Trie struct {
@@ -24,19 +25,43 @@ func (t *Trie) Insert(word string) {
 			current.next[word[i]-'a'] = next
 		}
 
+		next.number++
 		current = next
 	}
 
-	current.last = true
+	current.lastNumber++
 }
 
-func (t *Trie) Search(word string) bool {
-	x := t.find(word)
-	return x != nil && x.last
+func (t *Trie) CountWordsEqualTo(word string) int {
+	if x := t.find(word); x != nil {
+		return x.lastNumber
+	}
+
+	return 0
 }
 
-func (t *Trie) StartsWith(prefix string) bool {
-	return t.find(prefix) != nil
+func (t *Trie) CountWordsStartingWith(prefix string) int {
+	if x := t.find(prefix); x != nil {
+		return x.number
+	}
+
+	return 0
+}
+
+func (t *Trie) Erase(word string) {
+	var current, next *TrieNode = t.root, nil
+
+	for i := 0; i < len(word); i++ {
+		if next = current.next[word[i]-'a']; next.number == 1 {
+			current.next[word[i]-'a'] = nil
+			return
+		}
+
+		next.number--
+		current = next
+	}
+
+	current.lastNumber--
 }
 
 func (t *Trie) find(s string) *TrieNode {
