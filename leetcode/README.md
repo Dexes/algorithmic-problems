@@ -1,4 +1,4 @@
-### easy 578 / 618 (93.53%) &nbsp;|&nbsp; medium 322 / 1344 (23.96%) &nbsp;|&nbsp; hard 17 / 561 (3.03%)
+### easy 578 / 618 (93.53%) &nbsp;|&nbsp; medium 323 / 1344 (24.03%) &nbsp;|&nbsp; hard 17 / 561 (3.03%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1668,6 +1668,8 @@
   &nbsp;|&nbsp; [Go](2200/2241/go/main.go)
 - [2243. Calculate Digit Sum of a String (easy)](https://leetcode.com/problems/calculate-digit-sum-of-a-string/)
   &nbsp;|&nbsp; [Go](2200/2243/go/main.go)
+- [2244. Minimum Rounds to Complete All Tasks (medium)](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
+  &nbsp;|&nbsp; [Go](2200/2244/go/main.go)
 - [2248. Intersection of Multiple Arrays (easy)](https://leetcode.com/problems/intersection-of-multiple-arrays/)
   &nbsp;|&nbsp; [Go](2200/2248/go/main.go)
 - [2255. Count Prefixes of a Given String (easy)](https://leetcode.com/problems/count-prefixes-of-a-given-string/)
