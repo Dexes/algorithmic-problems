@@ -1,4 +1,4 @@
-### easy 578 / 618 (93.53%) &nbsp;|&nbsp; medium 324 / 1344 (24.11%) &nbsp;|&nbsp; hard 17 / 561 (3.03%)
+### easy 578 / 618 (93.53%) &nbsp;|&nbsp; medium 325 / 1344 (24.18%) &nbsp;|&nbsp; hard 17 / 561 (3.03%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -938,6 +938,8 @@
   &nbsp;|&nbsp; [Go](1000/1021/go/main.go)
 - [1022. Sum of Root To Leaf Binary Numbers (easy)](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
   &nbsp;|&nbsp; [Go](1000/1022/go/main.go)
+- [1024. Video Stitching (medium)](https://leetcode.com/problems/video-stitching/)
+  &nbsp;|&nbsp; [Go](1000/1024/go/main.go)
 - [1025. Divisor Game (easy)](https://leetcode.com/problems/divisor-game/)
   &nbsp;|&nbsp; [Go](1000/1025/go/main.go)
 - [1026. Maximum Difference Between Node and Ancestor (medium)](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
