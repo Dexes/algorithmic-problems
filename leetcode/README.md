@@ -1,4 +1,4 @@
-### easy 578 / 618 (93.53%) &nbsp;|&nbsp; medium 323 / 1344 (24.03%) &nbsp;|&nbsp; hard 17 / 561 (3.03%)
+### easy 578 / 618 (93.53%) &nbsp;|&nbsp; medium 324 / 1344 (24.11%) &nbsp;|&nbsp; hard 17 / 561 (3.03%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -932,6 +932,8 @@
   &nbsp;|&nbsp; [Go](1000/1015/go/main.go)
 - [1018. Binary Prefix Divisible By 5 (easy)](https://leetcode.com/problems/binary-prefix-divisible-by-5/)
   &nbsp;|&nbsp; [Go](1000/1018/go/main.go)
+- [1020. Number of Enclaves (medium)](https://leetcode.com/problems/number-of-enclaves/)
+  &nbsp;|&nbsp; [Go](1000/1020/go/main.go)
 - [1021. Remove Outermost Parentheses (easy)](https://leetcode.com/problems/remove-outermost-parentheses/)
   &nbsp;|&nbsp; [Go](1000/1021/go/main.go)
 - [1022. Sum of Root To Leaf Binary Numbers (easy)](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
