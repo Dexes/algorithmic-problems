@@ -1,4 +1,4 @@
-### easy 578 / 618 (93.53%) &nbsp;|&nbsp; medium 325 / 1344 (24.18%) &nbsp;|&nbsp; hard 17 / 561 (3.03%)
+### easy 578 / 618 (93.53%) &nbsp;|&nbsp; medium 326 / 1344 (24.26%) &nbsp;|&nbsp; hard 17 / 561 (3.03%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1454,6 +1454,8 @@
   &nbsp;|&nbsp; [Go](1800/1829/go/main.go)
 - [1832. Check if the Sentence Is Pangram (easy)](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
   &nbsp;|&nbsp; [Go](1800/1832/go/main.go)
+- [1833. Maximum Ice Cream Bars (medium)](https://leetcode.com/problems/maximum-ice-cream-bars/)
+  &nbsp;|&nbsp; [Go](1800/1833/go/main.go)
 - [1834. Single-Threaded CPU (medium)](https://leetcode.com/problems/single-threaded-cpu/)
   &nbsp;|&nbsp; [Go](1800/1834/go/main.go)
 - [1836. Remove Duplicates From an Unsorted Linked List (medium)](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/)
