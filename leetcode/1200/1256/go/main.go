@@ -8,12 +8,7 @@ func encode(num int) string {
 
 	result := make([]byte, length)
 	for i := len(result) - 1; i >= 0; i-- {
-		if (num & 1) == 1 {
-			result[i] = '1'
-		} else {
-			result[i] = '0'
-		}
-
+		result[i] = '0' + byte(num&1)
 		num >>= 1
 	}
 
