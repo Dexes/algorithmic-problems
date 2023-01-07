@@ -1,4 +1,4 @@
-### easy 578 / 618 (93.53%) &nbsp;|&nbsp; medium 329 / 1344 (24.48%) &nbsp;|&nbsp; hard 17 / 561 (3.03%)
+### easy 578 / 618 (93.53%) &nbsp;|&nbsp; medium 331 / 1344 (24.63%) &nbsp;|&nbsp; hard 17 / 561 (3.03%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1290,6 +1290,8 @@
   &nbsp;|&nbsp; [Go](1500/1544/go/main.go)
 - [1550. Three Consecutive Odds (easy)](https://leetcode.com/problems/three-consecutive-odds/)
   &nbsp;|&nbsp; [Go](1500/1550/go/main.go)
+- [1551. Minimum Operations to Make Array Equal (medium)](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)
+  &nbsp;|&nbsp; [Go](1500/1551/go/main.go)
 - [1556. Thousand Separator (easy)](https://leetcode.com/problems/thousand-separator/)
   &nbsp;|&nbsp; [Go](1500/1556/go/main.go)
 - [1560. Most Visited Sector in  a Circular Track (easy)](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/)
@@ -1620,6 +1622,8 @@
   &nbsp;|&nbsp; [Go](2100/2144/go/main.go)
 - [2148. Count Elements With Strictly Smaller and Greater Elements (easy)](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/)
   &nbsp;|&nbsp; [Go](2100/2148/go/main.go)
+- [2149. Rearrange Array Elements by Sign (medium)](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
+  &nbsp;|&nbsp; [Go](2100/2149/go/main.go)
 - [2154. Keep Multiplying Found Values by Two (easy)](https://leetcode.com/problems/keep-multiplying-found-values-by-two/)
   &nbsp;|&nbsp; [Go](2100/2154/go/main.go)
 - [2160. Minimum Sum of Four Digit Number After Splitting Digits (easy)](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)
