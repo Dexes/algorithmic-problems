@@ -1,4 +1,4 @@
-### easy 578 / 618 (93.53%) &nbsp;|&nbsp; medium 331 / 1344 (24.63%) &nbsp;|&nbsp; hard 17 / 561 (3.03%)
+### easy 578 / 618 (93.53%) &nbsp;|&nbsp; medium 333 / 1344 (24.78%) &nbsp;|&nbsp; hard 17 / 561 (3.03%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1096,6 +1096,8 @@
   &nbsp;|&nbsp; [Go](1200/1252/go/main.go)
 - [1254. Number of Closed Islands (medium)](https://leetcode.com/problems/number-of-closed-islands/)
   &nbsp;|&nbsp; [Go](1200/1254/go/main.go)
+- [1256. Encode Number (medium)](https://leetcode.com/problems/encode-number/)
+  &nbsp;|&nbsp; [Go](1200/1256/go/main.go)
 - [1260. Shift 2D Grid (easy)](https://leetcode.com/problems/shift-2d-grid/)
   &nbsp;|&nbsp; [Go](1200/1260/go/main.go)
 - [1261. Find Elements in a Contaminated Binary Tree (medium)](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)
@@ -1762,6 +1764,8 @@
   &nbsp;|&nbsp; [Go](2300/2389/go/main.go)
 - [2391. Minimum Amount of Time to Collect Garbage (medium)](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/)
   &nbsp;|&nbsp; [Go](2300/2391/go/main.go)
+- [2393. Count Strictly Increasing Subarrays (medium)](https://leetcode.com/problems/count-strictly-increasing-subarrays/)
+  &nbsp;|&nbsp; [Go](2300/2393/go/main.go)
 - [2395. Find Subarrays With Equal Sum (easy)](https://leetcode.com/problems/find-subarrays-with-equal-sum/)
   &nbsp;|&nbsp; [Go](2300/2395/go/main.go)
 - [2396. Strictly Palindromic Number (medium)](https://leetcode.com/problems/strictly-palindromic-number/)
