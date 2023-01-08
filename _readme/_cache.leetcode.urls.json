@@ -2521,5 +2521,14 @@
   "2520": {"name": "2520. Count the Digits That Divide a Number", "url": "https://leetcode.com/problems/count-the-digits-that-divide-a-number/", "difficulty": 0, "premium": false},
   "2521": {"name": "2521. Distinct Prime Factors of Product of Array", "url": "https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/", "difficulty": 1, "premium": false},
   "2522": {"name": "2522. Partition String Into Substrings With Values at Most K", "url": "https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/", "difficulty": 1, "premium": false},
-  "2523": {"name": "2523. Closest Prime Numbers in Range", "url": "https://leetcode.com/problems/closest-prime-numbers-in-range/", "difficulty": 1, "premium": false}
+  "2523": {"name": "2523. Closest Prime Numbers in Range", "url": "https://leetcode.com/problems/closest-prime-numbers-in-range/", "difficulty": 1, "premium": false},
+  "2524": {"name": "2524. Maximum Frequency Score of a Subarray", "url": "https://leetcode.com/problems/maximum-frequency-score-of-a-subarray/", "difficulty": 2, "premium": true},
+  "2525": {"name": "2525. Categorize Box According to Criteria", "url": "https://leetcode.com/problems/categorize-box-according-to-criteria/", "difficulty": 0, "premium": false},
+  "2526": {"name": "2526. Find Consecutive Integers from a Data Stream", "url": "https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/", "difficulty": 1, "premium": false},
+  "2527": {"name": "2527. Find Xor-Beauty of Array", "url": "https://leetcode.com/problems/find-xor-beauty-of-array/", "difficulty": 1, "premium": false},
+  "2528": {"name": "2528. Maximize the Minimum Powered City", "url": "https://leetcode.com/problems/maximize-the-minimum-powered-city/", "difficulty": 2, "premium": false},
+  "2529": {"name": "2529. Maximum Count of Positive Integer and Negative Integer", "url": "https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/", "difficulty": 0, "premium": false},
+  "2530": {"name": "2530. Maximal Score After Applying K Operations", "url": "https://leetcode.com/problems/maximal-score-after-applying-k-operations/", "difficulty": 1, "premium": false},
+  "2531": {"name": "2531. Make Number of Distinct Characters Equal", "url": "https://leetcode.com/problems/make-number-of-distinct-characters-equal/", "difficulty": 1, "premium": false},
+  "2532": {"name": "2532. Time to Cross a Bridge", "url": "https://leetcode.com/problems/time-to-cross-a-bridge/", "difficulty": 2, "premium": false}
 }
