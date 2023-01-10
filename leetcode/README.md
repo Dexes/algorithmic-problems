@@ -1,4 +1,4 @@
-### easy 580 / 620 (93.55%) &nbsp;|&nbsp; medium 334 / 1348 (24.78%) &nbsp;|&nbsp; hard 18 / 564 (3.19%)
+### easy 581 / 620 (93.71%) &nbsp;|&nbsp; medium 334 / 1348 (24.78%) &nbsp;|&nbsp; hard 18 / 564 (3.19%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1094,6 +1094,8 @@
   &nbsp;|&nbsp; [SQL](1200/1241/sql/main.sql)
 - [1243. Array Transformation (easy)](https://leetcode.com/problems/array-transformation/)
   &nbsp;|&nbsp; [Go](1200/1243/go/main.go)
+- [1251. Average Selling Price (easy)](https://leetcode.com/problems/average-selling-price/)
+  &nbsp;|&nbsp; [SQL](1200/1251/sql/main.sql)
 - [1252. Cells with Odd Values in a Matrix (easy)](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
   &nbsp;|&nbsp; [Go](1200/1252/go/main.go)
 - [1254. Number of Closed Islands (medium)](https://leetcode.com/problems/number-of-closed-islands/)
