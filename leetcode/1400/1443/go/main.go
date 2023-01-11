@@ -11,9 +11,8 @@ func dfs(graph [][]int, node, parent int, hasApple []bool) (result int) {
 		}
 
 		x := dfs(graph, child, node, hasApple)
-		result += x
 		if x > 0 || hasApple[child] {
-			result += 2
+			result += x + 2
 		}
 	}
 
