@@ -1,4 +1,4 @@
-### easy 581 / 620 (93.71%) &nbsp;|&nbsp; medium 334 / 1348 (24.78%) &nbsp;|&nbsp; hard 18 / 564 (3.19%)
+### easy 581 / 620 (93.71%) &nbsp;|&nbsp; medium 335 / 1348 (24.85%) &nbsp;|&nbsp; hard 18 / 564 (3.19%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1234,6 +1234,8 @@
   &nbsp;|&nbsp; [Go](1400/1437/go/main.go)
 - [1441. Build an Array With Stack Operations (medium)](https://leetcode.com/problems/build-an-array-with-stack-operations/)
   &nbsp;|&nbsp; [Go](1400/1441/go/main.go)
+- [1443. Minimum Time to Collect All Apples in a Tree (medium)](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)
+  &nbsp;|&nbsp; [Go](1400/1443/go/main.go)
 - [1446. Consecutive Characters (easy)](https://leetcode.com/problems/consecutive-characters/)
   &nbsp;|&nbsp; [Go](1400/1446/go/main.go)
 - [1450. Number of Students Doing Homework at a Given Time (easy)](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)
