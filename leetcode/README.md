@@ -1,4 +1,4 @@
-### easy 581 / 620 (93.71%) &nbsp;|&nbsp; medium 335 / 1348 (24.85%) &nbsp;|&nbsp; hard 18 / 564 (3.19%)
+### easy 582 / 621 (93.72%) &nbsp;|&nbsp; medium 336 / 1351 (24.87%) &nbsp;|&nbsp; hard 18 / 566 (3.18%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -872,6 +872,8 @@
   &nbsp;|&nbsp; [Go](0900/0922/go/main.go)
 - [925. Long Pressed Name (easy)](https://leetcode.com/problems/long-pressed-name/)
   &nbsp;|&nbsp; [Go](0900/0925/go/main.go)
+- [926. Flip String to Monotone Increasing (medium)](https://leetcode.com/problems/flip-string-to-monotone-increasing/)
+  &nbsp;|&nbsp; [Go](0900/0926/go/main.go)
 - [929. Unique Email Addresses (easy)](https://leetcode.com/problems/unique-email-addresses/)
   &nbsp;|&nbsp; [Go](0900/0929/go/main.go)
 - [931. Minimum Falling Path Sum (medium)](https://leetcode.com/problems/minimum-falling-path-sum/)
@@ -1868,3 +1870,5 @@
   &nbsp;|&nbsp; [Go](2500/2525/go/main.go)
 - [2529. Maximum Count of Positive Integer and Negative Integer (easy)](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/)
   &nbsp;|&nbsp; [Go](2500/2529/go/main.go)
+- [2535. Difference Between Element Sum and Digit Sum of an Array (easy)](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/)
+  &nbsp;|&nbsp; [Go](2500/2535/go/main.go)

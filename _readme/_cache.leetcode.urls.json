@@ -2530,5 +2530,11 @@
   "2529": {"name": "2529. Maximum Count of Positive Integer and Negative Integer", "url": "https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/", "difficulty": 0, "premium": false},
   "2530": {"name": "2530. Maximal Score After Applying K Operations", "url": "https://leetcode.com/problems/maximal-score-after-applying-k-operations/", "difficulty": 1, "premium": false},
   "2531": {"name": "2531. Make Number of Distinct Characters Equal", "url": "https://leetcode.com/problems/make-number-of-distinct-characters-equal/", "difficulty": 1, "premium": false},
-  "2532": {"name": "2532. Time to Cross a Bridge", "url": "https://leetcode.com/problems/time-to-cross-a-bridge/", "difficulty": 2, "premium": false}
+  "2532": {"name": "2532. Time to Cross a Bridge", "url": "https://leetcode.com/problems/time-to-cross-a-bridge/", "difficulty": 2, "premium": false},
+  "2533": {"name": "2533. Number of Good Binary Strings", "url": "https://leetcode.com/problems/number-of-good-binary-strings/", "difficulty": 1, "premium": true},
+  "2534": {"name": "2534. Time Taken to Cross the Door", "url": "https://leetcode.com/problems/time-taken-to-cross-the-door/", "difficulty": 2, "premium": true},
+  "2535": {"name": "2535. Difference Between Element Sum and Digit Sum of an Array", "url": "https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/", "difficulty": 0, "premium": false},
+  "2536": {"name": "2536. Increment Submatrices by One", "url": "https://leetcode.com/problems/increment-submatrices-by-one/", "difficulty": 1, "premium": false},
+  "2537": {"name": "2537. Count the Number of Good Subarrays", "url": "https://leetcode.com/problems/count-the-number-of-good-subarrays/", "difficulty": 1, "premium": false},
+  "2538": {"name": "2538. Difference Between Maximum and Minimum Price Sum", "url": "https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/", "difficulty": 2, "premium": false}
 }
