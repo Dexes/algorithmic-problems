@@ -1,4 +1,4 @@
-### easy 582 / 621 (93.72%) &nbsp;|&nbsp; medium 336 / 1351 (24.87%) &nbsp;|&nbsp; hard 18 / 566 (3.18%)
+### easy 582 / 621 (93.72%) &nbsp;|&nbsp; medium 337 / 1351 (24.94%) &nbsp;|&nbsp; hard 18 / 566 (3.18%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -554,6 +554,8 @@
   &nbsp;|&nbsp; [Go](0400/0482/go/main.go)
 - [485. Max Consecutive Ones (easy)](https://leetcode.com/problems/max-consecutive-ones/)
   &nbsp;|&nbsp; [Go](0400/0485/go/main.go)
+- [491. Increasing Subsequences (medium)](https://leetcode.com/problems/increasing-subsequences/)
+  &nbsp;|&nbsp; [Go](0400/0491/go/main.go)
 - [492. Construct the Rectangle (easy)](https://leetcode.com/problems/construct-the-rectangle/)
   &nbsp;|&nbsp; [Go](0400/0492/go/main.go)
 - [495. Teemo Attacking (easy)](https://leetcode.com/problems/teemo-attacking/)
