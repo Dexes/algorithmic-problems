@@ -1,4 +1,4 @@
-### easy 582 / 621 (93.72%) &nbsp;|&nbsp; medium 337 / 1351 (24.94%) &nbsp;|&nbsp; hard 18 / 566 (3.18%)
+### easy 584 / 623 (93.74%) &nbsp;|&nbsp; medium 337 / 1356 (24.85%) &nbsp;|&nbsp; hard 18 / 568 (3.17%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1874,3 +1874,7 @@
   &nbsp;|&nbsp; [Go](2500/2529/go/main.go)
 - [2535. Difference Between Element Sum and Digit Sum of an Array (easy)](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/)
   &nbsp;|&nbsp; [Go](2500/2535/go/main.go)
+- [2540. Minimum Common Value (easy)](https://leetcode.com/problems/minimum-common-value/)
+  &nbsp;|&nbsp; [Go](2500/2540/go/main.go)
+- [2544. Alternating Digit Sum (easy)](https://leetcode.com/problems/alternating-digit-sum/)
+  &nbsp;|&nbsp; [Go](2500/2544/go/main.go)

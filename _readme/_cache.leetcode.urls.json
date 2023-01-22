@@ -2536,5 +2536,14 @@
   "2535": {"name": "2535. Difference Between Element Sum and Digit Sum of an Array", "url": "https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/", "difficulty": 0, "premium": false},
   "2536": {"name": "2536. Increment Submatrices by One", "url": "https://leetcode.com/problems/increment-submatrices-by-one/", "difficulty": 1, "premium": false},
   "2537": {"name": "2537. Count the Number of Good Subarrays", "url": "https://leetcode.com/problems/count-the-number-of-good-subarrays/", "difficulty": 1, "premium": false},
-  "2538": {"name": "2538. Difference Between Maximum and Minimum Price Sum", "url": "https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/", "difficulty": 2, "premium": false}
+  "2538": {"name": "2538. Difference Between Maximum and Minimum Price Sum", "url": "https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/", "difficulty": 2, "premium": false},
+  "2539": {"name": "2539. Count the Number of Good Subsequences", "url": "https://leetcode.com/problems/count-the-number-of-good-subsequences/", "difficulty": 1, "premium": true},
+  "2540": {"name": "2540. Minimum Common Value", "url": "https://leetcode.com/problems/minimum-common-value/", "difficulty": 0, "premium": false},
+  "2541": {"name": "2541. Minimum Operations to Make Array Equal II", "url": "https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/", "difficulty": 1, "premium": false},
+  "2542": {"name": "2542. Maximum Subsequence Score", "url": "https://leetcode.com/problems/maximum-subsequence-score/", "difficulty": 1, "premium": false},
+  "2543": {"name": "2543. Check if Point Is Reachable", "url": "https://leetcode.com/problems/check-if-point-is-reachable/", "difficulty": 2, "premium": false},
+  "2544": {"name": "2544. Alternating Digit Sum", "url": "https://leetcode.com/problems/alternating-digit-sum/", "difficulty": 0, "premium": false},
+  "2545": {"name": "2545. Sort the Students by Their Kth Score", "url": "https://leetcode.com/problems/sort-the-students-by-their-kth-score/", "difficulty": 1, "premium": false},
+  "2546": {"name": "2546. Apply Bitwise Operations to Make Strings Equal", "url": "https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/", "difficulty": 1, "premium": false},
+  "2547": {"name": "2547. Minimum Cost to Split an Array", "url": "https://leetcode.com/problems/minimum-cost-to-split-an-array/", "difficulty": 2, "premium": false}
 }
