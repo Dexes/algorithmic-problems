@@ -1,4 +1,4 @@
-### easy 584 / 623 (93.74%) &nbsp;|&nbsp; medium 337 / 1356 (24.85%) &nbsp;|&nbsp; hard 18 / 568 (3.17%)
+### easy 584 / 623 (93.74%) &nbsp;|&nbsp; medium 338 / 1356 (24.93%) &nbsp;|&nbsp; hard 18 / 568 (3.17%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1878,3 +1878,5 @@
   &nbsp;|&nbsp; [Go](2500/2540/go/main.go)
 - [2544. Alternating Digit Sum (easy)](https://leetcode.com/problems/alternating-digit-sum/)
   &nbsp;|&nbsp; [Go](2500/2544/go/main.go)
+- [2545. Sort the Students by Their Kth Score (medium)](https://leetcode.com/problems/sort-the-students-by-their-kth-score/)
+  &nbsp;|&nbsp; [Go](2500/2545/go/main.go)
