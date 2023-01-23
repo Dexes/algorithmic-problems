@@ -1,4 +1,4 @@
-### easy 584 / 623 (93.74%) &nbsp;|&nbsp; medium 338 / 1356 (24.93%) &nbsp;|&nbsp; hard 18 / 568 (3.17%)
+### easy 584 / 623 (93.74%) &nbsp;|&nbsp; medium 340 / 1356 (25.07%) &nbsp;|&nbsp; hard 18 / 568 (3.17%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1876,6 +1876,10 @@
   &nbsp;|&nbsp; [Go](2500/2535/go/main.go)
 - [2540. Minimum Common Value (easy)](https://leetcode.com/problems/minimum-common-value/)
   &nbsp;|&nbsp; [Go](2500/2540/go/main.go)
+- [2541. Minimum Operations to Make Array Equal II (medium)](https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/)
+  &nbsp;|&nbsp; [Go](2500/2541/go/main.go)
+- [2542. Maximum Subsequence Score (medium)](https://leetcode.com/problems/maximum-subsequence-score/)
+  &nbsp;|&nbsp; [Go](2500/2542/go/main.go)
 - [2544. Alternating Digit Sum (easy)](https://leetcode.com/problems/alternating-digit-sum/)
   &nbsp;|&nbsp; [Go](2500/2544/go/main.go)
 - [2545. Sort the Students by Their Kth Score (medium)](https://leetcode.com/problems/sort-the-students-by-their-kth-score/)
