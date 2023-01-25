@@ -1,4 +1,4 @@
-### easy 584 / 623 (93.74%) &nbsp;|&nbsp; medium 340 / 1356 (25.07%) &nbsp;|&nbsp; hard 18 / 568 (3.17%)
+### easy 584 / 623 (93.74%) &nbsp;|&nbsp; medium 341 / 1356 (25.15%) &nbsp;|&nbsp; hard 18 / 568 (3.17%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1446,6 +1446,8 @@
   &nbsp;|&nbsp; [Go](1700/1796/go/main.go)
 - [1797. Design Authentication Manager (medium)](https://leetcode.com/problems/design-authentication-manager/)
   &nbsp;|&nbsp; [Go](1700/1797/go/main.go)
+- [1798. Maximum Number of Consecutive Values You Can Make (medium)](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/)
+  &nbsp;|&nbsp; [Go](1700/1798/go/main.go)
 - [1800. Maximum Ascending Subarray Sum (easy)](https://leetcode.com/problems/maximum-ascending-subarray-sum/)
   &nbsp;|&nbsp; [Go](1800/1800/go/main.go)
 - [1804. Implement Trie II (Prefix Tree) (medium)](https://leetcode.com/problems/implement-trie-ii-prefix-tree/)
