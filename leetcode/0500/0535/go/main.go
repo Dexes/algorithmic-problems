@@ -5,7 +5,6 @@ import (
 	"time"
 )
 
-var lettersRange = []int{'a', 'z' + 1 - 'a'}
 var random = rand.New(rand.NewSource(time.Now().UnixMilli()))
 
 type Codec struct {
@@ -36,9 +35,7 @@ func (x *Codec) decode(shortUrl string) string {
 	return result
 }
 
-type Key struct {
-	a, b, c byte
-}
+type Key [3]byte
 
 func makeKey() Key {
 	return Key{makeLetter(), makeLetter(), makeLetter()}
@@ -48,10 +45,10 @@ func toKey(s string) Key {
 	return Key{s[0], s[1], s[2]}
 }
 
-func makeLetter() byte {
-	return byte(random.Intn(lettersRange[1]) - lettersRange[0])
+func (x Key) String() string {
+	return string([]byte{x[0], x[1], x[2]})
 }
 
-func (x Key) String() string {
-	return string([]byte{x.a, x.b, x.c})
+func makeLetter() byte {
+	return byte(random.Intn(26) + 'a')
 }
