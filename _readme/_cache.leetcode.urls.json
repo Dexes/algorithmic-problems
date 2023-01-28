@@ -2545,5 +2545,6 @@
   "2544": {"name": "2544. Alternating Digit Sum", "url": "https://leetcode.com/problems/alternating-digit-sum/", "difficulty": 0, "premium": false},
   "2545": {"name": "2545. Sort the Students by Their Kth Score", "url": "https://leetcode.com/problems/sort-the-students-by-their-kth-score/", "difficulty": 1, "premium": false},
   "2546": {"name": "2546. Apply Bitwise Operations to Make Strings Equal", "url": "https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/", "difficulty": 1, "premium": false},
-  "2547": {"name": "2547. Minimum Cost to Split an Array", "url": "https://leetcode.com/problems/minimum-cost-to-split-an-array/", "difficulty": 2, "premium": false}
+  "2547": {"name": "2547. Minimum Cost to Split an Array", "url": "https://leetcode.com/problems/minimum-cost-to-split-an-array/", "difficulty": 2, "premium": false},
+  "2548": {"name": "2548. Maximum Price to Fill a Bag", "url": "https://leetcode.com/problems/maximum-price-to-fill-a-bag/", "difficulty": 1, "premium": true}
 }
