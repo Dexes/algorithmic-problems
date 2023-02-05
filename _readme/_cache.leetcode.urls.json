@@ -2550,5 +2550,14 @@
   "2549": {"name": "2549. Count Distinct Numbers on Board", "url": "https://leetcode.com/problems/count-distinct-numbers-on-board/", "difficulty": 0, "premium": false},
   "2550": {"name": "2550. Count Collisions of Monkeys on a Polygon", "url": "https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/", "difficulty": 1, "premium": false},
   "2551": {"name": "2551. Put Marbles in Bags", "url": "https://leetcode.com/problems/put-marbles-in-bags/", "difficulty": 2, "premium": false},
-  "2552": {"name": "2552. Count Increasing Quadruplets", "url": "https://leetcode.com/problems/count-increasing-quadruplets/", "difficulty": 2, "premium": false}
+  "2552": {"name": "2552. Count Increasing Quadruplets", "url": "https://leetcode.com/problems/count-increasing-quadruplets/", "difficulty": 2, "premium": false},
+  "2553": {"name": "2553. Separate the Digits in an Array", "url": "https://leetcode.com/problems/separate-the-digits-in-an-array/", "difficulty": 0, "premium": false},
+  "2554": {"name": "2554. Maximum Number of Integers to Choose From a Range I", "url": "https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/", "difficulty": 1, "premium": false},
+  "2555": {"name": "2555. Maximize Win From Two Segments", "url": "https://leetcode.com/problems/maximize-win-from-two-segments/", "difficulty": 1, "premium": false},
+  "2556": {"name": "2556. Disconnect Path in a Binary Matrix by at Most One Flip", "url": "https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/", "difficulty": 1, "premium": false},
+  "2557": {"name": "2557. Maximum Number of Integers to Choose From a Range II", "url": "https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-ii/", "difficulty": 1, "premium": true},
+  "2558": {"name": "2558. Take Gifts From the Richest Pile", "url": "https://leetcode.com/problems/take-gifts-from-the-richest-pile/", "difficulty": 0, "premium": false},
+  "2559": {"name": "2559. Count Vowel Strings in Ranges", "url": "https://leetcode.com/problems/count-vowel-strings-in-ranges/", "difficulty": 1, "premium": false},
+  "2560": {"name": "2560. House Robber IV", "url": "https://leetcode.com/problems/house-robber-iv/", "difficulty": 1, "premium": false},
+  "2561": {"name": "2561. Rearranging Fruits", "url": "https://leetcode.com/problems/rearranging-fruits/", "difficulty": 2, "premium": false}
 }

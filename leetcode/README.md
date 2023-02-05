@@ -1,4 +1,4 @@
-### easy 585 / 624 (93.75%) &nbsp;|&nbsp; medium 342 / 1358 (25.18%) &nbsp;|&nbsp; hard 18 / 570 (3.16%)
+### easy 587 / 626 (93.77%) &nbsp;|&nbsp; medium 342 / 1364 (25.07%) &nbsp;|&nbsp; hard 18 / 571 (3.15%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1890,3 +1890,7 @@
   &nbsp;|&nbsp; [Go](2500/2548/go/main.go)
 - [2549. Count Distinct Numbers on Board (easy)](https://leetcode.com/problems/count-distinct-numbers-on-board/)
   &nbsp;|&nbsp; [Go](2500/2549/go/main.go)
+- [2553. Separate the Digits in an Array (easy)](https://leetcode.com/problems/separate-the-digits-in-an-array/)
+  &nbsp;|&nbsp; [Go](2500/2553/go/main.go)
+- [2558. Take Gifts From the Richest Pile (easy)](https://leetcode.com/problems/take-gifts-from-the-richest-pile/)
+  &nbsp;|&nbsp; [Go](2500/2558/go/main.go)
