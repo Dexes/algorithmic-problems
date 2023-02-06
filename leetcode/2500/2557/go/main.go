@@ -31,7 +31,7 @@ func skip(nums []int, index int) (int, int) {
 
 	for {
 		prev, index = nums[index], index+1
-		if index == len(nums) || prev+1 <= nums[index] {
+		if index == len(nums) || prev+1 < nums[index] {
 			return prev, index
 		}
 	}
