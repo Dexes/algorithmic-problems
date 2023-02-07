@@ -1,4 +1,4 @@
-### easy 587 / 626 (93.77%) &nbsp;|&nbsp; medium 345 / 1364 (25.29%) &nbsp;|&nbsp; hard 18 / 571 (3.15%)
+### easy 587 / 626 (93.77%) &nbsp;|&nbsp; medium 346 / 1364 (25.37%) &nbsp;|&nbsp; hard 18 / 571 (3.15%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -856,6 +856,8 @@
   &nbsp;|&nbsp; [Go](0800/0896/go/main.go)
 - [897. Increasing Order Search Tree (easy)](https://leetcode.com/problems/increasing-order-search-tree/)
   &nbsp;|&nbsp; [Go](0800/0897/go/main.go)
+- [904. Fruit Into Baskets (medium)](https://leetcode.com/problems/fruit-into-baskets/)
+  &nbsp;|&nbsp; [Go](0900/0904/go/main.go)
 - [905. Sort Array By Parity (easy)](https://leetcode.com/problems/sort-array-by-parity/)
   &nbsp;|&nbsp; [Go](0900/0905/go/main.go)
 - [908. Smallest Range I (easy)](https://leetcode.com/problems/smallest-range-i/)
