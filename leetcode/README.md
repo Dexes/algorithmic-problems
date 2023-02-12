@@ -1,4 +1,4 @@
-### easy 587 / 626 (93.77%) &nbsp;|&nbsp; medium 346 / 1364 (25.37%) &nbsp;|&nbsp; hard 18 / 571 (3.15%)
+### easy 588 / 627 (93.78%) &nbsp;|&nbsp; medium 347 / 1366 (25.40%) &nbsp;|&nbsp; hard 18 / 572 (3.15%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1902,3 +1902,7 @@
   &nbsp;|&nbsp; [Go](2500/2558/go/main.go)
 - [2559. Count Vowel Strings in Ranges (medium)](https://leetcode.com/problems/count-vowel-strings-in-ranges/)
   &nbsp;|&nbsp; [Go](2500/2559/go/main.go)
+- [2562. Find the Array Concatenation Value (easy)](https://leetcode.com/problems/find-the-array-concatenation-value/)
+  &nbsp;|&nbsp; [Go](2500/2562/go/main.go)
+- [2563. Count the Number of Fair Pairs (medium)](https://leetcode.com/problems/count-the-number-of-fair-pairs/)
+  &nbsp;|&nbsp; [Go](2500/2563/go/main.go)
