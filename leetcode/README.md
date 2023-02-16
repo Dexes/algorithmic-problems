@@ -1,4 +1,4 @@
-### easy 588 / 627 (93.78%) &nbsp;|&nbsp; medium 347 / 1366 (25.40%) &nbsp;|&nbsp; hard 18 / 572 (3.15%)
+### easy 589 / 627 (93.94%) &nbsp;|&nbsp; medium 347 / 1366 (25.40%) &nbsp;|&nbsp; hard 18 / 572 (3.15%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1122,6 +1122,8 @@
   &nbsp;|&nbsp; [Go](1200/1271/go/main.go)
 - [1275. Find Winner on a Tic Tac Toe Game (easy)](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)
   &nbsp;|&nbsp; [Go](1200/1275/go/main.go)
+- [1279. Traffic Light Controlled Intersection (easy)](https://leetcode.com/problems/traffic-light-controlled-intersection/)
+  &nbsp;|&nbsp; [Python](1200/1279/python/main.py)
 - [1281. Subtract the Product and Sum of Digits of an Integer (easy)](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
   &nbsp;|&nbsp; [Go](1200/1281/go/main.go)
 - [1282. Group the People Given the Group Size They Belong To (medium)](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)
