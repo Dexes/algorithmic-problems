@@ -2563,5 +2563,13 @@
   "2562": {"name": "2562. Find the Array Concatenation Value", "url": "https://leetcode.com/problems/find-the-array-concatenation-value/", "difficulty": 0, "premium": false},
   "2563": {"name": "2563. Count the Number of Fair Pairs", "url": "https://leetcode.com/problems/count-the-number-of-fair-pairs/", "difficulty": 1, "premium": false},
   "2564": {"name": "2564. Substring XOR Queries", "url": "https://leetcode.com/problems/substring-xor-queries/", "difficulty": 1, "premium": false},
-  "2565": {"name": "2565. Subsequence With the Minimum Score", "url": "https://leetcode.com/problems/subsequence-with-the-minimum-score/", "difficulty": 2, "premium": false}
+  "2565": {"name": "2565. Subsequence With the Minimum Score", "url": "https://leetcode.com/problems/subsequence-with-the-minimum-score/", "difficulty": 2, "premium": false},
+  "2566": {"name": "2566. Maximum Difference by Remapping a Digit", "url": "https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/", "difficulty": 0, "premium": false},
+  "2567": {"name": "2567. Minimum Score by Changing Two Elements", "url": "https://leetcode.com/problems/minimum-score-by-changing-two-elements/", "difficulty": 1, "premium": false},
+  "2568": {"name": "2568. Minimum Impossible OR", "url": "https://leetcode.com/problems/minimum-impossible-or/", "difficulty": 1, "premium": false},
+  "2569": {"name": "2569. Handling Sum Queries After Update", "url": "https://leetcode.com/problems/handling-sum-queries-after-update/", "difficulty": 2, "premium": false},
+  "2570": {"name": "2570. Merge Two 2D Arrays by Summing Values", "url": "https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/", "difficulty": 0, "premium": false},
+  "2571": {"name": "2571. Minimum Operations to Reduce an Integer to 0", "url": "https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/", "difficulty": 1, "premium": false},
+  "2572": {"name": "2572. Count the Number of Square-Free Subsets", "url": "https://leetcode.com/problems/count-the-number-of-square-free-subsets/", "difficulty": 1, "premium": false},
+  "2573": {"name": "2573. Find the String with LCP", "url": "https://leetcode.com/problems/find-the-string-with-lcp/", "difficulty": 2, "premium": false}
 }

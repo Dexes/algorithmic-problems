@@ -1,4 +1,4 @@
-### easy 589 / 627 (93.94%) &nbsp;|&nbsp; medium 347 / 1366 (25.40%) &nbsp;|&nbsp; hard 18 / 572 (3.15%)
+### easy 591 / 629 (93.96%) &nbsp;|&nbsp; medium 347 / 1370 (25.33%) &nbsp;|&nbsp; hard 18 / 574 (3.14%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1908,3 +1908,7 @@
   &nbsp;|&nbsp; [Go](2500/2562/go/main.go)
 - [2563. Count the Number of Fair Pairs (medium)](https://leetcode.com/problems/count-the-number-of-fair-pairs/)
   &nbsp;|&nbsp; [Go](2500/2563/go/main.go)
+- [2566. Maximum Difference by Remapping a Digit (easy)](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/)
+  &nbsp;|&nbsp; [Go](2500/2566/go/main.go)
+- [2570. Merge Two 2D Arrays by Summing Values (easy)](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/)
+  &nbsp;|&nbsp; [Go](2500/2570/go/main.go)
