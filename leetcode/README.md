@@ -1,4 +1,4 @@
-### easy 591 / 629 (93.96%) &nbsp;|&nbsp; medium 347 / 1370 (25.33%) &nbsp;|&nbsp; hard 18 / 574 (3.14%)
+### easy 591 / 629 (93.96%) &nbsp;|&nbsp; medium 349 / 1370 (25.47%) &nbsp;|&nbsp; hard 18 / 574 (3.14%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -554,6 +554,8 @@
   &nbsp;|&nbsp; [Go](0400/0482/go/main.go)
 - [485. Max Consecutive Ones (easy)](https://leetcode.com/problems/max-consecutive-ones/)
   &nbsp;|&nbsp; [Go](0400/0485/go/main.go)
+- [490. The Maze (medium)](https://leetcode.com/problems/the-maze/)
+  &nbsp;|&nbsp; [Go](0400/0490/go/main.go)
 - [491. Increasing Subsequences (medium)](https://leetcode.com/problems/increasing-subsequences/)
   &nbsp;|&nbsp; [Go](0400/0491/go/main.go)
 - [492. Construct the Rectangle (easy)](https://leetcode.com/problems/construct-the-rectangle/)
@@ -714,6 +716,8 @@
   &nbsp;|&nbsp; [Go](0600/0692/go/main.go)
 - [693. Binary Number with Alternating Bits (easy)](https://leetcode.com/problems/binary-number-with-alternating-bits/)
   &nbsp;|&nbsp; [Go](0600/0693/go/main.go)
+- [694. Number of Distinct Islands (medium)](https://leetcode.com/problems/number-of-distinct-islands/)
+  &nbsp;|&nbsp; [Go](0600/0694/go/main.go)
 - [695. Max Area of Island (medium)](https://leetcode.com/problems/max-area-of-island/)
   &nbsp;|&nbsp; [Go](0600/0695/go/main.go)
 - [696. Count Binary Substrings (easy)](https://leetcode.com/problems/count-binary-substrings/)
