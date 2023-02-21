@@ -1,4 +1,4 @@
-### easy 591 / 629 (93.96%) &nbsp;|&nbsp; medium 351 / 1370 (25.62%) &nbsp;|&nbsp; hard 18 / 574 (3.14%)
+### easy 591 / 629 (93.96%) &nbsp;|&nbsp; medium 352 / 1370 (25.69%) &nbsp;|&nbsp; hard 18 / 574 (3.14%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1806,6 +1806,8 @@
   &nbsp;|&nbsp; [Go](2400/2409/go/main.go)
 - [2413. Smallest Even Multiple (easy)](https://leetcode.com/problems/smallest-even-multiple/)
   &nbsp;|&nbsp; [Go](2400/2413/go/main.go)
+- [2415. Reverse Odd Levels of Binary Tree (medium)](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/)
+  &nbsp;|&nbsp; [Go](2400/2415/go/main.go)
 - [2418. Sort the People (easy)](https://leetcode.com/problems/sort-the-people/)
   &nbsp;|&nbsp; [Go](2400/2418/go/main.go)
 - [2423. Remove Letter To Equalize Frequency (easy)](https://leetcode.com/problems/remove-letter-to-equalize-frequency/)
