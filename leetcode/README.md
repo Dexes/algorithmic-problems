@@ -1,4 +1,4 @@
-### easy 591 / 629 (93.96%) &nbsp;|&nbsp; medium 352 / 1370 (25.69%) &nbsp;|&nbsp; hard 18 / 574 (3.14%)
+### easy 591 / 629 (93.96%) &nbsp;|&nbsp; medium 353 / 1370 (25.77%) &nbsp;|&nbsp; hard 18 / 574 (3.14%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -802,6 +802,8 @@
   &nbsp;|&nbsp; [Go](0800/0811/go/main.go)
 - [812. Largest Triangle Area (easy)](https://leetcode.com/problems/largest-triangle-area/)
   &nbsp;|&nbsp; [Go](0800/0812/go/main.go)
+- [814. Binary Tree Pruning (medium)](https://leetcode.com/problems/binary-tree-pruning/)
+  &nbsp;|&nbsp; [Go](0800/0814/go/main.go)
 - [817. Linked List Components (medium)](https://leetcode.com/problems/linked-list-components/)
   &nbsp;|&nbsp; [Go](0800/0817/go/main.go)
 - [819. Most Common Word (easy)](https://leetcode.com/problems/most-common-word/)
