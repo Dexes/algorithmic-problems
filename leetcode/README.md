@@ -1,4 +1,4 @@
-### easy 591 / 629 (93.96%) &nbsp;|&nbsp; medium 350 / 1370 (25.55%) &nbsp;|&nbsp; hard 18 / 574 (3.14%)
+### easy 591 / 629 (93.96%) &nbsp;|&nbsp; medium 351 / 1370 (25.62%) &nbsp;|&nbsp; hard 18 / 574 (3.14%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -826,6 +826,8 @@
   &nbsp;|&nbsp; [Go](0800/0848/go/main.go)
 - [852. Peak Index in a Mountain Array (medium)](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
   &nbsp;|&nbsp; [Go](0800/0852/go/main.go)
+- [856. Score of Parentheses (medium)](https://leetcode.com/problems/score-of-parentheses/)
+  &nbsp;|&nbsp; [Go](0800/0856/go/main.go)
 - [859. Buddy Strings (easy)](https://leetcode.com/problems/buddy-strings/)
   &nbsp;|&nbsp; [Go](0800/0859/go/main.go)
 - [860. Lemonade Change (easy)](https://leetcode.com/problems/lemonade-change/)
