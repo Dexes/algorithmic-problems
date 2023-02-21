@@ -14,8 +14,7 @@ func getScore(s string) (score, length int) {
 		return 1, 2
 	}
 
-	score, length = 0, 1
-	for length < len(s) && s[length] == '(' {
+	for score, length = 0, 1; s[length] == '('; {
 		subScore, subLength := getScore(s[length:])
 		score, length = score+subScore, length+subLength
 	}
