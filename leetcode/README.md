@@ -1,4 +1,4 @@
-### easy 591 / 629 (93.96%) &nbsp;|&nbsp; medium 349 / 1370 (25.47%) &nbsp;|&nbsp; hard 18 / 574 (3.14%)
+### easy 591 / 629 (93.96%) &nbsp;|&nbsp; medium 350 / 1370 (25.55%) &nbsp;|&nbsp; hard 18 / 574 (3.14%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -596,6 +596,8 @@
   &nbsp;|&nbsp; [Go](0500/0535/go/main.go)
 - [538. Convert BST to Greater Tree (medium)](https://leetcode.com/problems/convert-bst-to-greater-tree/)
   &nbsp;|&nbsp; [Go](0500/0538/go/main.go)
+- [540. Single Element in a Sorted Array (medium)](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+  &nbsp;|&nbsp; [Go](0500/0540/go/main.go)
 - [541. Reverse String II (easy)](https://leetcode.com/problems/reverse-string-ii/)
   &nbsp;|&nbsp; [Go](0500/0541/go/main.go)
 - [543. Diameter of Binary Tree (easy)](https://leetcode.com/problems/diameter-of-binary-tree/)
