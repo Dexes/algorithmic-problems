@@ -8,13 +8,13 @@ const (
 )
 
 func hasPath(maze [][]int, start, destination []int) bool {
-	return bfs(left, maze, start[0], start[1]-1, destination) ||
-		bfs(right, maze, start[0], start[1]+1, destination) ||
-		bfs(up, maze, start[0]-1, start[1], destination) ||
-		bfs(down, maze, start[0]+1, start[1], destination)
+	return run(left, maze, start[0], start[1]-1, destination) ||
+		run(right, maze, start[0], start[1]+1, destination) ||
+		run(up, maze, start[0]-1, start[1], destination) ||
+		run(down, maze, start[0]+1, start[1], destination)
 }
 
-func bfs(direction int, maze [][]int, row, col int, destination []int) bool {
+func run(direction int, maze [][]int, row, col int, destination []int) bool {
 	if isWall(maze, row, col) {
 		return false
 	}
@@ -32,13 +32,13 @@ func bfs(direction int, maze [][]int, row, col int, destination []int) bool {
 		}
 
 		if direction == left || direction == right {
-			return bfs(up, maze, row-1, col, destination) || bfs(down, maze, row+1, col, destination)
+			return run(up, maze, row-1, col, destination) || run(down, maze, row+1, col, destination)
 		}
 
-		return bfs(left, maze, row, col-1, destination) || bfs(right, maze, row, col+1, destination)
+		return run(left, maze, row, col-1, destination) || run(right, maze, row, col+1, destination)
 	}
 
-	return bfs(direction, maze, nextRow, nextCol, destination)
+	return run(direction, maze, nextRow, nextCol, destination)
 }
 
 func isWall(maze [][]int, row, col int) bool {
