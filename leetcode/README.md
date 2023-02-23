@@ -1,4 +1,4 @@
-### easy 591 / 629 (93.96%) &nbsp;|&nbsp; medium 351 / 1370 (25.62%) &nbsp;|&nbsp; hard 18 / 574 (3.14%)
+### easy 591 / 629 (93.96%) &nbsp;|&nbsp; medium 352 / 1370 (25.69%) &nbsp;|&nbsp; hard 18 / 574 (3.14%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -636,6 +636,8 @@
   &nbsp;|&nbsp; [Go](0500/0589/go/main.go)
 - [590. N-ary Tree Postorder Traversal (easy)](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
   &nbsp;|&nbsp; [Go](0500/0590/go/main.go)
+- [592. Fraction Addition and Subtraction (medium)](https://leetcode.com/problems/fraction-addition-and-subtraction/)
+  &nbsp;|&nbsp; [Go](0500/0592/go/main.go)
 - [593. Valid Square (medium)](https://leetcode.com/problems/valid-square/)
   &nbsp;|&nbsp; [Go](0500/0593/go/main.go)
 - [594. Longest Harmonious Subsequence (easy)](https://leetcode.com/problems/longest-harmonious-subsequence/)
