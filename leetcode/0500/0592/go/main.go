@@ -13,7 +13,7 @@ func fractionAddition(expression string) string {
 			numerator1 += numerator2
 		} else {
 			numerator1 = (numerator1 * denominator2) + (numerator2 * denominator1)
-			denominator1 = denominator1 * denominator2
+			denominator1 *= denominator2
 		}
 	}
 
