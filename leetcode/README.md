@@ -1,4 +1,4 @@
-### easy 591 / 629 (93.96%) &nbsp;|&nbsp; medium 354 / 1370 (25.84%) &nbsp;|&nbsp; hard 18 / 574 (3.14%)
+### easy 591 / 629 (93.96%) &nbsp;|&nbsp; medium 355 / 1370 (25.91%) &nbsp;|&nbsp; hard 18 / 574 (3.14%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -686,6 +686,8 @@
   &nbsp;|&nbsp; [Go](0600/0635/go/main.go)
 - [637. Average of Levels in Binary Tree (easy)](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
   &nbsp;|&nbsp; [Go](0600/0637/go/main.go)
+- [640. Solve the Equation (medium)](https://leetcode.com/problems/solve-the-equation/)
+  &nbsp;|&nbsp; [Go](0600/0640/go/main.go)
 - [641. Design Circular Deque (medium)](https://leetcode.com/problems/design-circular-deque/)
   &nbsp;|&nbsp; [Go](0600/0641/go/main.go)
 - [643. Maximum Average Subarray I (easy)](https://leetcode.com/problems/maximum-average-subarray-i/)
