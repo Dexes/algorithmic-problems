@@ -1,4 +1,4 @@
-### easy 591 / 629 (93.96%) &nbsp;|&nbsp; medium 355 / 1370 (25.91%) &nbsp;|&nbsp; hard 18 / 574 (3.14%)
+### easy 591 / 629 (93.96%) &nbsp;|&nbsp; medium 356 / 1370 (25.99%) &nbsp;|&nbsp; hard 18 / 574 (3.14%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -56,6 +56,8 @@
   &nbsp;|&nbsp; [Go](0000/0028/go/main.go)
 - [29. Divide Two Integers (medium)](https://leetcode.com/problems/divide-two-integers/)
   &nbsp;|&nbsp; [Go](0000/0029/go/main.go)
+- [31. Next Permutation (medium)](https://leetcode.com/problems/next-permutation/)
+  &nbsp;|&nbsp; [Go](0000/0031/go/main.go)
 - [33. Search in Rotated Sorted Array (medium)](https://leetcode.com/problems/search-in-rotated-sorted-array/)
   &nbsp;|&nbsp; [Go](0000/0033/go/main.go)
 - [34. Find First and Last Position of Element in Sorted Array (medium)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
