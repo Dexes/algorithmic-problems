@@ -1,21 +1,21 @@
 package main
 
 func nextPermutation(nums []int) {
-	pivot := len(nums) - 2
-	for ; pivot >= 0 && nums[pivot] >= nums[pivot+1]; pivot-- {
+	i := len(nums) - 2
+	for ; i >= 0 && nums[i] >= nums[i+1]; i-- {
 	}
 
-	if pivot < 0 {
+	if i < 0 {
 		reverse(nums)
 		return
 	}
 
-	nextPivot := len(nums) - 1
-	for ; nextPivot > pivot && nums[nextPivot] <= nums[pivot]; nextPivot-- {
+	j := len(nums) - 1
+	for ; j > i && nums[j] <= nums[i]; j-- {
 	}
 
-	nums[pivot], nums[nextPivot] = nums[nextPivot], nums[pivot]
-	reverse(nums[pivot+1:])
+	nums[i], nums[j] = nums[j], nums[i]
+	reverse(nums[i+1:])
 }
 
 func reverse(nums []int) {
