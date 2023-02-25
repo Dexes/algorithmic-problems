@@ -1,4 +1,4 @@
-### easy 591 / 629 (93.96%) &nbsp;|&nbsp; medium 356 / 1370 (25.99%) &nbsp;|&nbsp; hard 18 / 574 (3.14%)
+### easy 591 / 629 (93.96%) &nbsp;|&nbsp; medium 357 / 1370 (26.06%) &nbsp;|&nbsp; hard 18 / 574 (3.14%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -900,6 +900,8 @@
   &nbsp;|&nbsp; [Go](0900/0931/go/main.go)
 - [933. Number of Recent Calls (easy)](https://leetcode.com/problems/number-of-recent-calls/)
   &nbsp;|&nbsp; [Go](0900/0933/go/main.go)
+- [934. Shortest Bridge (medium)](https://leetcode.com/problems/shortest-bridge/)
+  &nbsp;|&nbsp; [Go](0900/0934/go/main.go)
 - [937. Reorder Data in Log Files (medium)](https://leetcode.com/problems/reorder-data-in-log-files/)
   &nbsp;|&nbsp; [Go](0900/0937/go/main.go)
 - [938. Range Sum of BST (easy)](https://leetcode.com/problems/range-sum-of-bst/)
