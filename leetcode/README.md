@@ -1,4 +1,4 @@
-### easy 591 / 629 (93.96%) &nbsp;|&nbsp; medium 357 / 1370 (26.06%) &nbsp;|&nbsp; hard 18 / 574 (3.14%)
+### easy 592 / 630 (93.97%) &nbsp;|&nbsp; medium 357 / 1372 (26.02%) &nbsp;|&nbsp; hard 18 / 575 (3.13%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1932,3 +1932,5 @@
   &nbsp;|&nbsp; [Go](2500/2566/go/main.go)
 - [2570. Merge Two 2D Arrays by Summing Values (easy)](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/)
   &nbsp;|&nbsp; [Go](2500/2570/go/main.go)
+- [2574. Left and Right Sum Differences (easy)](https://leetcode.com/problems/left-and-right-sum-differences/)
+  &nbsp;|&nbsp; [Go](2500/2574/go/main.go)
