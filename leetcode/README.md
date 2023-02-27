@@ -1,4 +1,4 @@
-### easy 592 / 630 (93.97%) &nbsp;|&nbsp; medium 357 / 1372 (26.02%) &nbsp;|&nbsp; hard 18 / 575 (3.13%)
+### easy 592 / 630 (93.97%) &nbsp;|&nbsp; medium 358 / 1372 (26.09%) &nbsp;|&nbsp; hard 18 / 575 (3.13%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -566,6 +566,8 @@
   &nbsp;|&nbsp; [Go](0400/0495/go/main.go)
 - [496. Next Greater Element I (easy)](https://leetcode.com/problems/next-greater-element-i/)
   &nbsp;|&nbsp; [Go](0400/0496/go/main.go)
+- [497. Random Point in Non-overlapping Rectangles (medium)](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)
+  &nbsp;|&nbsp; [Go](0400/0497/go/main.go)
 - [498. Diagonal Traverse (medium)](https://leetcode.com/problems/diagonal-traverse/)
   &nbsp;|&nbsp; [Go](0400/0498/go/main.go)
 - [500. Keyboard Row (easy)](https://leetcode.com/problems/keyboard-row/)
