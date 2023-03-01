@@ -1,4 +1,4 @@
-### easy 592 / 630 (93.97%) &nbsp;|&nbsp; medium 358 / 1372 (26.09%) &nbsp;|&nbsp; hard 18 / 575 (3.13%)
+### easy 592 / 630 (93.97%) &nbsp;|&nbsp; medium 359 / 1372 (26.17%) &nbsp;|&nbsp; hard 18 / 575 (3.13%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -512,6 +512,8 @@
   &nbsp;|&nbsp; [Go](0400/0422/go/main.go)
 - [426. Convert Binary Search Tree to Sorted Doubly Linked List (medium)](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)
   &nbsp;|&nbsp; [Go](0400/0426/go/main.go)
+- [427. Construct Quad Tree (medium)](https://leetcode.com/problems/construct-quad-tree/)
+  &nbsp;|&nbsp; [Go](0400/0427/go/main.go)
 - [429. N-ary Tree Level Order Traversal (medium)](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
   &nbsp;|&nbsp; [Go](0400/0429/go/main.go)
 - [430. Flatten a Multilevel Doubly Linked List (medium)](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
