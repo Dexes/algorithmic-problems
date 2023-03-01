@@ -1,4 +1,4 @@
-### easy 592 / 630 (93.97%) &nbsp;|&nbsp; medium 359 / 1372 (26.17%) &nbsp;|&nbsp; hard 18 / 575 (3.13%)
+### easy 592 / 630 (93.97%) &nbsp;|&nbsp; medium 360 / 1372 (26.24%) &nbsp;|&nbsp; hard 18 / 575 (3.13%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -594,6 +594,8 @@
   &nbsp;|&nbsp; [Go](0500/0521/go/main.go)
 - [525. Contiguous Array (medium)](https://leetcode.com/problems/contiguous-array/)
   &nbsp;|&nbsp; [Go](0500/0525/go/main.go)
+- [528. Random Pick with Weight (medium)](https://leetcode.com/problems/random-pick-with-weight/)
+  &nbsp;|&nbsp; [Go](0500/0528/go/main.go)
 - [530. Minimum Absolute Difference in BST (easy)](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
   &nbsp;|&nbsp; [Go](0500/0530/go/main.go)
 - [532. K-diff Pairs in an Array (medium)](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
