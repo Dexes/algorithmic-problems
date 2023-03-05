@@ -1,4 +1,4 @@
-### easy 600 / 630 (95.24%) &nbsp;|&nbsp; medium 361 / 1372 (26.31%) &nbsp;|&nbsp; hard 18 / 575 (3.13%)
+### easy 602 / 632 (95.25%) &nbsp;|&nbsp; medium 361 / 1376 (26.24%) &nbsp;|&nbsp; hard 18 / 577 (3.12%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1958,3 +1958,7 @@
   &nbsp;|&nbsp; [Go](2500/2570/go/main.go)
 - [2574. Left and Right Sum Differences (easy)](https://leetcode.com/problems/left-and-right-sum-differences/)
   &nbsp;|&nbsp; [Go](2500/2574/go/main.go)
+- [2578. Split With Minimum Sum (easy)](https://leetcode.com/problems/split-with-minimum-sum/)
+  &nbsp;|&nbsp; [Go](2500/2578/go/main.go)
+- [2582. Pass the Pillow (easy)](https://leetcode.com/problems/pass-the-pillow/)
+  &nbsp;|&nbsp; [Go](2500/2582/go/main.go)
