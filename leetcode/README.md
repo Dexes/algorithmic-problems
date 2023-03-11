@@ -1,4 +1,4 @@
-### easy 611 / 632 (96.68%) &nbsp;|&nbsp; medium 362 / 1375 (26.33%) &nbsp;|&nbsp; hard 18 / 578 (3.11%)
+### easy 611 / 632 (96.68%) &nbsp;|&nbsp; medium 363 / 1375 (26.40%) &nbsp;|&nbsp; hard 18 / 578 (3.11%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1940,6 +1940,8 @@
   &nbsp;|&nbsp; [Go](2500/2523/go/main.go)
 - [2525. Categorize Box According to Criteria (easy)](https://leetcode.com/problems/categorize-box-according-to-criteria/)
   &nbsp;|&nbsp; [Go](2500/2525/go/main.go)
+- [2526. Find Consecutive Integers from a Data Stream (medium)](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/)
+  &nbsp;|&nbsp; [Go](2500/2526/go/main.go)
 - [2529. Maximum Count of Positive Integer and Negative Integer (easy)](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/)
   &nbsp;|&nbsp; [Go](2500/2529/go/main.go)
 - [2535. Difference Between Element Sum and Digit Sum of an Array (easy)](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/)
