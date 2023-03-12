@@ -1,4 +1,4 @@
-### easy 611 / 632 (96.68%) &nbsp;|&nbsp; medium 363 / 1375 (26.40%) &nbsp;|&nbsp; hard 18 / 578 (3.11%)
+### easy 612 / 633 (96.68%) &nbsp;|&nbsp; medium 363 / 1377 (26.36%) &nbsp;|&nbsp; hard 18 / 579 (3.11%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1984,3 +1984,5 @@
   &nbsp;|&nbsp; [Go](2500/2578/go/main.go)
 - [2582. Pass the Pillow (easy)](https://leetcode.com/problems/pass-the-pillow/)
   &nbsp;|&nbsp; [Go](2500/2582/go/main.go)
+- [2586. Count the Number of Vowel Strings in Range (easy)](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/)
+  &nbsp;|&nbsp; [Go](2500/2586/go/main.go)

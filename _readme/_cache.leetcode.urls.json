@@ -2583,5 +2583,9 @@
   "2582": {"name": "2582. Pass the Pillow", "url": "https://leetcode.com/problems/pass-the-pillow/", "difficulty": 0, "premium": false},
   "2583": {"name": "2583. Kth Largest Sum in a Binary Tree", "url": "https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/", "difficulty": 1, "premium": false},
   "2584": {"name": "2584. Split the Array to Make Coprime Products", "url": "https://leetcode.com/problems/split-the-array-to-make-coprime-products/", "difficulty": 2, "premium": false},
-  "2585": {"name": "2585. Number of Ways to Earn Points", "url": "https://leetcode.com/problems/number-of-ways-to-earn-points/", "difficulty": 2, "premium": false}
+  "2585": {"name": "2585. Number of Ways to Earn Points", "url": "https://leetcode.com/problems/number-of-ways-to-earn-points/", "difficulty": 2, "premium": false},
+  "2586": {"name": "2586. Count the Number of Vowel Strings in Range", "url": "https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/", "difficulty": 0, "premium": false},
+  "2587": {"name": "2587. Rearrange Array to Maximize Prefix Score", "url": "https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/", "difficulty": 1, "premium": false},
+  "2588": {"name": "2588. Count the Number of Beautiful Subarrays", "url": "https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/", "difficulty": 1, "premium": false},
+  "2589": {"name": "2589. Minimum Time to Complete All Tasks", "url": "https://leetcode.com/problems/minimum-time-to-complete-all-tasks/", "difficulty": 2, "premium": false}
 }
