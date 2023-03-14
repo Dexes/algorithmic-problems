@@ -3,40 +3,39 @@ package main
 import "sort"
 
 func maxScore(nums []int) int {
-	length := len(nums)
-	pSum, nSum, nums := preprocessing(nums)
+	pSum, nSum, nLength := preprocessing(nums)
 	if pSum == 0 {
 		return 0
 	}
 
 	if pSum > nSum {
-		return length
+		return len(nums)
 	}
 
-	sort.Ints(nums)
+	sort.Ints(nums[:nLength])
 
 	index := 0
 	for pSum -= nSum; pSum <= 0; pSum, index = pSum-nums[index], index+1 {
 	}
 
-	return length - index
+	return len(nums) - index
 }
 
-func preprocessing(nums []int) (int, int, []int) {
-	positive, negative, length := 0, 0, 0
+func preprocessing(nums []int) (int, int, int) {
+	pSum, nSum, nLength := 0, 0, 0
 	for i := 0; i < len(nums); i++ {
 		if nums[i] == 0 {
 			continue
 		}
 
 		if nums[i] > 0 {
-			positive += nums[i]
+			pSum += nums[i]
 			continue
 		}
 
-		negative -= nums[i]
-		nums[length], length = nums[i], length+1
+		nSum -= nums[i]
+		nums[nLength], nLength = nums[i], nLength+1
 	}
 
-	return positive, negative, nums[:length]
+	return pSum, nSum, nLength
 }
