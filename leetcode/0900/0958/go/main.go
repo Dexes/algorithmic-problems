@@ -6,87 +6,35 @@ type TreeNode struct {
 	Right *TreeNode
 }
 
-var queue = makeQueue(50)
+var buffer = make([]*TreeNode, 100)
 
 func isCompleteTree(root *TreeNode) bool {
-	queue.Clear()
-	queue.Push(root)
-
-	for {
-		n := queue.Pop()
-		lEmpty, rEmpty := n.Left == nil, n.Right == nil
-
-		if lEmpty {
-			if !rEmpty {
+	nodes, index := append(buffer[:0], root), 0
+	for ; ; index++ {
+		if nodes[index].Left == nil {
+			if nodes[index].Right != nil {
 				return false
 			}
 
-			return checkTail(queue)
+			return areLeaves(nodes[index+1:])
 		}
 
-		queue.Push(n.Left)
+		nodes = append(nodes, nodes[index].Left)
 
-		if rEmpty {
-			return checkTail(queue)
+		if nodes[index].Right == nil {
+			return areLeaves(nodes[index+1:])
 		}
 
-		queue.Push(n.Right)
+		nodes = append(nodes, nodes[index].Right)
 	}
 }
 
-func checkTail(q *Queue) bool {
-	for !q.IsEmpty() {
-		if n := q.Pop(); n.Left != nil || n.Right != nil {
+func areLeaves(nodes []*TreeNode) bool {
+	for _, n := range nodes {
+		if n.Left != nil || n.Right != nil {
 			return false
 		}
 	}
 
 	return true
-}
-
-type Queue struct {
-	nodes     []*TreeNode
-	pushIndex int
-	popIndex  int
-}
-
-func makeQueue(capacity int) *Queue {
-	return &Queue{nodes: make([]*TreeNode, capacity), pushIndex: 0, popIndex: 0}
-}
-
-func (q *Queue) Push(node *TreeNode) {
-	q.nodes[q.pushIndex] = node
-	q.pushIndex++
-
-	if q.pushIndex >= len(q.nodes) {
-		q.pushIndex = 0
-	}
-}
-
-func (q *Queue) Pop() *TreeNode {
-	node := q.nodes[q.popIndex]
-	q.popIndex++
-
-	if q.popIndex >= len(q.nodes) {
-		q.popIndex = 0
-	}
-
-	return node
-}
-
-func (q *Queue) Len() int {
-	result := q.pushIndex - q.popIndex
-	if result < 0 {
-		result += len(q.nodes)
-	}
-
-	return result
-}
-
-func (q *Queue) IsEmpty() bool {
-	return q.pushIndex == q.popIndex
-}
-
-func (q *Queue) Clear() {
-	q.popIndex, q.pushIndex = 0, 0
 }
