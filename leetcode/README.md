@@ -1,4 +1,4 @@
-### easy 612 / 633 (96.68%) &nbsp;|&nbsp; medium 364 / 1377 (26.43%) &nbsp;|&nbsp; hard 18 / 579 (3.11%)
+### easy 612 / 633 (96.68%) &nbsp;|&nbsp; medium 365 / 1377 (26.51%) &nbsp;|&nbsp; hard 18 / 579 (3.11%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -924,6 +924,8 @@
   &nbsp;|&nbsp; [Go](0900/0946/go/main.go)
 - [953. Verifying an Alien Dictionary (easy)](https://leetcode.com/problems/verifying-an-alien-dictionary/)
   &nbsp;|&nbsp; [Go](0900/0953/go/main.go)
+- [958. Check Completeness of a Binary Tree (medium)](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)
+  &nbsp;|&nbsp; [Go](0900/0958/go/main.go)
 - [961. N-Repeated Element in Size 2N Array (easy)](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
   &nbsp;|&nbsp; [Go](0900/0961/go/main.go)
 - [965. Univalued Binary Tree (easy)](https://leetcode.com/problems/univalued-binary-tree/)
