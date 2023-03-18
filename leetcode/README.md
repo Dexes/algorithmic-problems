@@ -1,4 +1,4 @@
-### easy 612 / 633 (96.68%) &nbsp;|&nbsp; medium 366 / 1377 (26.58%) &nbsp;|&nbsp; hard 18 / 579 (3.11%)
+### easy 612 / 633 (96.68%) &nbsp;|&nbsp; medium 367 / 1378 (26.63%) &nbsp;|&nbsp; hard 18 / 579 (3.11%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1992,3 +1992,5 @@
   &nbsp;|&nbsp; [Go](2500/2586/go/main.go)
 - [2587. Rearrange Array to Maximize Prefix Score (medium)](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/)
   &nbsp;|&nbsp; [Go](2500/2587/go/main.go)
+- [2590. Design a Todo List (medium)](https://leetcode.com/problems/design-a-todo-list/)
+  &nbsp;|&nbsp; [Go](2500/2590/go/main.go)

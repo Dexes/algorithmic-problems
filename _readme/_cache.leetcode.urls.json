@@ -2587,5 +2587,6 @@
   "2586": {"name": "2586. Count the Number of Vowel Strings in Range", "url": "https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/", "difficulty": 0, "premium": false},
   "2587": {"name": "2587. Rearrange Array to Maximize Prefix Score", "url": "https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/", "difficulty": 1, "premium": false},
   "2588": {"name": "2588. Count the Number of Beautiful Subarrays", "url": "https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/", "difficulty": 1, "premium": false},
-  "2589": {"name": "2589. Minimum Time to Complete All Tasks", "url": "https://leetcode.com/problems/minimum-time-to-complete-all-tasks/", "difficulty": 2, "premium": false}
+  "2589": {"name": "2589. Minimum Time to Complete All Tasks", "url": "https://leetcode.com/problems/minimum-time-to-complete-all-tasks/", "difficulty": 2, "premium": false},
+  "2590": {"name": "2590. Design a Todo List", "url": "https://leetcode.com/problems/design-a-todo-list/", "difficulty": 1, "premium": true}
 }
