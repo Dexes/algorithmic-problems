@@ -1,4 +1,4 @@
-### easy 612 / 633 (96.68%) &nbsp;|&nbsp; medium 367 / 1378 (26.63%) &nbsp;|&nbsp; hard 18 / 579 (3.11%)
+### easy 613 / 634 (96.69%) &nbsp;|&nbsp; medium 367 / 1381 (26.57%) &nbsp;|&nbsp; hard 18 / 579 (3.11%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1994,3 +1994,5 @@
   &nbsp;|&nbsp; [Go](2500/2587/go/main.go)
 - [2590. Design a Todo List (medium)](https://leetcode.com/problems/design-a-todo-list/)
   &nbsp;|&nbsp; [Go](2500/2590/go/main.go)
+- [2591. Distribute Money to Maximum Children (easy)](https://leetcode.com/problems/distribute-money-to-maximum-children/)
+  &nbsp;|&nbsp; [Go](2500/2591/go/main.go)

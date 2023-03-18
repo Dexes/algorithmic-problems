@@ -2588,5 +2588,9 @@
   "2587": {"name": "2587. Rearrange Array to Maximize Prefix Score", "url": "https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/", "difficulty": 1, "premium": false},
   "2588": {"name": "2588. Count the Number of Beautiful Subarrays", "url": "https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/", "difficulty": 1, "premium": false},
   "2589": {"name": "2589. Minimum Time to Complete All Tasks", "url": "https://leetcode.com/problems/minimum-time-to-complete-all-tasks/", "difficulty": 2, "premium": false},
-  "2590": {"name": "2590. Design a Todo List", "url": "https://leetcode.com/problems/design-a-todo-list/", "difficulty": 1, "premium": true}
+  "2590": {"name": "2590. Design a Todo List", "url": "https://leetcode.com/problems/design-a-todo-list/", "difficulty": 1, "premium": true},
+  "2591": {"name": "2591. Distribute Money to Maximum Children", "url": "https://leetcode.com/problems/distribute-money-to-maximum-children/", "difficulty": 0, "premium": false},
+  "2592": {"name": "2592. Maximize Greatness of an Array", "url": "https://leetcode.com/problems/maximize-greatness-of-an-array/", "difficulty": 1, "premium": false},
+  "2593": {"name": "2593. Find Score of an Array After Marking All Elements", "url": "https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/", "difficulty": 1, "premium": false},
+  "2594": {"name": "2594. Minimum Time to Repair Cars", "url": "https://leetcode.com/problems/minimum-time-to-repair-cars/", "difficulty": 1, "premium": false}
 }
