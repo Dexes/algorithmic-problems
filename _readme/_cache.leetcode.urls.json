@@ -2592,5 +2592,9 @@
   "2591": {"name": "2591. Distribute Money to Maximum Children", "url": "https://leetcode.com/problems/distribute-money-to-maximum-children/", "difficulty": 0, "premium": false},
   "2592": {"name": "2592. Maximize Greatness of an Array", "url": "https://leetcode.com/problems/maximize-greatness-of-an-array/", "difficulty": 1, "premium": false},
   "2593": {"name": "2593. Find Score of an Array After Marking All Elements", "url": "https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/", "difficulty": 1, "premium": false},
-  "2594": {"name": "2594. Minimum Time to Repair Cars", "url": "https://leetcode.com/problems/minimum-time-to-repair-cars/", "difficulty": 1, "premium": false}
+  "2594": {"name": "2594. Minimum Time to Repair Cars", "url": "https://leetcode.com/problems/minimum-time-to-repair-cars/", "difficulty": 1, "premium": false},
+  "2595": {"name": "2595. Number of Even and Odd Bits", "url": "https://leetcode.com/problems/number-of-even-and-odd-bits/", "difficulty": 0, "premium": false},
+  "2596": {"name": "2596. Check Knight Tour Configuration", "url": "https://leetcode.com/problems/check-knight-tour-configuration/", "difficulty": 1, "premium": false},
+  "2597": {"name": "2597. The Number of Beautiful Subsets", "url": "https://leetcode.com/problems/the-number-of-beautiful-subsets/", "difficulty": 1, "premium": false},
+  "2598": {"name": "2598. Smallest Missing Non-negative Integer After Operations", "url": "https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/", "difficulty": 1, "premium": false}
 }
