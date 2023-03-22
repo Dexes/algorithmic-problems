@@ -1,4 +1,4 @@
-### easy 614 / 635 (96.69%) &nbsp;|&nbsp; medium 367 / 1384 (26.52%) &nbsp;|&nbsp; hard 18 / 579 (3.11%)
+### easy 614 / 635 (96.69%) &nbsp;|&nbsp; medium 368 / 1384 (26.59%) &nbsp;|&nbsp; hard 18 / 579 (3.11%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1124,6 +1124,8 @@
   &nbsp;|&nbsp; [Go](1200/1232/go/main.go)
 - [1233. Remove Sub-Folders from the Filesystem (medium)](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)
   &nbsp;|&nbsp; [Go](1200/1233/go/main.go)
+- [1236. Web Crawler (medium)](https://leetcode.com/problems/web-crawler/)
+  &nbsp;|&nbsp; [Go](1200/1236/go/main.go)
 - [1239. Maximum Length of a Concatenated String with Unique Characters (medium)](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
   &nbsp;|&nbsp; [Go](1200/1239/go/main.go)
 - [1241. Number of Comments per Post (easy)](https://leetcode.com/problems/number-of-comments-per-post/)
