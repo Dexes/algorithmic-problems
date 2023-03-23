@@ -1,4 +1,4 @@
-### easy 614 / 635 (96.69%) &nbsp;|&nbsp; medium 368 / 1384 (26.59%) &nbsp;|&nbsp; hard 18 / 579 (3.11%)
+### easy 614 / 635 (96.69%) &nbsp;|&nbsp; medium 369 / 1384 (26.66%) &nbsp;|&nbsp; hard 18 / 579 (3.11%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1196,6 +1196,8 @@
   &nbsp;|&nbsp; [Go](1300/1317/go/main.go)
 - [1318. Minimum Flips to Make a OR b Equal to c (medium)](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)
   &nbsp;|&nbsp; [Go](1300/1318/go/main.go)
+- [1319. Number of Operations to Make Network Connected (medium)](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
+  &nbsp;|&nbsp; [Go](1300/1319/go/main.go)
 - [1322. Ads Performance (easy)](https://leetcode.com/problems/ads-performance/)
   &nbsp;|&nbsp; [SQL](1300/1322/sql/main.sql)
 - [1323. Maximum 69 Number (easy)](https://leetcode.com/problems/maximum-69-number/)
