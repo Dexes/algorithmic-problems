@@ -1,4 +1,4 @@
-### easy 620 / 635 (97.64%) &nbsp;|&nbsp; medium 369 / 1384 (26.66%) &nbsp;|&nbsp; hard 18 / 579 (3.11%)
+### easy 620 / 635 (97.64%) &nbsp;|&nbsp; medium 370 / 1384 (26.73%) &nbsp;|&nbsp; hard 18 / 579 (3.11%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1820,6 +1820,8 @@
   &nbsp;|&nbsp; [Go](2300/2309/go/main.go)
 - [2315. Count Asterisks (easy)](https://leetcode.com/problems/count-asterisks/)
   &nbsp;|&nbsp; [Go](2300/2315/go/main.go)
+- [2316. Count Unreachable Pairs of Nodes in an Undirected Graph (medium)](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)
+  &nbsp;|&nbsp; [Go](2300/2316/go/main.go)
 - [2319. Check if Matrix Is X-Matrix (easy)](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)
   &nbsp;|&nbsp; [Go](2300/2319/go/main.go)
 - [2325. Decode the Message (easy)](https://leetcode.com/problems/decode-the-message/)
