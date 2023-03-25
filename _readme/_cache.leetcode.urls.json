@@ -26,7 +26,7 @@
   "0025": {"name": "25. Reverse Nodes in k-Group", "url": "https://leetcode.com/problems/reverse-nodes-in-k-group/", "difficulty": 2, "premium": false},
   "0026": {"name": "26. Remove Duplicates from Sorted Array", "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/", "difficulty": 0, "premium": false},
   "0027": {"name": "27. Remove Element", "url": "https://leetcode.com/problems/remove-element/", "difficulty": 0, "premium": false},
-  "0028": {"name": "28. Find the Index of the First Occurrence in a String", "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/", "difficulty": 1, "premium": false},
+  "0028": {"name": "28. Find the Index of the First Occurrence in a String", "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/", "difficulty": 0, "premium": false},
   "0029": {"name": "29. Divide Two Integers", "url": "https://leetcode.com/problems/divide-two-integers/", "difficulty": 1, "premium": false},
   "0030": {"name": "30. Substring with Concatenation of All Words", "url": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/", "difficulty": 2, "premium": false},
   "0031": {"name": "31. Next Permutation", "url": "https://leetcode.com/problems/next-permutation/", "difficulty": 1, "premium": false},
@@ -489,7 +489,7 @@
   "0488": {"name": "488. Zuma Game", "url": "https://leetcode.com/problems/zuma-game/", "difficulty": 2, "premium": false},
   "0489": {"name": "489. Robot Room Cleaner", "url": "https://leetcode.com/problems/robot-room-cleaner/", "difficulty": 2, "premium": true},
   "0490": {"name": "490. The Maze", "url": "https://leetcode.com/problems/the-maze/", "difficulty": 1, "premium": true},
-  "0491": {"name": "491. Increasing Subsequences", "url": "https://leetcode.com/problems/increasing-subsequences/", "difficulty": 1, "premium": false},
+  "0491": {"name": "491. Non-decreasing Subsequences", "url": "https://leetcode.com/problems/non-decreasing-subsequences/", "difficulty": 1, "premium": false},
   "0492": {"name": "492. Construct the Rectangle", "url": "https://leetcode.com/problems/construct-the-rectangle/", "difficulty": 0, "premium": false},
   "0493": {"name": "493. Reverse Pairs", "url": "https://leetcode.com/problems/reverse-pairs/", "difficulty": 2, "premium": false},
   "0494": {"name": "494. Target Sum", "url": "https://leetcode.com/problems/target-sum/", "difficulty": 1, "premium": false},
@@ -1059,7 +1059,7 @@
   "1058": {"name": "1058. Minimize Rounding Error to Meet Target", "url": "https://leetcode.com/problems/minimize-rounding-error-to-meet-target/", "difficulty": 1, "premium": true},
   "1059": {"name": "1059. All Paths from Source Lead to Destination", "url": "https://leetcode.com/problems/all-paths-from-source-lead-to-destination/", "difficulty": 1, "premium": true},
   "1060": {"name": "1060. Missing Element in Sorted Array", "url": "https://leetcode.com/problems/missing-element-in-sorted-array/", "difficulty": 1, "premium": true},
-  "1061": {"name": "1061. Lexicographically Smallest Equivalent String", "url": "https://leetcode.com/problems/lexicographically-smallest-equivalent-string/", "difficulty": 1, "premium": true},
+  "1061": {"name": "1061. Lexicographically Smallest Equivalent String", "url": "https://leetcode.com/problems/lexicographically-smallest-equivalent-string/", "difficulty": 1, "premium": false},
   "1062": {"name": "1062. Longest Repeating Substring", "url": "https://leetcode.com/problems/longest-repeating-substring/", "difficulty": 1, "premium": true},
   "1063": {"name": "1063. Number of Valid Subarrays", "url": "https://leetcode.com/problems/number-of-valid-subarrays/", "difficulty": 2, "premium": true},
   "1064": {"name": "1064. Fixed Point", "url": "https://leetcode.com/problems/fixed-point/", "difficulty": 0, "premium": true},
@@ -2596,5 +2596,6 @@
   "2595": {"name": "2595. Number of Even and Odd Bits", "url": "https://leetcode.com/problems/number-of-even-and-odd-bits/", "difficulty": 0, "premium": false},
   "2596": {"name": "2596. Check Knight Tour Configuration", "url": "https://leetcode.com/problems/check-knight-tour-configuration/", "difficulty": 1, "premium": false},
   "2597": {"name": "2597. The Number of Beautiful Subsets", "url": "https://leetcode.com/problems/the-number-of-beautiful-subsets/", "difficulty": 1, "premium": false},
-  "2598": {"name": "2598. Smallest Missing Non-negative Integer After Operations", "url": "https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/", "difficulty": 1, "premium": false}
+  "2598": {"name": "2598. Smallest Missing Non-negative Integer After Operations", "url": "https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/", "difficulty": 1, "premium": false},
+  "2599": {"name": "2599. Make the Prefix Sum Non-negative", "url": "https://leetcode.com/problems/make-the-prefix-sum-non-negative/", "difficulty": 1, "premium": true}
 }
