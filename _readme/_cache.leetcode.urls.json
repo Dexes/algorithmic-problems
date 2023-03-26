@@ -2597,5 +2597,9 @@
   "2596": {"name": "2596. Check Knight Tour Configuration", "url": "https://leetcode.com/problems/check-knight-tour-configuration/", "difficulty": 1, "premium": false},
   "2597": {"name": "2597. The Number of Beautiful Subsets", "url": "https://leetcode.com/problems/the-number-of-beautiful-subsets/", "difficulty": 1, "premium": false},
   "2598": {"name": "2598. Smallest Missing Non-negative Integer After Operations", "url": "https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/", "difficulty": 1, "premium": false},
-  "2599": {"name": "2599. Make the Prefix Sum Non-negative", "url": "https://leetcode.com/problems/make-the-prefix-sum-non-negative/", "difficulty": 1, "premium": true}
+  "2599": {"name": "2599. Make the Prefix Sum Non-negative", "url": "https://leetcode.com/problems/make-the-prefix-sum-non-negative/", "difficulty": 1, "premium": true},
+  "2600": {"name": "2600. K Items With the Maximum Sum", "url": "https://leetcode.com/problems/k-items-with-the-maximum-sum/", "difficulty": 0, "premium": false},
+  "2601": {"name": "2601. Prime Subtraction Operation", "url": "https://leetcode.com/problems/prime-subtraction-operation/", "difficulty": 1, "premium": false},
+  "2602": {"name": "2602. Minimum Operations to Make All Array Elements Equal", "url": "https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/", "difficulty": 1, "premium": false},
+  "2603": {"name": "2603. Collect Coins in a Tree", "url": "https://leetcode.com/problems/collect-coins-in-a-tree/", "difficulty": 2, "premium": false}
 }

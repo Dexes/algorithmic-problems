@@ -1,4 +1,4 @@
-### easy 626 / 636 (98.43%) &nbsp;|&nbsp; medium 369 / 1384 (26.66%) &nbsp;|&nbsp; hard 18 / 579 (3.11%)
+### easy 627 / 637 (98.43%) &nbsp;|&nbsp; medium 371 / 1386 (26.77%) &nbsp;|&nbsp; hard 18 / 580 (3.10%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2026,3 +2026,9 @@
   &nbsp;|&nbsp; [Go](2500/2591/go/main.go)
 - [2595. Number of Even and Odd Bits (easy)](https://leetcode.com/problems/number-of-even-and-odd-bits/)
   &nbsp;|&nbsp; [Go](2500/2595/go/main.go)
+- [2600. K Items With the Maximum Sum (easy)](https://leetcode.com/problems/k-items-with-the-maximum-sum/)
+  &nbsp;|&nbsp; [Go](2600/2600/go/main.go)
+- [2601. Prime Subtraction Operation (medium)](https://leetcode.com/problems/prime-subtraction-operation/)
+  &nbsp;|&nbsp; [Go](2600/2601/go/main.go)
+- [2602. Minimum Operations to Make All Array Elements Equal (medium)](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/)
+  &nbsp;|&nbsp; [Go](2600/2602/go/main.go)
