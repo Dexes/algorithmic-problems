@@ -2,7 +2,6 @@ package platform
 
 import (
 	"encoding/json"
-	"io/ioutil"
 	"os"
 	"sort"
 	"strconv"
@@ -21,8 +20,8 @@ type timusTask struct {
 func NewTimus() *timus {
 	result := &timus{}
 
-	file, _ := ioutil.ReadFile("./_cache.timus.titles.json")
-	json.Unmarshal(file, &result.taskTitles)
+	file, _ := os.ReadFile("./_cache.timus.json")
+	_ = json.Unmarshal(file, &result.taskTitles)
 
 	return result
 }
@@ -46,8 +45,8 @@ func (t *timus) GenerateReadme() {
 	}
 
 	file, _ := os.OpenFile("../timus/README.md", os.O_WRONLY|os.O_TRUNC|os.O_CREATE, 0777)
-	file.Write([]byte(strings.Trim(readmeContent, "\n") + "\n"))
-	file.Close()
+	_, _ = file.Write([]byte(strings.Trim(readmeContent, "\n") + "\n"))
+	_ = file.Close()
 }
 
 func (t *timus) generateTaskInfo(task *timusTask) string {
@@ -78,15 +77,15 @@ func (t *timus) generateVolumeTitle(volume string) string {
 
 func (t *timus) loadTasks() map[string][]*timusTask {
 	result := make(map[string][]*timusTask, 0)
-	volumes, _ := ioutil.ReadDir("../timus")
+	volumes, _ := os.ReadDir("../timus")
 	for _, volume := range volumes {
 		if !volume.IsDir() {
 			continue
 		}
 
-		tasks, _ := ioutil.ReadDir("../timus/" + volume.Name())
+		tasks, _ := os.ReadDir("../timus/" + volume.Name())
 		for _, task := range tasks {
-			languages, _ := ioutil.ReadDir("../timus/" + volume.Name() + "/" + task.Name())
+			languages, _ := os.ReadDir("../timus/" + volume.Name() + "/" + task.Name())
 			solutions := make([]string, 0, len(languages))
 			for _, language := range languages {
 				solutions = append(solutions, volume.Name()+"/"+task.Name()+"/"+language.Name())

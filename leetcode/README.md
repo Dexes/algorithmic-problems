@@ -1,4 +1,4 @@
-### easy 631 / 637 (99.06%) &nbsp;|&nbsp; medium 371 / 1386 (26.77%) &nbsp;|&nbsp; hard 18 / 580 (3.10%)
+### easy 632 / 638 (99.06%) &nbsp;|&nbsp; medium 372 / 1388 (26.80%) &nbsp;|&nbsp; hard 18 / 582 (3.09%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -366,6 +366,8 @@
   &nbsp;|&nbsp; [Go](0200/0242/go/main.go)
 - [243. Shortest Word Distance (easy)](https://leetcode.com/problems/shortest-word-distance/)
   &nbsp;|&nbsp; [Go](0200/0243/go/main.go)
+- [245. Shortest Word Distance III (medium)](https://leetcode.com/problems/shortest-word-distance-iii/)
+  &nbsp;|&nbsp; [Go](0200/0245/go/main.go)
 - [246. Strobogrammatic Number (easy)](https://leetcode.com/problems/strobogrammatic-number/)
   &nbsp;|&nbsp; [Go](0200/0246/go/main.go)
 - [251. Flatten 2D Vector (medium)](https://leetcode.com/problems/flatten-2d-vector/)
@@ -2040,3 +2042,5 @@
   &nbsp;|&nbsp; [Go](2600/2601/go/main.go)
 - [2602. Minimum Operations to Make All Array Elements Equal (medium)](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/)
   &nbsp;|&nbsp; [Go](2600/2602/go/main.go)
+- [2605. Form Smallest Number From Two Digit Arrays (easy)](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/)
+  &nbsp;|&nbsp; [Go](2600/2605/go/main.go)

@@ -34,7 +34,7 @@ type leetCodeTask struct {
 func NewLeetCode() *leetCode {
 	result := &leetCode{volumes: make(map[string]struct{})}
 
-	file, _ := os.ReadFile("./_cache.leetcode.urls.json")
+	file, _ := os.ReadFile("./_cache.leetcode.json")
 	_ = json.Unmarshal(file, &result.taskInfo)
 
 	result.countTotalTasks()

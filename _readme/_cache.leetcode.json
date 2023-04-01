@@ -2601,5 +2601,10 @@
   "2600": {"name": "2600. K Items With the Maximum Sum", "url": "https://leetcode.com/problems/k-items-with-the-maximum-sum/", "difficulty": 0, "premium": false},
   "2601": {"name": "2601. Prime Subtraction Operation", "url": "https://leetcode.com/problems/prime-subtraction-operation/", "difficulty": 1, "premium": false},
   "2602": {"name": "2602. Minimum Operations to Make All Array Elements Equal", "url": "https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/", "difficulty": 1, "premium": false},
-  "2603": {"name": "2603. Collect Coins in a Tree", "url": "https://leetcode.com/problems/collect-coins-in-a-tree/", "difficulty": 2, "premium": false}
+  "2603": {"name": "2603. Collect Coins in a Tree", "url": "https://leetcode.com/problems/collect-coins-in-a-tree/", "difficulty": 2, "premium": false},
+  "2604": {"name": "2604. Minimum Time to Eat All Grains", "url": "https://leetcode.com/problems/minimum-time-to-eat-all-grains/", "difficulty": 2, "premium": true},
+  "2605": {"name": "2605. Form Smallest Number From Two Digit Arrays", "url": "https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/", "difficulty": 0, "premium": false},
+  "2606": {"name": "2606. Find the Substring With Maximum Cost", "url": "https://leetcode.com/problems/find-the-substring-with-maximum-cost/", "difficulty": 1, "premium": false},
+  "2607": {"name": "2607. Make K-Subarray Sums Equal", "url": "https://leetcode.com/problems/make-k-subarray-sums-equal/", "difficulty": 1, "premium": false},
+  "2608": {"name": "2608. Shortest Cycle in a Graph", "url": "https://leetcode.com/problems/shortest-cycle-in-a-graph/", "difficulty": 2, "premium": false}
 }
