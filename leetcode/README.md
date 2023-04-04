@@ -1,4 +1,4 @@
-### easy 633 / 639 (99.06%) &nbsp;|&nbsp; medium 376 / 1390 (27.05%) &nbsp;|&nbsp; hard 18 / 583 (3.09%)
+### easy 633 / 639 (99.06%) &nbsp;|&nbsp; medium 378 / 1390 (27.19%) &nbsp;|&nbsp; hard 18 / 583 (3.09%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1900,6 +1900,8 @@
   &nbsp;|&nbsp; [Go](2300/2399/go/main.go)
 - [2404. Most Frequent Even Element (easy)](https://leetcode.com/problems/most-frequent-even-element/)
   &nbsp;|&nbsp; [Go](2400/2404/go/main.go)
+- [2405. Optimal Partition of String (medium)](https://leetcode.com/problems/optimal-partition-of-string/)
+  &nbsp;|&nbsp; [Go](2400/2405/go/main.go)
 - [2408. Design SQL (medium)](https://leetcode.com/problems/design-sql/)
   &nbsp;|&nbsp; [Go](2400/2408/go/main.go)
 - [2409. Count Days Spent Together (easy)](https://leetcode.com/problems/count-days-spent-together/)
@@ -2048,6 +2050,8 @@
   &nbsp;|&nbsp; [Go](2600/2602/go/main.go)
 - [2605. Form Smallest Number From Two Digit Arrays (easy)](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/)
   &nbsp;|&nbsp; [Go](2600/2605/go/main.go)
+- [2606. Find the Substring With Maximum Cost (medium)](https://leetcode.com/problems/find-the-substring-with-maximum-cost/)
+  &nbsp;|&nbsp; [Go](2600/2606/go/main.go)
 - [2609. Find the Longest Balanced Substring of a Binary String (easy)](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/)
   &nbsp;|&nbsp; [Go](2600/2609/go/main.go)
 - [2610. Convert an Array Into a 2D Array With Conditions (medium)](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)

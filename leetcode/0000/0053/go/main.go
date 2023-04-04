@@ -1,13 +1,13 @@
 package main
 
 func maxSubArray(nums []int) int {
-	sum, maxSum := nums[0], nums[0]
+	current, result := nums[0], nums[0]
 	for i := 1; i < len(nums); i++ {
-		sum = max(sum+nums[i], nums[i])
-		maxSum = max(maxSum, sum)
+		current = max(current+nums[i], nums[i])
+		result = max(result, current)
 	}
 
-	return maxSum
+	return result
 }
 
 func max(a, b int) int {
