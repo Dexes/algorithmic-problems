@@ -1,4 +1,4 @@
-### easy 633 / 639 (99.06%) &nbsp;|&nbsp; medium 378 / 1390 (27.19%) &nbsp;|&nbsp; hard 18 / 583 (3.09%)
+### easy 633 / 639 (99.06%) &nbsp;|&nbsp; medium 380 / 1390 (27.34%) &nbsp;|&nbsp; hard 18 / 583 (3.09%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2042,6 +2042,10 @@
   &nbsp;|&nbsp; [Go](2500/2591/go/main.go)
 - [2595. Number of Even and Odd Bits (easy)](https://leetcode.com/problems/number-of-even-and-odd-bits/)
   &nbsp;|&nbsp; [Go](2500/2595/go/main.go)
+- [2596. Check Knight Tour Configuration (medium)](https://leetcode.com/problems/check-knight-tour-configuration/)
+  &nbsp;|&nbsp; [Go](2500/2596/go/main.go)
+- [2599. Make the Prefix Sum Non-negative (medium)](https://leetcode.com/problems/make-the-prefix-sum-non-negative/)
+  &nbsp;|&nbsp; [Go](2500/2599/go/main.go)
 - [2600. K Items With the Maximum Sum (easy)](https://leetcode.com/problems/k-items-with-the-maximum-sum/)
   &nbsp;|&nbsp; [Go](2600/2600/go/main.go)
 - [2601. Prime Subtraction Operation (medium)](https://leetcode.com/problems/prime-subtraction-operation/)
