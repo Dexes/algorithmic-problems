@@ -1,4 +1,4 @@
-### easy 633 / 639 (99.06%) &nbsp;|&nbsp; medium 380 / 1390 (27.34%) &nbsp;|&nbsp; hard 18 / 583 (3.09%)
+### easy 633 / 639 (99.06%) &nbsp;|&nbsp; medium 381 / 1390 (27.41%) &nbsp;|&nbsp; hard 18 / 583 (3.09%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1550,6 +1550,8 @@
   &nbsp;|&nbsp; [Go](1800/1813/go/main.go)
 - [1816. Truncate Sentence (easy)](https://leetcode.com/problems/truncate-sentence/)
   &nbsp;|&nbsp; [Go](1800/1816/go/main.go)
+- [1817. Finding the Users Active Minutes (medium)](https://leetcode.com/problems/finding-the-users-active-minutes/)
+  &nbsp;|&nbsp; [Go](1800/1817/go/main.go)
 - [1821. Find Customers With Positive Revenue this Year (easy)](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/)
   &nbsp;|&nbsp; [SQL](1800/1821/sql/main.sql)
 - [1822. Sign of the Product of an Array (easy)](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
