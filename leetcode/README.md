@@ -1,4 +1,4 @@
-### easy 633 / 639 (99.06%) &nbsp;|&nbsp; medium 381 / 1390 (27.41%) &nbsp;|&nbsp; hard 18 / 583 (3.09%)
+### easy 633 / 639 (99.06%) &nbsp;|&nbsp; medium 383 / 1390 (27.55%) &nbsp;|&nbsp; hard 18 / 583 (3.09%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1508,6 +1508,8 @@
   &nbsp;|&nbsp; [SQL](1700/1757/sql/main.sql)
 - [1758. Minimum Changes To Make Alternating Binary String (easy)](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)
   &nbsp;|&nbsp; [Go](1700/1758/go/main.go)
+- [1762. Buildings With an Ocean View (medium)](https://leetcode.com/problems/buildings-with-an-ocean-view/)
+  &nbsp;|&nbsp; [Go](1700/1762/go/main.go)
 - [1763. Longest Nice Substring (easy)](https://leetcode.com/problems/longest-nice-substring/)
   &nbsp;|&nbsp; [Go](1700/1763/go/main.go)
 - [1768. Merge Strings Alternately (easy)](https://leetcode.com/problems/merge-strings-alternately/)
@@ -1948,6 +1950,8 @@
   &nbsp;|&nbsp; [Go](2400/2475/go/main.go)
 - [2481. Minimum Cuts to Divide a Circle (easy)](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/)
   &nbsp;|&nbsp; [Go](2400/2481/go/main.go)
+- [2482. Difference Between Ones and Zeros in Row and Column (medium)](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)
+  &nbsp;|&nbsp; [Go](2400/2482/go/main.go)
 - [2483. Minimum Penalty for a Shop (medium)](https://leetcode.com/problems/minimum-penalty-for-a-shop/)
   &nbsp;|&nbsp; [Go](2400/2483/go/main.go)
 - [2485. Find the Pivot Integer (easy)](https://leetcode.com/problems/find-the-pivot-integer/)
