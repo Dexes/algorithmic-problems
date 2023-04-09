@@ -1,4 +1,4 @@
-### easy 633 / 639 (99.06%) &nbsp;|&nbsp; medium 384 / 1390 (27.63%) &nbsp;|&nbsp; hard 18 / 583 (3.09%)
+### easy 635 / 640 (99.22%) &nbsp;|&nbsp; medium 384 / 1392 (27.59%) &nbsp;|&nbsp; hard 18 / 585 (3.08%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1950,6 +1950,8 @@
   &nbsp;|&nbsp; [Go](2400/2469/go/main.go)
 - [2475. Number of Unequal Triplets in Array (easy)](https://leetcode.com/problems/number-of-unequal-triplets-in-array/)
   &nbsp;|&nbsp; [Go](2400/2475/go/main.go)
+- [2480. Form a Chemical Bond (easy)](https://leetcode.com/problems/form-a-chemical-bond/)
+  &nbsp;|&nbsp; [SQL](2400/2480/sql/main.sql)
 - [2481. Minimum Cuts to Divide a Circle (easy)](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/)
   &nbsp;|&nbsp; [Go](2400/2481/go/main.go)
 - [2482. Difference Between Ones and Zeros in Row and Column (medium)](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)
@@ -2070,3 +2072,5 @@
   &nbsp;|&nbsp; [Go](2600/2610/go/main.go)
 - [2611. Mice and Cheese (medium)](https://leetcode.com/problems/mice-and-cheese/)
   &nbsp;|&nbsp; [Go](2600/2611/go/main.go)
+- [2614. Prime In Diagonal (easy)](https://leetcode.com/problems/prime-in-diagonal/)
+  &nbsp;|&nbsp; [Go](2600/2614/go/main.go)

@@ -2610,5 +2610,10 @@
   "2609": {"name": "2609. Find the Longest Balanced Substring of a Binary String", "url": "https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/", "difficulty": 0, "premium": false},
   "2610": {"name": "2610. Convert an Array Into a 2D Array With Conditions", "url": "https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/", "difficulty": 1, "premium": false},
   "2611": {"name": "2611. Mice and Cheese", "url": "https://leetcode.com/problems/mice-and-cheese/", "difficulty": 1, "premium": false},
-  "2612": {"name": "2612. Minimum Reverse Operations", "url": "https://leetcode.com/problems/minimum-reverse-operations/", "difficulty": 2, "premium": false}
+  "2612": {"name": "2612. Minimum Reverse Operations", "url": "https://leetcode.com/problems/minimum-reverse-operations/", "difficulty": 2, "premium": false},
+  "2613": {"name": "2613. Beautiful Pairs", "url": "https://leetcode.com/problems/beautiful-pairs/", "difficulty": 2, "premium": true},
+  "2614": {"name": "2614. Prime In Diagonal", "url": "https://leetcode.com/problems/prime-in-diagonal/", "difficulty": 0, "premium": false},
+  "2615": {"name": "2615. Sum of Distances", "url": "https://leetcode.com/problems/sum-of-distances/", "difficulty": 1, "premium": false},
+  "2616": {"name": "2616. Minimize the Maximum Difference of Pairs", "url": "https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/", "difficulty": 1, "premium": false},
+  "2617": {"name": "2617. Minimum Number of Visited Cells in a Grid", "url": "https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/", "difficulty": 2, "premium": false}
 }

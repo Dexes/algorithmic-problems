@@ -5,7 +5,7 @@ let idRE = new RegExp('^\\d+');
 
 for (let i in elements) {
     let titleParent = elements[i];
-    if (titleParent.tagName !== 'DIV' || titleParent.has) continue;
+    if (titleParent.tagName !== 'DIV' || titleParent.has || titleParent.children.length === 0) continue;
 
     let title = titleParent.children[0];
     if (title.tagName !== 'A') continue;
