@@ -1,4 +1,4 @@
-### easy 633 / 639 (99.06%) &nbsp;|&nbsp; medium 383 / 1390 (27.55%) &nbsp;|&nbsp; hard 18 / 583 (3.09%)
+### easy 633 / 639 (99.06%) &nbsp;|&nbsp; medium 384 / 1390 (27.63%) &nbsp;|&nbsp; hard 18 / 583 (3.09%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1598,6 +1598,8 @@
   &nbsp;|&nbsp; [Go](1800/1874/go/main.go)
 - [1876. Substrings of Size Three with Distinct Characters (easy)](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
   &nbsp;|&nbsp; [Go](1800/1876/go/main.go)
+- [1877. Minimize Maximum Pair Sum in Array (medium)](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
+  &nbsp;|&nbsp; [Go](1800/1877/go/main.go)
 - [1880. Check if Word Equals Summation of Two Words (easy)](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/)
   &nbsp;|&nbsp; [Go](1800/1880/go/main.go)
 - [1886. Determine Whether Matrix Can Be Obtained By Rotation (easy)](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
