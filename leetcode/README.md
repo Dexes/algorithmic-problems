@@ -1,4 +1,4 @@
-### easy 635 / 640 (99.22%) &nbsp;|&nbsp; medium 384 / 1392 (27.59%) &nbsp;|&nbsp; hard 18 / 585 (3.08%)
+### easy 635 / 640 (99.22%) &nbsp;|&nbsp; medium 385 / 1392 (27.66%) &nbsp;|&nbsp; hard 18 / 585 (3.08%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1894,6 +1894,8 @@
   &nbsp;|&nbsp; [Go](2300/2383/go/main.go)
 - [2389. Longest Subsequence With Limited Sum (easy)](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
   &nbsp;|&nbsp; [Go](2300/2389/go/main.go)
+- [2390. Removing Stars From a String (medium)](https://leetcode.com/problems/removing-stars-from-a-string/)
+  &nbsp;|&nbsp; [Go](2300/2390/go/main.go)
 - [2391. Minimum Amount of Time to Collect Garbage (medium)](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/)
   &nbsp;|&nbsp; [Go](2300/2391/go/main.go)
 - [2393. Count Strictly Increasing Subarrays (medium)](https://leetcode.com/problems/count-strictly-increasing-subarrays/)
