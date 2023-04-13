@@ -1,4 +1,4 @@
-### easy 643 / 648 (99.23%) &nbsp;|&nbsp; medium 388 / 1404 (27.64%) &nbsp;|&nbsp; hard 18 / 586 (3.07%)
+### easy 643 / 648 (99.23%) &nbsp;|&nbsp; medium 389 / 1404 (27.71%) &nbsp;|&nbsp; hard 18 / 586 (3.07%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -396,6 +396,8 @@
   &nbsp;|&nbsp; [Go](0200/0283/go/main.go)
 - [284. Peeking Iterator (medium)](https://leetcode.com/problems/peeking-iterator/)
   &nbsp;|&nbsp; [Go](0200/0284/go/main.go)
+- [286. Walls and Gates (medium)](https://leetcode.com/problems/walls-and-gates/)
+  &nbsp;|&nbsp; [Go](0200/0286/go/main.go)
 - [287. Find the Duplicate Number (medium)](https://leetcode.com/problems/find-the-duplicate-number/)
   &nbsp;|&nbsp; [Go](0200/0287/go/main.go)
 - [290. Word Pattern (easy)](https://leetcode.com/problems/word-pattern/)
