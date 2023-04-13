@@ -13,7 +13,7 @@ const (
 	difficultyHard   = 2
 )
 
-type leetCode struct {
+type leetcode struct {
 	taskInfo      map[string]taskInfo
 	volumes       map[string]struct{}
 	total, solved [3]int
@@ -31,8 +31,8 @@ type leetCodeTask struct {
 	solutions []string
 }
 
-func NewLeetCode() *leetCode {
-	result := &leetCode{volumes: make(map[string]struct{})}
+func NewLeetcode() *leetcode {
+	result := &leetcode{volumes: make(map[string]struct{})}
 
 	file, _ := os.ReadFile("./_cache.leetcode.json")
 	_ = json.Unmarshal(file, &result.taskInfo)
@@ -41,14 +41,14 @@ func NewLeetCode() *leetCode {
 	return result
 }
 
-func (l *leetCode) GenerateReadme() {
+func (l *leetcode) GenerateReadme() {
 	tasks := l.loadTasks()
 
 	l.countSolvedTasks(tasks)
 	l.generateReadme(tasks)
 }
 
-func (l *leetCode) generateReadme(data map[string][]*leetCodeTask) {
+func (l *leetcode) generateReadme(data map[string][]*leetCodeTask) {
 	readmeContent := strings.Builder{}
 
 	for i := 0; ; i += 100 {
@@ -72,7 +72,7 @@ func (l *leetCode) generateReadme(data map[string][]*leetCodeTask) {
 	_ = file.Close()
 }
 
-func (l *leetCode) generateTaskInfo(task *leetCodeTask) string {
+func (l *leetcode) generateTaskInfo(task *leetCodeTask) string {
 	info := l.taskInfo[task.id]
 	result := "- [" + info.Name + " (" + l.difficulty(info.Difficulty) + ")](" + info.Url + ")\n"
 	for _, solution := range task.solutions {
@@ -84,7 +84,7 @@ func (l *leetCode) generateTaskInfo(task *leetCodeTask) string {
 	return result[:len(result)-1]
 }
 
-func (l *leetCode) loadTasks() map[string][]*leetCodeTask {
+func (l *leetcode) loadTasks() map[string][]*leetCodeTask {
 	result := make(map[string][]*leetCodeTask)
 	volumes, _ := os.ReadDir("../leetcode")
 	for _, volume := range volumes {
@@ -113,7 +113,7 @@ func (l *leetCode) loadTasks() map[string][]*leetCodeTask {
 	return result
 }
 
-func (l *leetCode) countSolvedTasks(data map[string][]*leetCodeTask) {
+func (l *leetcode) countSolvedTasks(data map[string][]*leetCodeTask) {
 	for _, tasks := range data {
 		for i := 0; i < len(tasks); i++ {
 			if info, ok := l.taskInfo[tasks[i].id]; ok {
@@ -126,13 +126,13 @@ func (l *leetCode) countSolvedTasks(data map[string][]*leetCodeTask) {
 	}
 }
 
-func (l *leetCode) countTotalTasks() {
+func (l *leetcode) countTotalTasks() {
 	for _, data := range l.taskInfo {
 		l.total[data.Difficulty]++
 	}
 }
 
-func (l *leetCode) difficulty(d int) string {
+func (l *leetcode) difficulty(d int) string {
 	switch d {
 	case 0:
 		return "easy"

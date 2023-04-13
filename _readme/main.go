@@ -4,5 +4,5 @@ import "readme/platform"
 
 func main() {
 	platform.NewTimus().GenerateReadme()
-	platform.NewLeetCode().GenerateReadme()
+	platform.NewLeetcode().GenerateReadme()
 }
