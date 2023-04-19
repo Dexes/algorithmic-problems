@@ -2636,5 +2636,13 @@
   "2635": {"name": "2635. Apply Transform Over Each Element in Array", "url": "https://leetcode.com/problems/apply-transform-over-each-element-in-array/", "difficulty": 0, "premium": false},
   "2636": {"name": "2636. Promise Pool", "url": "https://leetcode.com/problems/promise-pool/", "difficulty": 1, "premium": false},
   "2637": {"name": "2637. Promise Time Limit", "url": "https://leetcode.com/problems/promise-time-limit/", "difficulty": 0, "premium": false},
-  "2638": {"name": "2638. Count the Number of K-Free Subsets", "url": "https://leetcode.com/problems/count-the-number-of-k-free-subsets/", "difficulty": 1, "premium": true}
+  "2638": {"name": "2638. Count the Number of K-Free Subsets", "url": "https://leetcode.com/problems/count-the-number-of-k-free-subsets/", "difficulty": 1, "premium": true},
+  "2639": {"name": "2639. Find the Width of Columns of a Grid", "url": "https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/", "difficulty": 0, "premium": false},
+  "2640": {"name": "2640. Find the Score of All Prefixes of an Array", "url": "https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/", "difficulty": 1, "premium": false},
+  "2641": {"name": "2641. Cousins in Binary Tree II", "url": "https://leetcode.com/problems/cousins-in-binary-tree-ii/", "difficulty": 1, "premium": false},
+  "2642": {"name": "2642. Design Graph With Shortest Path Calculator", "url": "https://leetcode.com/problems/design-graph-with-shortest-path-calculator/", "difficulty": 2, "premium": false},
+  "2643": {"name": "2643. Row With Maximum Ones", "url": "https://leetcode.com/problems/row-with-maximum-ones/", "difficulty": 0, "premium": false},
+  "2644": {"name": "2644. Find the Maximum Divisibility Score", "url": "https://leetcode.com/problems/find-the-maximum-divisibility-score/", "difficulty": 0, "premium": false},
+  "2645": {"name": "2645. Minimum Additions to Make Valid String", "url": "https://leetcode.com/problems/minimum-additions-to-make-valid-string/", "difficulty": 1, "premium": false},
+  "2646": {"name": "2646. Minimize the Total Price of the Trips", "url": "https://leetcode.com/problems/minimize-the-total-price-of-the-trips/", "difficulty": 2, "premium": false}
 }
