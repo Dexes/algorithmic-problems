@@ -1,4 +1,4 @@
-### easy 646 / 651 (99.23%) &nbsp;|&nbsp; medium 390 / 1407 (27.72%) &nbsp;|&nbsp; hard 18 / 588 (3.06%)
+### easy 648 / 651 (99.54%) &nbsp;|&nbsp; medium 390 / 1407 (27.72%) &nbsp;|&nbsp; hard 18 / 588 (3.06%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1630,6 +1630,8 @@
   &nbsp;|&nbsp; [Go](1900/1933/go/main.go)
 - [1935. Maximum Number of Words You Can Type (easy)](https://leetcode.com/problems/maximum-number-of-words-you-can-type/)
   &nbsp;|&nbsp; [Go](1900/1935/go/main.go)
+- [1939. Users That Actively Request Confirmation Messages (easy)](https://leetcode.com/problems/users-that-actively-request-confirmation-messages/)
+  &nbsp;|&nbsp; [SQL](1900/1939/sql/main.sql)
 - [1941. Check if All Characters Have Equal Number of Occurrences (easy)](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/)
   &nbsp;|&nbsp; [Go](1900/1941/go/main.go)
 - [1944. Number of Visible People in a Queue (hard)](https://leetcode.com/problems/number-of-visible-people-in-a-queue/)
@@ -1652,6 +1654,8 @@
   &nbsp;|&nbsp; [Go](1900/1971/go/main.go)
 - [1974. Minimum Time to Type Word Using Special Typewriter (easy)](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/)
   &nbsp;|&nbsp; [Go](1900/1974/go/main.go)
+- [1978. Employees Whose Manager Left the Company (easy)](https://leetcode.com/problems/employees-whose-manager-left-the-company/)
+  &nbsp;|&nbsp; [SQL](1900/1978/sql/main.sql)
 - [1979. Find Greatest Common Divisor of Array (easy)](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)
   &nbsp;|&nbsp; [Go](1900/1979/go/main.go)
 - [1984. Minimum Difference Between Highest and Lowest of K Scores (easy)](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
