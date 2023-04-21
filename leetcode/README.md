@@ -1,4 +1,4 @@
-### easy 652 / 652 (100.00%) &nbsp;|&nbsp; medium 390 / 1408 (27.70%) &nbsp;|&nbsp; hard 18 / 590 (3.05%)
+### easy 652 / 652 (100.00%) &nbsp;|&nbsp; medium 391 / 1408 (27.77%) &nbsp;|&nbsp; hard 18 / 590 (3.05%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1578,6 +1578,8 @@
   &nbsp;|&nbsp; [Go](1800/1836/go/main.go)
 - [1837. Sum of Digits in Base K (easy)](https://leetcode.com/problems/sum-of-digits-in-base-k/)
   &nbsp;|&nbsp; [Go](1800/1837/go/main.go)
+- [1839. Longest Substring Of All Vowels in Order (medium)](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/)
+  &nbsp;|&nbsp; [Go](1800/1839/go/main.go)
 - [1844. Replace All Digits with Characters (easy)](https://leetcode.com/problems/replace-all-digits-with-characters/)
   &nbsp;|&nbsp; [Go](1800/1844/go/main.go)
 - [1845. Seat Reservation Manager (medium)](https://leetcode.com/problems/seat-reservation-manager/)
