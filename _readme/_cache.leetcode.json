@@ -2644,5 +2644,9 @@
   "2643": {"name": "2643. Row With Maximum Ones", "url": "https://leetcode.com/problems/row-with-maximum-ones/", "difficulty": 0, "premium": false},
   "2644": {"name": "2644. Find the Maximum Divisibility Score", "url": "https://leetcode.com/problems/find-the-maximum-divisibility-score/", "difficulty": 0, "premium": false},
   "2645": {"name": "2645. Minimum Additions to Make Valid String", "url": "https://leetcode.com/problems/minimum-additions-to-make-valid-string/", "difficulty": 1, "premium": false},
-  "2646": {"name": "2646. Minimize the Total Price of the Trips", "url": "https://leetcode.com/problems/minimize-the-total-price-of-the-trips/", "difficulty": 2, "premium": false}
+  "2646": {"name": "2646. Minimize the Total Price of the Trips", "url": "https://leetcode.com/problems/minimize-the-total-price-of-the-trips/", "difficulty": 2, "premium": false},
+  "2647": {"name": "2647. Color the Triangle Red", "url": "https://leetcode.com/problems/color-the-triangle-red/", "difficulty": 2, "premium": true},
+  "2648": {"name": "2648. Generate Fibonacci Sequence", "url": "https://leetcode.com/problems/generate-fibonacci-sequence/", "difficulty": 0, "premium": false},
+  "2649": {"name": "2649. Nested Array Generator", "url": "https://leetcode.com/problems/nested-array-generator/", "difficulty": 1, "premium": false},
+  "2650": {"name": "2650. Design Cancellable Function", "url": "https://leetcode.com/problems/design-cancellable-function/", "difficulty": 2, "premium": false}
 }
