@@ -2,10 +2,10 @@ package main
 
 func kidsWithCandies(candies []int, extraCandies int) []bool {
 	result := make([]bool, len(candies))
-	max := maximum(candies)
+	max := maximum(candies) - extraCandies
 
 	for i := 0; i < len(candies); i++ {
-		result[i] = candies[i]+extraCandies >= max
+		result[i] = candies[i] >= max
 	}
 
 	return result
