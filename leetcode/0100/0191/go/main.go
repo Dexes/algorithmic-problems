@@ -1,13 +1,10 @@
 package main
 
 func hammingWeight(num uint32) int {
-	result := 0
-
-	for i := 0; i < 32; i++ {
-		if num&(1<<i) > 0 {
-			result++
-		}
+	var result uint32
+	for ; num > 0; num >>= 1 {
+		result += num & 1
 	}
 
-	return result
+	return int(result)
 }
