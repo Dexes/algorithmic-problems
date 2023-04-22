@@ -1,4 +1,4 @@
-### easy 652 / 652 (100.00%) &nbsp;|&nbsp; medium 392 / 1408 (27.84%) &nbsp;|&nbsp; hard 18 / 590 (3.05%)
+### easy 652 / 652 (100.00%) &nbsp;|&nbsp; medium 393 / 1408 (27.91%) &nbsp;|&nbsp; hard 18 / 590 (3.05%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -362,6 +362,8 @@
   &nbsp;|&nbsp; [Go](0200/0236/go/main.go)
 - [237. Delete Node in a Linked List (medium)](https://leetcode.com/problems/delete-node-in-a-linked-list/)
   &nbsp;|&nbsp; [Go](0200/0237/go/main.go)
+- [238. Product of Array Except Self (medium)](https://leetcode.com/problems/product-of-array-except-self/)
+  &nbsp;|&nbsp; [Go](0200/0238/go/main.go)
 - [240. Search a 2D Matrix II (medium)](https://leetcode.com/problems/search-a-2d-matrix-ii/)
   &nbsp;|&nbsp; [Go](0200/0240/go/main.go)
 - [242. Valid Anagram (easy)](https://leetcode.com/problems/valid-anagram/)
