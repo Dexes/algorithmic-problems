@@ -1,4 +1,4 @@
-### easy 652 / 652 (100.00%) &nbsp;|&nbsp; medium 391 / 1408 (27.77%) &nbsp;|&nbsp; hard 18 / 590 (3.05%)
+### easy 652 / 652 (100.00%) &nbsp;|&nbsp; medium 392 / 1408 (27.84%) &nbsp;|&nbsp; hard 18 / 590 (3.05%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -288,6 +288,8 @@
   &nbsp;|&nbsp; [SQL](0100/0183/sql/main.sql)
 - [186. Reverse Words in a String II (medium)](https://leetcode.com/problems/reverse-words-in-a-string-ii/)
   &nbsp;|&nbsp; [Go](0100/0186/go/main.go)
+- [187. Repeated DNA Sequences (medium)](https://leetcode.com/problems/repeated-dna-sequences/)
+  &nbsp;|&nbsp; [Go](0100/0187/go/main.go)
 - [189. Rotate Array (medium)](https://leetcode.com/problems/rotate-array/)
   &nbsp;|&nbsp; [Go](0100/0189/go/main.go)
 - [190. Reverse Bits (easy)](https://leetcode.com/problems/reverse-bits/)
