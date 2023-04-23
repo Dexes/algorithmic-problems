@@ -1,4 +1,4 @@
-### easy 652 / 652 (100.00%) &nbsp;|&nbsp; medium 393 / 1408 (27.91%) &nbsp;|&nbsp; hard 18 / 590 (3.05%)
+### easy 654 / 654 (100.00%) &nbsp;|&nbsp; medium 393 / 1410 (27.87%) &nbsp;|&nbsp; hard 18 / 590 (3.05%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2126,3 +2126,7 @@
   &nbsp;|&nbsp; [Go](2600/2644/go/main.go)
 - [2648. Generate Fibonacci Sequence (easy)](https://leetcode.com/problems/generate-fibonacci-sequence/)
   &nbsp;|&nbsp; [JS](2600/2648/js/main.js)
+- [2651. Calculate Delayed Arrival Time (easy)](https://leetcode.com/problems/calculate-delayed-arrival-time/)
+  &nbsp;|&nbsp; [Go](2600/2651/go/main.go)
+- [2652. Sum Multiples (easy)](https://leetcode.com/problems/sum-multiples/)
+  &nbsp;|&nbsp; [Go](2600/2652/go/main.go)

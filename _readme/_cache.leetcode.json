@@ -2648,5 +2648,9 @@
   "2647": {"name": "2647. Color the Triangle Red", "url": "https://leetcode.com/problems/color-the-triangle-red/", "difficulty": 2, "premium": true},
   "2648": {"name": "2648. Generate Fibonacci Sequence", "url": "https://leetcode.com/problems/generate-fibonacci-sequence/", "difficulty": 0, "premium": false},
   "2649": {"name": "2649. Nested Array Generator", "url": "https://leetcode.com/problems/nested-array-generator/", "difficulty": 1, "premium": false},
-  "2650": {"name": "2650. Design Cancellable Function", "url": "https://leetcode.com/problems/design-cancellable-function/", "difficulty": 2, "premium": false}
+  "2650": {"name": "2650. Design Cancellable Function", "url": "https://leetcode.com/problems/design-cancellable-function/", "difficulty": 2, "premium": false},
+  "2651": {"name": "2651. Calculate Delayed Arrival Time", "url": "https://leetcode.com/problems/calculate-delayed-arrival-time/", "difficulty": 0, "premium": false},
+  "2652": {"name": "2652. Sum Multiples", "url": "https://leetcode.com/problems/sum-multiples/", "difficulty": 0, "premium": false},
+  "2653": {"name": "2653. Sliding Subarray Beauty", "url": "https://leetcode.com/problems/sliding-subarray-beauty/", "difficulty": 1, "premium": false},
+  "2654": {"name": "2654. Minimum Number of Operations to Make All Array Elements Equal to 1", "url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/", "difficulty": 1, "premium": false}
 }
