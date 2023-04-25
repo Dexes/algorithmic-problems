@@ -1,4 +1,4 @@
-### easy 654 / 654 (100.00%) &nbsp;|&nbsp; medium 394 / 1410 (27.94%) &nbsp;|&nbsp; hard 18 / 590 (3.05%)
+### easy 654 / 654 (100.00%) &nbsp;|&nbsp; medium 395 / 1410 (28.01%) &nbsp;|&nbsp; hard 18 / 590 (3.05%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1006,6 +1006,8 @@
   &nbsp;|&nbsp; [SQL](1000/1050/sql/main.sql)
 - [1051. Height Checker (easy)](https://leetcode.com/problems/height-checker/)
   &nbsp;|&nbsp; [Go](1000/1051/go/main.go)
+- [1054. Distant Barcodes (medium)](https://leetcode.com/problems/distant-barcodes/)
+  &nbsp;|&nbsp; [Go](1000/1054/go/main.go)
 - [1055. Shortest Way to Form String (medium)](https://leetcode.com/problems/shortest-way-to-form-string/)
   &nbsp;|&nbsp; [Go](1000/1055/go/main.go)
 - [1056. Confusing Number (easy)](https://leetcode.com/problems/confusing-number/)
