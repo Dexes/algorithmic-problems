@@ -1,4 +1,4 @@
-### easy 654 / 654 (100.00%) &nbsp;|&nbsp; medium 393 / 1410 (27.87%) &nbsp;|&nbsp; hard 18 / 590 (3.05%)
+### easy 654 / 654 (100.00%) &nbsp;|&nbsp; medium 394 / 1410 (27.94%) &nbsp;|&nbsp; hard 18 / 590 (3.05%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1876,6 +1876,8 @@
   &nbsp;|&nbsp; [Go](2300/2331/go/main.go)
 - [2335. Minimum Amount of Time to Fill Cups (easy)](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/)
   &nbsp;|&nbsp; [Go](2300/2335/go/main.go)
+- [2336. Smallest Number in Infinite Set (medium)](https://leetcode.com/problems/smallest-number-in-infinite-set/)
+  &nbsp;|&nbsp; [Go](2300/2336/go/main.go)
 - [2339. All the Matches of the League (easy)](https://leetcode.com/problems/all-the-matches-of-the-league/)
   &nbsp;|&nbsp; [SQL](2300/2339/sql/main.sql)
 - [2341. Maximum Number of Pairs in Array (easy)](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)
