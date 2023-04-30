@@ -1,4 +1,4 @@
-### easy 654 / 654 (100.00%) &nbsp;|&nbsp; medium 396 / 1410 (28.09%) &nbsp;|&nbsp; hard 18 / 590 (3.05%)
+### easy 656 / 656 (100.00%) &nbsp;|&nbsp; medium 396 / 1415 (27.99%) &nbsp;|&nbsp; hard 18 / 592 (3.04%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2136,3 +2136,7 @@
   &nbsp;|&nbsp; [Go](2600/2651/go/main.go)
 - [2652. Sum Multiples (easy)](https://leetcode.com/problems/sum-multiples/)
   &nbsp;|&nbsp; [Go](2600/2652/go/main.go)
+- [2656. Maximum Sum With Exactly K Elements (easy)](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/)
+  &nbsp;|&nbsp; [Go](2600/2656/go/main.go)
+- [2660. Determine the Winner of a Bowling Game (easy)](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/)
+  &nbsp;|&nbsp; [Go](2600/2660/go/main.go)

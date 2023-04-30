@@ -2652,5 +2652,14 @@
   "2651": {"name": "2651. Calculate Delayed Arrival Time", "url": "https://leetcode.com/problems/calculate-delayed-arrival-time/", "difficulty": 0, "premium": false},
   "2652": {"name": "2652. Sum Multiples", "url": "https://leetcode.com/problems/sum-multiples/", "difficulty": 0, "premium": false},
   "2653": {"name": "2653. Sliding Subarray Beauty", "url": "https://leetcode.com/problems/sliding-subarray-beauty/", "difficulty": 1, "premium": false},
-  "2654": {"name": "2654. Minimum Number of Operations to Make All Array Elements Equal to 1", "url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/", "difficulty": 1, "premium": false}
+  "2654": {"name": "2654. Minimum Number of Operations to Make All Array Elements Equal to 1", "url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/", "difficulty": 1, "premium": false},
+  "2655": {"name": "2655. Find Maximal Uncovered Ranges", "url": "https://leetcode.com/problems/find-maximal-uncovered-ranges/", "difficulty": 1, "premium": true},
+  "2656": {"name": "2656. Maximum Sum With Exactly K Elements", "url": "https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/", "difficulty": 0, "premium": false},
+  "2657": {"name": "2657. Find the Prefix Common Array of Two Arrays", "url": "https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/", "difficulty": 1, "premium": false},
+  "2658": {"name": "2658. Maximum Number of Fish in a Grid", "url": "https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/", "difficulty": 1, "premium": false},
+  "2659": {"name": "2659. Make Array Empty", "url": "https://leetcode.com/problems/make-array-empty/", "difficulty": 2, "premium": false},
+  "2660": {"name": "2660. Determine the Winner of a Bowling Game", "url": "https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/", "difficulty": 0, "premium": false},
+  "2661": {"name": "2661. First Completely Painted Row or Column", "url": "https://leetcode.com/problems/first-completely-painted-row-or-column/", "difficulty": 1, "premium": false},
+  "2662": {"name": "2662. Minimum Cost of a Path With Special Roads", "url": "https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/", "difficulty": 1, "premium": false},
+  "2663": {"name": "2663. Lexicographically Smallest Beautiful String", "url": "https://leetcode.com/problems/lexicographically-smallest-beautiful-string/", "difficulty": 2, "premium": false}
 }
