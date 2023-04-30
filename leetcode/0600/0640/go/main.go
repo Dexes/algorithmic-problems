@@ -2,10 +2,6 @@ package main
 
 import "strconv"
 
-func main() {
-	println(solveEquation("-x=-1"))
-}
-
 func solveEquation(equation string) string {
 	x, num, invert := 0, 0, false
 	sign, value, isX := 0, 0, false
