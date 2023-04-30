@@ -1,4 +1,4 @@
-### easy 656 / 656 (100.00%) &nbsp;|&nbsp; medium 398 / 1415 (28.13%) &nbsp;|&nbsp; hard 18 / 592 (3.04%)
+### easy 656 / 656 (100.00%) &nbsp;|&nbsp; medium 399 / 1415 (28.20%) &nbsp;|&nbsp; hard 18 / 592 (3.04%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -416,6 +416,8 @@
   &nbsp;|&nbsp; [Go](0200/0298/go/main.go)
 - [303. Range Sum Query - Immutable (easy)](https://leetcode.com/problems/range-sum-query-immutable/)
   &nbsp;|&nbsp; [Go](0300/0303/go/main.go)
+- [307. Range Sum Query - Mutable (medium)](https://leetcode.com/problems/range-sum-query-mutable/)
+  &nbsp;|&nbsp; [Go](0300/0307/go/main.go)
 - [314. Binary Tree Vertical Order Traversal (medium)](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
   &nbsp;|&nbsp; [Go](0300/0314/go/main.go)
 - [322. Coin Change (medium)](https://leetcode.com/problems/coin-change/)

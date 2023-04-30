@@ -32,9 +32,9 @@ func getMax(root *Node, start, end int) int {
 	}
 
 	if root.left == nil {
-		half := (root.start + root.end) / 2
-		root.left = &Node{start: root.start, end: half}
-		root.right = &Node{start: half, end: root.end}
+		middle := (root.start + root.end) / 2
+		root.left = &Node{start: root.start, end: middle}
+		root.right = &Node{start: middle, end: root.end}
 	}
 
 	if root.update > 0 {
