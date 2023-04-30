@@ -1,4 +1,4 @@
-### easy 656 / 656 (100.00%) &nbsp;|&nbsp; medium 396 / 1415 (27.99%) &nbsp;|&nbsp; hard 18 / 592 (3.04%)
+### easy 656 / 656 (100.00%) &nbsp;|&nbsp; medium 398 / 1415 (28.13%) &nbsp;|&nbsp; hard 18 / 592 (3.04%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -778,6 +778,8 @@
   &nbsp;|&nbsp; [Go](0700/0728/go/main.go)
 - [729. My Calendar I (medium)](https://leetcode.com/problems/my-calendar-i/)
   &nbsp;|&nbsp; [Go](0700/0729/go/main.go)
+- [731. My Calendar II (medium)](https://leetcode.com/problems/my-calendar-ii/)
+  &nbsp;|&nbsp; [Go](0700/0731/go/main.go)
 - [733. Flood Fill (easy)](https://leetcode.com/problems/flood-fill/)
   &nbsp;|&nbsp; [Go](0700/0733/go/main.go)
 - [734. Sentence Similarity (easy)](https://leetcode.com/problems/sentence-similarity/)
@@ -2140,3 +2142,5 @@
   &nbsp;|&nbsp; [Go](2600/2656/go/main.go)
 - [2660. Determine the Winner of a Bowling Game (easy)](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/)
   &nbsp;|&nbsp; [Go](2600/2660/go/main.go)
+- [2661. First Completely Painted Row or Column (medium)](https://leetcode.com/problems/first-completely-painted-row-or-column/)
+  &nbsp;|&nbsp; [Go](2600/2661/go/main.go)
