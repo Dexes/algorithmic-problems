@@ -1,4 +1,4 @@
-### easy 656 / 656 (100.00%) &nbsp;|&nbsp; medium 401 / 1415 (28.34%) &nbsp;|&nbsp; hard 18 / 592 (3.04%)
+### easy 656 / 656 (100.00%) &nbsp;|&nbsp; medium 402 / 1415 (28.41%) &nbsp;|&nbsp; hard 18 / 592 (3.04%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2140,6 +2140,8 @@
   &nbsp;|&nbsp; [Go](2600/2651/go/main.go)
 - [2652. Sum Multiples (easy)](https://leetcode.com/problems/sum-multiples/)
   &nbsp;|&nbsp; [Go](2600/2652/go/main.go)
+- [2655. Find Maximal Uncovered Ranges (medium)](https://leetcode.com/problems/find-maximal-uncovered-ranges/)
+  &nbsp;|&nbsp; [Go](2600/2655/go/main.go)
 - [2656. Maximum Sum With Exactly K Elements (easy)](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/)
   &nbsp;|&nbsp; [Go](2600/2656/go/main.go)
 - [2657. Find the Prefix Common Array of Two Arrays (medium)](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)
