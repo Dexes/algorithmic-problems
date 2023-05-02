@@ -1,4 +1,4 @@
-### easy 656 / 656 (100.00%) &nbsp;|&nbsp; medium 402 / 1415 (28.41%) &nbsp;|&nbsp; hard 18 / 592 (3.04%)
+### easy 656 / 656 (100.00%) &nbsp;|&nbsp; medium 403 / 1415 (28.48%) &nbsp;|&nbsp; hard 18 / 592 (3.04%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2112,6 +2112,8 @@
   &nbsp;|&nbsp; [JS](2600/2620/js/main.js)
 - [2621. Sleep (easy)](https://leetcode.com/problems/sleep/)
   &nbsp;|&nbsp; [JS](2600/2621/js/main.js)
+- [2622. Cache With Time Limit (medium)](https://leetcode.com/problems/cache-with-time-limit/)
+  &nbsp;|&nbsp; [JS](2600/2622/js/main.js)
 - [2626. Array Reduce Transformation (easy)](https://leetcode.com/problems/array-reduce-transformation/)
   &nbsp;|&nbsp; [JS](2600/2626/js/main.js)
 - [2629. Function Composition (easy)](https://leetcode.com/problems/function-composition/)
