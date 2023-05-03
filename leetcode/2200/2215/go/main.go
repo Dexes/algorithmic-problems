@@ -1,26 +1,27 @@
 package main
 
-func findDifference(nums1 []int, nums2 []int) [][]int {
-	first, second := toMap(nums1), toMap(nums2)
-	return [][]int{sub(first, second, nums1), sub(second, first, nums2)}
+func findDifference(nums1, nums2 []int) [][]int {
+	a, b := convert(nums1), convert(nums2)
+	return [][]int{remove(nums1, b), remove(nums2, a)}
 }
 
-func sub(a, b map[int]bool, result []int) []int {
-	index := 0
-	for x := range a {
-		if !b[x] {
-			result[index] = x
-			index++
+func remove(nums []int, removed []bool) []int {
+	wIndex := 0
+	for i := 0; i < len(nums); i++ {
+		if x := nums[i] + 1000; !removed[x] {
+			removed[x] = true
+			nums[wIndex] = nums[i]
+			wIndex++
 		}
 	}
 
-	return result[:index]
+	return nums[:wIndex]
 }
 
-func toMap(nums []int) map[int]bool {
-	result := make(map[int]bool)
+func convert(nums []int) []bool {
+	result := make([]bool, 2001)
 	for i := 0; i < len(nums); i++ {
-		result[nums[i]] = true
+		result[nums[i]+1000] = true
 	}
 
 	return result
