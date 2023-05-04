@@ -1,4 +1,4 @@
-### easy 656 / 656 (100.00%) &nbsp;|&nbsp; medium 403 / 1415 (28.48%) &nbsp;|&nbsp; hard 18 / 592 (3.04%)
+### easy 656 / 656 (100.00%) &nbsp;|&nbsp; medium 404 / 1415 (28.55%) &nbsp;|&nbsp; hard 18 / 592 (3.04%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -718,6 +718,8 @@
   &nbsp;|&nbsp; [Go](0600/0645/go/main.go)
 - [648. Replace Words (medium)](https://leetcode.com/problems/replace-words/)
   &nbsp;|&nbsp; [Go](0600/0648/go/main.go)
+- [649. Dota2 Senate (medium)](https://leetcode.com/problems/dota2-senate/)
+  &nbsp;|&nbsp; [Go](0600/0649/go/main.go)
 - [653. Two Sum IV - Input is a BST (easy)](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
   &nbsp;|&nbsp; [Go](0600/0653/go/main.go)
 - [654. Maximum Binary Tree (medium)](https://leetcode.com/problems/maximum-binary-tree/)
