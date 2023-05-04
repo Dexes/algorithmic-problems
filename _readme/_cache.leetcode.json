@@ -2661,5 +2661,9 @@
   "2660": {"name": "2660. Determine the Winner of a Bowling Game", "url": "https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/", "difficulty": 0, "premium": false},
   "2661": {"name": "2661. First Completely Painted Row or Column", "url": "https://leetcode.com/problems/first-completely-painted-row-or-column/", "difficulty": 1, "premium": false},
   "2662": {"name": "2662. Minimum Cost of a Path With Special Roads", "url": "https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/", "difficulty": 1, "premium": false},
-  "2663": {"name": "2663. Lexicographically Smallest Beautiful String", "url": "https://leetcode.com/problems/lexicographically-smallest-beautiful-string/", "difficulty": 2, "premium": false}
+  "2663": {"name": "2663. Lexicographically Smallest Beautiful String", "url": "https://leetcode.com/problems/lexicographically-smallest-beautiful-string/", "difficulty": 2, "premium": false},
+  "2664": {"name": "2664. The Knight’s Tour", "url": "https://leetcode.com/problems/the-knights-tour/", "difficulty": 1, "premium": true},
+  "2665": {"name": "2665. Counter II", "url": "https://leetcode.com/problems/counter-ii/", "difficulty": 0, "premium": false},
+  "2666": {"name": "2666. Allow One Function Call", "url": "https://leetcode.com/problems/allow-one-function-call/", "difficulty": 0, "premium": false},
+  "2667": {"name": "2667. Create Hello World Function", "url": "https://leetcode.com/problems/create-hello-world-function/", "difficulty": 0, "premium": false}
 }

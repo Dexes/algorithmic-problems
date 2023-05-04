@@ -1,4 +1,4 @@
-### easy 656 / 656 (100.00%) &nbsp;|&nbsp; medium 405 / 1415 (28.62%) &nbsp;|&nbsp; hard 18 / 592 (3.04%)
+### easy 659 / 659 (100.00%) &nbsp;|&nbsp; medium 405 / 1416 (28.60%) &nbsp;|&nbsp; hard 18 / 592 (3.04%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2158,3 +2158,9 @@
   &nbsp;|&nbsp; [Go](2600/2660/go/main.go)
 - [2661. First Completely Painted Row or Column (medium)](https://leetcode.com/problems/first-completely-painted-row-or-column/)
   &nbsp;|&nbsp; [Go](2600/2661/go/main.go)
+- [2665. Counter II (easy)](https://leetcode.com/problems/counter-ii/)
+  &nbsp;|&nbsp; [JS](2600/2665/js/main.js)
+- [2666. Allow One Function Call (easy)](https://leetcode.com/problems/allow-one-function-call/)
+  &nbsp;|&nbsp; [JS](2600/2666/js/main.js)
+- [2667. Create Hello World Function (easy)](https://leetcode.com/problems/create-hello-world-function/)
+  &nbsp;|&nbsp; [JS](2600/2667/js/main.js)
