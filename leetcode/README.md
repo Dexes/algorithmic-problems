@@ -1,4 +1,4 @@
-### easy 656 / 656 (100.00%) &nbsp;|&nbsp; medium 404 / 1415 (28.55%) &nbsp;|&nbsp; hard 18 / 592 (3.04%)
+### easy 656 / 656 (100.00%) &nbsp;|&nbsp; medium 405 / 1415 (28.62%) &nbsp;|&nbsp; hard 18 / 592 (3.04%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2132,6 +2132,8 @@
   &nbsp;|&nbsp; [JS](2600/2637/js/main.js)
 - [2639. Find the Width of Columns of a Grid (easy)](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/)
   &nbsp;|&nbsp; [Go](2600/2639/go/main.go)
+- [2640. Find the Score of All Prefixes of an Array (medium)](https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/)
+  &nbsp;|&nbsp; [Go](2600/2640/go/main.go)
 - [2641. Cousins in Binary Tree II (medium)](https://leetcode.com/problems/cousins-in-binary-tree-ii/)
   &nbsp;|&nbsp; [Go](2600/2641/go/main.go)
 - [2643. Row With Maximum Ones (easy)](https://leetcode.com/problems/row-with-maximum-ones/)
