@@ -1,23 +1,12 @@
 package main
 
 func lengthOfLastWord(s string) int {
-	result := 0
-	prevIsSpace := true
-
-	for i := 0; i < len(s); i++ {
-		if s[i] == ' ' {
-			prevIsSpace = true
-			continue
-		}
-
-		if prevIsSpace {
-			result = 1
-			prevIsSpace = false
-			continue
-		}
-
-		result++
+	left, right := 0, len(s)-1
+	for ; s[right] == ' '; right-- {
 	}
 
-	return result
+	for left = right; left >= 0 && s[left] != ' '; left-- {
+	}
+
+	return right - left
 }
