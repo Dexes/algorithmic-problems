@@ -1,4 +1,4 @@
-### easy 659 / 659 (100.00%) &nbsp;|&nbsp; medium 406 / 1416 (28.67%) &nbsp;|&nbsp; hard 18 / 592 (3.04%)
+### easy 662 / 662 (100.00%) &nbsp;|&nbsp; medium 407 / 1419 (28.68%) &nbsp;|&nbsp; hard 18 / 592 (3.04%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2166,3 +2166,11 @@
   &nbsp;|&nbsp; [JS](2600/2666/js/main.js)
 - [2667. Create Hello World Function (easy)](https://leetcode.com/problems/create-hello-world-function/)
   &nbsp;|&nbsp; [JS](2600/2667/js/main.js)
+- [2668. Find Latest Salaries (easy)](https://leetcode.com/problems/find-latest-salaries/)
+  &nbsp;|&nbsp; [SQL](2600/2668/sql/main.sql)
+- [2669. Count Artist Occurrences On Spotify Ranking List (easy)](https://leetcode.com/problems/count-artist-occurrences-on-spotify-ranking-list/)
+  &nbsp;|&nbsp; [SQL](2600/2669/sql/main.sql)
+- [2670. Find the Distinct Difference Array (easy)](https://leetcode.com/problems/find-the-distinct-difference-array/)
+  &nbsp;|&nbsp; [Go](2600/2670/go/main.go)
+- [2671. Frequency Tracker (medium)](https://leetcode.com/problems/frequency-tracker/)
+  &nbsp;|&nbsp; [Go](2600/2671/go/main.go)

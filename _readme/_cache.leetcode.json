@@ -2665,5 +2665,11 @@
   "2664": {"name": "2664. The Knight’s Tour", "url": "https://leetcode.com/problems/the-knights-tour/", "difficulty": 1, "premium": true},
   "2665": {"name": "2665. Counter II", "url": "https://leetcode.com/problems/counter-ii/", "difficulty": 0, "premium": false},
   "2666": {"name": "2666. Allow One Function Call", "url": "https://leetcode.com/problems/allow-one-function-call/", "difficulty": 0, "premium": false},
-  "2667": {"name": "2667. Create Hello World Function", "url": "https://leetcode.com/problems/create-hello-world-function/", "difficulty": 0, "premium": false}
+  "2667": {"name": "2667. Create Hello World Function", "url": "https://leetcode.com/problems/create-hello-world-function/", "difficulty": 0, "premium": false},
+  "2668": {"name": "2668. Find Latest Salaries", "url": "https://leetcode.com/problems/find-latest-salaries/", "difficulty": 0, "premium": true},
+  "2669": {"name": "2669. Count Artist Occurrences On Spotify Ranking List", "url": "https://leetcode.com/problems/count-artist-occurrences-on-spotify-ranking-list/", "difficulty": 0, "premium": true},
+  "2670": {"name": "2670. Find the Distinct Difference Array", "url": "https://leetcode.com/problems/find-the-distinct-difference-array/", "difficulty": 0, "premium": false},
+  "2671": {"name": "2671. Frequency Tracker", "url": "https://leetcode.com/problems/frequency-tracker/", "difficulty": 1, "premium": false},
+  "2672": {"name": "2672. Number of Adjacent Elements With the Same Color", "url": "https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/", "difficulty": 1, "premium": false},
+  "2673": {"name": "2673. Make Costs of Paths Equal in a Binary Tree", "url": "https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/", "difficulty": 1, "premium": false}
 }
