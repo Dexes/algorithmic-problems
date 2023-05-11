@@ -1,4 +1,4 @@
-### easy 662 / 662 (100.00%) &nbsp;|&nbsp; medium 407 / 1419 (28.68%) &nbsp;|&nbsp; hard 18 / 592 (3.04%)
+### easy 662 / 662 (100.00%) &nbsp;|&nbsp; medium 408 / 1420 (28.73%) &nbsp;|&nbsp; hard 18 / 592 (3.04%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2174,3 +2174,5 @@
   &nbsp;|&nbsp; [Go](2600/2670/go/main.go)
 - [2671. Frequency Tracker (medium)](https://leetcode.com/problems/frequency-tracker/)
   &nbsp;|&nbsp; [Go](2600/2671/go/main.go)
+- [2674. Split a Circular Linked List (medium)](https://leetcode.com/problems/split-a-circular-linked-list/)
+  &nbsp;|&nbsp; [Go](2600/2674/go/main.go)

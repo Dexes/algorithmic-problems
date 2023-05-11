@@ -2671,5 +2671,6 @@
   "2670": {"name": "2670. Find the Distinct Difference Array", "url": "https://leetcode.com/problems/find-the-distinct-difference-array/", "difficulty": 0, "premium": false},
   "2671": {"name": "2671. Frequency Tracker", "url": "https://leetcode.com/problems/frequency-tracker/", "difficulty": 1, "premium": false},
   "2672": {"name": "2672. Number of Adjacent Elements With the Same Color", "url": "https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/", "difficulty": 1, "premium": false},
-  "2673": {"name": "2673. Make Costs of Paths Equal in a Binary Tree", "url": "https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/", "difficulty": 1, "premium": false}
+  "2673": {"name": "2673. Make Costs of Paths Equal in a Binary Tree", "url": "https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/", "difficulty": 1, "premium": false},
+  "2674": {"name": "2674. Split a Circular Linked List", "url": "https://leetcode.com/problems/split-a-circular-linked-list/", "difficulty": 1, "premium": true}
 }
