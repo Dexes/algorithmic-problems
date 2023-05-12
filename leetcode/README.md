@@ -1,4 +1,4 @@
-### easy 663 / 663 (100.00%) &nbsp;|&nbsp; medium 408 / 1422 (28.69%) &nbsp;|&nbsp; hard 18 / 592 (3.04%)
+### easy 663 / 663 (100.00%) &nbsp;|&nbsp; medium 409 / 1422 (28.76%) &nbsp;|&nbsp; hard 18 / 592 (3.04%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1738,6 +1738,8 @@
   &nbsp;|&nbsp; [Go](2100/2103/go/main.go)
 - [2108. Find First Palindromic String in the Array (easy)](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)
   &nbsp;|&nbsp; [Go](2100/2108/go/main.go)
+- [2109. Adding Spaces to a String (medium)](https://leetcode.com/problems/adding-spaces-to-a-string/)
+  &nbsp;|&nbsp; [Go](2100/2109/go/main.go)
 - [2114. Maximum Number of Words Found in Sentences (easy)](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)
   &nbsp;|&nbsp; [Go](2100/2114/go/main.go)
 - [2119. A Number After a Double Reversal (easy)](https://leetcode.com/problems/a-number-after-a-double-reversal/)
