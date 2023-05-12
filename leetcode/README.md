@@ -1,4 +1,4 @@
-### easy 663 / 663 (100.00%) &nbsp;|&nbsp; medium 409 / 1422 (28.76%) &nbsp;|&nbsp; hard 18 / 592 (3.04%)
+### easy 663 / 663 (100.00%) &nbsp;|&nbsp; medium 410 / 1422 (28.83%) &nbsp;|&nbsp; hard 18 / 592 (3.04%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1788,6 +1788,8 @@
   &nbsp;|&nbsp; [Go](2100/2180/go/main.go)
 - [2181. Merge Nodes in Between Zeros (medium)](https://leetcode.com/problems/merge-nodes-in-between-zeros/)
   &nbsp;|&nbsp; [Go](2100/2181/go/main.go)
+- [2182. Construct String With Repeat Limit (medium)](https://leetcode.com/problems/construct-string-with-repeat-limit/)
+  &nbsp;|&nbsp; [Go](2100/2182/go/main.go)
 - [2185. Counting Words With a Given Prefix (easy)](https://leetcode.com/problems/counting-words-with-a-given-prefix/)
   &nbsp;|&nbsp; [Go](2100/2185/go/main.go)
 - [2190. Most Frequent Number Following Key In an Array (easy)](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/)
