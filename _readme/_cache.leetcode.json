@@ -2675,5 +2675,9 @@
   "2674": {"name": "2674. Split a Circular Linked List", "url": "https://leetcode.com/problems/split-a-circular-linked-list/", "difficulty": 1, "premium": true},
   "2675": {"name": "2675. Array of Objects to Matrix", "url": "https://leetcode.com/problems/array-of-objects-to-matrix/", "difficulty": 1, "premium": false},
   "2676": {"name": "2676. Throttle", "url": "https://leetcode.com/problems/throttle/", "difficulty": 1, "premium": false},
-  "2677": {"name": "2677. Chunk Array", "url": "https://leetcode.com/problems/chunk-array/", "difficulty": 0, "premium": false}
+  "2677": {"name": "2677. Chunk Array", "url": "https://leetcode.com/problems/chunk-array/", "difficulty": 0, "premium": false},
+  "2678": {"name": "2678. Number of Senior Citizens", "url": "https://leetcode.com/problems/number-of-senior-citizens/", "difficulty": 0, "premium": false},
+  "2679": {"name": "2679. Sum in a Matrix", "url": "https://leetcode.com/problems/sum-in-a-matrix/", "difficulty": 1, "premium": false},
+  "2680": {"name": "2680. Maximum OR", "url": "https://leetcode.com/problems/maximum-or/", "difficulty": 1, "premium": false},
+  "2681": {"name": "2681. Power of Heroes", "url": "https://leetcode.com/problems/power-of-heroes/", "difficulty": 2, "premium": false}
 }
