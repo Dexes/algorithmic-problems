@@ -1,4 +1,4 @@
-### easy 664 / 664 (100.00%) &nbsp;|&nbsp; medium 410 / 1424 (28.79%) &nbsp;|&nbsp; hard 18 / 593 (3.04%)
+### easy 666 / 666 (100.00%) &nbsp;|&nbsp; medium 410 / 1429 (28.69%) &nbsp;|&nbsp; hard 18 / 593 (3.04%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2184,3 +2184,7 @@
   &nbsp;|&nbsp; [JS](2600/2677/js/main.js)
 - [2678. Number of Senior Citizens (easy)](https://leetcode.com/problems/number-of-senior-citizens/)
   &nbsp;|&nbsp; [Go](2600/2678/go/main.go)
+- [2682. Find the Losers of the Circular Game (easy)](https://leetcode.com/problems/find-the-losers-of-the-circular-game/)
+  &nbsp;|&nbsp; [Go](2600/2682/go/main.go)
+- [2687. Bikes Last Time Used (easy)](https://leetcode.com/problems/bikes-last-time-used/)
+  &nbsp;|&nbsp; [SQL](2600/2687/sql/main.sql)

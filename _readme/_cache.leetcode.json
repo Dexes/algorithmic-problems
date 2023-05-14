@@ -2679,5 +2679,12 @@
   "2678": {"name": "2678. Number of Senior Citizens", "url": "https://leetcode.com/problems/number-of-senior-citizens/", "difficulty": 0, "premium": false},
   "2679": {"name": "2679. Sum in a Matrix", "url": "https://leetcode.com/problems/sum-in-a-matrix/", "difficulty": 1, "premium": false},
   "2680": {"name": "2680. Maximum OR", "url": "https://leetcode.com/problems/maximum-or/", "difficulty": 1, "premium": false},
-  "2681": {"name": "2681. Power of Heroes", "url": "https://leetcode.com/problems/power-of-heroes/", "difficulty": 2, "premium": false}
+  "2681": {"name": "2681. Power of Heroes", "url": "https://leetcode.com/problems/power-of-heroes/", "difficulty": 2, "premium": false},
+  "2682": {"name": "2682. Find the Losers of the Circular Game", "url": "https://leetcode.com/problems/find-the-losers-of-the-circular-game/", "difficulty": 0, "premium": false},
+  "2683": {"name": "2683. Neighboring Bitwise XOR", "url": "https://leetcode.com/problems/neighboring-bitwise-xor/", "difficulty": 1, "premium": false},
+  "2684": {"name": "2684. Maximum Number of Moves in a Grid", "url": "https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/", "difficulty": 1, "premium": false},
+  "2685": {"name": "2685. Count the Number of Complete Components", "url": "https://leetcode.com/problems/count-the-number-of-complete-components/", "difficulty": 1, "premium": false},
+  "2686": {"name": "2686. Immediate Food Delivery III", "url": "https://leetcode.com/problems/immediate-food-delivery-iii/", "difficulty": 1, "premium": true},
+  "2687": {"name": "2687. Bikes Last Time Used", "url": "https://leetcode.com/problems/bikes-last-time-used/", "difficulty": 0, "premium": true},
+  "2688": {"name": "2688. Find Active Users", "url": "https://leetcode.com/problems/find-active-users/", "difficulty": 1, "premium": true}
 }
