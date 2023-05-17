@@ -1,4 +1,4 @@
-### easy 666 / 666 (100.00%) &nbsp;|&nbsp; medium 410 / 1429 (28.69%) &nbsp;|&nbsp; hard 18 / 593 (3.04%)
+### easy 666 / 666 (100.00%) &nbsp;|&nbsp; medium 411 / 1429 (28.76%) &nbsp;|&nbsp; hard 18 / 593 (3.04%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1608,6 +1608,8 @@
   &nbsp;|&nbsp; [Go](1800/1854/go/main.go)
 - [1859. Sorting the Sentence (easy)](https://leetcode.com/problems/sorting-the-sentence/)
   &nbsp;|&nbsp; [Go](1800/1859/go/main.go)
+- [1861. Rotating the Box (medium)](https://leetcode.com/problems/rotating-the-box/)
+  &nbsp;|&nbsp; [Go](1800/1861/go/main.go)
 - [1863. Sum of All Subset XOR Totals (easy)](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)
   &nbsp;|&nbsp; [Go](1800/1863/go/main.go)
 - [1869. Longer Contiguous Segments of Ones than Zeros (easy)](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/)
