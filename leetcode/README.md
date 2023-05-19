@@ -1,4 +1,4 @@
-### easy 666 / 666 (100.00%) &nbsp;|&nbsp; medium 411 / 1429 (28.76%) &nbsp;|&nbsp; hard 18 / 593 (3.04%)
+### easy 669 / 669 (100.00%) &nbsp;|&nbsp; medium 411 / 1432 (28.70%) &nbsp;|&nbsp; hard 18 / 594 (3.03%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2190,3 +2190,9 @@
   &nbsp;|&nbsp; [Go](2600/2682/go/main.go)
 - [2687. Bikes Last Time Used (easy)](https://leetcode.com/problems/bikes-last-time-used/)
   &nbsp;|&nbsp; [SQL](2600/2687/sql/main.sql)
+- [2689. Extract Kth Character From The Rope Tree (easy)](https://leetcode.com/problems/extract-kth-character-from-the-rope-tree/)
+  &nbsp;|&nbsp; [Go](2600/2689/go/main.go)
+- [2690. Infinite Method Object (easy)](https://leetcode.com/problems/infinite-method-object/)
+  &nbsp;|&nbsp; [JS](2600/2690/js/main.js)
+- [2695. Array Wrapper (easy)](https://leetcode.com/problems/array-wrapper/)
+  &nbsp;|&nbsp; [JS](2600/2695/js/main.js)
