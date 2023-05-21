@@ -2693,5 +2693,9 @@
   "2692": {"name": "2692. Make Object Immutable", "url": "https://leetcode.com/problems/make-object-immutable/", "difficulty": 1, "premium": true},
   "2693": {"name": "2693. Call Function with Custom Context", "url": "https://leetcode.com/problems/call-function-with-custom-context/", "difficulty": 1, "premium": false},
   "2694": {"name": "2694. Event Emitter", "url": "https://leetcode.com/problems/event-emitter/", "difficulty": 1, "premium": false},
-  "2695": {"name": "2695. Array Wrapper", "url": "https://leetcode.com/problems/array-wrapper/", "difficulty": 0, "premium": false}
+  "2695": {"name": "2695. Array Wrapper", "url": "https://leetcode.com/problems/array-wrapper/", "difficulty": 0, "premium": false},
+  "2696": {"name": "2696. Minimum String Length After Removing Substrings", "url": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings/", "difficulty": 0, "premium": false},
+  "2697": {"name": "2697. Lexicographically Smallest Palindrome", "url": "https://leetcode.com/problems/lexicographically-smallest-palindrome/", "difficulty": 0, "premium": false},
+  "2698": {"name": "2698. Find the Punishment Number of an Integer", "url": "https://leetcode.com/problems/find-the-punishment-number-of-an-integer/", "difficulty": 1, "premium": false},
+  "2699": {"name": "2699. Modify Graph Edge Weights", "url": "https://leetcode.com/problems/modify-graph-edge-weights/", "difficulty": 2, "premium": false}
 }

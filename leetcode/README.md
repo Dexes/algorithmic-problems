@@ -1,4 +1,4 @@
-### easy 669 / 669 (100.00%) &nbsp;|&nbsp; medium 411 / 1432 (28.70%) &nbsp;|&nbsp; hard 18 / 594 (3.03%)
+### easy 671 / 671 (100.00%) &nbsp;|&nbsp; medium 411 / 1433 (28.68%) &nbsp;|&nbsp; hard 18 / 595 (3.03%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2196,3 +2196,7 @@
   &nbsp;|&nbsp; [JS](2600/2690/js/main.js)
 - [2695. Array Wrapper (easy)](https://leetcode.com/problems/array-wrapper/)
   &nbsp;|&nbsp; [JS](2600/2695/js/main.js)
+- [2696. Minimum String Length After Removing Substrings (easy)](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/)
+  &nbsp;|&nbsp; [Go](2600/2696/go/main.go)
+- [2697. Lexicographically Smallest Palindrome (easy)](https://leetcode.com/problems/lexicographically-smallest-palindrome/)
+  &nbsp;|&nbsp; [Go](2600/2697/go/main.go)
