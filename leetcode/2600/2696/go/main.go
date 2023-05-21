@@ -1,9 +1,5 @@
 package main
 
-func main() {
-	minLength("ABFCACDB")
-}
-
 func minLength(s string) int {
 	stack, stackIndex := make([]byte, len(s)), 0
 	stack[stackIndex] = s[0]
