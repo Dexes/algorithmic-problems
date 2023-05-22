@@ -1,4 +1,4 @@
-### easy 671 / 671 (100.00%) &nbsp;|&nbsp; medium 411 / 1433 (28.68%) &nbsp;|&nbsp; hard 18 / 595 (3.03%)
+### easy 671 / 671 (100.00%) &nbsp;|&nbsp; medium 412 / 1433 (28.75%) &nbsp;|&nbsp; hard 18 / 595 (3.03%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1826,6 +1826,8 @@
   &nbsp;|&nbsp; [SQL](2200/2230/sql/main.sql)
 - [2231. Largest Number After Digit Swaps by Parity (easy)](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/)
   &nbsp;|&nbsp; [Go](2200/2231/go/main.go)
+- [2233. Maximum Product After K Increments (medium)](https://leetcode.com/problems/maximum-product-after-k-increments/)
+  &nbsp;|&nbsp; [Go](2200/2233/go/main.go)
 - [2235. Add Two Integers (easy)](https://leetcode.com/problems/add-two-integers/)
   &nbsp;|&nbsp; [Go](2200/2235/go/main.go)
 - [2236. Root Equals Sum of Children (easy)](https://leetcode.com/problems/root-equals-sum-of-children/)
