@@ -2697,5 +2697,15 @@
   "2696": {"name": "2696. Minimum String Length After Removing Substrings", "url": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings/", "difficulty": 0, "premium": false},
   "2697": {"name": "2697. Lexicographically Smallest Palindrome", "url": "https://leetcode.com/problems/lexicographically-smallest-palindrome/", "difficulty": 0, "premium": false},
   "2698": {"name": "2698. Find the Punishment Number of an Integer", "url": "https://leetcode.com/problems/find-the-punishment-number-of-an-integer/", "difficulty": 1, "premium": false},
-  "2699": {"name": "2699. Modify Graph Edge Weights", "url": "https://leetcode.com/problems/modify-graph-edge-weights/", "difficulty": 2, "premium": false}
+  "2699": {"name": "2699. Modify Graph Edge Weights", "url": "https://leetcode.com/problems/modify-graph-edge-weights/", "difficulty": 2, "premium": false},
+  "2700": {"name": "2700. Differences Between Two Objects", "url": "https://leetcode.com/problems/differences-between-two-objects/", "difficulty": 1, "premium": false},
+  "2701": {"name": "2701. Consecutive Transactions with Increasing Amounts", "url": "https://leetcode.com/problems/consecutive-transactions-with-increasing-amounts/", "difficulty": 2, "premium": true},
+  "2702": {"name": "2702. Minimum Operations to Make Numbers Non-positive", "url": "https://leetcode.com/problems/minimum-operations-to-make-numbers-non-positive/", "difficulty": 2, "premium": true},
+  "2703": {"name": "2703. Return Length of Arguments Passed", "url": "https://leetcode.com/problems/return-length-of-arguments-passed/", "difficulty": 0, "premium": false},
+  "2704": {"name": "2704. To Be Or Not To Be", "url": "https://leetcode.com/problems/to-be-or-not-to-be/", "difficulty": 0, "premium": false},
+  "2705": {"name": "2705. Compact Object", "url": "https://leetcode.com/problems/compact-object/", "difficulty": 1, "premium": false},
+  "2706": {"name": "2706. Buy Two Chocolates", "url": "https://leetcode.com/problems/buy-two-chocolates/", "difficulty": 0, "premium": false},
+  "2707": {"name": "2707. Extra Characters in a String", "url": "https://leetcode.com/problems/extra-characters-in-a-string/", "difficulty": 1, "premium": false},
+  "2708": {"name": "2708. Maximum Strength of a Group", "url": "https://leetcode.com/problems/maximum-strength-of-a-group/", "difficulty": 1, "premium": false},
+  "2709": {"name": "2709. Greatest Common Divisor Traversal", "url": "https://leetcode.com/problems/greatest-common-divisor-traversal/", "difficulty": 2, "premium": false}
 }

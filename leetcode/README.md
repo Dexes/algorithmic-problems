@@ -1,4 +1,4 @@
-### easy 671 / 671 (100.00%) &nbsp;|&nbsp; medium 412 / 1433 (28.75%) &nbsp;|&nbsp; hard 18 / 595 (3.03%)
+### easy 674 / 674 (100.00%) &nbsp;|&nbsp; medium 413 / 1437 (28.74%) &nbsp;|&nbsp; hard 18 / 598 (3.01%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2202,3 +2202,11 @@
   &nbsp;|&nbsp; [Go](2600/2696/go/main.go)
 - [2697. Lexicographically Smallest Palindrome (easy)](https://leetcode.com/problems/lexicographically-smallest-palindrome/)
   &nbsp;|&nbsp; [Go](2600/2697/go/main.go)
+- [2703. Return Length of Arguments Passed (easy)](https://leetcode.com/problems/return-length-of-arguments-passed/)
+  &nbsp;|&nbsp; [JS](2700/2703/js/main.js)
+- [2704. To Be Or Not To Be (easy)](https://leetcode.com/problems/to-be-or-not-to-be/)
+  &nbsp;|&nbsp; [JS](2700/2704/js/main.js)
+- [2706. Buy Two Chocolates (easy)](https://leetcode.com/problems/buy-two-chocolates/)
+  &nbsp;|&nbsp; [Go](2700/2706/go/main.go)
+- [2708. Maximum Strength of a Group (medium)](https://leetcode.com/problems/maximum-strength-of-a-group/)
+  &nbsp;|&nbsp; [Go](2700/2708/go/main.go)
