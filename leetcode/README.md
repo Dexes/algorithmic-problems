@@ -1,4 +1,4 @@
-### easy 674 / 674 (100.00%) &nbsp;|&nbsp; medium 413 / 1437 (28.74%) &nbsp;|&nbsp; hard 18 / 598 (3.01%)
+### easy 675 / 675 (100.00%) &nbsp;|&nbsp; medium 413 / 1439 (28.70%) &nbsp;|&nbsp; hard 18 / 599 (3.01%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2210,3 +2210,5 @@
   &nbsp;|&nbsp; [Go](2700/2706/go/main.go)
 - [2708. Maximum Strength of a Group (medium)](https://leetcode.com/problems/maximum-strength-of-a-group/)
   &nbsp;|&nbsp; [Go](2700/2708/go/main.go)
+- [2710. Remove Trailing Zeros From a String (easy)](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/)
+  &nbsp;|&nbsp; [Go](2700/2710/go/main.go)

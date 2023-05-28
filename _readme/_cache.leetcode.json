@@ -2707,5 +2707,9 @@
   "2706": {"name": "2706. Buy Two Chocolates", "url": "https://leetcode.com/problems/buy-two-chocolates/", "difficulty": 0, "premium": false},
   "2707": {"name": "2707. Extra Characters in a String", "url": "https://leetcode.com/problems/extra-characters-in-a-string/", "difficulty": 1, "premium": false},
   "2708": {"name": "2708. Maximum Strength of a Group", "url": "https://leetcode.com/problems/maximum-strength-of-a-group/", "difficulty": 1, "premium": false},
-  "2709": {"name": "2709. Greatest Common Divisor Traversal", "url": "https://leetcode.com/problems/greatest-common-divisor-traversal/", "difficulty": 2, "premium": false}
+  "2709": {"name": "2709. Greatest Common Divisor Traversal", "url": "https://leetcode.com/problems/greatest-common-divisor-traversal/", "difficulty": 2, "premium": false},
+  "2710": {"name": "2710. Remove Trailing Zeros From a String", "url": "https://leetcode.com/problems/remove-trailing-zeros-from-a-string/", "difficulty": 0, "premium": false},
+  "2711": {"name": "2711. Difference of Number of Distinct Values on Diagonals", "url": "https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/", "difficulty": 1, "premium": false},
+  "2712": {"name": "2712. Minimum Cost to Make All Characters Equal", "url": "https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/", "difficulty": 1, "premium": false},
+  "2713": {"name": "2713. Maximum Strictly Increasing Cells in a Matrix", "url": "https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/", "difficulty": 2, "premium": false}
 }
