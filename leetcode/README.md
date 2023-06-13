@@ -1,4 +1,4 @@
-### easy 680 / 686 (99.13%) &nbsp;|&nbsp; medium 413 / 1446 (28.56%) &nbsp;|&nbsp; hard 18 / 604 (2.98%)
+### easy 680 / 686 (99.13%) &nbsp;|&nbsp; medium 414 / 1446 (28.63%) &nbsp;|&nbsp; hard 18 / 604 (2.98%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1910,6 +1910,8 @@
   &nbsp;|&nbsp; [Go](2300/2349/go/main.go)
 - [2351. First Letter to Appear Twice (easy)](https://leetcode.com/problems/first-letter-to-appear-twice/)
   &nbsp;|&nbsp; [Go](2300/2351/go/main.go)
+- [2352. Equal Row and Column Pairs (medium)](https://leetcode.com/problems/equal-row-and-column-pairs/)
+  &nbsp;|&nbsp; [Go](2300/2352/go/main.go)
 - [2353. Design a Food Rating System (medium)](https://leetcode.com/problems/design-a-food-rating-system/)
   &nbsp;|&nbsp; [Go](2300/2353/go/main.go)
 - [2356. Number of Unique Subjects Taught by Each Teacher (easy)](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/)
