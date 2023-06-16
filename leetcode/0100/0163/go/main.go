@@ -1,36 +1,24 @@
 package main
 
-import (
-	"strconv"
-)
-
-func findMissingRanges(nums []int, lower int, upper int) []string {
+func findMissingRanges(nums []int, lower, upper int) [][]int {
 	if len(nums) == 0 {
-		return []string{makeRange(lower-1, upper+1)}
+		return [][]int{{lower, upper}}
 	}
 
-	result := make([]string, 0, len(nums)+1)
+	result := make([][]int, 0, len(nums)+1)
 	if nums[0]-lower > 0 {
-		result = append(result, makeRange(lower-1, nums[0]))
+		result = append(result, []int{lower, nums[0] - 1})
 	}
 
 	for i := 1; i < len(nums); i++ {
 		if nums[i]-nums[i-1] > 1 {
-			result = append(result, makeRange(nums[i-1], nums[i]))
+			result = append(result, []int{nums[i-1] + 1, nums[i] - 1})
 		}
 	}
 
 	if i := len(nums) - 1; upper-nums[i] > 0 {
-		result = append(result, makeRange(nums[i], upper+1))
+		result = append(result, []int{nums[i] + 1, upper})
 	}
 
 	return result
-}
-
-func makeRange(a, b int) string {
-	if b-a == 2 {
-		return strconv.Itoa(a + 1)
-	}
-
-	return strconv.Itoa(a+1) + "->" + strconv.Itoa(b-1)
 }

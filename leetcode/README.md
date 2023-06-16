@@ -1,4 +1,4 @@
-### easy 680 / 686 (99.13%) &nbsp;|&nbsp; medium 414 / 1446 (28.63%) &nbsp;|&nbsp; hard 18 / 604 (2.98%)
+### easy 680 / 686 (99.13%) &nbsp;|&nbsp; medium 415 / 1446 (28.70%) &nbsp;|&nbsp; hard 18 / 604 (2.98%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1868,6 +1868,8 @@
   &nbsp;|&nbsp; [Go](2200/2284/go/main.go)
 - [2287. Rearrange Characters to Make Target String (easy)](https://leetcode.com/problems/rearrange-characters-to-make-target-string/)
   &nbsp;|&nbsp; [Go](2200/2287/go/main.go)
+- [2288. Apply Discount to Prices (medium)](https://leetcode.com/problems/apply-discount-to-prices/)
+  &nbsp;|&nbsp; [Go](2200/2288/go/main.go)
 - [2293. Min Max Game (easy)](https://leetcode.com/problems/min-max-game/)
   &nbsp;|&nbsp; [Go](2200/2293/go/main.go)
 - [2299. Strong Password Checker II (easy)](https://leetcode.com/problems/strong-password-checker-ii/)
