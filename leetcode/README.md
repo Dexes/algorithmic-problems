@@ -1,4 +1,4 @@
-### easy 680 / 686 (99.13%) &nbsp;|&nbsp; medium 415 / 1446 (28.70%) &nbsp;|&nbsp; hard 18 / 604 (2.98%)
+### easy 680 / 686 (99.13%) &nbsp;|&nbsp; medium 416 / 1446 (28.77%) &nbsp;|&nbsp; hard 18 / 604 (2.98%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1130,6 +1130,8 @@
   &nbsp;|&nbsp; [SQL](1200/1211/sql/main.sql)
 - [1213. Intersection of Three Sorted Arrays (easy)](https://leetcode.com/problems/intersection-of-three-sorted-arrays/)
   &nbsp;|&nbsp; [Go](1200/1213/go/main.go)
+- [1214. Two Sum BSTs (medium)](https://leetcode.com/problems/two-sum-bsts/)
+  &nbsp;|&nbsp; [Go](1200/1214/go/main.go)
 - [1217. Minimum Cost to Move Chips to The Same Position (easy)](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
   &nbsp;|&nbsp; [Go](1200/1217/go/main.go)
 - [1220. Count Vowels Permutation (hard)](https://leetcode.com/problems/count-vowels-permutation/)
