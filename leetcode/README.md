@@ -1,4 +1,4 @@
-### easy 688 / 691 (99.57%) &nbsp;|&nbsp; medium 417 / 1461 (28.54%) &nbsp;|&nbsp; hard 18 / 611 (2.95%)
+### easy 688 / 691 (99.57%) &nbsp;|&nbsp; medium 418 / 1461 (28.61%) &nbsp;|&nbsp; hard 18 / 611 (2.95%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1368,6 +1368,8 @@
   &nbsp;|&nbsp; [SQL](1500/1511/sql/main.sql)
 - [1512. Number of Good Pairs (easy)](https://leetcode.com/problems/number-of-good-pairs/)
   &nbsp;|&nbsp; [Go](1500/1512/go/main.go)
+- [1514. Path with Maximum Probability (medium)](https://leetcode.com/problems/path-with-maximum-probability/)
+  &nbsp;|&nbsp; [Go](1500/1514/go/main.go)
 - [1517. Find Users With Valid E-Mails (easy)](https://leetcode.com/problems/find-users-with-valid-e-mails/)
   &nbsp;|&nbsp; [SQL](1500/1517/sql/main.sql)
 - [1518. Water Bottles (easy)](https://leetcode.com/problems/water-bottles/)
