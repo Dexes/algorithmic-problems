@@ -2758,8 +2758,17 @@
   "2757": {"name": "2757. Generate Circular Array Values", "url": "https://leetcode.com/problems/generate-circular-array-values/", "difficulty": 1, "premium": true},
   "2758": {"name": "2758. Next Day", "url": "https://leetcode.com/problems/next-day/", "difficulty": 0, "premium": true},
   "2759": {"name": "2759. Convert JSON String to Object", "url": "https://leetcode.com/problems/convert-json-string-to-object/", "difficulty": 2, "premium": true},
-  "6894": {"name": "6894. Sum of Imbalance Numbers of All Subarrays", "url": "https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays/", "difficulty": 2, "premium": false},
-  "6909": {"name": "6909. Longest Even Odd Subarray With Threshold", "url": "https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/", "difficulty": 0, "premium": false},
-  "6911": {"name": "6911. Continuous Subarrays", "url": "https://leetcode.com/problems/continuous-subarrays/", "difficulty": 1, "premium": false},
-  "6916": {"name": "6916. Prime Pairs With Target Sum", "url": "https://leetcode.com/problems/prime-pairs-with-target-sum/", "difficulty": 1, "premium": false}
+  "2760": {"name": "2760. Longest Even Odd Subarray With Threshold", "url": "https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/", "difficulty": 0, "premium": false},
+  "2761": {"name": "2761. Prime Pairs With Target Sum", "url": "https://leetcode.com/problems/prime-pairs-with-target-sum/", "difficulty": 1, "premium": false},
+  "2762": {"name": "2762. Continuous Subarrays", "url": "https://leetcode.com/problems/continuous-subarrays/", "difficulty": 1, "premium": false},
+  "2763": {"name": "2763. Sum of Imbalance Numbers of All Subarrays", "url": "https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays/", "difficulty": 2, "premium": false},
+  "2764": {"name": "2764. is Array a Preorder of Some ‌Binary Tree", "url": "https://leetcode.com/problems/is-array-a-preorder-of-some-binary-tree/", "difficulty": 1, "premium": true},
+  "2765": {"name": "2765. Longest Alternating Subarray", "url": "https://leetcode.com/problems/longest-alternating-subarray/", "difficulty": 0, "premium": false},
+  "2766": {"name": "2766. Relocate Marbles", "url": "https://leetcode.com/problems/relocate-marbles/", "difficulty": 1, "premium": false},
+  "2767": {"name": "2767. Partition String Into Minimum Beautiful Substrings", "url": "https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/", "difficulty": 1, "premium": false},
+  "2768": {"name": "2768. Number of Black Blocks", "url": "https://leetcode.com/problems/number-of-black-blocks/", "difficulty": 1, "premium": false},
+  "2769": {"name": "2769. Find the Maximum Achievable Number", "url": "https://leetcode.com/problems/find-the-maximum-achievable-number/", "difficulty": 0, "premium": false},
+  "2770": {"name": "2770. Maximum Number of Jumps to Reach the Last Index", "url": "https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/", "difficulty": 1, "premium": false},
+  "2771": {"name": "2771. Longest Non-decreasing Subarray From Two Arrays", "url": "https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/", "difficulty": 1, "premium": false},
+  "2772": {"name": "2772. Apply Operations to Make All Array Elements Equal to Zero", "url": "https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/", "difficulty": 1, "premium": false}
 }

@@ -1,4 +1,4 @@
-### easy 688 / 691 (99.57%) &nbsp;|&nbsp; medium 418 / 1461 (28.61%) &nbsp;|&nbsp; hard 18 / 611 (2.95%)
+### easy 689 / 693 (99.42%) &nbsp;|&nbsp; medium 418 / 1468 (28.47%) &nbsp;|&nbsp; hard 18 / 611 (2.95%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2246,3 +2246,7 @@
   &nbsp;|&nbsp; [Go](2700/2744/go/main.go)
 - [2748. Number of Beautiful Pairs (easy)](https://leetcode.com/problems/number-of-beautiful-pairs/)
   &nbsp;|&nbsp; [Go](2700/2748/go/main.go)
+- [2765. Longest Alternating Subarray (easy)](https://leetcode.com/problems/longest-alternating-subarray/)
+  &nbsp;|&nbsp; [Go](2700/2765/go/main.go)
+- [2769. Find the Maximum Achievable Number (easy)](https://leetcode.com/problems/find-the-maximum-achievable-number/)
+  &nbsp;|&nbsp; [Go](2700/2769/go/main.go)
