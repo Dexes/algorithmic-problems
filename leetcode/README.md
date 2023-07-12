@@ -1,4 +1,4 @@
-### easy 689 / 693 (99.42%) &nbsp;|&nbsp; medium 418 / 1468 (28.47%) &nbsp;|&nbsp; hard 18 / 611 (2.95%)
+### easy 689 / 693 (99.42%) &nbsp;|&nbsp; medium 419 / 1468 (28.54%) &nbsp;|&nbsp; hard 18 / 611 (2.95%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -436,6 +436,8 @@
   &nbsp;|&nbsp; [Go](0300/0338/go/main.go)
 - [339. Nested List Weight Sum (medium)](https://leetcode.com/problems/nested-list-weight-sum/)
   &nbsp;|&nbsp; [Go](0300/0339/go/main.go)
+- [340. Longest Substring with At Most K Distinct Characters (medium)](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
+  &nbsp;|&nbsp; [Go](0300/0340/go/main.go)
 - [341. Flatten Nested List Iterator (medium)](https://leetcode.com/problems/flatten-nested-list-iterator/)
   &nbsp;|&nbsp; [Go](0300/0341/go/main.go)
 - [342. Power of Four (easy)](https://leetcode.com/problems/power-of-four/)
