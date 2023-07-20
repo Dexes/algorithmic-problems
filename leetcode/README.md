@@ -1,4 +1,4 @@
-### easy 689 / 693 (99.42%) &nbsp;|&nbsp; medium 419 / 1468 (28.54%) &nbsp;|&nbsp; hard 18 / 611 (2.95%)
+### easy 690 / 695 (99.28%) &nbsp;|&nbsp; medium 420 / 1475 (28.47%) &nbsp;|&nbsp; hard 18 / 612 (2.94%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -790,6 +790,8 @@
   &nbsp;|&nbsp; [Go](0700/0733/go/main.go)
 - [734. Sentence Similarity (easy)](https://leetcode.com/problems/sentence-similarity/)
   &nbsp;|&nbsp; [Go](0700/0734/go/main.go)
+- [735. Asteroid Collision (medium)](https://leetcode.com/problems/asteroid-collision/)
+  &nbsp;|&nbsp; [Go](0700/0735/go/main.go)
 - [737. Sentence Similarity II (medium)](https://leetcode.com/problems/sentence-similarity-ii/)
   &nbsp;|&nbsp; [Go](0700/0737/go/main.go)
 - [738. Monotone Increasing Digits (medium)](https://leetcode.com/problems/monotone-increasing-digits/)
@@ -2252,3 +2254,5 @@
   &nbsp;|&nbsp; [Go](2700/2765/go/main.go)
 - [2769. Find the Maximum Achievable Number (easy)](https://leetcode.com/problems/find-the-maximum-achievable-number/)
   &nbsp;|&nbsp; [Go](2700/2769/go/main.go)
+- [2778. Sum of Squares of Special Elements (easy)](https://leetcode.com/problems/sum-of-squares-of-special-elements/)
+  &nbsp;|&nbsp; [Go](2700/2778/go/main.go)

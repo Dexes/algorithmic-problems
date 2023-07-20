@@ -2770,5 +2770,15 @@
   "2769": {"name": "2769. Find the Maximum Achievable Number", "url": "https://leetcode.com/problems/find-the-maximum-achievable-number/", "difficulty": 0, "premium": false},
   "2770": {"name": "2770. Maximum Number of Jumps to Reach the Last Index", "url": "https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/", "difficulty": 1, "premium": false},
   "2771": {"name": "2771. Longest Non-decreasing Subarray From Two Arrays", "url": "https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/", "difficulty": 1, "premium": false},
-  "2772": {"name": "2772. Apply Operations to Make All Array Elements Equal to Zero", "url": "https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/", "difficulty": 1, "premium": false}
+  "2772": {"name": "2772. Apply Operations to Make All Array Elements Equal to Zero", "url": "https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/", "difficulty": 1, "premium": false},
+  "2773": {"name": "2773. Height of Special Binary Tree", "url": "https://leetcode.com/problems/height-of-special-binary-tree/", "difficulty": 1, "premium": true},
+  "2774": {"name": "2774. Array Upper Bound", "url": "https://leetcode.com/problems/array-upper-bound/", "difficulty": 0, "premium": true},
+  "2775": {"name": "2775. Undefined to Null", "url": "https://leetcode.com/problems/undefined-to-null/", "difficulty": 1, "premium": true},
+  "2776": {"name": "2776. Convert Callback Based Function to Promise Based Function", "url": "https://leetcode.com/problems/convert-callback-based-function-to-promise-based-function/", "difficulty": 1, "premium": true},
+  "2777": {"name": "2777. Date Range Generator", "url": "https://leetcode.com/problems/date-range-generator/", "difficulty": 1, "premium": true},
+  "2778": {"name": "2778. Sum of Squares of Special Elements", "url": "https://leetcode.com/problems/sum-of-squares-of-special-elements/", "difficulty": 0, "premium": false},
+  "2779": {"name": "2779. Maximum Beauty of an Array After Applying Operation", "url": "https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/", "difficulty": 1, "premium": false},
+  "2780": {"name": "2780. Minimum Index of a Valid Split", "url": "https://leetcode.com/problems/minimum-index-of-a-valid-split/", "difficulty": 1, "premium": false},
+  "2781": {"name": "2781. Length of the Longest Valid Substring", "url": "https://leetcode.com/problems/length-of-the-longest-valid-substring/", "difficulty": 2, "premium": false},
+  "2782": {"name": "2782. Number of Unique Categories", "url": "https://leetcode.com/problems/number-of-unique-categories/", "difficulty": 1, "premium": true}
 }
