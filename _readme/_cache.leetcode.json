@@ -2780,5 +2780,14 @@
   "2779": {"name": "2779. Maximum Beauty of an Array After Applying Operation", "url": "https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/", "difficulty": 1, "premium": false},
   "2780": {"name": "2780. Minimum Index of a Valid Split", "url": "https://leetcode.com/problems/minimum-index-of-a-valid-split/", "difficulty": 1, "premium": false},
   "2781": {"name": "2781. Length of the Longest Valid Substring", "url": "https://leetcode.com/problems/length-of-the-longest-valid-substring/", "difficulty": 2, "premium": false},
-  "2782": {"name": "2782. Number of Unique Categories", "url": "https://leetcode.com/problems/number-of-unique-categories/", "difficulty": 1, "premium": true}
+  "2782": {"name": "2782. Number of Unique Categories", "url": "https://leetcode.com/problems/number-of-unique-categories/", "difficulty": 1, "premium": true},
+  "2783": {"name": "2783. Flight Occupancy and Waitlist Analysis", "url": "https://leetcode.com/problems/flight-occupancy-and-waitlist-analysis/", "difficulty": 1, "premium": true},
+  "2784": {"name": "2784. Check if Array is Good", "url": "https://leetcode.com/problems/check-if-array-is-good/", "difficulty": 0, "premium": false},
+  "2785": {"name": "2785. Sort Vowels in a String", "url": "https://leetcode.com/problems/sort-vowels-in-a-string/", "difficulty": 1, "premium": false},
+  "2786": {"name": "2786. Visit Array Positions to Maximize Score", "url": "https://leetcode.com/problems/visit-array-positions-to-maximize-score/", "difficulty": 1, "premium": false},
+  "2787": {"name": "2787. Ways to Express an Integer as Sum of Powers", "url": "https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/", "difficulty": 1, "premium": false},
+  "2788": {"name": "2788. Split Strings by Separator", "url": "https://leetcode.com/problems/split-strings-by-separator/", "difficulty": 0, "premium": false},
+  "2789": {"name": "2789. Largest Element in an Array after Merge Operations", "url": "https://leetcode.com/problems/largest-element-in-an-array-after-merge-operations/", "difficulty": 1, "premium": false},
+  "2790": {"name": "2790. Maximum Number of Groups With Increasing Length", "url": "https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/", "difficulty": 2, "premium": false},
+  "2791": {"name": "2791. Count Paths That Can Form a Palindrome in a Tree", "url": "https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/", "difficulty": 2, "premium": false}
 }

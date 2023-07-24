@@ -1,4 +1,4 @@
-### easy 690 / 695 (99.28%) &nbsp;|&nbsp; medium 420 / 1475 (28.47%) &nbsp;|&nbsp; hard 18 / 612 (2.94%)
+### easy 692 / 697 (99.28%) &nbsp;|&nbsp; medium 421 / 1480 (28.45%) &nbsp;|&nbsp; hard 18 / 614 (2.93%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -536,6 +536,8 @@
   &nbsp;|&nbsp; [Go](0400/0434/go/main.go)
 - [438. Find All Anagrams in a String (medium)](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
   &nbsp;|&nbsp; [Go](0400/0438/go/main.go)
+- [439. Ternary Expression Parser (medium)](https://leetcode.com/problems/ternary-expression-parser/)
+  &nbsp;|&nbsp; [Go](0400/0439/go/main.go)
 - [441. Arranging Coins (easy)](https://leetcode.com/problems/arranging-coins/)
   &nbsp;|&nbsp; [Go](0400/0441/go/main.go)
 - [442. Find All Duplicates in an Array (medium)](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
@@ -2256,3 +2258,7 @@
   &nbsp;|&nbsp; [Go](2700/2769/go/main.go)
 - [2778. Sum of Squares of Special Elements (easy)](https://leetcode.com/problems/sum-of-squares-of-special-elements/)
   &nbsp;|&nbsp; [Go](2700/2778/go/main.go)
+- [2784. Check if Array is Good (easy)](https://leetcode.com/problems/check-if-array-is-good/)
+  &nbsp;|&nbsp; [Go](2700/2784/go/main.go)
+- [2788. Split Strings by Separator (easy)](https://leetcode.com/problems/split-strings-by-separator/)
+  &nbsp;|&nbsp; [Go](2700/2788/go/main.go)
