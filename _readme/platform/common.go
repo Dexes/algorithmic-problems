@@ -2,6 +2,10 @@ package platform
 
 import "strings"
 
+type Generator interface {
+	GenerateReadme()
+}
+
 func getLanguageTitle(lang string) string {
 	switch lang {
 	case "cpp":

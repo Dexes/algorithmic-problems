@@ -17,7 +17,7 @@ type timusTask struct {
 	solutions  []string
 }
 
-func NewTimus() *timus {
+func NewTimus() Generator {
 	result := &timus{}
 
 	file, _ := os.ReadFile("./_cache.timus.json")

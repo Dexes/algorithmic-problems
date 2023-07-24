@@ -26,12 +26,12 @@ type taskInfo struct {
 	Premium    bool   `json:"premium"`
 }
 
-type leetCodeTask struct {
+type leetcodeTask struct {
 	id        string
 	solutions []string
 }
 
-func NewLeetcode() *leetcode {
+func NewLeetcode() Generator {
 	result := &leetcode{volumes: make(map[string]struct{})}
 
 	file, _ := os.ReadFile("./_cache.leetcode.json")
@@ -48,7 +48,7 @@ func (l *leetcode) GenerateReadme() {
 	l.generateReadme(tasks)
 }
 
-func (l *leetcode) generateReadme(data map[string][]*leetCodeTask) {
+func (l *leetcode) generateReadme(data map[string][]*leetcodeTask) {
 	readmeContent := strings.Builder{}
 
 	for i := 0; ; i += 100 {
@@ -72,7 +72,7 @@ func (l *leetcode) generateReadme(data map[string][]*leetCodeTask) {
 	_ = file.Close()
 }
 
-func (l *leetcode) generateTaskInfo(task *leetCodeTask) string {
+func (l *leetcode) generateTaskInfo(task *leetcodeTask) string {
 	info := l.taskInfo[task.id]
 	result := "- [" + info.Name + " (" + l.difficulty(info.Difficulty) + ")](" + info.Url + ")\n"
 	for _, solution := range task.solutions {
@@ -84,8 +84,8 @@ func (l *leetcode) generateTaskInfo(task *leetCodeTask) string {
 	return result[:len(result)-1]
 }
 
-func (l *leetcode) loadTasks() map[string][]*leetCodeTask {
-	result := make(map[string][]*leetCodeTask)
+func (l *leetcode) loadTasks() map[string][]*leetcodeTask {
+	result := make(map[string][]*leetcodeTask)
 	volumes, _ := os.ReadDir("../leetcode")
 	for _, volume := range volumes {
 		if !volume.IsDir() {
@@ -93,7 +93,7 @@ func (l *leetcode) loadTasks() map[string][]*leetCodeTask {
 		}
 
 		l.volumes[volume.Name()] = struct{}{}
-		result[volume.Name()] = make([]*leetCodeTask, 0, 100)
+		result[volume.Name()] = make([]*leetcodeTask, 0, 100)
 
 		tasks, _ := os.ReadDir("../leetcode/" + volume.Name())
 		for _, task := range tasks {
@@ -103,7 +103,7 @@ func (l *leetcode) loadTasks() map[string][]*leetCodeTask {
 				solutions = append(solutions, volume.Name()+"/"+task.Name()+"/"+language.Name())
 			}
 
-			result[volume.Name()] = append(result[volume.Name()], &leetCodeTask{
+			result[volume.Name()] = append(result[volume.Name()], &leetcodeTask{
 				id:        task.Name(),
 				solutions: solutions,
 			})
@@ -113,7 +113,7 @@ func (l *leetcode) loadTasks() map[string][]*leetCodeTask {
 	return result
 }
 
-func (l *leetcode) countSolvedTasks(data map[string][]*leetCodeTask) {
+func (l *leetcode) countSolvedTasks(data map[string][]*leetcodeTask) {
 	for _, tasks := range data {
 		for i := 0; i < len(tasks); i++ {
 			if info, ok := l.taskInfo[tasks[i].id]; ok {
