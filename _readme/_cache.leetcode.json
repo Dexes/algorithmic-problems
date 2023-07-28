@@ -2789,5 +2789,11 @@
   "2788": {"name": "2788. Split Strings by Separator", "url": "https://leetcode.com/problems/split-strings-by-separator/", "difficulty": 0, "premium": false},
   "2789": {"name": "2789. Largest Element in an Array after Merge Operations", "url": "https://leetcode.com/problems/largest-element-in-an-array-after-merge-operations/", "difficulty": 1, "premium": false},
   "2790": {"name": "2790. Maximum Number of Groups With Increasing Length", "url": "https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/", "difficulty": 2, "premium": false},
-  "2791": {"name": "2791. Count Paths That Can Form a Palindrome in a Tree", "url": "https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/", "difficulty": 2, "premium": false}
+  "2791": {"name": "2791. Count Paths That Can Form a Palindrome in a Tree", "url": "https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/", "difficulty": 2, "premium": false},
+  "2792": {"name": "2792. Count Nodes That Are Great Enough", "url": "https://leetcode.com/problems/count-nodes-that-are-great-enough/", "difficulty": 1, "premium": true},
+  "2793": {"name": "2793. Status of Flight Tickets", "url": "https://leetcode.com/problems/status-of-flight-tickets/", "difficulty": 2, "premium": true},
+  "2794": {"name": "2794. Create Object from Two Arrays", "url": "https://leetcode.com/problems/create-object-from-two-arrays/", "difficulty": 0, "premium": true},
+  "2795": {"name": "2795. Parallel Execution of Promises for Individual Results Retrieval", "url": "https://leetcode.com/problems/parallel-execution-of-promises-for-individual-results-retrieval/", "difficulty": 1, "premium": true},
+  "2796": {"name": "2796. Repeat String", "url": "https://leetcode.com/problems/repeat-string/", "difficulty": 0, "premium": true},
+  "2797": {"name": "2797. Partial Function with Placeholders", "url": "https://leetcode.com/problems/partial-function-with-placeholders/", "difficulty": 1, "premium": true}
 }

@@ -1,4 +1,4 @@
-### easy 697 / 697 (100.00%) &nbsp;|&nbsp; medium 426 / 1481 (28.76%) &nbsp;|&nbsp; hard 18 / 613 (2.94%)
+### easy 699 / 699 (100.00%) &nbsp;|&nbsp; medium 426 / 1484 (28.71%) &nbsp;|&nbsp; hard 18 / 614 (2.93%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2282,3 +2282,7 @@
   &nbsp;|&nbsp; [Go](2700/2788/go/main.go)
 - [2789. Largest Element in an Array after Merge Operations (medium)](https://leetcode.com/problems/largest-element-in-an-array-after-merge-operations/)
   &nbsp;|&nbsp; [Go](2700/2789/go/main.go)
+- [2794. Create Object from Two Arrays (easy)](https://leetcode.com/problems/create-object-from-two-arrays/)
+  &nbsp;|&nbsp; [JS](2700/2794/js/main.js)
+- [2796. Repeat String (easy)](https://leetcode.com/problems/repeat-string/)
+  &nbsp;|&nbsp; [JS](2700/2796/js/main.js)
