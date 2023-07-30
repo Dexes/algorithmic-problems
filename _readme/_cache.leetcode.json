@@ -2795,5 +2795,9 @@
   "2794": {"name": "2794. Create Object from Two Arrays", "url": "https://leetcode.com/problems/create-object-from-two-arrays/", "difficulty": 0, "premium": true},
   "2795": {"name": "2795. Parallel Execution of Promises for Individual Results Retrieval", "url": "https://leetcode.com/problems/parallel-execution-of-promises-for-individual-results-retrieval/", "difficulty": 1, "premium": true},
   "2796": {"name": "2796. Repeat String", "url": "https://leetcode.com/problems/repeat-string/", "difficulty": 0, "premium": true},
-  "2797": {"name": "2797. Partial Function with Placeholders", "url": "https://leetcode.com/problems/partial-function-with-placeholders/", "difficulty": 1, "premium": true}
+  "2797": {"name": "2797. Partial Function with Placeholders", "url": "https://leetcode.com/problems/partial-function-with-placeholders/", "difficulty": 1, "premium": true},
+  "2798": {"name": "2798. Number of Employees Who Met the Target", "url": "https://leetcode.com/problems/number-of-employees-who-met-the-target/", "difficulty": 0, "premium": false},
+  "2799": {"name": "2799. Count Complete Subarrays in an Array", "url": "https://leetcode.com/problems/count-complete-subarrays-in-an-array/", "difficulty": 1, "premium": false},
+  "2800": {"name": "2800. Shortest String That Contains Three Strings", "url": "https://leetcode.com/problems/shortest-string-that-contains-three-strings/", "difficulty": 1, "premium": false},
+  "2801": {"name": "2801. Count Stepping Numbers in Range", "url": "https://leetcode.com/problems/count-stepping-numbers-in-range/", "difficulty": 2, "premium": false}
 }

@@ -1,4 +1,4 @@
-### easy 699 / 699 (100.00%) &nbsp;|&nbsp; medium 426 / 1484 (28.71%) &nbsp;|&nbsp; hard 18 / 614 (2.93%)
+### easy 700 / 700 (100.00%) &nbsp;|&nbsp; medium 427 / 1486 (28.73%) &nbsp;|&nbsp; hard 18 / 615 (2.93%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -1026,6 +1026,8 @@
   &nbsp;|&nbsp; [Go](1000/1055/go/main.go)
 - [1056. Confusing Number (easy)](https://leetcode.com/problems/confusing-number/)
   &nbsp;|&nbsp; [Go](1000/1056/go/main.go)
+- [1060. Missing Element in Sorted Array (medium)](https://leetcode.com/problems/missing-element-in-sorted-array/)
+  &nbsp;|&nbsp; [Go](1000/1060/go/main.go)
 - [1064. Fixed Point (easy)](https://leetcode.com/problems/fixed-point/)
   &nbsp;|&nbsp; [Go](1000/1064/go/main.go)
 - [1065. Index Pairs of a String (easy)](https://leetcode.com/problems/index-pairs-of-a-string/)
@@ -2286,3 +2288,5 @@
   &nbsp;|&nbsp; [JS](2700/2794/js/main.js)
 - [2796. Repeat String (easy)](https://leetcode.com/problems/repeat-string/)
   &nbsp;|&nbsp; [JS](2700/2796/js/main.js)
+- [2798. Number of Employees Who Met the Target (easy)](https://leetcode.com/problems/number-of-employees-who-met-the-target/)
+  &nbsp;|&nbsp; [Go](2700/2798/go/main.go)
