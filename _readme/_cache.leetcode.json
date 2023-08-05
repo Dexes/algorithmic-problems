@@ -2799,5 +2799,13 @@
   "2798": {"name": "2798. Number of Employees Who Met the Target", "url": "https://leetcode.com/problems/number-of-employees-who-met-the-target/", "difficulty": 0, "premium": false},
   "2799": {"name": "2799. Count Complete Subarrays in an Array", "url": "https://leetcode.com/problems/count-complete-subarrays-in-an-array/", "difficulty": 1, "premium": false},
   "2800": {"name": "2800. Shortest String That Contains Three Strings", "url": "https://leetcode.com/problems/shortest-string-that-contains-three-strings/", "difficulty": 1, "premium": false},
-  "2801": {"name": "2801. Count Stepping Numbers in Range", "url": "https://leetcode.com/problems/count-stepping-numbers-in-range/", "difficulty": 2, "premium": false}
+  "2801": {"name": "2801. Count Stepping Numbers in Range", "url": "https://leetcode.com/problems/count-stepping-numbers-in-range/", "difficulty": 2, "premium": false},
+  "2802": {"name": "2802. Find The K-th Lucky Number", "url": "https://leetcode.com/problems/find-the-k-th-lucky-number/", "difficulty": 1, "premium": true},
+  "2803": {"name": "2803. Factorial Generator", "url": "https://leetcode.com/problems/factorial-generator/", "difficulty": 0, "premium": true},
+  "2804": {"name": "2804. Array Prototype ForEach", "url": "https://leetcode.com/problems/array-prototype-foreach/", "difficulty": 0, "premium": true},
+  "2805": {"name": "2805. Custom Interval", "url": "https://leetcode.com/problems/custom-interval/", "difficulty": 1, "premium": true},
+  "2806": {"name": "2806. Account Balance After Rounded Purchase", "url": "https://leetcode.com/problems/account-balance-after-rounded-purchase/", "difficulty": 0, "premium": false},
+  "2807": {"name": "2807. Insert Greatest Common Divisors in Linked List", "url": "https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/", "difficulty": 1, "premium": false},
+  "2808": {"name": "2808. Minimum Seconds to Equalize a Circular Array", "url": "https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/", "difficulty": 1, "premium": false},
+  "2809": {"name": "2809. Minimum Time to Make Array Sum At Most x", "url": "https://leetcode.com/problems/minimum-time-to-make-array-sum-at-most-x/", "difficulty": 2, "premium": false}
 }

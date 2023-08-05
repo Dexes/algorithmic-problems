@@ -1,4 +1,4 @@
-### easy 700 / 700 (100.00%) &nbsp;|&nbsp; medium 427 / 1486 (28.73%) &nbsp;|&nbsp; hard 18 / 615 (2.93%)
+### easy 703 / 703 (100.00%) &nbsp;|&nbsp; medium 428 / 1490 (28.72%) &nbsp;|&nbsp; hard 18 / 616 (2.92%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2290,3 +2290,11 @@
   &nbsp;|&nbsp; [JS](2700/2796/js/main.js)
 - [2798. Number of Employees Who Met the Target (easy)](https://leetcode.com/problems/number-of-employees-who-met-the-target/)
   &nbsp;|&nbsp; [Go](2700/2798/go/main.go)
+- [2803. Factorial Generator (easy)](https://leetcode.com/problems/factorial-generator/)
+  &nbsp;|&nbsp; [JS](2800/2803/js/main.js)
+- [2804. Array Prototype ForEach (easy)](https://leetcode.com/problems/array-prototype-foreach/)
+  &nbsp;|&nbsp; [JS](2800/2804/js/main.js)
+- [2806. Account Balance After Rounded Purchase (easy)](https://leetcode.com/problems/account-balance-after-rounded-purchase/)
+  &nbsp;|&nbsp; [Go](2800/2806/go/main.go)
+- [2807. Insert Greatest Common Divisors in Linked List (medium)](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/)
+  &nbsp;|&nbsp; [Go](2800/2807/go/main.go)
