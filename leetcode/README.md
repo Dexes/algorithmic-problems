@@ -1,4 +1,4 @@
-### easy 703 / 703 (100.00%) &nbsp;|&nbsp; medium 428 / 1490 (28.72%) &nbsp;|&nbsp; hard 18 / 616 (2.92%)
+### easy 704 / 704 (100.00%) &nbsp;|&nbsp; medium 428 / 1492 (28.69%) &nbsp;|&nbsp; hard 18 / 617 (2.92%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2298,3 +2298,5 @@
   &nbsp;|&nbsp; [Go](2800/2806/go/main.go)
 - [2807. Insert Greatest Common Divisors in Linked List (medium)](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/)
   &nbsp;|&nbsp; [Go](2800/2807/go/main.go)
+- [2810. Faulty Keyboard (easy)](https://leetcode.com/problems/faulty-keyboard/)
+  &nbsp;|&nbsp; [Go](2800/2810/go/main.go)

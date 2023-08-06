@@ -2807,5 +2807,9 @@
   "2806": {"name": "2806. Account Balance After Rounded Purchase", "url": "https://leetcode.com/problems/account-balance-after-rounded-purchase/", "difficulty": 0, "premium": false},
   "2807": {"name": "2807. Insert Greatest Common Divisors in Linked List", "url": "https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/", "difficulty": 1, "premium": false},
   "2808": {"name": "2808. Minimum Seconds to Equalize a Circular Array", "url": "https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/", "difficulty": 1, "premium": false},
-  "2809": {"name": "2809. Minimum Time to Make Array Sum At Most x", "url": "https://leetcode.com/problems/minimum-time-to-make-array-sum-at-most-x/", "difficulty": 2, "premium": false}
+  "2809": {"name": "2809. Minimum Time to Make Array Sum At Most x", "url": "https://leetcode.com/problems/minimum-time-to-make-array-sum-at-most-x/", "difficulty": 2, "premium": false},
+  "2810": {"name": "2810. Faulty Keyboard", "url": "https://leetcode.com/problems/faulty-keyboard/", "difficulty": 0, "premium": false},
+  "2811": {"name": "2811. Check if it is Possible to Split Array", "url": "https://leetcode.com/problems/check-if-it-is-possible-to-split-array/", "difficulty": 1, "premium": false},
+  "2812": {"name": "2812. Find the Safest Path in a Grid", "url": "https://leetcode.com/problems/find-the-safest-path-in-a-grid/", "difficulty": 1, "premium": false},
+  "2813": {"name": "2813. Maximum Elegance of a K-Length Subsequence", "url": "https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence/", "difficulty": 2, "premium": false}
 }
