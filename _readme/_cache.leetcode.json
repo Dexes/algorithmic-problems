@@ -220,7 +220,7 @@
   "0219": {"name": "219. Contains Duplicate II", "url": "https://leetcode.com/problems/contains-duplicate-ii/", "difficulty": 0, "premium": false},
   "0220": {"name": "220. Contains Duplicate III", "url": "https://leetcode.com/problems/contains-duplicate-iii/", "difficulty": 2, "premium": false},
   "0221": {"name": "221. Maximal Square", "url": "https://leetcode.com/problems/maximal-square/", "difficulty": 1, "premium": false},
-  "0222": {"name": "222. Count Complete Tree Nodes", "url": "https://leetcode.com/problems/count-complete-tree-nodes/", "difficulty": 1, "premium": false},
+  "0222": {"name": "222. Count Complete Tree Nodes", "url": "https://leetcode.com/problems/count-complete-tree-nodes/", "difficulty": 0, "premium": false},
   "0223": {"name": "223. Rectangle Area", "url": "https://leetcode.com/problems/rectangle-area/", "difficulty": 1, "premium": false},
   "0224": {"name": "224. Basic Calculator", "url": "https://leetcode.com/problems/basic-calculator/", "difficulty": 2, "premium": false},
   "0225": {"name": "225. Implement Stack using Queues", "url": "https://leetcode.com/problems/implement-stack-using-queues/", "difficulty": 0, "premium": false},

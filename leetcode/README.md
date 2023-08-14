@@ -1,4 +1,4 @@
-### easy 704 / 704 (100.00%) &nbsp;|&nbsp; medium 429 / 1492 (28.75%) &nbsp;|&nbsp; hard 18 / 617 (2.92%)
+### easy 705 / 706 (99.86%) &nbsp;|&nbsp; medium 430 / 1493 (28.80%) &nbsp;|&nbsp; hard 18 / 619 (2.91%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2302,3 +2302,7 @@
   &nbsp;|&nbsp; [Go](2800/2807/go/main.go)
 - [2810. Faulty Keyboard (easy)](https://leetcode.com/problems/faulty-keyboard/)
   &nbsp;|&nbsp; [Go](2800/2810/go/main.go)
+- [2815. Max Pair Sum in an Array (easy)](https://leetcode.com/problems/max-pair-sum-in-an-array/)
+  &nbsp;|&nbsp; [Go](2800/2815/go/main.go)
+- [2816. Double a Number Represented as a Linked List (medium)](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/)
+  &nbsp;|&nbsp; [Go](2800/2816/go/main.go)
