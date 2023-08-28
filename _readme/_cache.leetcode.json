@@ -2834,5 +2834,6 @@
   "2833": {"name": "2833. Furthest Point From Origin", "url": "https://leetcode.com/problems/furthest-point-from-origin/", "difficulty": 0, "premium": false},
   "2834": {"name": "2834. Find the Minimum Possible Sum of a Beautiful Array", "url": "https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/", "difficulty": 1, "premium": false},
   "2835": {"name": "2835. Minimum Operations to Form Subsequence With Target Sum", "url": "https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/", "difficulty": 2, "premium": false},
-  "2836": {"name": "2836. Maximize Value of Function in a Ball Passing Game", "url": "https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game/", "difficulty": 2, "premium": false}
+  "2836": {"name": "2836. Maximize Value of Function in a Ball Passing Game", "url": "https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game/", "difficulty": 2, "premium": false},
+  "2837": {"name": "2837. Total Traveled Distance", "url": "https://leetcode.com/problems/total-traveled-distance/", "difficulty": 0, "premium": true}
 }

@@ -1,4 +1,4 @@
-### easy 710 / 710 (100.00%) &nbsp;|&nbsp; medium 433 / 1502 (28.83%) &nbsp;|&nbsp; hard 18 / 624 (2.88%)
+### easy 711 / 711 (100.00%) &nbsp;|&nbsp; medium 433 / 1502 (28.83%) &nbsp;|&nbsp; hard 18 / 624 (2.88%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2322,3 +2322,5 @@
   &nbsp;|&nbsp; [Go](2800/2828/go/main.go)
 - [2833. Furthest Point From Origin (easy)](https://leetcode.com/problems/furthest-point-from-origin/)
   &nbsp;|&nbsp; [Go](2800/2833/go/main.go)
+- [2837. Total Traveled Distance (easy)](https://leetcode.com/problems/total-traveled-distance/)
+  &nbsp;|&nbsp; [SQL](2800/2837/sql/main.sql)
