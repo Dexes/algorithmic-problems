@@ -1,4 +1,4 @@
-### easy 709 / 710 (99.86%) &nbsp;|&nbsp; medium 432 / 1502 (28.76%) &nbsp;|&nbsp; hard 18 / 624 (2.88%)
+### easy 709 / 710 (99.86%) &nbsp;|&nbsp; medium 433 / 1502 (28.83%) &nbsp;|&nbsp; hard 18 / 624 (2.88%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -780,6 +780,8 @@
   &nbsp;|&nbsp; [Go](0700/0717/go/main.go)
 - [722. Remove Comments (medium)](https://leetcode.com/problems/remove-comments/)
   &nbsp;|&nbsp; [Go](0700/0722/go/main.go)
+- [723. Candy Crush (medium)](https://leetcode.com/problems/candy-crush/)
+  &nbsp;|&nbsp; [Go](0700/0723/go/main.go)
 - [724. Find Pivot Index (easy)](https://leetcode.com/problems/find-pivot-index/)
   &nbsp;|&nbsp; [Go](0700/0724/go/main.go)
 - [725. Split Linked List in Parts (medium)](https://leetcode.com/problems/split-linked-list-in-parts/)
