@@ -1,4 +1,4 @@
-### easy 709 / 710 (99.86%) &nbsp;|&nbsp; medium 433 / 1502 (28.83%) &nbsp;|&nbsp; hard 18 / 624 (2.88%)
+### easy 710 / 710 (100.00%) &nbsp;|&nbsp; medium 433 / 1502 (28.83%) &nbsp;|&nbsp; hard 18 / 624 (2.88%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -336,6 +336,8 @@
   &nbsp;|&nbsp; [Go](0200/0217/go/main.go)
 - [219. Contains Duplicate II (easy)](https://leetcode.com/problems/contains-duplicate-ii/)
   &nbsp;|&nbsp; [Go](0200/0219/go/main.go)
+- [222. Count Complete Tree Nodes (easy)](https://leetcode.com/problems/count-complete-tree-nodes/)
+  &nbsp;|&nbsp; [Go](0200/0222/go/main.go)
 - [223. Rectangle Area (medium)](https://leetcode.com/problems/rectangle-area/)
   &nbsp;|&nbsp; [Go](0200/0223/go/main.go)
 - [224. Basic Calculator (hard)](https://leetcode.com/problems/basic-calculator/)
