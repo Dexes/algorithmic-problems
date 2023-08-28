@@ -16,15 +16,15 @@ func _countNodes(root *TreeNode, leftHeight, rightHeight int) int {
 	}
 
 	if leftHeight == -1 {
-		leftHeight = 0
-		for left := root; left != nil; left = left.Left {
+		leftHeight = 1
+		for node := root.Left; node != nil; node = node.Left {
 			leftHeight++
 		}
 	}
 
 	if rightHeight == -1 {
-		rightHeight = 0
-		for right := root; right != nil; right = right.Right {
+		rightHeight = 1
+		for node := root.Right; node != nil; node = node.Right {
 			rightHeight++
 		}
 	}
