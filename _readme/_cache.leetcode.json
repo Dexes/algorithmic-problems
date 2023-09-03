@@ -2836,5 +2836,9 @@
   "2835": {"name": "2835. Minimum Operations to Form Subsequence With Target Sum", "url": "https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/", "difficulty": 2, "premium": false},
   "2836": {"name": "2836. Maximize Value of Function in a Ball Passing Game", "url": "https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game/", "difficulty": 2, "premium": false},
   "2837": {"name": "2837. Total Traveled Distance", "url": "https://leetcode.com/problems/total-traveled-distance/", "difficulty": 0, "premium": true},
-  "2838": {"name": "2838. Maximum Coins Heroes Can Collect", "url": "https://leetcode.com/problems/maximum-coins-heroes-can-collect/", "difficulty": 1, "premium": true}
+  "2838": {"name": "2838. Maximum Coins Heroes Can Collect", "url": "https://leetcode.com/problems/maximum-coins-heroes-can-collect/", "difficulty": 1, "premium": true},
+  "2839": {"name": "2839. Check if Strings Can be Made Equal With Operations I", "url": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/", "difficulty": 0, "premium": false},
+  "2840": {"name": "2840. Check if Strings Can be Made Equal With Operations II", "url": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/", "difficulty": 1, "premium": false},
+  "2841": {"name": "2841. Maximum Sum of Almost Unique Subarray", "url": "https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray/", "difficulty": 1, "premium": false},
+  "2842": {"name": "2842. Count K-Subsequences of a String With Maximum Beauty", "url": "https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/", "difficulty": 2, "premium": false}
 }

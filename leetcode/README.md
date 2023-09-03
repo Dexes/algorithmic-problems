@@ -1,4 +1,4 @@
-### easy 711 / 711 (100.00%) &nbsp;|&nbsp; medium 434 / 1503 (28.88%) &nbsp;|&nbsp; hard 18 / 624 (2.88%)
+### easy 712 / 712 (100.00%) &nbsp;|&nbsp; medium 434 / 1505 (28.84%) &nbsp;|&nbsp; hard 18 / 625 (2.88%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2326,3 +2326,5 @@
   &nbsp;|&nbsp; [SQL](2800/2837/sql/main.sql)
 - [2838. Maximum Coins Heroes Can Collect (medium)](https://leetcode.com/problems/maximum-coins-heroes-can-collect/)
   &nbsp;|&nbsp; [Go](2800/2838/go/main.go)
+- [2839. Check if Strings Can be Made Equal With Operations I (easy)](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/)
+  &nbsp;|&nbsp; [Go](2800/2839/go/main.go)
