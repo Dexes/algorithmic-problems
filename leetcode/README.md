@@ -1,4 +1,4 @@
-### easy 712 / 712 (100.00%) &nbsp;|&nbsp; medium 434 / 1505 (28.84%) &nbsp;|&nbsp; hard 18 / 625 (2.88%)
+### easy 713 / 713 (100.00%) &nbsp;|&nbsp; medium 434 / 1507 (28.80%) &nbsp;|&nbsp; hard 18 / 626 (2.88%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2328,3 +2328,5 @@
   &nbsp;|&nbsp; [Go](2800/2838/go/main.go)
 - [2839. Check if Strings Can be Made Equal With Operations I (easy)](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/)
   &nbsp;|&nbsp; [Go](2800/2839/go/main.go)
+- [2843.   Count Symmetric Integers (easy)](https://leetcode.com/problems/count-symmetric-integers/)
+  &nbsp;|&nbsp; [Go](2800/2843/go/main.go)
