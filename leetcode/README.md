@@ -1,4 +1,4 @@
-### easy 713 / 713 (100.00%) &nbsp;|&nbsp; medium 434 / 1507 (28.80%) &nbsp;|&nbsp; hard 18 / 626 (2.88%)
+### easy 713 / 713 (100.00%) &nbsp;|&nbsp; medium 435 / 1508 (28.85%) &nbsp;|&nbsp; hard 18 / 626 (2.88%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2330,3 +2330,5 @@
   &nbsp;|&nbsp; [Go](2800/2839/go/main.go)
 - [2843.   Count Symmetric Integers (easy)](https://leetcode.com/problems/count-symmetric-integers/)
   &nbsp;|&nbsp; [Go](2800/2843/go/main.go)
+- [2847. Smallest Number With Given Digit Product (medium)](https://leetcode.com/problems/smallest-number-with-given-digit-product/)
+  &nbsp;|&nbsp; [Go](2800/2847/go/main.go)

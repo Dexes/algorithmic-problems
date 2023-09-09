@@ -2844,5 +2844,6 @@
   "2843": {"name": "2843.   Count Symmetric Integers", "url": "https://leetcode.com/problems/count-symmetric-integers/", "difficulty": 0, "premium": false},
   "2844": {"name": "2844. Minimum Operations to Make a Special Number", "url": "https://leetcode.com/problems/minimum-operations-to-make-a-special-number/", "difficulty": 1, "premium": false},
   "2845": {"name": "2845. Count of Interesting Subarrays", "url": "https://leetcode.com/problems/count-of-interesting-subarrays/", "difficulty": 1, "premium": false},
-  "2846": {"name": "2846. Minimum Edge Weight Equilibrium Queries in a Tree", "url": "https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/", "difficulty": 2, "premium": false}
+  "2846": {"name": "2846. Minimum Edge Weight Equilibrium Queries in a Tree", "url": "https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/", "difficulty": 2, "premium": false},
+  "2847": {"name": "2847. Smallest Number With Given Digit Product", "url": "https://leetcode.com/problems/smallest-number-with-given-digit-product/", "difficulty": 1, "premium": true}
 }
