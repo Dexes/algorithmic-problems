@@ -1,4 +1,4 @@
-### easy 713 / 713 (100.00%) &nbsp;|&nbsp; medium 435 / 1508 (28.85%) &nbsp;|&nbsp; hard 18 / 626 (2.88%)
+### easy 714 / 714 (100.00%) &nbsp;|&nbsp; medium 435 / 1510 (28.81%) &nbsp;|&nbsp; hard 18 / 627 (2.87%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2332,3 +2332,5 @@
   &nbsp;|&nbsp; [Go](2800/2843/go/main.go)
 - [2847. Smallest Number With Given Digit Product (medium)](https://leetcode.com/problems/smallest-number-with-given-digit-product/)
   &nbsp;|&nbsp; [Go](2800/2847/go/main.go)
+- [2848. Points That Intersect With Cars (easy)](https://leetcode.com/problems/points-that-intersect-with-cars/)
+  &nbsp;|&nbsp; [Go](2800/2848/go/main.go)

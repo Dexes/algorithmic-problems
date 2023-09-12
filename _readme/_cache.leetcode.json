@@ -2845,5 +2845,9 @@
   "2844": {"name": "2844. Minimum Operations to Make a Special Number", "url": "https://leetcode.com/problems/minimum-operations-to-make-a-special-number/", "difficulty": 1, "premium": false},
   "2845": {"name": "2845. Count of Interesting Subarrays", "url": "https://leetcode.com/problems/count-of-interesting-subarrays/", "difficulty": 1, "premium": false},
   "2846": {"name": "2846. Minimum Edge Weight Equilibrium Queries in a Tree", "url": "https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/", "difficulty": 2, "premium": false},
-  "2847": {"name": "2847. Smallest Number With Given Digit Product", "url": "https://leetcode.com/problems/smallest-number-with-given-digit-product/", "difficulty": 1, "premium": true}
+  "2847": {"name": "2847. Smallest Number With Given Digit Product", "url": "https://leetcode.com/problems/smallest-number-with-given-digit-product/", "difficulty": 1, "premium": true},
+  "2848": {"name": "2848. Points That Intersect With Cars", "url": "https://leetcode.com/problems/points-that-intersect-with-cars/", "difficulty": 0, "premium": false},
+  "2849": {"name": "2849. Determine if a Cell Is Reachable at a Given Time", "url": "https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/", "difficulty": 1, "premium": false},
+  "2850": {"name": "2850. Minimum Moves to Spread Stones Over Grid", "url": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/", "difficulty": 1, "premium": false},
+  "2851": {"name": "2851. String Transformation", "url": "https://leetcode.com/problems/string-transformation/", "difficulty": 2, "premium": false}
 }

@@ -1,22 +1,28 @@
 package main
 
-func groupThePeople(groupSizes []int) [][]int {
-	var group []int
-	groups := make(map[int][]int)
-	result := make([][]int, 0, len(groupSizes)/4)
+func groupThePeople(sizes []int) [][]int {
+	groups := make([][]int, max(sizes)+1)
+	result := make([][]int, 0, len(sizes)/4)
 
-	for i, size := range groupSizes {
-		if group = groups[size]; len(group) == 0 {
-			group = make([]int, 0, size)
+	for i, size := range sizes {
+		if groups[size] == nil {
+			groups[size] = make([]int, 0, size)
 		}
 
-		group = append(group, i)
-		if len(group) == size {
-			result = append(result, group)
-			group = nil
+		groups[size] = append(groups[size], i)
+		if len(groups[size]) == size {
+			result, groups[size] = append(result, groups[size]), nil
 		}
+	}
 
-		groups[size] = group
+	return result
+}
+
+func max(nums []int) (result int) {
+	for _, x := range nums {
+		if x > result {
+			result = x
+		}
 	}
 
 	return result
