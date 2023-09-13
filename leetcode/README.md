@@ -1,4 +1,4 @@
-### easy 714 / 714 (100.00%) &nbsp;|&nbsp; medium 435 / 1510 (28.81%) &nbsp;|&nbsp; hard 18 / 627 (2.87%)
+### easy 714 / 714 (100.00%) &nbsp;|&nbsp; medium 436 / 1510 (28.87%) &nbsp;|&nbsp; hard 18 / 627 (2.87%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -622,6 +622,8 @@
   &nbsp;|&nbsp; [Go](0500/0532/go/main.go)
 - [535. Encode and Decode TinyURL (medium)](https://leetcode.com/problems/encode-and-decode-tinyurl/)
   &nbsp;|&nbsp; [Go](0500/0535/go/main.go)
+- [536. Construct Binary Tree from String (medium)](https://leetcode.com/problems/construct-binary-tree-from-string/)
+  &nbsp;|&nbsp; [Go](0500/0536/go/main.go)
 - [538. Convert BST to Greater Tree (medium)](https://leetcode.com/problems/convert-bst-to-greater-tree/)
   &nbsp;|&nbsp; [Go](0500/0538/go/main.go)
 - [539. Minimum Time Difference (medium)](https://leetcode.com/problems/minimum-time-difference/)
