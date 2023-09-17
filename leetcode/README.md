@@ -1,4 +1,4 @@
-### easy 714 / 714 (100.00%) &nbsp;|&nbsp; medium 436 / 1510 (28.87%) &nbsp;|&nbsp; hard 18 / 627 (2.87%)
+### easy 717 / 717 (100.00%) &nbsp;|&nbsp; medium 436 / 1516 (28.76%) &nbsp;|&nbsp; hard 18 / 629 (2.86%)
 
 - [1. Two Sum (easy)](https://leetcode.com/problems/two-sum/)
   &nbsp;|&nbsp; [Go](0000/0001/go/main.go)
@@ -2336,3 +2336,9 @@
   &nbsp;|&nbsp; [Go](2800/2847/go/main.go)
 - [2848. Points That Intersect With Cars (easy)](https://leetcode.com/problems/points-that-intersect-with-cars/)
   &nbsp;|&nbsp; [Go](2800/2848/go/main.go)
+- [2853. Highest Salaries Difference (easy)](https://leetcode.com/problems/highest-salaries-difference/)
+  &nbsp;|&nbsp; [SQL](2800/2853/sql/main.sql)
+- [2855. Minimum Right Shifts to Sort the Array (easy)](https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array/)
+  &nbsp;|&nbsp; [Go](2800/2855/go/main.go)
+- [2859. Sum of Values at Indices With K Set Bits (easy)](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/)
+  &nbsp;|&nbsp; [Go](2800/2859/go/main.go)

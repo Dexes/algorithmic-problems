@@ -2,10 +2,6 @@ package main
 
 import "sort"
 
-func main() {
-	maximumCoins([]int{1, 4, 2}, []int{1, 1, 5, 2, 3}, []int{2, 3, 4, 5, 6})
-}
-
 func maximumCoins(heroes []int, monsters []int, coins []int) []int64 {
 	indices := make([]int, len(heroes))
 	for i := 1; i < len(indices); i++ {

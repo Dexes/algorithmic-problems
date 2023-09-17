@@ -2849,5 +2849,16 @@
   "2848": {"name": "2848. Points That Intersect With Cars", "url": "https://leetcode.com/problems/points-that-intersect-with-cars/", "difficulty": 0, "premium": false},
   "2849": {"name": "2849. Determine if a Cell Is Reachable at a Given Time", "url": "https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/", "difficulty": 1, "premium": false},
   "2850": {"name": "2850. Minimum Moves to Spread Stones Over Grid", "url": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/", "difficulty": 1, "premium": false},
-  "2851": {"name": "2851. String Transformation", "url": "https://leetcode.com/problems/string-transformation/", "difficulty": 2, "premium": false}
+  "2851": {"name": "2851. String Transformation", "url": "https://leetcode.com/problems/string-transformation/", "difficulty": 2, "premium": false},
+  "2852": {"name": "2852. Sum of Remoteness of All Cells", "url": "https://leetcode.com/problems/sum-of-remoteness-of-all-cells/", "difficulty": 1, "premium": true},
+  "2853": {"name": "2853. Highest Salaries Difference", "url": "https://leetcode.com/problems/highest-salaries-difference/", "difficulty": 0, "premium": true},
+  "2854": {"name": "2854. Rolling Average Steps", "url": "https://leetcode.com/problems/rolling-average-steps/", "difficulty": 1, "premium": true},
+  "2855": {"name": "2855. Minimum Right Shifts to Sort the Array", "url": "https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array/", "difficulty": 0, "premium": false},
+  "2856": {"name": "2856. Minimum Array Length After Pair Removals", "url": "https://leetcode.com/problems/minimum-array-length-after-pair-removals/", "difficulty": 1, "premium": false},
+  "2857": {"name": "2857. Count Pairs of Points With Distance k", "url": "https://leetcode.com/problems/count-pairs-of-points-with-distance-k/", "difficulty": 1, "premium": false},
+  "2858": {"name": "2858. Minimum Edge Reversals So Every Node Is Reachable", "url": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/", "difficulty": 2, "premium": false},
+  "2859": {"name": "2859. Sum of Values at Indices With K Set Bits", "url": "https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/", "difficulty": 0, "premium": false},
+  "2860": {"name": "2860. Happy Students", "url": "https://leetcode.com/problems/happy-students/", "difficulty": 1, "premium": false},
+  "2861": {"name": "2861. Maximum Number of Alloys", "url": "https://leetcode.com/problems/maximum-number-of-alloys/", "difficulty": 1, "premium": false},
+  "2862": {"name": "2862. Maximum Element-Sum of a Complete Subset of Indices", "url": "https://leetcode.com/problems/maximum-element-sum-of-a-complete-subset-of-indices/", "difficulty": 2, "premium": false}
 }
